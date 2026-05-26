@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046192352637898752"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2046192354969968942",
+    "created_at": "2026-04-20T11:40:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T12:40:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046192354969968942"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "bitponix.com/register?ref=F…",
+          "end": 64,
+          "expanded_url": "https://bitponix.com/register?ref=F835430E",
+          "start": 41,
+          "status": 200,
+          "title": "Bitponix - Best Crypto Exchange",
+          "unwound_url": "https://bitponix.com/register?ref=F835430E",
+          "url": "https://t.co/uwn8YWteDk"
+        },
+        {
+          "display_url": "pic.x.com/RkJ68zsXJa",
+          "end": 88,
+          "expanded_url": "https://x.com/Cheese_Ghostfox/status/2046192354969968942/photo/1",
+          "media_key": "3_2046192352637898752",
+          "start": 65,
+          "url": "https://t.co/RkJ68zsXJa"
+        },
+        {
+          "display_url": "x.com/aiqiang888/sta…",
+          "end": 112,
+          "expanded_url": "https://twitter.com/aiqiang888/status/2046179750528553282",
+          "start": 89,
+          "url": "https://t.co/Cer2XeMRPO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046192354969968942",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046179750528553282",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "狐亲测真能撸到毛\nKYC传了两张绿猫就给过了😂\n有Google账号就能免费领8U\nhttps://t.co/uwn8YWteDk https://t.co/RkJ68zsXJa https://t.co/Cer2XeMRPO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1394,
+        "media_key": "3_2046192352637898752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGWJGoEaUAAaT5S.jpg",
+        "width": 1080
+      },
+      {
+        "height": 258,
+        "media_key": "3_2046179499524730880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGV9aefbsAAVgF6.png",
+        "width": 564
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046192352637898752"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2046192354969968942",
+        "created_at": "2026-04-20T11:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T12:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046192354969968942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "bitponix.com/register?ref=F…",
+              "end": 64,
+              "expanded_url": "https://bitponix.com/register?ref=F835430E",
+              "start": 41,
+              "status": 200,
+              "title": "Bitponix - Best Crypto Exchange",
+              "unwound_url": "https://bitponix.com/register?ref=F835430E",
+              "url": "https://t.co/uwn8YWteDk"
+            },
+            {
+              "display_url": "pic.x.com/RkJ68zsXJa",
+              "end": 88,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2046192354969968942/photo/1",
+              "media_key": "3_2046192352637898752",
+              "start": 65,
+              "url": "https://t.co/RkJ68zsXJa"
+            },
+            {
+              "display_url": "x.com/aiqiang888/sta…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/aiqiang888/status/2046179750528553282",
+              "start": 89,
+              "url": "https://t.co/Cer2XeMRPO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046192354969968942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046179750528553282",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "狐亲测真能撸到毛\nKYC传了两张绿猫就给过了😂\n有Google账号就能免费领8U\nhttps://t.co/uwn8YWteDk https://t.co/RkJ68zsXJa https://t.co/Cer2XeMRPO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046179499524730880"
+          ]
+        },
+        "author_id": "786662054",
+        "conversation_id": "2046179750528553282",
+        "created_at": "2026-04-20T10:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T11:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046179750528553282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "bitponix.com/register?ref=0…",
+              "end": 59,
+              "expanded_url": "https://bitponix.com/register?ref=0181A5AE",
+              "start": 36,
+              "status": 200,
+              "title": "Bitponix - Best Crypto Exchange",
+              "unwound_url": "https://bitponix.com/register?ref=0181A5AE",
+              "url": "https://t.co/h0JrzUfAY8"
+            },
+            {
+              "display_url": "pic.x.com/mJQUrKBcUs",
+              "end": 83,
+              "expanded_url": "https://x.com/aiqiang888/status/2046179750528553282/photo/1",
+              "media_key": "3_2046179499524730880",
+              "start": 60,
+              "url": "https://t.co/mJQUrKBcUs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046179750528553282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1179,
+          "like_count": 15,
+          "quote_count": 2,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个谷歌账号，三张任意图片，零撸8U\n\n能不能发不一定，不做一定不发\n\nhttps://t.co/h0JrzUfAY8 https://t.co/mJQUrKBcUs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1386,
+          "following_count": 1471,
+          "like_count": 16873,
+          "listed_count": 4,
+          "media_count": 587,
+          "tweet_count": 5342
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2012-08-28T09:58:29.000Z",
+        "description": "我是撸毛小白，我有两只小狗，一只叫多多，一只叫元宝。 \n商务合作       TG: kas_silver      #蓝鸟会 #灯塔",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 59,
+                "tag": "蓝鸟会"
+              },
+              {
+                "end": 67,
+                "start": 64,
+                "tag": "灯塔"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aiqiang888.com",
+                "end": 23,
+                "expanded_url": "https://aiqiang888.com/",
+                "start": 0,
+                "url": "https://t.co/9s3yqxEtzG"
+              }
+            ]
+          }
+        },
+        "id": "786662054",
+        "location": "个人网站👉",
+        "name": "记得爱强",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973882737632391168/37cVOJSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9446,
+          "following_count": 3557,
+          "like_count": 15818,
+          "listed_count": 56,
+          "media_count": 581,
+          "tweet_count": 21839
+        },
+        "url": "https://t.co/9s3yqxEtzG",
+        "username": "aiqiang888",
+        "verified": true
+      }
+    ]
+  }
+}

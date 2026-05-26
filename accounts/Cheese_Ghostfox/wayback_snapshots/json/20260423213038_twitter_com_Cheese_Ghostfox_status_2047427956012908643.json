@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047098079950807040"
+      ],
+      "media_source_tweet_id": [
+        "2047098088872145140"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2047427956012908643",
+    "created_at": "2026-04-23T21:30:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T22:30:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047427956012908643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1405131987652808704",
+          "start": 3,
+          "username": "Shiroi_Neko31"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aofcfjA3za",
+          "end": 63,
+          "expanded_url": "https://x.com/Shiroi_Neko31/status/2047098088872145140/photo/1",
+          "media_key": "3_2047098079950807040",
+          "start": 40,
+          "url": "https://t.co/aofcfjA3za"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047427956012908643",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 133
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047098088872145140",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shiroi_Neko31: ヘアアレンジのテトちゃんとてもかわいいね https://t.co/aofcfjA3za"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2672,
+        "media_key": "3_2047098079950807040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGjA25PaIAAZNMK.jpg",
+        "width": 2315
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047098079950807040"
+          ],
+          "media_source_tweet_id": [
+            "2047098088872145140"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2047427956012908643",
+        "created_at": "2026-04-23T21:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T22:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047427956012908643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1405131987652808704",
+              "start": 3,
+              "username": "Shiroi_Neko31"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aofcfjA3za",
+              "end": 63,
+              "expanded_url": "https://x.com/Shiroi_Neko31/status/2047098088872145140/photo/1",
+              "media_key": "3_2047098079950807040",
+              "start": 40,
+              "url": "https://t.co/aofcfjA3za"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047427956012908643",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 133
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047098088872145140",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shiroi_Neko31: ヘアアレンジのテトちゃんとてもかわいいね https://t.co/aofcfjA3za"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047098079950807040"
+          ]
+        },
+        "author_id": "1405131987652808704",
+        "conversation_id": "2047098088872145140",
+        "created_at": "2026-04-22T23:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T00:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047098088872145140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aofcfjA3za",
+              "end": 44,
+              "expanded_url": "https://x.com/Shiroi_Neko31/status/2047098088872145140/photo/1",
+              "media_key": "3_2047098079950807040",
+              "start": 21,
+              "url": "https://t.co/aofcfjA3za"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047098088872145140",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 123,
+          "impression_count": 9224,
+          "like_count": 1581,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 133
+        },
+        "reply_settings": "everyone",
+        "text": "ヘアアレンジのテトちゃんとてもかわいいね https://t.co/aofcfjA3za"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1396,
+          "following_count": 1483,
+          "like_count": 17168,
+          "listed_count": 4,
+          "media_count": 596,
+          "tweet_count": 5444
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-16T11:56:54.000Z",
+        "description": "のんびり作曲･絵\nサブ垢→（@tsuyu_yomi）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "tsuyu_yomi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@tsuyuyo_mi",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@tsuyuyo_mi",
+                "start": 0,
+                "url": "https://t.co/CKCqHvlQE4"
+              }
+            ]
+          }
+        },
+        "id": "1405131987652808704",
+        "name": "白Neko",
+        "pinned_tweet_id": "2047098088872145140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035989194552815616/Gv_li_IB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1110,
+          "following_count": 6,
+          "like_count": 4513,
+          "listed_count": 6,
+          "media_count": 159,
+          "tweet_count": 333
+        },
+        "url": "https://t.co/CKCqHvlQE4",
+        "username": "Shiroi_Neko31",
+        "verified": false
+      }
+    ]
+  }
+}

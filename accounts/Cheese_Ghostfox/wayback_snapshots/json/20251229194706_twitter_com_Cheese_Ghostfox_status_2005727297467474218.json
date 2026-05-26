@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2005696685385932926",
+    "created_at": "2025-12-29T19:47:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T20:47:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005727297467474218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1892114014563598339",
+          "start": 0,
+          "username": "3He2_Ka1R0"
+        },
+        {
+          "end": 27,
+          "id": "1595756551699984384",
+          "start": 12,
+          "username": "Ateiriaror3562"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005727297467474218",
+    "in_reply_to_user_id": "1892114014563598339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005726990213734528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3He2_Ka1R0 @Ateiriaror3562 精辟而准确的比喻!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2005696685385932926",
+        "created_at": "2025-12-29T19:47:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T20:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005727297467474218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1892114014563598339",
+              "start": 0,
+              "username": "3He2_Ka1R0"
+            },
+            {
+              "end": 27,
+              "id": "1595756551699984384",
+              "start": 12,
+              "username": "Ateiriaror3562"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005727297467474218",
+        "in_reply_to_user_id": "1892114014563598339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005726990213734528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3He2_Ka1R0 @Ateiriaror3562 精辟而准确的比喻!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892114014563598339",
+        "conversation_id": "2005696685385932926",
+        "created_at": "2025-12-29T19:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T20:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005726990213734528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            },
+            {
+              "end": 32,
+              "id": "1595756551699984384",
+              "start": 17,
+              "username": "Ateiriaror3562"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005726990213734528",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005697408613900370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox @Ateiriaror3562 彗星！我们是彗星！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨大道五十，天衍四九丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 129,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugHLJi"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター🏳️‍⚧️",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003275522047168512/eHhAdruU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 1104,
+          "like_count": 10929,
+          "listed_count": 2,
+          "media_count": 346,
+          "tweet_count": 3234
+        },
+        "url": "https://t.co/COn8ugHLJi",
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T07:28:41.000Z",
+        "description": "‣  巴普洛夫的狗😺/叫我 𝗞𝗮𝗶𝗿𝗼 ￴￴￴￴     ɪɴᴛᴘ⁃ᴍ𝔱𝖝⁃ᴏᴠᴇʀᴅᴏsᴇ﹠ᴅʀᴜɢ⁃Ⓐ☜",
+        "id": "1892114014563598339",
+        "name": "伊万",
+        "pinned_tweet_id": "1962443374633644505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001711038719496192/qTlefE2a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 414,
+          "like_count": 74782,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 2983
+        },
+        "username": "3He2_Ka1R0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-24T12:31:53.000Z",
+        "description": "",
+        "id": "1595756551699984384",
+        "location": "伊甸园",
+        "name": "Ateiriaror",
+        "pinned_tweet_id": "1988646542912430571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994368871567085568/zX8cUbcE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1710,
+          "following_count": 362,
+          "like_count": 19329,
+          "listed_count": 6,
+          "media_count": 2253,
+          "tweet_count": 6954
+        },
+        "username": "Ateiriaror3562",
+        "verified": false
+      }
+    ]
+  }
+}

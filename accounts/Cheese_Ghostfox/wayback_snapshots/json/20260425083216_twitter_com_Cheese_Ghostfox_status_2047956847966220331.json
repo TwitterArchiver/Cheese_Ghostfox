@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2047852377601180119",
+    "created_at": "2026-04-25T08:32:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T09:32:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047956847966220331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1660586167807664129",
+          "start": 0,
+          "username": "ttttk567"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047956847966220331",
+    "in_reply_to_user_id": "1660586167807664129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047953289854288166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ttttk567 这个不是叫「三麟」吗www\n「象牌」(chang)是另一个瓶子很像还便宜五毛钱但是很可惜狐这里不卖的苏打水(x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2047852377601180119",
+        "created_at": "2026-04-25T08:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T09:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047956847966220331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1660586167807664129",
+              "start": 0,
+              "username": "ttttk567"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047956847966220331",
+        "in_reply_to_user_id": "1660586167807664129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047953289854288166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ttttk567 这个不是叫「三麟」吗www\n「象牌」(chang)是另一个瓶子很像还便宜五毛钱但是很可惜狐这里不卖的苏打水(x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660586167807664129",
+        "conversation_id": "2047852377601180119",
+        "created_at": "2026-04-25T08:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T09:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047953289854288166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047953289854288166",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047852377601180119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox 白象苏打水好评"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1405,
+          "following_count": 1486,
+          "like_count": 17320,
+          "listed_count": 4,
+          "media_count": 600,
+          "tweet_count": 5494
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-22T09:59:37.000Z",
+        "description": "INTP / ADHD. 经常刷新在作死的边缘 🥕\nLife is a creation, not a discovery.\n博客https://t.co/e90qOe4ADO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ak12s.icu",
+                "end": 88,
+                "expanded_url": "http://www.ak12s.icu",
+                "start": 65,
+                "url": "https://t.co/e90qOe4ADO"
+              }
+            ]
+          }
+        },
+        "id": "1660586167807664129",
+        "location": "nowhere",
+        "name": "上弦月",
+        "pinned_tweet_id": "2039014252552523879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978063307694329856/viV6SIGI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 282,
+          "like_count": 1120,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 473
+        },
+        "username": "ttttk567",
+        "verified": false
+      }
+    ]
+  }
+}

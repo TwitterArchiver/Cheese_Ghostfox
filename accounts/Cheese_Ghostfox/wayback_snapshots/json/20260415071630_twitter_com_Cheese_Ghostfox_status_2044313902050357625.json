@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2044313902050357625",
+    "created_at": "2026-04-15T07:16:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T08:16:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044313902050357625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1582173218580090881",
+          "start": 3,
+          "username": "xiadadhaida"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044313902050357625",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044270369566036358",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiadadhaida: 币安人生不欠任何人了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2044313902050357625",
+        "created_at": "2026-04-15T07:16:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T08:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044313902050357625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1582173218580090881",
+              "start": 3,
+              "username": "xiadadhaida"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044313902050357625",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044270369566036358",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiadadhaida: 币安人生不欠任何人了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1582173218580090881",
+        "conversation_id": "2044270369566036358",
+        "created_at": "2026-04-15T04:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T05:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044270369566036358"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044270369566036358",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 710,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "币安人生不欠任何人了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1382,
+          "following_count": 1463,
+          "like_count": 16699,
+          "listed_count": 4,
+          "media_count": 577,
+          "tweet_count": 5274
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-18T00:54:49.000Z",
+        "description": "二十年金融市场交易经验，黄金白银原油交易二十年，币圈最早的做市商，操盘过多个项目，最优秀社群海纳百川社群创立者",
+        "id": "1582173218580090881",
+        "location": "Hong Kong",
+        "name": "侠爹海大",
+        "pinned_tweet_id": "1874268055628653027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1582173653697204225/X3WPszOD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15558,
+          "following_count": 620,
+          "like_count": 69,
+          "listed_count": 158,
+          "media_count": 573,
+          "tweet_count": 2278
+        },
+        "username": "xiadadhaida",
+        "verified": true
+      }
+    ]
+  }
+}

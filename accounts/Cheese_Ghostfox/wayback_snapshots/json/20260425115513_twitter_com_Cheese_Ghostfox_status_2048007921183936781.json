@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047994822955507712"
+      ],
+      "media_source_tweet_id": [
+        "2047995000676598123"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2048007921183936781",
+    "created_at": "2026-04-25T11:55:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T12:55:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048007921183936781"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 14,
+          "tag": "初音ミク"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1969215846599049216",
+          "start": 3,
+          "username": "gund_no9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VMsa1jRDlV",
+          "end": 48,
+          "expanded_url": "https://x.com/gund_no9/status/2047995000676598123/photo/1",
+          "media_key": "3_2047994822955507712",
+          "start": 25,
+          "url": "https://t.co/VMsa1jRDlV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048007921183936781",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 123
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047995000676598123",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gund_no9: #初音ミク\nない…… https://t.co/VMsa1jRDlV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2047994822955507712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvwcNQaIAAELzx.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047994822955507712"
+          ],
+          "media_source_tweet_id": [
+            "2047995000676598123"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2048007921183936781",
+        "created_at": "2026-04-25T11:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048007921183936781"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "初音ミク"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1969215846599049216",
+              "start": 3,
+              "username": "gund_no9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VMsa1jRDlV",
+              "end": 48,
+              "expanded_url": "https://x.com/gund_no9/status/2047995000676598123/photo/1",
+              "media_key": "3_2047994822955507712",
+              "start": 25,
+              "url": "https://t.co/VMsa1jRDlV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048007921183936781",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 123
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047995000676598123",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gund_no9: #初音ミク\nない…… https://t.co/VMsa1jRDlV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047994822955507712"
+          ]
+        },
+        "author_id": "1969215846599049216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          }
+        ],
+        "conversation_id": "2047995000676598123",
+        "created_at": "2026-04-25T11:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047995000676598123"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "初音ミク"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VMsa1jRDlV",
+              "end": 34,
+              "expanded_url": "https://x.com/gund_no9/status/2047995000676598123/photo/1",
+              "media_key": "3_2047994822955507712",
+              "start": 11,
+              "url": "https://t.co/VMsa1jRDlV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047995000676598123",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 225,
+          "impression_count": 11718,
+          "like_count": 1701,
+          "quote_count": 4,
+          "reply_count": 4,
+          "retweet_count": 123
+        },
+        "reply_settings": "everyone",
+        "text": "#初音ミク\nない…… https://t.co/VMsa1jRDlV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1405,
+          "following_count": 1488,
+          "like_count": 17347,
+          "listed_count": 4,
+          "media_count": 601,
+          "tweet_count": 5504
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-20T01:43:54.000Z",
+        "description": "お絵かきとかアニメとか\n気が向いたらこっちもよろしく→@sdkfz161_1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "sdkfz161_1"
+              }
+            ]
+          }
+        },
+        "id": "1969215846599049216",
+        "name": "藻屑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972590121435426816/yhTsVS2B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8844,
+          "following_count": 43,
+          "like_count": 614,
+          "listed_count": 46,
+          "media_count": 82,
+          "tweet_count": 616
+        },
+        "username": "gund_no9",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2005333471728927155",
+    "created_at": "2025-12-29T17:52:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T18:52:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005698370866942462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1613079089879076864",
+          "start": 0,
+          "username": "Cldeop"
+        },
+        {
+          "end": 17,
+          "id": "1244424427313348608",
+          "start": 8,
+          "username": "Errrrese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005698370866942462",
+    "in_reply_to_user_id": "1613079089879076864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005498478022308275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cldeop @Errrrese 爆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2005333471728927155",
+        "created_at": "2025-12-29T17:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T18:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005698370866942462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            },
+            {
+              "end": 17,
+              "id": "1244424427313348608",
+              "start": 8,
+              "username": "Errrrese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005698370866942462",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005498478022308275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop @Errrrese 爆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1613079089879076864",
+        "conversation_id": "2005333471728927155",
+        "created_at": "2025-12-29T04:37:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T05:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005498478022308275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1244424427313348608",
+              "start": 0,
+              "username": "Errrrese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005498478022308275",
+        "in_reply_to_user_id": "1244424427313348608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3658,
+          "like_count": 107,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005333471728927155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Errrrese 陈睿。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨大道五十，天衍四九丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 129,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugHLJi"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター🏳️‍⚧️",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003275522047168512/eHhAdruU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 1104,
+          "like_count": 10922,
+          "listed_count": 2,
+          "media_count": 346,
+          "tweet_count": 3232
+        },
+        "url": "https://t.co/COn8ugHLJi",
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2004058310803402778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95929,
+          "following_count": 664,
+          "like_count": 33362,
+          "listed_count": 272,
+          "media_count": 14426,
+          "tweet_count": 20882
+        },
+        "username": "Cldeop",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-30T00:41:24.000Z",
+        "description": "今朝有酒今朝醉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+4zVdahr8MmdmZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+4zVdahr8MmdmZjI1",
+                "start": 0,
+                "url": "https://t.co/DBOWYkUPbU"
+              }
+            ]
+          }
+        },
+        "id": "1244424427313348608",
+        "location": "사리원",
+        "name": "中推老资历",
+        "pinned_tweet_id": "1973619917556723808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973387374425153536/qntaO7ts_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3169,
+          "following_count": 2079,
+          "like_count": 85556,
+          "listed_count": 18,
+          "media_count": 2345,
+          "tweet_count": 27132
+        },
+        "url": "https://t.co/DBOWYkUPbU",
+        "username": "Errrrese",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2026513640812347790",
+    "created_at": "2026-02-25T04:24:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T05:24:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026513640812347790"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/caiyue5/status…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/caiyue5/status/2026200140416246185",
+          "start": 14,
+          "url": "https://t.co/I2s5SrKG6B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026513640812347790",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026200140416246185",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个发现恐能获得诺奖提名。 https://t.co/I2s5SrKG6B"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2026513640812347790",
+        "created_at": "2026-02-25T04:24:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T05:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026513640812347790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/caiyue5/status…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/caiyue5/status/2026200140416246185",
+              "start": 14,
+              "url": "https://t.co/I2s5SrKG6B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026513640812347790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026200140416246185",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个发现恐能获得诺奖提名。 https://t.co/I2s5SrKG6B"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "732437001572474880",
+        "conversation_id": "2026200140416246185",
+        "created_at": "2026-02-24T07:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T08:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026200140416246185"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026200140416246185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 119,
+          "impression_count": 263068,
+          "like_count": 1973,
+          "quote_count": 35,
+          "reply_count": 209,
+          "retweet_count": 95
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽，惊奇发现，用自己的脑子写代码不烧 token，是免费的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 1359,
+          "like_count": 13852,
+          "listed_count": 4,
+          "media_count": 456,
+          "tweet_count": 4199
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2016-05-17T05:06:04.000Z",
+        "description": "Founder of Sup Space.",
+        "id": "732437001572474880",
+        "location": "Earth",
+        "name": "Yue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018576894258819073/hhWTGjCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8834,
+          "following_count": 444,
+          "like_count": 8750,
+          "listed_count": 90,
+          "media_count": 583,
+          "tweet_count": 5019
+        },
+        "username": "caiyue5",
+        "verified": true
+      }
+    ]
+  }
+}

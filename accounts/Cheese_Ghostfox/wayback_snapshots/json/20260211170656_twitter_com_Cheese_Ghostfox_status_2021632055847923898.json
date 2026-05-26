@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2021632055847923898",
+    "created_at": "2026-02-11T17:06:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T18:06:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021632055847923898"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cz_binance/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/cz_binance/status/2021631541387178083",
+          "start": 9,
+          "url": "https://t.co/c3p29qeMow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021632055847923898",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021631541387178083",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这就叫币安人生( https://t.co/c3p29qeMow"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2021632055847923898",
+        "created_at": "2026-02-11T17:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T18:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021632055847923898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cz_binance/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/cz_binance/status/2021631541387178083",
+              "start": 9,
+              "url": "https://t.co/c3p29qeMow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021632055847923898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021631541387178083",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这就叫币安人生( https://t.co/c3p29qeMow"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "902926941413453824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Binance CEO.",
+              "id": "1603445515831545856",
+              "name": "Changpeng Zhao"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1372588659346612225",
+              "name": "Binance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390680741206368263",
+              "name": "Cryptocurrency exchanges"
+            }
+          }
+        ],
+        "conversation_id": "2021401651383501209",
+        "created_at": "2026-02-11T17:04:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T18:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021631541387178083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "571539711",
+              "start": 0,
+              "username": "BTCbangzhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021631541387178083",
+        "in_reply_to_user_id": "571539711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1709,
+          "like_count": 38,
+          "quote_count": 1,
+          "reply_count": 40,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021401651383501209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BTCbangzhu 恭喜，人钱两得，BSC双赢，哈哈哈！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨あなたの記憶で永遠に六番目になりたい!丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 972,
+          "following_count": 1327,
+          "like_count": 13153,
+          "listed_count": 4,
+          "media_count": 432,
+          "tweet_count": 3970
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-30T16:12:13.000Z",
+        "description": "@BNBchain\n@YZiLabs\n@GiggleAcademy\n@binance",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "BNBchain"
+              },
+              {
+                "end": 18,
+                "start": 10,
+                "username": "YZiLabs"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "GiggleAcademy"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "binance"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "binance.com",
+                "end": 23,
+                "expanded_url": "http://www.binance.com",
+                "start": 0,
+                "url": "https://t.co/zlvCSBIFGA"
+              }
+            ]
+          }
+        },
+        "id": "902926941413453824",
+        "name": "CZ 🔶 BNB",
+        "pinned_tweet_id": "1981404850832494666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961440580279336960/PiiIs8Lh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10792754,
+          "following_count": 1245,
+          "like_count": 17681,
+          "listed_count": 39929,
+          "media_count": 952,
+          "tweet_count": 8069
+        },
+        "url": "https://t.co/zlvCSBIFGA",
+        "username": "cz_binance",
+        "verified": true
+      }
+    ]
+  }
+}

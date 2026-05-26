@@ -1,0 +1,457 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010898060956876804"
+      ],
+      "media_source_tweet_id": [
+        "2011272433400246278"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "2011446801023529469",
+    "created_at": "2026-01-14T14:34:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T15:34:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011446801023529469"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 16,
+          "tag": "重音テト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1703636516965429248",
+          "start": 3,
+          "username": "cocotte_ai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aeNErXUfJ8",
+          "end": 59,
+          "expanded_url": "https://x.com/cocotte_ai/status/2011272433400246278/photo/1",
+          "media_key": "3_2010898060956876804",
+          "start": 36,
+          "url": "https://t.co/aeNErXUfJ8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011446801023529469",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 449
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011272433400246278",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cocotte_ai: #重音テト　魔法少女テトさん（31）… https://t.co/aeNErXUfJ8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2112,
+        "media_key": "3_2010898060956876804",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-glIdrbQAQRGdM.jpg",
+        "width": 1472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010898060956876804"
+          ],
+          "media_source_tweet_id": [
+            "2011272433400246278"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2011446801023529469",
+        "created_at": "2026-01-14T14:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T15:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011446801023529469"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "重音テト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1703636516965429248",
+              "start": 3,
+              "username": "cocotte_ai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aeNErXUfJ8",
+              "end": 59,
+              "expanded_url": "https://x.com/cocotte_ai/status/2011272433400246278/photo/1",
+              "media_key": "3_2010898060956876804",
+              "start": 36,
+              "url": "https://t.co/aeNErXUfJ8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011446801023529469",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 449
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011272433400246278",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cocotte_ai: #重音テト　魔法少女テトさん（31）… https://t.co/aeNErXUfJ8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010898060956876804"
+          ]
+        },
+        "author_id": "1703636516965429248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2011272433400246278",
+        "created_at": "2026-01-14T03:01:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T04:01:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011272433400246278"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "重音テト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aeNErXUfJ8",
+              "end": 42,
+              "expanded_url": "https://x.com/cocotte_ai/status/2011272433400246278/photo/1",
+              "media_key": "3_2010898060956876804",
+              "start": 19,
+              "url": "https://t.co/aeNErXUfJ8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011272433400246278",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "重音テト"
+              }
+            ]
+          },
+          "text": "#重音テト　魔法少女テトさん（31）　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　SFW"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 421,
+          "impression_count": 37926,
+          "like_count": 4512,
+          "quote_count": 5,
+          "reply_count": 5,
+          "retweet_count": 449
+        },
+        "reply_settings": "everyone",
+        "text": "#重音テト　魔法少女テトさん（31） https://t.co/aeNErXUfJ8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨あなたの記憶で永遠に六番目になりたい!丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugHLJi"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009299914820599808/Yse9qefX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 856,
+          "following_count": 1139,
+          "like_count": 11709,
+          "listed_count": 2,
+          "media_count": 375,
+          "tweet_count": 3528
+        },
+        "url": "https://t.co/COn8ugHLJi",
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-18T05:06:18.000Z",
+        "description": "ミクさん大好き💫The illustration posted is generated by nijijourney+Stable diffusion（AI）+Photoshop drawing☆*。　Instagram→https://t.co/K8Gh9XHG5K",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/CMKRc",
+                "end": 135,
+                "expanded_url": "https://x.gd/CMKRc",
+                "start": 112,
+                "url": "https://t.co/K8Gh9XHG5K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/cocotte_ai",
+                "end": 23,
+                "expanded_url": "https://lit.link/cocotte_ai",
+                "start": 0,
+                "url": "https://t.co/iyfkMFwUF1"
+              }
+            ]
+          }
+        },
+        "id": "1703636516965429248",
+        "name": "poco",
+        "pinned_tweet_id": "1992428721358487924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725631551776653312/HQUTj_70_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133277,
+          "following_count": 200,
+          "like_count": 30106,
+          "listed_count": 739,
+          "media_count": 2300,
+          "tweet_count": 14328
+        },
+        "url": "https://t.co/iyfkMFwUF1",
+        "username": "cocotte_ai",
+        "verified": true
+      }
+    ]
+  }
+}

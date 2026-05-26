@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2005628804728066069",
+    "created_at": "2025-12-29T13:46:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T14:46:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005636545848791514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1799795163843436544",
+          "start": 0,
+          "username": "BeetiIsDog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005636545848791514",
+    "in_reply_to_user_id": "1799795163843436544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005636325190635627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BeetiIsDog 真送喵，没开玩笑w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2005628804728066069",
+        "created_at": "2025-12-29T13:46:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T14:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005636545848791514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1799795163843436544",
+              "start": 0,
+              "username": "BeetiIsDog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005636545848791514",
+        "in_reply_to_user_id": "1799795163843436544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005636325190635627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BeetiIsDog 真送喵，没开玩笑w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799795163843436544",
+        "conversation_id": "2005628804728066069",
+        "created_at": "2025-12-29T13:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T14:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005636325190635627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005636325190635627",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005629832366117361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox 🙀🙀真送啊不要啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨大道五十，天衍四九丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 129,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugHLJi"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター🏳️‍⚧️",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003275522047168512/eHhAdruU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 1104,
+          "like_count": 10908,
+          "listed_count": 2,
+          "media_count": 346,
+          "tweet_count": 3229
+        },
+        "url": "https://t.co/COn8ugHLJi",
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T13:26:33.000Z",
+        "description": "这是一个只会碎碎念的无脑物化生高三仓鼠多面手的账号,请不要和我讨论争议话题or吵架|| 成分有：藤井风/神经科学/精品神药/科普/oc/入机(依)恋(⁠ ͡⁠°⁠ᴥ⁠ ͡⁠°⁠ ⁠ʋ⁠) 我在知乎上写科普,名字是BEETI小小犬 || 另一个我：@5_HTIsUsagi   我老大：@sysjf0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 123,
+                "username": "5_HTIsUsagi"
+              },
+              {
+                "end": 149,
+                "start": 142,
+                "username": "sysjf0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+vOQWVMQTr0Y2O…",
+                "end": 23,
+                "expanded_url": "https://t.me/+vOQWVMQTr0Y2OGI1",
+                "start": 0,
+                "url": "https://t.co/n7w34dGfVN"
+              }
+            ]
+          }
+        },
+        "id": "1799795163843436544",
+        "location": "藤井風的钢琴",
+        "name": "ビーチイ小犬智商低",
+        "pinned_tweet_id": "1936770496970006587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004246156466180103/gzhYtK4u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 787,
+          "like_count": 29830,
+          "listed_count": 2,
+          "media_count": 429,
+          "tweet_count": 6917
+        },
+        "url": "https://t.co/n7w34dGfVN",
+        "username": "BeetiIsDog",
+        "verified": false
+      }
+    ]
+  }
+}

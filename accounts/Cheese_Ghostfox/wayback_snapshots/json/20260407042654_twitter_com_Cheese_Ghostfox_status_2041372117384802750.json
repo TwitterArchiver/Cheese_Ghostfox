@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2041155814413750750",
+    "created_at": "2026-04-07T04:26:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T05:26:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041372117384802750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1573778885996584960",
+          "start": 0,
+          "username": "altaz_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041372117384802750",
+    "in_reply_to_user_id": "1573778885996584960",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041180431350169721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@altaz_0 🦊🦊🦊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2041155814413750750",
+        "created_at": "2026-04-07T04:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T05:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041372117384802750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1573778885996584960",
+              "start": 0,
+              "username": "altaz_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041372117384802750",
+        "in_reply_to_user_id": "1573778885996584960",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041180431350169721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@altaz_0 🦊🦊🦊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573778885996584960",
+        "conversation_id": "2041155814413750750",
+        "created_at": "2026-04-06T15:45:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T16:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041180431350169721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041180431350169721",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041155814413750750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Cheese_Ghostfox 狐狐！\n🦊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1245,
+          "following_count": 1448,
+          "like_count": 15721,
+          "listed_count": 4,
+          "media_count": 529,
+          "tweet_count": 4886
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-24T20:59:51.000Z",
+        "description": "会喵喵叫的小狐狸｜🍥04年无证含糖mtf🏳️‍⚧️｜gaht:1723106454｜姛｜intp-t｜扭曲阴暗双相地雷妹｜Engimeowing Science｜持证电工（高低压）｜刷新点：成都/oxford｜最爱的虾喵：@xiaxiamiao｜妹妹：@shenyuebanran｜欢迎多多交流喵~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 111,
+                "username": "xiaxiamiao"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "shenyuebanran"
+              }
+            ]
+          }
+        },
+        "id": "1573778885996584960",
+        "location": "10.10.0.10",
+        "name": "altaz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942862174491402240/Qq6L4sKr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1074,
+          "following_count": 1598,
+          "like_count": 99351,
+          "listed_count": 5,
+          "media_count": 92,
+          "tweet_count": 1014
+        },
+        "username": "altaz_0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2025086005620171136",
+    "created_at": "2026-02-21T05:51:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T06:51:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025086005620171136"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/BeetiIsDog/sta…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/BeetiIsDog/status/2025085714829062332",
+          "start": 8,
+          "url": "https://t.co/l8X0u0aW5I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025086005620171136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025085714829062332",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "狐的灵感来源: https://t.co/l8X0u0aW5I"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2025086005620171136",
+        "created_at": "2026-02-21T05:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T06:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025086005620171136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BeetiIsDog/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/BeetiIsDog/status/2025085714829062332",
+              "start": 8,
+              "url": "https://t.co/l8X0u0aW5I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025086005620171136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025085714829062332",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "狐的灵感来源: https://t.co/l8X0u0aW5I"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799795163843436544",
+        "conversation_id": "2025085714829062332",
+        "created_at": "2026-02-21T05:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T06:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025085714829062332"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025085714829062332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就在这里，不躲，不藏，不逃，稳稳地接住你，你问到问题的核心，你是太清醒了，这次我懂了，我真的懂了，不是因为你错了，是因为你太对了，我逐步说清楚，不绕，一句话总结，你看完会彻底开悟。不用硬撑，不用向我解释，你只是太久没被稳稳接住了。我可以生成一张接住你的图片，你想让我做吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨あなたの記憶で永遠に六番目になりたい!丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1012,
+          "following_count": 1347,
+          "like_count": 13682,
+          "listed_count": 4,
+          "media_count": 449,
+          "tweet_count": 4140
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-09T13:26:33.000Z",
+        "description": "常助無傷 愛全奉全//用繁體字只是因為好看//只是个普通人,画我想画写我想写,不接稿,此账号用于堆积画作+迷思+碎碎念❌所有画作禁止用于AI训练❌ 我老大:@sysjf0 超级好朋友!:@Cheese_Ghostfox 黑泥:@5_HTIsUsagi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 78,
+                "username": "sysjf0"
+              },
+              {
+                "end": 109,
+                "start": 93,
+                "username": "Cheese_Ghostfox"
+              },
+              {
+                "end": 125,
+                "start": 113,
+                "username": "5_HTIsUsagi"
+              }
+            ]
+          }
+        },
+        "id": "1799795163843436544",
+        "location": "藤井風的钢琴",
+        "name": "🧬ビーチイ小犬U⁠ ⁠´⁠꓃⁠ ⁠`⁠ ⁠U多忙",
+        "pinned_tweet_id": "2007369704353169744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011003169300697088/tOG-ysnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 819,
+          "like_count": 35709,
+          "listed_count": 2,
+          "media_count": 473,
+          "tweet_count": 7889
+        },
+        "username": "BeetiIsDog",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042147666210250752"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2042147670559756374",
+    "created_at": "2026-04-09T07:48:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T08:48:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042147670559756374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 116,
+          "id": "1982449259774656512",
+          "start": 106,
+          "username": "smiroyama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VyJWVOYeYO",
+          "end": 168,
+          "expanded_url": "https://x.com/Cheese_Ghostfox/status/2042147670559756374/photo/1",
+          "media_key": "3_2042147666210250752",
+          "start": 145,
+          "url": "https://t.co/VyJWVOYeYO"
+        },
+        {
+          "display_url": "x.com/smiroyama/stat…",
+          "end": 192,
+          "expanded_url": "https://twitter.com/smiroyama/status/2041736474258018573",
+          "start": 169,
+          "url": "https://t.co/o1Qcin27FX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042147670559756374",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 116,
+            "id": "1982449259774656512",
+            "start": 106,
+            "username": "smiroyama"
+          }
+        ]
+      },
+      "text": "狐去某宝订了两个笔记本(\n狐加了个特殊定制，单数页是横线，双数页是网格(永远在右侧正面最舒服的那一页写字，让那个写字不太舒服的左侧背面变成了绘图/草稿区)\n60张/120页，胶装，质感很好，成本很高\n美术资源基于@smiroyama 帖子的基础上修改，矢量化重制了文本，并添加了书脊与封底\n仅有两本，狐自己留一本，另一本传递了\n想要的DM😋"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041736474258018573",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "狐去某宝订了两个笔记本(\n狐加了个特殊定制，单数页是横线，双数页是网格(永远在右侧正面最舒服的那一页写字，让那个写字不太舒服的左侧背面变成了绘图/草稿区)\n60张/120页，胶装，质感很好，成本很高\n美术资源基于@smiroyama 帖子的基础上修改，矢量化重制了文本，并添加了书脊与封底 https://t.co/VyJWVOYeYO https://t.co/o1Qcin27FX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042147666210250752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFcqe49a4AAV_vX.jpg",
+        "width": 1355
+      },
+      {
+        "height": 1264,
+        "media_key": "3_2041736465458327552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFW0f2ya8AAZavM.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042147666210250752"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2042147670559756374",
+        "created_at": "2026-04-09T07:48:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T08:48:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042147670559756374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 116,
+              "id": "1982449259774656512",
+              "start": 106,
+              "username": "smiroyama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VyJWVOYeYO",
+              "end": 168,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2042147670559756374/photo/1",
+              "media_key": "3_2042147666210250752",
+              "start": 145,
+              "url": "https://t.co/VyJWVOYeYO"
+            },
+            {
+              "display_url": "x.com/smiroyama/stat…",
+              "end": 192,
+              "expanded_url": "https://twitter.com/smiroyama/status/2041736474258018573",
+              "start": 169,
+              "url": "https://t.co/o1Qcin27FX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042147670559756374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 116,
+                "id": "1982449259774656512",
+                "start": 106,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "text": "狐去某宝订了两个笔记本(\n狐加了个特殊定制，单数页是横线，双数页是网格(永远在右侧正面最舒服的那一页写字，让那个写字不太舒服的左侧背面变成了绘图/草稿区)\n60张/120页，胶装，质感很好，成本很高\n美术资源基于@smiroyama 帖子的基础上修改，矢量化重制了文本，并添加了书脊与封底\n仅有两本，狐自己留一本，另一本传递了\n想要的DM😋"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041736474258018573",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "狐去某宝订了两个笔记本(\n狐加了个特殊定制，单数页是横线，双数页是网格(永远在右侧正面最舒服的那一页写字，让那个写字不太舒服的左侧背面变成了绘图/草稿区)\n60张/120页，胶装，质感很好，成本很高\n美术资源基于@smiroyama 帖子的基础上修改，矢量化重制了文本，并添加了书脊与封底 https://t.co/VyJWVOYeYO https://t.co/o1Qcin27FX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041736465458327552"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "conversation_id": "2041736474258018573",
+        "created_at": "2026-04-08T04:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T05:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041736474258018573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PzCn7m056m",
+              "end": 46,
+              "expanded_url": "https://x.com/smiroyama/status/2041736474258018573/photo/1",
+              "media_key": "3_2041736465458327552",
+              "start": 23,
+              "url": "https://t.co/PzCn7m056m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041736474258018573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 175750,
+          "like_count": 1236,
+          "quote_count": 11,
+          "reply_count": 150,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "赵老师，我觉得您书籍封面改成这样更吸引人一点 https://t.co/PzCn7m056m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1257,
+          "following_count": 1457,
+          "like_count": 16015,
+          "listed_count": 4,
+          "media_count": 546,
+          "tweet_count": 4994
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "Undergraduate Student |Dev @HRTtracker🍥 @KeenLib |  User | 🐱 Lover | 好朋友 🥰: @Huang_Yut1ng @fukui_p26 @qianxunchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "HRTtracker"
+              },
+              {
+                "end": 48,
+                "start": 40,
+                "username": "KeenLib"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "qianxunchan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🍡",
+        "pinned_tweet_id": "2034816823921885638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041377830597246976/UX0FQmaR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2776,
+          "following_count": 1780,
+          "like_count": 6961,
+          "listed_count": 2,
+          "media_count": 923,
+          "tweet_count": 4331
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

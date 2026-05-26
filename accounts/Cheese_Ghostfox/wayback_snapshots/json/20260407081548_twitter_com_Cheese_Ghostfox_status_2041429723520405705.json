@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041429720643076096"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2041429369357578385",
+    "created_at": "2026-04-07T08:15:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T09:15:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041429723520405705"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ghpqTwgXKD",
+          "end": 39,
+          "expanded_url": "https://x.com/Cheese_Ghostfox/status/2041429723520405705/photo/1",
+          "media_key": "3_2041429720643076096",
+          "start": 16,
+          "url": "https://t.co/ghpqTwgXKD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041429723520405705",
+    "in_reply_to_user_id": "1620506107306479617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041429369357578385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "拍一张这个粥里比较清楚的照片( https://t.co/ghpqTwgXKD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041429720643076096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFSdg9TbAAACWXm.jpg",
+        "width": 922
+      },
+      {
+        "height": 922,
+        "media_key": "3_2041429366744457216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFSdMW7aoAA-5Cv.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041429720643076096"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2041429369357578385",
+        "created_at": "2026-04-07T08:15:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T09:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041429723520405705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ghpqTwgXKD",
+              "end": 39,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2041429723520405705/photo/1",
+              "media_key": "3_2041429720643076096",
+              "start": 16,
+              "url": "https://t.co/ghpqTwgXKD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041429723520405705",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041429369357578385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "拍一张这个粥里比较清楚的照片( https://t.co/ghpqTwgXKD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041429366744457216"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2041429369357578385",
+        "created_at": "2026-04-07T08:14:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T09:14:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041429369357578385"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "狐食"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eXFzaPKPqk",
+              "end": 42,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2041429369357578385/photo/1",
+              "media_key": "3_2041429366744457216",
+              "start": 19,
+              "url": "https://t.co/eXFzaPKPqk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041429369357578385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "日式鸡肉杂炊粥与韩式烤五花肉\n#狐食 https://t.co/eXFzaPKPqk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1253,
+          "following_count": 1454,
+          "like_count": 15798,
+          "listed_count": 4,
+          "media_count": 535,
+          "tweet_count": 4914
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      }
+    ]
+  }
+}

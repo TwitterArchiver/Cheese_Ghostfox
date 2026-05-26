@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2007093827241431520",
+    "created_at": "2026-01-02T16:56:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T17:56:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007133849181114526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1799795163843436544",
+          "start": 0,
+          "username": "BeetiIsDog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007133849181114526",
+    "in_reply_to_user_id": "1799795163843436544",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007093827241431520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BeetiIsDog nope，you are the smartest🧐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2007093827241431520",
+        "created_at": "2026-01-02T16:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T17:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007133849181114526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1799795163843436544",
+              "start": 0,
+              "username": "BeetiIsDog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007133849181114526",
+        "in_reply_to_user_id": "1799795163843436544",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007093827241431520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BeetiIsDog nope，you are the smartest🧐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799795163843436544",
+        "conversation_id": "2007093827241431520",
+        "created_at": "2026-01-02T14:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T15:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007093827241431520"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007093827241431520",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "I'm,the,dumbest,,,,,"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨あなたの記憶で永遠に六番目になりたい!丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugHLJi"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006106648180580354/H1nFPBxL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 1122,
+          "like_count": 11190,
+          "listed_count": 2,
+          "media_count": 350,
+          "tweet_count": 3302
+        },
+        "url": "https://t.co/COn8ugHLJi",
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T13:26:33.000Z",
+        "description": "这是一个只会碎碎念的无脑物化生高三仓鼠多面手的账号,请不要和我讨论争议话题or吵架|| 成分有：藤井风/神经科学/精品神药/科普/oc/入机(依)恋 -⁠ᄒ⁠ᴥ⁠ᄒ⁠- 我写科普,知乎名是BEETI小小犬 || 另一个我：@5_HTIsUsagi   我老大：@sysjf0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 111,
+                "username": "5_HTIsUsagi"
+              },
+              {
+                "end": 137,
+                "start": 130,
+                "username": "sysjf0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+vOQWVMQTr0Y2O…",
+                "end": 23,
+                "expanded_url": "https://t.me/+vOQWVMQTr0Y2OGI1",
+                "start": 0,
+                "url": "https://t.co/n7w34dGfVN"
+              }
+            ]
+          }
+        },
+        "id": "1799795163843436544",
+        "location": "藤井風的钢琴",
+        "name": "ビーチイ小犬智商低",
+        "pinned_tweet_id": "1936770496970006587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004246156466180103/gzhYtK4u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 795,
+          "like_count": 30397,
+          "listed_count": 2,
+          "media_count": 442,
+          "tweet_count": 7092
+        },
+        "url": "https://t.co/n7w34dGfVN",
+        "username": "BeetiIsDog",
+        "verified": false
+      }
+    ]
+  }
+}

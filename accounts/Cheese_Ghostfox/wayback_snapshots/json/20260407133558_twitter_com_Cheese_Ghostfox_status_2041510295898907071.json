@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2041505850687435052",
+    "created_at": "2026-04-07T13:35:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T14:35:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041510295898907071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1829558386796482565",
+          "start": 0,
+          "username": "GLgl9685"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041510295898907071",
+    "in_reply_to_user_id": "1829558386796482565",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041509739159601160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GLgl9685 理论上来说可以\n本质上来说这就是一把不能换刃的直剃刀(\n做这个建议用蓝贝印而不是红贝印，更好操控一些\n记得用须泡先软化再刮喵!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2041505850687435052",
+        "created_at": "2026-04-07T13:35:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T14:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041510295898907071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1829558386796482565",
+              "start": 0,
+              "username": "GLgl9685"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041510295898907071",
+        "in_reply_to_user_id": "1829558386796482565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041509739159601160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GLgl9685 理论上来说可以\n本质上来说这就是一把不能换刃的直剃刀(\n做这个建议用蓝贝印而不是红贝印，更好操控一些\n记得用须泡先软化再刮喵!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829558386796482565",
+        "conversation_id": "2041505850687435052",
+        "created_at": "2026-04-07T13:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T14:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041509739159601160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041509739159601160",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041505850687435052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox 能用来刮胡子吗？（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1258,
+          "following_count": 1455,
+          "like_count": 15887,
+          "listed_count": 4,
+          "media_count": 541,
+          "tweet_count": 4948
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-30T16:34:56.000Z",
+        "description": "/在校穷鬼大学生/HEMA爱好者以及刀剑爱好者/友跨🏳️️‍⚧️/",
+        "id": "1829558386796482565",
+        "location": "哪里都是",
+        "name": "广林🏳️‍🌈",
+        "pinned_tweet_id": "2029246165775155427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012486256899264512/t01ju9jR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 542,
+          "like_count": 3550,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 2097
+        },
+        "username": "GLgl9685",
+        "verified": false
+      }
+    ]
+  }
+}

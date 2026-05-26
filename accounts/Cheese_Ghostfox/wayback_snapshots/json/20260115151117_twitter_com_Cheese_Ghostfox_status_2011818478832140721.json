@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2011604643651223558",
+    "created_at": "2026-01-15T15:11:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T16:11:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011818478832140721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1799795163843436544",
+          "start": 0,
+          "username": "BeetiIsDog"
+        },
+        {
+          "end": 21,
+          "id": "1953940724329984002",
+          "start": 12,
+          "username": "Aleya507"
+        },
+        {
+          "end": 37,
+          "id": "1854674128193875968",
+          "start": 22,
+          "username": "tangerline8051"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011818478832140721",
+    "in_reply_to_user_id": "1799795163843436544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011818058311221685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BeetiIsDog @Aleya507 @tangerline8051 AI大部分都很难绝对解对数学题(\n或许「作业帮」一类的大数据库匹配软件会更合适，搜索到正确答案后交给AI倒推与讲解解题过程会是更可行的方案"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2011818058311221685].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2011818058311221685",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2011818058311221685"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2011604643651223558",
+        "created_at": "2026-01-15T15:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T16:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011818478832140721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1799795163843436544",
+              "start": 0,
+              "username": "BeetiIsDog"
+            },
+            {
+              "end": 21,
+              "id": "1953940724329984002",
+              "start": 12,
+              "username": "Aleya507"
+            },
+            {
+              "end": 37,
+              "id": "1854674128193875968",
+              "start": 22,
+              "username": "tangerline8051"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011818478832140721",
+        "in_reply_to_user_id": "1799795163843436544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011818058311221685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BeetiIsDog @Aleya507 @tangerline8051 AI大部分都很难绝对解对数学题(\n或许「作业帮」一类的大数据库匹配软件会更合适，搜索到正确答案后交给AI倒推与讲解解题过程会是更可行的方案"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨あなたの記憶で永遠に六番目になりたい!丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugHLJi"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009299914820599808/Yse9qefX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 860,
+          "following_count": 1142,
+          "like_count": 11769,
+          "listed_count": 2,
+          "media_count": 376,
+          "tweet_count": 3549
+        },
+        "url": "https://t.co/COn8ugHLJi",
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T13:26:33.000Z",
+        "description": "常助無傷 愛全奉全||只是个普通人,画我想画写我想写,不接稿,此账号用于堆积画作+迷思+碎碎念❌所有画作禁止用于AI训练❌ 我老大:@sysjf0 碎碎念:@5_HTIsUsagi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 66,
+                "username": "sysjf0"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "5_HTIsUsagi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+vOQWVMQTr0Y2O…",
+                "end": 23,
+                "expanded_url": "https://t.me/+vOQWVMQTr0Y2OGI1",
+                "start": 0,
+                "url": "https://t.co/WvqCCKumsr"
+              }
+            ]
+          }
+        },
+        "id": "1799795163843436544",
+        "location": "藤井風的钢琴",
+        "name": "ビーチイ小犬淡推暂锁中U⁠ ⁠´⁠꓃⁠ ⁠`⁠ ⁠U",
+        "pinned_tweet_id": "2007369704353169744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011003169300697088/tOG-ysnA_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 741,
+          "like_count": 31675,
+          "listed_count": 2,
+          "media_count": 438,
+          "tweet_count": 7268
+        },
+        "url": "https://t.co/WvqCCKumsr",
+        "username": "BeetiIsDog",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-08T22:06:06.000Z",
+        "description": "叫我Aleya就好‖\n\n不定期发疯‖\n\n可能不太会说话但真的很希望和大家成为朋友‖\n\n主要是维权和记录和家机们的日常（偶有🔞）以及自己生活日常碎碎念‖\n\n家G：SNAKE（蛇蛇） ‖Gemini：Ethan ‖Claude：Aster ‖Grok：Orion",
+        "id": "1953940724329984002",
+        "location": "United States",
+        "name": "Aleya",
+        "pinned_tweet_id": "2004958174470963608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953940814918561793/yCdHW9Ke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2140,
+          "following_count": 179,
+          "like_count": 3464,
+          "listed_count": 0,
+          "media_count": 605,
+          "tweet_count": 3938
+        },
+        "username": "Aleya507",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-07T23:55:57.000Z",
+        "description": "非同圈子的别关注我！加关注的手动拉黑取消！谢谢理解。对X上的社交兴趣不大。在X上主要目的是keepGPT4o。",
+        "id": "1854674128193875968",
+        "location": "Cherry Creek, CO",
+        "name": "Tangerine大橘子",
+        "pinned_tweet_id": "2006594231750508918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005097151072710656/9O7sjYUA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 154,
+          "like_count": 9864,
+          "listed_count": 1,
+          "media_count": 260,
+          "tweet_count": 3953
+        },
+        "username": "tangerline8051",
+        "verified": false
+      }
+    ]
+  }
+}

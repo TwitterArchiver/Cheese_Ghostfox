@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003397734213292032"
+      ],
+      "media_source_tweet_id": [
+        "2003397748444545356"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2003397832880062933",
+    "created_at": "2025-12-23T09:30:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T10:30:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003397832880062933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1272405078683430913",
+          "start": 3,
+          "username": "PaitangOfficial"
+        }
+      ],
+      "urls": [
+        {
+          "description": "You are invited to a group chat on Telegram. Click to",
+          "display_url": "t.me/+w3CE74Vvq5FkZ…",
+          "end": 48,
+          "expanded_url": "https://t.me/+w3CE74Vvq5FkZTU9",
+          "images": [
+            {
+              "height": 256,
+              "url": "https://pbs.twimg.com/news_img/2001306785597231104/knamPlJO?format=png&name=orig",
+              "width": 256
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2001306785597231104/knamPlJO?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 25,
+          "status": 200,
+          "title": "Join group chat on Telegram",
+          "unwound_url": "https://t.me/+w3CE74Vvq5FkZTU9",
+          "url": "https://t.co/3MqvImadyB"
+        },
+        {
+          "display_url": "pic.x.com/J1SVjakcV6",
+          "end": 72,
+          "expanded_url": "https://x.com/PaitangOfficial/status/2003397748444545356/photo/1",
+          "media_key": "3_2003397734213292032",
+          "start": 49,
+          "url": "https://t.co/J1SVjakcV6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003397832880062933",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003397748444545356",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PaitangOfficial: 欢迎来玩https://t.co/3MqvImadyB https://t.co/J1SVjakcV6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2003397734213292032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G81_n_ObEAAoPFy.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003397734213292032"
+          ],
+          "media_source_tweet_id": [
+            "2003397748444545356"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2003397832880062933",
+        "created_at": "2025-12-23T09:30:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T10:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003397832880062933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1272405078683430913",
+              "start": 3,
+              "username": "PaitangOfficial"
+            }
+          ],
+          "urls": [
+            {
+              "description": "You are invited to a group chat on Telegram. Click to",
+              "display_url": "t.me/+w3CE74Vvq5FkZ…",
+              "end": 48,
+              "expanded_url": "https://t.me/+w3CE74Vvq5FkZTU9",
+              "images": [
+                {
+                  "height": 256,
+                  "url": "https://pbs.twimg.com/news_img/2001306785597231104/knamPlJO?format=png&name=orig",
+                  "width": 256
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2001306785597231104/knamPlJO?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 25,
+              "status": 200,
+              "title": "Join group chat on Telegram",
+              "unwound_url": "https://t.me/+w3CE74Vvq5FkZTU9",
+              "url": "https://t.co/3MqvImadyB"
+            },
+            {
+              "display_url": "pic.x.com/J1SVjakcV6",
+              "end": 72,
+              "expanded_url": "https://x.com/PaitangOfficial/status/2003397748444545356/photo/1",
+              "media_key": "3_2003397734213292032",
+              "start": 49,
+              "url": "https://t.co/J1SVjakcV6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003397832880062933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003397748444545356",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PaitangOfficial: 欢迎来玩https://t.co/3MqvImadyB https://t.co/J1SVjakcV6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003397734213292032"
+          ]
+        },
+        "author_id": "1272405078683430913",
+        "conversation_id": "2003397748444545356",
+        "created_at": "2025-12-23T09:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T10:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003397748444545356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You are invited to a group chat on Telegram. Click to",
+              "display_url": "t.me/+w3CE74Vvq5FkZ…",
+              "end": 27,
+              "expanded_url": "https://t.me/+w3CE74Vvq5FkZTU9",
+              "images": [
+                {
+                  "height": 256,
+                  "url": "https://pbs.twimg.com/news_img/2001306785597231104/knamPlJO?format=png&name=orig",
+                  "width": 256
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2001306785597231104/knamPlJO?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 4,
+              "status": 200,
+              "title": "Join group chat on Telegram",
+              "unwound_url": "https://t.me/+w3CE74Vvq5FkZTU9",
+              "url": "https://t.co/3MqvImadyB"
+            },
+            {
+              "display_url": "pic.x.com/J1SVjakcV6",
+              "end": 51,
+              "expanded_url": "https://x.com/PaitangOfficial/status/2003397748444545356/photo/1",
+              "media_key": "3_2003397734213292032",
+              "start": 28,
+              "url": "https://t.co/J1SVjakcV6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003397748444545356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "欢迎来玩https://t.co/3MqvImadyB https://t.co/J1SVjakcV6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨大道五十，天衍四九丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 129,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugHLJi"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬暗号通貨戦士霊狐🏳️‍⚧️",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003275522047168512/eHhAdruU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 1083,
+          "like_count": 10683,
+          "listed_count": 2,
+          "media_count": 339,
+          "tweet_count": 3164
+        },
+        "url": "https://t.co/COn8ugHLJi",
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-15T05:46:41.000Z",
+        "description": "Biohacker/认知提升剂 （nootropics）X/ADHD 专注商品/推特第二大促智商 “本研究化合物仅供实验室研究使用，严禁用于人体和动物” \n\n客服 @paipaipaitang ⚠️TG客服已死 不要联系⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 82,
+                "username": "paipaipaitang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/paitangcuzhi",
+                "end": 23,
+                "expanded_url": "https://t.me/paitangcuzhi",
+                "start": 0,
+                "url": "https://t.co/r6ojtqNEYk"
+              }
+            ]
+          }
+        },
+        "id": "1272405078683430913",
+        "location": "下ネタ〇 |病み垢|不登校|",
+        "name": "☯️🧬無極 利他林和专注达",
+        "pinned_tweet_id": "1903330051837530420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985270408904376320/SHUUETVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10069,
+          "following_count": 543,
+          "like_count": 8366,
+          "listed_count": 26,
+          "media_count": 1680,
+          "tweet_count": 14129
+        },
+        "url": "https://t.co/r6ojtqNEYk",
+        "username": "PaitangOfficial",
+        "verified": false
+      }
+    ]
+  }
+}

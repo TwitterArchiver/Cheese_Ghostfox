@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2043267403149369344"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2043266521888375057",
+    "created_at": "2026-04-12T09:58:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T10:58:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043267404546097187"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043267404546097187",
+    "in_reply_to_user_id": "1620506107306479617",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043266521888375057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "roll the DICE!\n☝🤓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043266518675517440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFskErMacAA4FFC.jpg",
+        "width": 1533
+      }
+    ],
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2026-04-13T09:58:05.000Z",
+        "id": "2043267403149369344",
+        "options": [
+          {
+            "label": "半扎法式刘海(现有)",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "八字刘海+马尾辫",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "半扎鲻鱼头(烫染)",
+            "position": 3,
+            "votes": 0
+          },
+          {
+            "label": "侧长齐刘海(需拉直)",
+            "position": 4,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2043267403149369344"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2043266521888375057",
+        "created_at": "2026-04-12T09:58:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T10:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043267404546097187"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043267404546097187",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043266521888375057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "roll the DICE!\n☝🤓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043266518675517440"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2043266521888375057",
+        "created_at": "2026-04-12T09:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T10:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043266521888375057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qmwofyAwb8",
+              "end": 60,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2043266521888375057/photo/1",
+              "media_key": "3_2043266518675517440",
+              "start": 37,
+              "url": "https://t.co/qmwofyAwb8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043266521888375057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "狐的头发又很长了(((\n老规矩，粉丝vote狐去剪喵!\n(投票见留言区) https://t.co/qmwofyAwb8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1307,
+          "following_count": 1458,
+          "like_count": 16256,
+          "listed_count": 4,
+          "media_count": 558,
+          "tweet_count": 5116
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047957237646454784"
+      ],
+      "media_source_tweet_id": [
+        "2047957246718726387"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2048224096253870547",
+    "created_at": "2026-04-26T02:14:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T03:14:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048224096253870547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1109456242643132416",
+          "start": 3,
+          "username": "rantan_haishin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HZLjLx4QSP",
+          "end": 43,
+          "expanded_url": "https://x.com/rantan_haishin/status/2047957246718726387/photo/1",
+          "media_key": "3_2047957237646454784",
+          "start": 20,
+          "url": "https://t.co/HZLjLx4QSP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048224096253870547",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 822
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047957246718726387",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rantan_haishin: https://t.co/HZLjLx4QSP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3679,
+        "media_key": "3_2047957237646454784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvOQdEbcAAmu8I.jpg",
+        "width": 2605
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047957237646454784"
+          ],
+          "media_source_tweet_id": [
+            "2047957246718726387"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2048224096253870547",
+        "created_at": "2026-04-26T02:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T03:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048224096253870547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1109456242643132416",
+              "start": 3,
+              "username": "rantan_haishin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HZLjLx4QSP",
+              "end": 43,
+              "expanded_url": "https://x.com/rantan_haishin/status/2047957246718726387/photo/1",
+              "media_key": "3_2047957237646454784",
+              "start": 20,
+              "url": "https://t.co/HZLjLx4QSP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048224096253870547",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 822
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047957246718726387",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rantan_haishin: https://t.co/HZLjLx4QSP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047957237646454784"
+          ]
+        },
+        "author_id": "1109456242643132416",
+        "conversation_id": "2047957246718726387",
+        "created_at": "2026-04-25T08:33:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T09:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047957246718726387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HZLjLx4QSP",
+              "end": 23,
+              "expanded_url": "https://x.com/rantan_haishin/status/2047957246718726387/photo/1",
+              "media_key": "3_2047957237646454784",
+              "start": 0,
+              "url": "https://t.co/HZLjLx4QSP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047957246718726387",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2105,
+          "impression_count": 157170,
+          "like_count": 16648,
+          "quote_count": 12,
+          "reply_count": 29,
+          "retweet_count": 822
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HZLjLx4QSP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1406,
+          "following_count": 1491,
+          "like_count": 17399,
+          "listed_count": 4,
+          "media_count": 604,
+          "tweet_count": 5519
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-23T14:05:55.000Z",
+        "description": "百合みがあるイラストなどを描いています。",
+        "id": "1109456242643132416",
+        "name": "らんたん",
+        "pinned_tweet_id": "2037135753483112912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029539777654161409/HZdeymv-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31941,
+          "following_count": 122,
+          "like_count": 157,
+          "listed_count": 183,
+          "media_count": 155,
+          "tweet_count": 1216
+        },
+        "username": "rantan_haishin",
+        "verified": false
+      }
+    ]
+  }
+}

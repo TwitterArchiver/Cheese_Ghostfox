@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003068559534985216"
+      ],
+      "media_source_tweet_id": [
+        "2003068563687358900"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2003097448252928103",
+    "created_at": "2025-12-22T13:37:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T14:37:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003097448252928103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1602328096622800896",
+          "start": 3,
+          "username": "dutyge"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uptjN8o0k1",
+          "end": 52,
+          "expanded_url": "https://x.com/dutyge/status/2003068563687358900/photo/1",
+          "media_key": "3_2003068559534985216",
+          "start": 29,
+          "url": "https://t.co/uptjN8o0k1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003097448252928103",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003068563687358900",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dutyge: 如果中国强制双休，会怎么样？\n👇 https://t.co/uptjN8o0k1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1359,
+        "media_key": "3_2003068559534985216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8xUPf_WEAAgbfJ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003068559534985216"
+          ],
+          "media_source_tweet_id": [
+            "2003068563687358900"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2003097448252928103",
+        "created_at": "2025-12-22T13:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T14:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003097448252928103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1602328096622800896",
+              "start": 3,
+              "username": "dutyge"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uptjN8o0k1",
+              "end": 52,
+              "expanded_url": "https://x.com/dutyge/status/2003068563687358900/photo/1",
+              "media_key": "3_2003068559534985216",
+              "start": 29,
+              "url": "https://t.co/uptjN8o0k1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003097448252928103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003068563687358900",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dutyge: 如果中国强制双休，会怎么样？\n👇 https://t.co/uptjN8o0k1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003068559534985216"
+          ]
+        },
+        "author_id": "1602328096622800896",
+        "conversation_id": "2003068563687358900",
+        "created_at": "2025-12-22T11:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T12:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003068563687358900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uptjN8o0k1",
+              "end": 40,
+              "expanded_url": "https://x.com/dutyge/status/2003068563687358900/photo/1",
+              "media_key": "3_2003068559534985216",
+              "start": 17,
+              "url": "https://t.co/uptjN8o0k1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003068563687358900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 8169,
+          "like_count": 164,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "如果中国强制双休，会怎么样？\n👇 https://t.co/uptjN8o0k1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨大道五十，天衍四九丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬暗号通貨戦士霊狐🏳️‍⚧️",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997128038925193217/9QJNS0sg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 1080,
+          "like_count": 10658,
+          "listed_count": 2,
+          "media_count": 336,
+          "tweet_count": 3153
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-12T15:42:59.000Z",
+        "description": "duty哥小号，失业报道采集检索。",
+        "id": "1602328096622800896",
+        "location": "颐和园路",
+        "name": "失业观察日报",
+        "pinned_tweet_id": "1704100809909080560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913529297802756096/Zhm8-Qqy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54292,
+          "following_count": 99,
+          "like_count": 0,
+          "listed_count": 247,
+          "media_count": 8608,
+          "tweet_count": 14548
+        },
+        "username": "dutyge",
+        "verified": false
+      }
+    ]
+  }
+}

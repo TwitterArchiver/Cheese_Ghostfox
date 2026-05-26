@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041367948",
+          "name": "Xiaomi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10041367948",
+          "name": "Xiaomi"
+        }
+      }
+    ],
+    "conversation_id": "2025797772759199879",
+    "created_at": "2026-02-23T05:34:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T06:34:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025806564599410822"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "MIX",
+          "probability": 0.7161,
+          "start": 16,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 7,
+          "id": "377228272",
+          "start": 0,
+          "username": "Xiaomi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025806564599410822",
+    "in_reply_to_user_id": "377228272",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025797772759199879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaomi We need MIX 5😡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2025678888450318336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HByoN28W4AAmgxR.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1350,
+        "media_key": "3_2025678893022068736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HByoOH-WQAAGIkZ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1350,
+        "media_key": "3_2025678897514176512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HByoOYtWYAA0O0B.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1350,
+        "media_key": "3_2025678900802531328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HByoOk9WsAA6v-2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          }
+        ],
+        "conversation_id": "2025797772759199879",
+        "created_at": "2026-02-23T05:34:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T06:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025806564599410822"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "MIX",
+              "probability": 0.7161,
+              "start": 16,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 7,
+              "id": "377228272",
+              "start": 0,
+              "username": "Xiaomi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025806564599410822",
+        "in_reply_to_user_id": "377228272",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025797772759199879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaomi We need MIX 5😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025678888450318336",
+            "3_2025678893022068736",
+            "3_2025678897514176512",
+            "3_2025678900802531328"
+          ]
+        },
+        "author_id": "377228272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          }
+        ],
+        "conversation_id": "2025797772759199879",
+        "created_at": "2026-02-23T05:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T06:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025797772759199879"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "Starlit Green",
+              "probability": 0.9511,
+              "start": 12,
+              "type": "Other"
+            },
+            {
+              "end": 75,
+              "normalized_text": "Xiaomi 17 Ultra",
+              "probability": 0.7457,
+              "start": 61,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NRTu4px8KH",
+              "end": 167,
+              "expanded_url": "https://x.com/Xiaomi/status/2025797772759199879/photo/1",
+              "media_key": "3_2025678888450318336",
+              "start": 144,
+              "url": "https://t.co/NRTu4px8KH"
+            },
+            {
+              "display_url": "pic.x.com/NRTu4px8KH",
+              "end": 167,
+              "expanded_url": "https://x.com/Xiaomi/status/2025797772759199879/photo/1",
+              "media_key": "3_2025678893022068736",
+              "start": 144,
+              "url": "https://t.co/NRTu4px8KH"
+            },
+            {
+              "display_url": "pic.x.com/NRTu4px8KH",
+              "end": 167,
+              "expanded_url": "https://x.com/Xiaomi/status/2025797772759199879/photo/1",
+              "media_key": "3_2025678897514176512",
+              "start": 144,
+              "url": "https://t.co/NRTu4px8KH"
+            },
+            {
+              "display_url": "pic.x.com/NRTu4px8KH",
+              "end": 167,
+              "expanded_url": "https://x.com/Xiaomi/status/2025797772759199879/photo/1",
+              "media_key": "3_2025678900802531328",
+              "start": 144,
+              "url": "https://t.co/NRTu4px8KH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025797772759199879",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3803,
+          "like_count": 130,
+          "quote_count": 3,
+          "reply_count": 10,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "Introducing Starlit Green.\n\nWith scattered star-like flecks, Xiaomi 17 Ultra is designed to make you feel like holding a vast universe in hand. https://t.co/NRTu4px8KH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 1347,
+          "like_count": 13750,
+          "listed_count": 4,
+          "media_count": 452,
+          "tweet_count": 4158
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2011-09-21T07:09:28.000Z",
+        "description": "The New Wave of Imagery begins. Stay tuned for #Xiaomi17Series.  For support, please contact @XiaomiSupport",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 62,
+                "start": 47,
+                "tag": "Xiaomi17Series"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 107,
+                "start": 93,
+                "username": "XiaomiSupport"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "s.mi.com/_jidM8Z0",
+                "end": 23,
+                "expanded_url": "http://s.mi.com/_jidM8Z0",
+                "start": 0,
+                "url": "https://t.co/U0ZmlXboGc"
+              }
+            ]
+          }
+        },
+        "id": "377228272",
+        "name": "Xiaomi",
+        "pinned_tweet_id": "2025495780874768853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1384363472259928071/zXb55Bwo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4342899,
+          "following_count": 364,
+          "like_count": 9925,
+          "listed_count": 3792,
+          "media_count": 9856,
+          "tweet_count": 14693
+        },
+        "url": "https://t.co/U0ZmlXboGc",
+        "username": "Xiaomi",
+        "verified": true
+      }
+    ]
+  }
+}

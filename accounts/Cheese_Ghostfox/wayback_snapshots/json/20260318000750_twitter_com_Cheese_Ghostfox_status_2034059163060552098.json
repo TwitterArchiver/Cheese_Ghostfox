@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2034059163060552098",
+    "created_at": "2026-03-18T00:07:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T01:07:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034059163060552098"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086xe/stat…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/hsn8086xe/status/2033758299544555552",
+          "start": 8,
+          "url": "https://t.co/pz1xJxUSup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034059163060552098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033758299544555552",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "无 效 规 制 https://t.co/pz1xJxUSup"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2033758262563315712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDlcXU8aIAA_--d.jpg",
+        "width": 950
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2034059163060552098",
+        "created_at": "2026-03-18T00:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T01:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034059163060552098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086xe/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/hsn8086xe/status/2033758299544555552",
+              "start": 8,
+              "url": "https://t.co/pz1xJxUSup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034059163060552098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033758299544555552",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "无 效 规 制 https://t.co/pz1xJxUSup"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033758262563315712"
+          ]
+        },
+        "author_id": "1863439189909618688",
+        "conversation_id": "2033758299544555552",
+        "created_at": "2026-03-17T04:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T05:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033758299544555552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hy8OzR8lxt",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086xe/status/2033758299544555552/photo/1",
+              "media_key": "3_2033758262563315712",
+              "start": 0,
+              "url": "https://t.co/Hy8OzR8lxt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033758299544555552",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 89,
+          "impression_count": 253223,
+          "like_count": 2032,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Hy8OzR8lxt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1072,
+          "following_count": 1401,
+          "like_count": 14818,
+          "listed_count": 5,
+          "media_count": 499,
+          "tweet_count": 4562
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35163,
+          "following_count": 351,
+          "like_count": 158,
+          "listed_count": 99,
+          "media_count": 11980,
+          "tweet_count": 12052
+        },
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

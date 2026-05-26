@@ -1,0 +1,670 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Elon Musk",
+          "id": "808713037230157824",
+          "name": "Elon Musk"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Leadership",
+          "id": "857878777191211008",
+          "name": "Leadership"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Elon Musk",
+          "id": "808713037230157824",
+          "name": "Elon Musk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tech Professionals",
+          "id": "1091420346660470784",
+          "name": "Tech personalities"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166406108623163392",
+          "name": "Business personalities"
+        }
+      }
+    ],
+    "conversation_id": "2013529444196233532",
+    "created_at": "2026-01-20T08:33:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T09:33:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013530361280790964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 4,
+          "id": "1661523610111193088",
+          "start": 0,
+          "username": "xai"
+        },
+        {
+          "end": 14,
+          "id": "44196397",
+          "start": 5,
+          "username": "elonmusk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013530361280790964",
+    "in_reply_to_user_id": "1620506107306479617",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013529444196233532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xai @elonmusk  Go make that instruction document a bit clearer!!!\n😵😵😵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "2013529444196233532",
+        "created_at": "2026-01-20T08:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T09:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013530361280790964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 4,
+              "id": "1661523610111193088",
+              "start": 0,
+              "username": "xai"
+            },
+            {
+              "end": 14,
+              "id": "44196397",
+              "start": 5,
+              "username": "elonmusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013530361280790964",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013529444196233532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xai @elonmusk  Go make that instruction document a bit clearer!!!\n😵😵😵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2013529444196233532",
+        "created_at": "2026-01-20T08:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T09:24:19.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013528000093135327",
+          "2013529444196233532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Grok is a free AI assistant designed by xAI to maximize truth and objectivity. Grok offers real-time search, image generation, trend analysis, and more.",
+              "display_url": "grok.com",
+              "end": 158,
+              "expanded_url": "http://grok.com",
+              "start": 135,
+              "status": 200,
+              "title": "Grok",
+              "unwound_url": "https://grok.com/",
+              "url": "https://t.co/nbAIo4jwY5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013529444196233532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 1343,
+                "id": "1399766153053061121",
+                "start": 1335,
+                "username": "premium"
+              },
+              {
+                "end": 2122,
+                "id": "1720665183188922368",
+                "start": 2117,
+                "username": "grok"
+              },
+              {
+                "end": 2129,
+                "id": "1661523610111193088",
+                "start": 2125,
+                "username": "xai"
+              },
+              {
+                "end": 2159,
+                "id": "1620506107306479617",
+                "start": 2143,
+                "username": "Cheese_Ghostfox"
+              },
+              {
+                "end": 2290,
+                "id": "1661523610111193088",
+                "start": 2286,
+                "username": "xai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 158,
+                "expanded_url": "http://grok.com",
+                "start": 135,
+                "url": "https://t.co/xas8UYdZRS"
+              },
+              {
+                "display_url": "help.x.com",
+                "end": 260,
+                "expanded_url": "http://help.x.com",
+                "start": 237,
+                "url": "https://t.co/4Kinvt08gv"
+              },
+              {
+                "display_url": "help.x.com",
+                "end": 292,
+                "expanded_url": "http://help.x.com",
+                "start": 269,
+                "url": "https://t.co/4Kinvt08gv"
+              },
+              {
+                "display_url": "grok.com/App",
+                "end": 366,
+                "expanded_url": "http://grok.com/App",
+                "start": 343,
+                "url": "https://t.co/cHW39I0cdk"
+              },
+              {
+                "display_url": "x.ai",
+                "end": 430,
+                "expanded_url": "http://x.ai",
+                "start": 407,
+                "url": "https://t.co/uAKIu3UTvX"
+              },
+              {
+                "display_url": "help.x.com/en/using-x/x-p…",
+                "end": 540,
+                "expanded_url": "http://help.x.com/en/using-x/x-premium",
+                "start": 517,
+                "url": "https://t.co/0D5BTZQkdd"
+              },
+              {
+                "display_url": "x.com/i/grok",
+                "end": 642,
+                "expanded_url": "http://x.com/i/grok",
+                "start": 619,
+                "url": "https://t.co/OXPnYyeHYe"
+              },
+              {
+                "display_url": "grok.com",
+                "end": 876,
+                "expanded_url": "http://grok.com",
+                "start": 853,
+                "url": "https://t.co/xas8UYdZRS"
+              },
+              {
+                "display_url": "grok.com",
+                "end": 1002,
+                "expanded_url": "http://grok.com",
+                "start": 979,
+                "url": "https://t.co/xas8UYdZRS"
+              },
+              {
+                "display_url": "x.ai",
+                "end": 1074,
+                "expanded_url": "http://x.ai",
+                "start": 1051,
+                "url": "https://t.co/uAKIu3UTvX"
+              },
+              {
+                "display_url": "grok.com/plans",
+                "end": 1102,
+                "expanded_url": "http://grok.com/plans",
+                "start": 1079,
+                "url": "https://t.co/c8H14ycu1x"
+              },
+              {
+                "display_url": "grok.com",
+                "end": 1160,
+                "expanded_url": "http://grok.com",
+                "start": 1137,
+                "url": "https://t.co/xas8UYdZRS"
+              },
+              {
+                "display_url": "grok.com/App",
+                "end": 1252,
+                "expanded_url": "http://grok.com/App",
+                "start": 1229,
+                "url": "https://t.co/cHW39I0cdk"
+              },
+              {
+                "display_url": "grok.com/App",
+                "end": 1400,
+                "expanded_url": "http://grok.com/App",
+                "start": 1377,
+                "url": "https://t.co/cHW39I0cdk"
+              },
+              {
+                "display_url": "grok.com/App",
+                "end": 1487,
+                "expanded_url": "http://grok.com/App",
+                "start": 1464,
+                "url": "https://t.co/cHW39I0cdk"
+              },
+              {
+                "display_url": "grok.com/App",
+                "end": 1694,
+                "expanded_url": "http://grok.com/App",
+                "start": 1671,
+                "url": "https://t.co/cHW39I0cdk"
+              },
+              {
+                "display_url": "grok.com",
+                "end": 1847,
+                "expanded_url": "http://grok.com",
+                "start": 1824,
+                "url": "https://t.co/xas8UYdZRS"
+              },
+              {
+                "display_url": "x.com/i/grok",
+                "end": 1926,
+                "expanded_url": "http://x.com/i/grok",
+                "start": 1903,
+                "url": "https://t.co/OXPnYyeHYe"
+              },
+              {
+                "display_url": "grok.com/App",
+                "end": 2030,
+                "expanded_url": "http://grok.com/App",
+                "start": 2007,
+                "url": "https://t.co/cHW39I0cdk"
+              }
+            ]
+          },
+          "text": "狐:\n「天啊，Xai官方连个靠谱的说明文档都没有吗?还得让你这个自家AI和我这个用户在这靠猜的。。。」\nGrok on X:\n是的，你说的太对了——xAI 和 X 的官方文档确实**非常不完整、不清晰**，尤其是关于 Grok 限额在不同平台（X 内、Grok App、https://t.co/xas8UYdZRS）和订阅阶层（基础 Premium vs Premium+ vs SuperGrok）之间的具体差异，基本靠用户自己摸索、Reddit/X 帖子反馈和零星的 https://t.co/4Kinvt08gv 页面拼凑。官方 https://t.co/4Kinvt08gv 只反复说“increased/higher usage limits on Grok”，但几乎不提 https://t.co/cHW39I0cdk 的细节，也不公布精确数字（比如 Premium 是多少 queries/2h），https://t.co/uAKIu3UTvX 官网更侧重推 SuperGrok 订阅，文档基本是 API 相关的企业级内容，对普通消费者几乎没用。\n\n### 当前（2026年1月）最可靠的官方/半官方信息总结\n- **https://t.co/0D5BTZQkdd**（X Premium 官方页面）：  \n  - 基础 **Premium**：increased usage limits on Grok（链接明确指向 https://t.co/OXPnYyeHYe，即 X 平台内的 Grok）。  \n  - **Premium+**：higher limits on Grok + “This also includes access to SuperGrok, xAI’s Premium subscription for the Grok web and mobile app.”  \n  → 这就是关键：**只有 Premium+ 明确包含 SuperGrok 访问**，能在 https://t.co/xas8UYdZRS 和 Grok App 上享最高限额（接近无限、优先计算、Think/DeepSearch 等高级模式更高配额）。基础 Premium 的“increased limits”主要限 X 平台内，App 和 https://t.co/xas8UYdZRS 往往继承很少或基本免费级，导致你看到的“等待20小时”重置（典型免费/低限额表现）。\n\n- **https://t.co/uAKIu3UTvX 官网和 https://t.co/c8H14ycu1x**：  \n  - SuperGrok（$30/月）是独立订阅，专为 https://t.co/xas8UYdZRS 和 App 设计，提供最高限额（e.g., 无限图像生成、128K+ 上下文、优先 Think 模式）。  \n  - 免费/基本访问在 https://t.co/cHW39I0cdk 上有限额（常见 10 prompts/2h 或类似），不链接 X Premium 就能明显提升，除非你是 Premium+。\n\n- 用户反馈和近期帖子（e.g., @premium 账号、Reddit）：  \n  - 基础 Premium 用户在 https://t.co/cHW39I0cdk 上常卡在低限额（像你这样），即使链接 X 账户也没同步到 SuperGrok 级别。  \n  - Premium+ 用户登录 https://t.co/cHW39I0cdk 后会显示 SuperGrok 活跃，限额大幅提升。  \n  - 限额示例（非官方，但多用户确认）：免费 ~10/2h，Premium ~50/2h（主要 X 内），Premium+/SuperGrok ~100+ 或更高，甚至无限某些功能。\n\n### 为什么这么乱？（吐槽点）\n- xAI 和 X 是“兄弟公司”但系统独立：X Premium 权益优先绑 X 平台，https://t.co/cHW39I0cdk 是 xAI 独立产品，推自己的 SuperGrok 赚钱。  \n- 文档更新慢，Elon/X 常发帖宣布变化，但 help 页面跟不上。  \n- 区域差异（你 jp IP）：定价/权益有时不同，同步 bug 更多。\n\n### 你的情况建议\n既然 App 和 https://t.co/xas8UYdZRS 都卡（和免费一样），而你只有基础 Premium：  \n- **最实用**：直接去 **X 内 Grok**（https://t.co/OXPnYyeHYe 或 X App 侧边栏）用——这里你的 Premium 提升最可靠，能发更多查询而不容易卡（用户报告远超免费）。紧急任务先移对话过去。  \n- 如果你重度依赖 https://t.co/cHW39I0cdk 的独立界面/功能：升级 SuperGrok（$30/月）或 Premium+（包含 SuperGrok）是解法，否则继续“猜”同步大概率白费。  \n- 反馈给官方：X 上 @grok 或 @xai 发帖/DM 你的截图 + @Cheese_Ghostfox，他们偶尔会回复/手动帮同步（或至少承认问题）。\n\n真的抱歉让你花钱后还得猜……这确实是 xAI/X 当前的痛点，很多用户都吐槽过。如果你试 X 内 Grok 后告诉我限额表现（能连续发多少条不卡），我可以再帮对比确认。或者你想我帮搜更多用户类似经历？\n@xai 😡😡😡"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "狐:\n「天啊，Xai官方连个靠谱的说明文档都没有吗?还得让你这个自家AI和我这个用户在这靠猜的。。。」\nGrok on X:\n是的，你说的太对了——xAI 和 X 的官方文档确实**非常不完整、不清晰**，尤其是关于 Grok 限额在不同平台（X 内、Grok App、https://t.co/nbAIo4jwY5）和订阅阶层（基础 Premium vs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨あなたの記憶で永遠に六番目になりたい!丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugHLJi"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009299914820599808/Yse9qefX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 1146,
+          "like_count": 11885,
+          "listed_count": 2,
+          "media_count": 388,
+          "tweet_count": 3603
+        },
+        "url": "https://t.co/COn8ugHLJi",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-25T00:06:30.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.ai",
+                "end": 23,
+                "expanded_url": "http://x.ai",
+                "start": 0,
+                "url": "https://t.co/pBuv1ZMyrR"
+              }
+            ]
+          }
+        },
+        "id": "1661523610111193088",
+        "name": "xAI",
+        "pinned_tweet_id": "2008629287767994437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769430779845611520/lIgjSJGU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1870086,
+          "following_count": 38,
+          "like_count": 208,
+          "listed_count": 6577,
+          "media_count": 95,
+          "tweet_count": 226
+        },
+        "url": "https://t.co/pBuv1ZMyrR",
+        "username": "xai",
+        "verified": true
+      },
+      {
+        "created_at": "2009-06-02T20:12:29.000Z",
+        "description": "",
+        "id": "44196397",
+        "name": "Elon Musk",
+        "pinned_tweet_id": "2013482798884233622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008546467615580160/57KcqsTA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232554919,
+          "following_count": 1272,
+          "like_count": 200813,
+          "listed_count": 166494,
+          "media_count": 4316,
+          "tweet_count": 94772
+        },
+        "username": "elonmusk",
+        "verified": true
+      }
+    ]
+  }
+}

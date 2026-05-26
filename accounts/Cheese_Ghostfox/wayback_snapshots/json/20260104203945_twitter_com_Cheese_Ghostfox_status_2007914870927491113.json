@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2007914870927491113",
+    "created_at": "2026-01-04T20:39:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T21:39:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007914870927491113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1976970625538572289",
+          "start": 3,
+          "username": "ccitrus0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007914870927491113",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 109
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007784944333099172",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ccitrus0: ･ ｡\n    ∴｡　\n　･ﾟ*｡. \n　　･ *ﾟ\n　 ･ ﾟ*\n     ･｡     \n   *･｡\n      *.｡ \n           ｡･\n              °*. ﾟ｡\n                      °*.…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2007914870927491113].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2007914870927491113",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2007914870927491113"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 605,
+        "media_key": "3_2007784941460008960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G90VxD0aMAAtLN_.jpg",
+        "width": 1006
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007784941460008960"
+          ]
+        },
+        "author_id": "1976970625538572289",
+        "conversation_id": "2007784944333099172",
+        "created_at": "2026-01-04T12:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T13:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007784944333099172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5nzRmlXOer",
+              "end": 235,
+              "expanded_url": "https://x.com/ccitrus0/status/2007784944333099172/photo/1",
+              "media_key": "3_2007784941460008960",
+              "start": 212,
+              "url": "https://t.co/5nzRmlXOer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007784944333099172",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 14940,
+          "like_count": 1019,
+          "quote_count": 21,
+          "reply_count": 21,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "･ ｡\n    ∴｡　\n　･ﾟ*｡. \n　　･ *ﾟ\n　 ･ ﾟ*\n     ･｡     \n   *･｡\n      *.｡ \n           ｡･\n              °*. ﾟ｡\n                      °*.\n                      ﾟ*.\n                 ｡｡ ･\n             ｡ ･ﾟ\n       ｡°*.\n   ｡*･｡ https://t.co/5nzRmlXOer"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨あなたの記憶で永遠に六番目になりたい!丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugHLJi"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006106648180580354/H1nFPBxL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 1131,
+          "like_count": 11305,
+          "listed_count": 2,
+          "media_count": 356,
+          "tweet_count": 3364
+        },
+        "url": "https://t.co/COn8ugHLJi",
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T11:19:22.000Z",
+        "description": "シトラス | Ai🚫 | 💌citrusuisfruit@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkbio.co/cccitrus",
+                "end": 23,
+                "expanded_url": "http://linkbio.co/cccitrus",
+                "start": 0,
+                "url": "https://t.co/UOaeTJnCpn"
+              }
+            ]
+          }
+        },
+        "id": "1976970625538572289",
+        "name": "citrus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977048682358095875/i0LQPzUf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21039,
+          "following_count": 34,
+          "like_count": 8518,
+          "listed_count": 40,
+          "media_count": 107,
+          "tweet_count": 994
+        },
+        "url": "https://t.co/UOaeTJnCpn",
+        "username": "ccitrus0",
+        "verified": true
+      }
+    ]
+  }
+}

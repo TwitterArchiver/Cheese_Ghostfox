@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2016154454580724134",
+    "created_at": "2026-01-27T15:25:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T16:25:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016170749976101043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1841429529413529600",
+          "start": 0,
+          "username": "LazyCataww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016170749976101043",
+    "in_reply_to_user_id": "1841429529413529600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016170338095358020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LazyCataww 其实狐的这个东西灵感来源是某加密kol出于玩笑性质的「复活BB机」www\n试着做一下，再试着拿来卖一下，别浪费了这好点子喵!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2016154454580724134",
+        "created_at": "2026-01-27T15:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T16:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016170749976101043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1841429529413529600",
+              "start": 0,
+              "username": "LazyCataww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016170749976101043",
+        "in_reply_to_user_id": "1841429529413529600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016170338095358020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LazyCataww 其实狐的这个东西灵感来源是某加密kol出于玩笑性质的「复活BB机」www\n试着做一下，再试着拿来卖一下，别浪费了这好点子喵!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841429529413529600",
+        "conversation_id": "2016154454580724134",
+        "created_at": "2026-01-27T15:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T16:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016170338095358020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016170338095358020",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016154454580724134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox 其实我更想要再复古的，磁带式那种（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨あなたの記憶で永遠に六番目になりたい!丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugHLJi"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 894,
+          "following_count": 1200,
+          "like_count": 12102,
+          "listed_count": 2,
+          "media_count": 397,
+          "tweet_count": 3686
+        },
+        "url": "https://t.co/COn8ugHLJi",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-02T10:46:34.000Z",
+        "description": "🐱",
+        "id": "1841429529413529600",
+        "name": "lazy🐱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012741981768908800/HAiqEr_H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 236,
+          "like_count": 3695,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1202
+        },
+        "username": "LazyCataww",
+        "verified": false
+      }
+    ]
+  }
+}

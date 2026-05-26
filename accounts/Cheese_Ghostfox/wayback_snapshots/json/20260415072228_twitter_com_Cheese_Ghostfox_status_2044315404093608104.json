@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2044274083131731971"
+      ],
+      "media_source_tweet_id": [
+        "2044274127239098751"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2044315404093608104",
+    "created_at": "2026-04-15T07:22:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T08:22:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044315404093608104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1440268407249649668",
+          "start": 3,
+          "username": "sjshb57"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9k83wWCbrh",
+          "end": 52,
+          "expanded_url": "https://x.com/sjshb57/status/2044274127239098751/video/1",
+          "media_key": "7_2044274083131731971",
+          "start": 29,
+          "url": "https://t.co/9k83wWCbrh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044315404093608104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044274127239098751",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sjshb57: 基于狐之前版本的改了下ui.. https://t.co/9k83wWCbrh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22933,
+        "height": 720,
+        "media_key": "7_2044274083131731971",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2044274083131731971/pu/img/D15SojHAAbqAYu30.jpg",
+        "public_metrics": {
+          "view_count": 15
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044274083131731971/pu/vid/avc1/450x270/I-LYEOiPbe6paC-I.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044274083131731971/pu/vid/avc1/602x360/HIfYtCVMpnUpPDtc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044274083131731971/pu/vid/avc1/1204x720/yPo7s-Vuk9jx3lp1.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2044274083131731971/pu/pl/U_8fiQUpTZHXEJfQ.m3u8?tag=12"
+          }
+        ],
+        "width": 1204
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2044274083131731971"
+          ],
+          "media_source_tweet_id": [
+            "2044274127239098751"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2044315404093608104",
+        "created_at": "2026-04-15T07:22:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T08:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044315404093608104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1440268407249649668",
+              "start": 3,
+              "username": "sjshb57"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9k83wWCbrh",
+              "end": 52,
+              "expanded_url": "https://x.com/sjshb57/status/2044274127239098751/video/1",
+              "media_key": "7_2044274083131731971",
+              "start": 29,
+              "url": "https://t.co/9k83wWCbrh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044315404093608104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044274127239098751",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sjshb57: 基于狐之前版本的改了下ui.. https://t.co/9k83wWCbrh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2044274083131731971"
+          ]
+        },
+        "author_id": "1440268407249649668",
+        "conversation_id": "2044274127239098751",
+        "created_at": "2026-04-15T04:38:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T05:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044274127239098751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9k83wWCbrh",
+              "end": 39,
+              "expanded_url": "https://x.com/sjshb57/status/2044274127239098751/video/1",
+              "media_key": "7_2044274083131731971",
+              "start": 16,
+              "url": "https://t.co/9k83wWCbrh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044274127239098751",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "基于狐之前版本的改了下ui.. https://t.co/9k83wWCbrh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1382,
+          "following_count": 1463,
+          "like_count": 16703,
+          "listed_count": 4,
+          "media_count": 577,
+          "tweet_count": 5276
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-21T10:55:42.000Z",
+        "description": "下雪了，我们的影子重叠在一起，那是最近的距离",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sjshb57",
+                "end": 23,
+                "expanded_url": "https://github.com/sjshb57",
+                "start": 0,
+                "url": "https://t.co/exd5BvIRMs"
+              }
+            ]
+          }
+        },
+        "id": "1440268407249649668",
+        "location": "🌏🌐",
+        "name": "拜託",
+        "pinned_tweet_id": "2042185350140014617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043709113801318400/w2Ah0L0Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 350,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 60
+        },
+        "url": "https://t.co/exd5BvIRMs",
+        "username": "sjshb57",
+        "verified": false
+      }
+    ]
+  }
+}

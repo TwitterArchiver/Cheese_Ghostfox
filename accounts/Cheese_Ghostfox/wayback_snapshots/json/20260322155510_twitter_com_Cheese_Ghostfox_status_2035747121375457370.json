@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2035722254190063700",
+    "created_at": "2026-03-22T15:55:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T16:55:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035747121375457370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1449738313540071431",
+          "start": 0,
+          "username": "ez4y2f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035747121375457370",
+    "in_reply_to_user_id": "1449738313540071431",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035746815753028031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ez4y2f 尿味的\n巯基化合物的特性，不得不品尝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2035722254190063700",
+        "created_at": "2026-03-22T15:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T16:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035747121375457370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1449738313540071431",
+              "start": 0,
+              "username": "ez4y2f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035747121375457370",
+        "in_reply_to_user_id": "1449738313540071431",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035746815753028031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ez4y2f 尿味的\n巯基化合物的特性，不得不品尝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1449738313540071431",
+        "conversation_id": "2035722254190063700",
+        "created_at": "2026-03-22T15:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T16:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035746815753028031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035746815753028031",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035722254190063700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox NAC片也是答辩味（？）似乎这个物质特有的味道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1098,
+          "following_count": 1404,
+          "like_count": 14960,
+          "listed_count": 5,
+          "media_count": 506,
+          "tweet_count": 4631
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-17T14:05:35.000Z",
+        "description": "D3bug the w0r1d | 狐狗。| they/them | 不登校 |  成分复杂 欢迎来狐狸窝玩 | 🌈🦊🐾🎵💻💡✂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "y2.fo",
+                "end": 23,
+                "expanded_url": "https://y2.fo",
+                "start": 0,
+                "url": "https://t.co/X1cdlKbipY"
+              }
+            ]
+          }
+        },
+        "id": "1449738313540071431",
+        "location": "Foxnest",
+        "name": "ez4y2f",
+        "pinned_tweet_id": "2030757444847333657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931088714023006209/m_45JIUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 99,
+          "like_count": 179,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 80
+        },
+        "url": "https://t.co/X1cdlKbipY",
+        "username": "ez4y2f",
+        "verified": true
+      }
+    ]
+  }
+}

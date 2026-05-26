@@ -1,0 +1,763 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1565478810442612736",
+          "name": "Zutomayo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1565478810442612736",
+          "name": "Zutomayo"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+          "id": "854954654546907136",
+          "name": "Persona"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+          "id": "854954654546907136",
+          "name": "Persona"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1339381554087223297",
+          "name": "Character design"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898900390707204",
+          "name": "JRPGs"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1565478810442612736",
+          "name": "Zutomayo"
+        }
+      }
+    ],
+    "conversation_id": "2024833680892735669",
+    "created_at": "2026-02-20T13:09:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T14:09:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024833680892735669"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 39,
+          "normalized_text": "ペルソナ３ リロード",
+          "probability": 0.3728,
+          "start": 30,
+          "type": "Other"
+        },
+        {
+          "end": 93,
+          "normalized_text": "P3R",
+          "probability": 0.4777,
+          "start": 91,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "365377631",
+          "start": 3,
+          "username": "p_kouhou"
+        }
+      ],
+      "urls": [
+        {
+          "description": "「ずっと真夜中でいいのに。」の人気曲「海馬成長痛」と、『ペルソナ３ リロード』の人気曲「Mass Destruction -Reload-」をマッシュアップした楽曲が登場！公式タイアップのために描き下ろされたオリジナルアニメーションと合わせて、ぜひお楽しみください。------------------------...",
+          "display_url": "youtube.com/watch?v=3ytqnt…",
+          "end": 137,
+          "expanded_url": "https://youtube.com/watch?v=3ytqnteXfjw",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2022874894233669635/iSvDTp08?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2022874894233669635/iSvDTp08?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 114,
+          "status": 200,
+          "title": "海馬成長痛 × Mass Destruction -Reload- マッシュアップMV",
+          "unwound_url": "https://www.youtube.com/watch?v=3ytqnteXfjw&si=X-GKgdsgYC2RDMNh",
+          "url": "https://t.co/hwf8N9srjb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024833680892735669",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2125
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024620017518596144",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @p_kouhou: ✨キャラクター設定画公開✨\n\n『ペルソナ３ リロード』×\n「ずっと真夜中でいいのに。」\n\nマッシュアップMVに登場する\n”にらちゃん＆うにぐりくん”と\n『P3R』主人公の設定画だ！\n\n🔽MVはこちら\nhttps://t.co/hwf8N9srjb h…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2024377217627934720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBgIWpQbUAAVrBX.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2024377224380792832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBgIXCabwAA9Uew.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2024377230915489798",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBgIXawbUAYYqfh.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2024377239031455744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBgIX4_bIAAnr6y.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1565478810442612736",
+              "name": "Zutomayo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1565478810442612736",
+              "name": "Zutomayo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339381554087223297",
+              "name": "Character design"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898900390707204",
+              "name": "JRPGs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1565478810442612736",
+              "name": "Zutomayo"
+            }
+          }
+        ],
+        "conversation_id": "2024833680892735669",
+        "created_at": "2026-02-20T13:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T14:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024833680892735669"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 39,
+              "normalized_text": "ペルソナ３ リロード",
+              "probability": 0.3728,
+              "start": 30,
+              "type": "Other"
+            },
+            {
+              "end": 93,
+              "normalized_text": "P3R",
+              "probability": 0.4777,
+              "start": 91,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "365377631",
+              "start": 3,
+              "username": "p_kouhou"
+            }
+          ],
+          "urls": [
+            {
+              "description": "「ずっと真夜中でいいのに。」の人気曲「海馬成長痛」と、『ペルソナ３ リロード』の人気曲「Mass Destruction -Reload-」をマッシュアップした楽曲が登場！公式タイアップのために描き下ろされたオリジナルアニメーションと合わせて、ぜひお楽しみください。------------------------...",
+              "display_url": "youtube.com/watch?v=3ytqnt…",
+              "end": 137,
+              "expanded_url": "https://youtube.com/watch?v=3ytqnteXfjw",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2022874894233669635/iSvDTp08?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2022874894233669635/iSvDTp08?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 114,
+              "status": 200,
+              "title": "海馬成長痛 × Mass Destruction -Reload- マッシュアップMV",
+              "unwound_url": "https://www.youtube.com/watch?v=3ytqnteXfjw&si=X-GKgdsgYC2RDMNh",
+              "url": "https://t.co/hwf8N9srjb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024833680892735669",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2125
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024620017518596144",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @p_kouhou: ✨キャラクター設定画公開✨\n\n『ペルソナ３ リロード』×\n「ずっと真夜中でいいのに。」\n\nマッシュアップMVに登場する\n”にらちゃん＆うにぐりくん”と\n『P3R』主人公の設定画だ！\n\n🔽MVはこちら\nhttps://t.co/hwf8N9srjb h…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024377217627934720",
+            "3_2024377224380792832",
+            "3_2024377230915489798",
+            "3_2024377239031455744"
+          ]
+        },
+        "author_id": "365377631",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1565478810442612736",
+              "name": "Zutomayo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1565478810442612736",
+              "name": "Zutomayo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series.\n\nThe Video Game domain query only tracks conversation about the game series whereas the Multimedia Franchise query contains all Persona conversation.",
+              "id": "854954654546907136",
+              "name": "Persona"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339381554087223297",
+              "name": "Character design"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898900390707204",
+              "name": "JRPGs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1565478810442612736",
+              "name": "Zutomayo"
+            }
+          }
+        ],
+        "conversation_id": "2024620017518596144",
+        "created_at": "2026-02-19T23:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T00:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024620017518596144"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "ペルソナ３ リロード",
+              "probability": 0.4568,
+              "start": 16,
+              "type": "Other"
+            },
+            {
+              "end": 41,
+              "normalized_text": "ずっと真夜中でいいのに。",
+              "probability": 0.3398,
+              "start": 30,
+              "type": "Other"
+            },
+            {
+              "end": 79,
+              "normalized_text": "P3R",
+              "probability": 0.5086,
+              "start": 77,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "「ずっと真夜中でいいのに。」の人気曲「海馬成長痛」と、『ペルソナ３ リロード』の人気曲「Mass Destruction -Reload-」をマッシュアップした楽曲が登場！公式タイアップのために描き下ろされたオリジナルアニメーションと合わせて、ぜひお楽しみください。------------------------...",
+              "display_url": "youtube.com/watch?v=3ytqnt…",
+              "end": 123,
+              "expanded_url": "https://youtube.com/watch?v=3ytqnteXfjw",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2022874894233669635/iSvDTp08?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2022874894233669635/iSvDTp08?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 100,
+              "status": 200,
+              "title": "海馬成長痛 × Mass Destruction -Reload- マッシュアップMV",
+              "unwound_url": "https://www.youtube.com/watch?v=3ytqnteXfjw&si=X-GKgdsgYC2RDMNh",
+              "url": "https://t.co/hwf8N9srjb"
+            },
+            {
+              "display_url": "pic.x.com/cWwR95j60J",
+              "end": 147,
+              "expanded_url": "https://x.com/p_kouhou/status/2024620017518596144/photo/1",
+              "media_key": "3_2024377217627934720",
+              "start": 124,
+              "url": "https://t.co/cWwR95j60J"
+            },
+            {
+              "display_url": "pic.x.com/cWwR95j60J",
+              "end": 147,
+              "expanded_url": "https://x.com/p_kouhou/status/2024620017518596144/photo/1",
+              "media_key": "3_2024377224380792832",
+              "start": 124,
+              "url": "https://t.co/cWwR95j60J"
+            },
+            {
+              "display_url": "pic.x.com/cWwR95j60J",
+              "end": 147,
+              "expanded_url": "https://x.com/p_kouhou/status/2024620017518596144/photo/1",
+              "media_key": "3_2024377230915489798",
+              "start": 124,
+              "url": "https://t.co/cWwR95j60J"
+            },
+            {
+              "display_url": "pic.x.com/cWwR95j60J",
+              "end": 147,
+              "expanded_url": "https://x.com/p_kouhou/status/2024620017518596144/photo/1",
+              "media_key": "3_2024377239031455744",
+              "start": 124,
+              "url": "https://t.co/cWwR95j60J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024620017518596144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1307,
+          "impression_count": 247250,
+          "like_count": 11193,
+          "quote_count": 86,
+          "reply_count": 16,
+          "retweet_count": 2125
+        },
+        "reply_settings": "everyone",
+        "text": "✨キャラクター設定画公開✨\n\n『ペルソナ３ リロード』×\n「ずっと真夜中でいいのに。」\n\nマッシュアップMVに登場する\n”にらちゃん＆うにぐりくん”と\n『P3R』主人公の設定画だ！\n\n🔽MVはこちら\nhttps://t.co/hwf8N9srjb https://t.co/cWwR95j60J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨あなたの記憶で永遠に六番目になりたい!丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1011,
+          "following_count": 1347,
+          "like_count": 13655,
+          "listed_count": 4,
+          "media_count": 444,
+          "tweet_count": 4124
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2011-08-31T10:20:51.000Z",
+        "description": "アトラスの贈るRPGシリーズ『ペルソナ』の情報をお届けする公式アカウントです。『ペルソナ３ リロード』Nintendo Switch 2 版 2025年10月23日（木）発売!!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "p-ch.jp",
+                "end": 23,
+                "expanded_url": "http://p-ch.jp/",
+                "start": 0,
+                "url": "https://t.co/RoZMdPGFac"
+              }
+            ]
+          }
+        },
+        "id": "365377631",
+        "location": "四軒茶屋",
+        "name": "モルガナ_ペルソナ広報",
+        "pinned_tweet_id": "2024684759331590571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1667950588007698433/Qm_2uTel_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466182,
+          "following_count": 18,
+          "like_count": 116,
+          "listed_count": 3432,
+          "media_count": 3518,
+          "tweet_count": 13073
+        },
+        "url": "https://t.co/RoZMdPGFac",
+        "username": "p_kouhou",
+        "verified": true
+      }
+    ]
+  }
+}

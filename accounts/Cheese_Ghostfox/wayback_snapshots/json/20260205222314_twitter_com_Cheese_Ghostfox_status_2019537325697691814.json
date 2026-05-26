@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Information Privacy",
+          "id": "1088443224425807872",
+          "name": "Information Privacy Worldwide"
+        }
+      }
+    ],
+    "conversation_id": "2019537325697691814",
+    "created_at": "2026-02-05T22:23:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T23:23:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019537325697691814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1652869746227040256",
+          "start": 3,
+          "username": "immersivetran"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019537325697691814",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019276712308305941",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @immersivetran: 模型训练崩了可以重来，人崩了怎么重启？\n\n发现一个看得脊背发凉，却又舍不得关掉的网站：Hacker News Burnout Guide\n\n一个专门收集“硅谷老哥血泪史”的文档库，聚焦程序员职业生涯中最致命的杀手：枯竭（Burnout）。…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1658,
+        "media_key": "3_2019276699188539392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAXpdZZbMAAbyuF.jpg",
+        "width": 2644
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Privacy",
+              "id": "1088443224425807872",
+              "name": "Information Privacy Worldwide"
+            }
+          }
+        ],
+        "conversation_id": "2019537325697691814",
+        "created_at": "2026-02-05T22:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T23:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019537325697691814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1652869746227040256",
+              "start": 3,
+              "username": "immersivetran"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019537325697691814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019276712308305941",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @immersivetran: 模型训练崩了可以重来，人崩了怎么重启？\n\n发现一个看得脊背发凉，却又舍不得关掉的网站：Hacker News Burnout Guide\n\n一个专门收集“硅谷老哥血泪史”的文档库，聚焦程序员职业生涯中最致命的杀手：枯竭（Burnout）。…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019276699188539392"
+          ]
+        },
+        "author_id": "1652869746227040256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Privacy",
+              "id": "1088443224425807872",
+              "name": "Information Privacy Worldwide"
+            }
+          }
+        ],
+        "conversation_id": "2019276712308305941",
+        "created_at": "2026-02-05T05:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T06:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019276712308305941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BgCFUU3GGq",
+              "end": 159,
+              "expanded_url": "https://x.com/immersivetran/status/2019276712308305941/photo/1",
+              "media_key": "3_2019276699188539392",
+              "start": 136,
+              "url": "https://t.co/BgCFUU3GGq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019276712308305941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "news.ycombinator.com/item?id=384333…",
+                "end": 801,
+                "expanded_url": "https://news.ycombinator.com/item?id=38433302",
+                "start": 778,
+                "url": "https://t.co/Ky20KS9MaH"
+              }
+            ]
+          },
+          "text": "模型训练崩了可以重来，人崩了怎么重启？\n\n发现一个看得脊背发凉，却又舍不得关掉的网站：Hacker News Burnout Guide\n\n一个专门收集“硅谷老哥血泪史”的文档库，聚焦程序员职业生涯中最致命的杀手：枯竭（Burnout）。\n\n这是硅谷老哥们的血泪自救指南 ，它不是教你如何年薪百万，也不是教你如何带团队，而是教你在灵魂烧成灰之前，如何完成一次成功的“赛博逃生”。\n\n这里有几百位资深工程师血淋淋的复盘。\n\n他们会详细描述那种“确诊”瞬间：面对一行写了三年的代码突然感到生理性作呕，或者盯着屏幕半小时，却发现大脑已经无法理解逻辑嵌套。\n\n更硬核的是，它提供的不是“鸡汤”，而是“处方”。\n\n你以为自救就是请假去大理？这组指南会告诉你那叫逃避。\n\n它给出的战术极其具体且反直觉：\n\n1️⃣ “只做 Ticket 不思考”： 暂时关闭创造力，把自己降级成执行机器，给过载的大脑降频。\n2️⃣ “物理隔离”： 彻底断开一切带屏幕的设备，去感受真实的重力和光影。\n3️⃣ “职业重构”： 认真和你讨论降薪去“养老厂”或转岗做 PM 的实操可能性，帮你重新算一笔账——代码在人生里的权重，到底值不值得你拿命去填。\n\n对每一个还在“卷”的互联网人来说，最大的爽点其实是：它给了你一个“重启”的许可。\n\n我们总觉得模型训练崩了可以调参重来，却忘了人脑不是显卡，烧坏了真的没法换。\n\n你跟着这些老哥们的自救路径走，从一个案例读到另一个建议，很自然就会拼出一张“人生避坑图”。\n\n你可以把它当作一份“防沉迷手册”，没事就翻一翻。\n\n不用非得等崩溃了才看，而是在每一个想摔键盘的深夜，提醒自己：你首先是一个活生生的人，其次才是那台产出代码的机器。\n\n等你关掉网页，走出写字楼看到路边的树影，那种重新拿回人生掌控权的底气，其实就藏在这些硅谷老哥的“认怂”经验里。\nhttps://t.co/Ky20KS9MaH"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 255,
+          "impression_count": 28509,
+          "like_count": 228,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "模型训练崩了可以重来，人崩了怎么重启？\n\n发现一个看得脊背发凉，却又舍不得关掉的网站：Hacker News Burnout Guide\n\n一个专门收集“硅谷老哥血泪史”的文档库，聚焦程序员职业生涯中最致命的杀手：枯竭（Burnout）。\n\n这是硅谷老哥们的血泪自救指南 https://t.co/BgCFUU3GGq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨あなたの記憶で永遠に六番目になりたい!丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 1234,
+          "like_count": 12877,
+          "listed_count": 4,
+          "media_count": 419,
+          "tweet_count": 3897
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-01T02:57:26.000Z",
+        "description": "AI 驱动的双语翻译扩展，千万用户之选，2024 年 Chrome 最佳扩展 & Edge 官方推荐，全平台主流浏览器支持。安装👉   https://t.co/ZWKdqdwWDL｜升级为 Pro 👉 https://t.co/ZSkee7xEdw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "immersivetranslate.com",
+                "end": 91,
+                "expanded_url": "https://immersivetranslate.com/",
+                "start": 68,
+                "url": "https://t.co/ZWKdqdwWDL"
+              },
+              {
+                "display_url": "immersivetranslate.com/pricing/",
+                "end": 125,
+                "expanded_url": "https://immersivetranslate.com/pricing/",
+                "start": 102,
+                "url": "https://t.co/ZSkee7xEdw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "immersivetranslate.com",
+                "end": 23,
+                "expanded_url": "https://immersivetranslate.com/",
+                "start": 0,
+                "url": "https://t.co/ZWKdqdwWDL"
+              }
+            ]
+          }
+        },
+        "id": "1652869746227040256",
+        "name": "沉浸式翻译",
+        "pinned_tweet_id": "2018183550487744736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014635262534680578/668bCwx8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31322,
+          "following_count": 102,
+          "like_count": 412,
+          "listed_count": 171,
+          "media_count": 511,
+          "tweet_count": 1032
+        },
+        "url": "https://t.co/ZWKdqdwWDL",
+        "username": "immersivetran",
+        "verified": true
+      }
+    ]
+  }
+}

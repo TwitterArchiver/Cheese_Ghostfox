@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2011477540423290880"
+      ],
+      "media_source_tweet_id": [
+        "2011725051859816731"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2011762087442456646",
+    "created_at": "2026-01-15T11:27:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T12:27:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011762087442456646"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 27,
+          "tag": "重音テト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1222372700221362176",
+          "start": 3,
+          "username": "degarashi_01"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6toxvgRP4k",
+          "end": 56,
+          "expanded_url": "https://x.com/degarashi_01/status/2011725051859816731/photo/1",
+          "media_key": "3_2011477540423290880",
+          "start": 33,
+          "url": "https://t.co/6toxvgRP4k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011762087442456646",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 77
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011725051859816731",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @degarashi_01: 20260115 #重音テト https://t.co/6toxvgRP4k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 847,
+        "media_key": "3_2011477540423290880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-o0Km6bUAAFmgs.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011477540423290880"
+          ],
+          "media_source_tweet_id": [
+            "2011725051859816731"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2011762087442456646",
+        "created_at": "2026-01-15T11:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T12:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011762087442456646"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 27,
+              "tag": "重音テト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1222372700221362176",
+              "start": 3,
+              "username": "degarashi_01"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6toxvgRP4k",
+              "end": 56,
+              "expanded_url": "https://x.com/degarashi_01/status/2011725051859816731/photo/1",
+              "media_key": "3_2011477540423290880",
+              "start": 33,
+              "url": "https://t.co/6toxvgRP4k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011762087442456646",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011725051859816731",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @degarashi_01: 20260115 #重音テト https://t.co/6toxvgRP4k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011477540423290880"
+          ]
+        },
+        "author_id": "1222372700221362176",
+        "conversation_id": "2011725051859816731",
+        "created_at": "2026-01-15T09:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T10:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011725051859816731"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 9,
+              "tag": "重音テト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6toxvgRP4k",
+              "end": 38,
+              "expanded_url": "https://x.com/degarashi_01/status/2011725051859816731/photo/1",
+              "media_key": "3_2011477540423290880",
+              "start": 15,
+              "url": "https://t.co/6toxvgRP4k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011725051859816731",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 2932,
+          "like_count": 620,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "20260115 #重音テト https://t.co/6toxvgRP4k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨あなたの記憶で永遠に六番目になりたい!丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugHLJi"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009299914820599808/Yse9qefX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 860,
+          "following_count": 1142,
+          "like_count": 11755,
+          "listed_count": 2,
+          "media_count": 375,
+          "tweet_count": 3542
+        },
+        "url": "https://t.co/COn8ugHLJi",
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-29T04:15:46.000Z",
+        "description": "でがらし｜イラスト、アニメーション\n新規依頼→4月〜\n依頼相談：degarashi01@gmail.com\nhttps://t.co/woRXDTAAX5\n趣味垢→@nakasa_illust",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 82,
+                "username": "nakasa_illust"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "fori.io/degarashi",
+                "end": 77,
+                "expanded_url": "https://fori.io/degarashi",
+                "start": 54,
+                "url": "https://t.co/woRXDTAAX5"
+              }
+            ]
+          }
+        },
+        "id": "1222372700221362176",
+        "name": "Degarashi",
+        "pinned_tweet_id": "2004565627055591453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1656074778518913024/RzAinlrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6083,
+          "following_count": 2078,
+          "like_count": 114466,
+          "listed_count": 44,
+          "media_count": 1065,
+          "tweet_count": 5450
+        },
+        "username": "degarashi_01",
+        "verified": false
+      }
+    ]
+  }
+}

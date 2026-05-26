@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2046320883242029164",
+    "created_at": "2026-04-21T00:45:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T01:45:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046389766967669228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1653207153044520960",
+          "start": 0,
+          "username": "AsilenA123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046389766967669228",
+    "in_reply_to_user_id": "1653207153044520960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046380709649281263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsilenA123 立创商城要多少订多少,冗余两套\n成本确实高,但是也确实方便\n比自己在家攒出一整个常用元件库要节省太多了\n所以等快递时间很长(x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2046320883242029164",
+        "created_at": "2026-04-21T00:45:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T01:45:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046389766967669228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1653207153044520960",
+              "start": 0,
+              "username": "AsilenA123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046389766967669228",
+        "in_reply_to_user_id": "1653207153044520960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046380709649281263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsilenA123 立创商城要多少订多少,冗余两套\n成本确实高,但是也确实方便\n比自己在家攒出一整个常用元件库要节省太多了\n所以等快递时间很长(x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653207153044520960",
+        "conversation_id": "2046320883242029164",
+        "created_at": "2026-04-21T00:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T01:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046380709649281263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046380709649281263",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046323185919136131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox 和软件环境相对应的产出硬件mvp的环境太难搭了。软件里调一个库就行，硬件可是要一整个元器件库和完善的分类检索体系"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1386,
+          "following_count": 1475,
+          "like_count": 16943,
+          "listed_count": 4,
+          "media_count": 590,
+          "tweet_count": 5379
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-02T01:18:09.000Z",
+        "description": "今年工作|嵌入式学习中|南京|温州|爱好coding",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nicoletteblog.vercel.app",
+                "end": 23,
+                "expanded_url": "https://nicoletteblog.vercel.app/",
+                "start": 0,
+                "url": "https://t.co/VeBAi2f1TS"
+              }
+            ]
+          }
+        },
+        "id": "1653207153044520960",
+        "location": "暗淡蓝点",
+        "name": "Nicolette86132",
+        "pinned_tweet_id": "1904980730620592600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788453636206723072/RXoB8MTj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 961,
+          "like_count": 33968,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 3218
+        },
+        "url": "https://t.co/VeBAi2f1TS",
+        "username": "AsilenA123",
+        "verified": false
+      }
+    ]
+  }
+}

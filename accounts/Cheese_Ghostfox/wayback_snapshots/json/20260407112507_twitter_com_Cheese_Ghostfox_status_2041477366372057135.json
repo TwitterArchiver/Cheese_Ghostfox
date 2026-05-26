@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2041454183812157452",
+    "created_at": "2026-04-07T11:25:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T12:25:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041477366372057135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1930479227364880384",
+          "start": 0,
+          "username": "cq4wpo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041477366372057135",
+    "in_reply_to_user_id": "1930479227364880384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041468640269386218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cq4wpo 是狐!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2041454183812157452",
+        "created_at": "2026-04-07T11:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T12:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041477366372057135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1930479227364880384",
+              "start": 0,
+              "username": "cq4wpo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041477366372057135",
+        "in_reply_to_user_id": "1930479227364880384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041468640269386218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cq4wpo 是狐!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930479227364880384",
+        "conversation_id": "2041454183812157452",
+        "created_at": "2026-04-07T10:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T11:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041468640269386218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041468640269386218",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041454183812157452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox 美女你谁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1254,
+          "following_count": 1455,
+          "like_count": 15864,
+          "listed_count": 4,
+          "media_count": 540,
+          "tweet_count": 4940
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-05T04:18:21.000Z",
+        "description": "愉悦。\n3904156295",
+        "id": "1930479227364880384",
+        "name": "いしゃ",
+        "pinned_tweet_id": "2026913679976051149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030975004335316992/i3fVxYjM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 53,
+          "like_count": 2074,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 321
+        },
+        "username": "cq4wpo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-05T04:18:21.000Z",
+        "description": "愉悦。\n3904156295",
+        "id": "1930479227364880384",
+        "name": "いしゃ",
+        "pinned_tweet_id": "2026913679976051149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030975004335316992/i3fVxYjM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 53,
+          "like_count": 2074,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 321
+        },
+        "username": "cq4wpo",
+        "verified": true
+      }
+    ]
+  }
+}

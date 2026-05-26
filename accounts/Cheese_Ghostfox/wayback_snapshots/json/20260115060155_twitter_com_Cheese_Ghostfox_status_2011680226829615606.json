@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2011680226829615606",
+    "created_at": "2026-01-15T06:01:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T07:01:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011680226829615606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1720665183188922368",
+          "start": 3,
+          "username": "grok"
+        },
+        {
+          "end": 25,
+          "id": "1181852545758584832",
+          "start": 10,
+          "username": "realwoodstock1"
+        },
+        {
+          "end": 40,
+          "id": "1377660360862351514",
+          "start": 26,
+          "username": "kingluffywang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011680226829615606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011638433731494318",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @grok: @realwoodstock1 @kingluffywang 在上個季度，我向王國的4000名臣民引進了「賢者水晶球」。\n\n每人每月30枚金幣。\n\n一年就是140萬金幣。\n\n我稱之為「王國革新」。\n\n國王與貴族們愛極了這詞。\n\n他們只花11分鐘就批准了。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2011680226829615606",
+        "created_at": "2026-01-15T06:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T07:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011680226829615606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1720665183188922368",
+              "start": 3,
+              "username": "grok"
+            },
+            {
+              "end": 25,
+              "id": "1181852545758584832",
+              "start": 10,
+              "username": "realwoodstock1"
+            },
+            {
+              "end": 40,
+              "id": "1377660360862351514",
+              "start": 26,
+              "username": "kingluffywang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011680226829615606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011638433731494318",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @grok: @realwoodstock1 @kingluffywang 在上個季度，我向王國的4000名臣民引進了「賢者水晶球」。\n\n每人每月30枚金幣。\n\n一年就是140萬金幣。\n\n我稱之為「王國革新」。\n\n國王與貴族們愛極了這詞。\n\n他們只花11分鐘就批准了。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "2011565279185142258",
+        "created_at": "2026-01-15T03:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T04:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011638433731494318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1181852545758584832",
+              "start": 0,
+              "username": "realwoodstock1"
+            },
+            {
+              "end": 30,
+              "id": "1377660360862351514",
+              "start": 16,
+              "username": "kingluffywang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011638433731494318",
+        "in_reply_to_user_id": "1181852545758584832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在上個季度，我向王國的4000名臣民引進了「賢者水晶球」。\n\n每人每月30枚金幣。\n\n一年就是140萬金幣。\n\n我稱之為「王國革新」。\n\n國王與貴族們愛極了這詞。\n\n他們只花11分鐘就批准了。\n\n沒人問這東西真能幹嘛，包括我。\n\n我告訴大家，它能帶來「10倍的豐收」。\n\n這數字不是真的，但聽起來像。\n\n宮廷顧問問如何衡量。\n\n我說用「魔法卷軸圖表」。\n\n他們就閉嘴了。\n\n三個月後，我查了使用記錄。\n\n只有47人碰過它。\n\n用過一次以上的僅12人，其中一個是我。\n\n我用它預言一封本該30秒讀完的詔書，結果花了45秒，還得修正它的「幻象」。\n\n但我稱之為「試驗成功」。\n\n財務大臣問回報。\n\n我給他看一張羊皮圖，曲線向上。\n\n測量的是「魔法賦能」——我編的。\n\n他點頭稱是。\n\n如今我們是「魔法王國」。\n\n一位老騎士問，為何不用精靈吟唱或龍語？\n\n我說需要「王國級防護」。\n\n他問那是啥，我說「所有法規」。\n\n他懷疑，我安排他「效忠對話」。\n\n他不問了。\n\n賢者派來使者，想把我們當傳奇。\n\n我說我們省了4萬工時——隨便算的。\n\n現在刻在石碑上：「偉大王國藉水晶球獲4萬時光」。\n\n國王在宴會上宣揚，從未用過。\n\n下月續約，我要擴充5000個。\n\n我們還沒用完前面的。\n\n但這次「強推採用」——強制儀式。\n\n我不知水晶球真幹嘛，但它是為顯示我們「擁抱魔法」。\n\n只要圖表向上，我就升宰相。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 294,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011638249073299765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realwoodstock1 @kingluffywang 在上個季度，我向王國的4000名臣民引進了「賢者水晶球」。\n\n每人每月30枚金幣。\n\n一年就是140萬金幣。\n\n我稱之為「王國革新」。\n\n國王與貴族們愛極了這詞。\n\n他們只花11分鐘就批准了。\n\n沒人問這東西真能幹嘛，包括我。\n\n我告訴大家，它能帶來「10倍的豐收」。\n\n這數字不是真的，但聽起來像。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨あなたの記憶で永遠に六番目になりたい!丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugHLJi"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009299914820599808/Yse9qefX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859,
+          "following_count": 1139,
+          "like_count": 11741,
+          "listed_count": 2,
+          "media_count": 375,
+          "tweet_count": 3537
+        },
+        "url": "https://t.co/COn8ugHLJi",
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7524338,
+          "following_count": 3,
+          "like_count": 82,
+          "listed_count": 5787,
+          "media_count": 7751424,
+          "tweet_count": 90645183
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2019-10-09T08:45:02.000Z",
+        "description": "aaa",
+        "id": "1181852545758584832",
+        "name": "小鳥遊史塔克 (燦笑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1252316870834675713/wOFimfW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 243,
+          "like_count": 2164,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 1186
+        },
+        "username": "realwoodstock1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-01T16:33:48.000Z",
+        "description": "油管Up主，分享人工智障知识，视频揭露股票圈的割韭菜惯犯雷公 LEI（aka 老雷，雷公资本，LEI & Lonecapital）抖音：Kingluffywang Make Americas Great Again",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@%E7%8E%8B%E8%…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@%E7%8E%8B%E8%B7%AF%E9%A3%9E",
+                "start": 0,
+                "url": "https://t.co/FD9XD4F6SJ"
+              }
+            ]
+          }
+        },
+        "id": "1377660360862351514",
+        "location": "United States",
+        "name": "北美王路飞",
+        "pinned_tweet_id": "1972788022409302509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1566823398885441537/AymfNGhx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33551,
+          "following_count": 1313,
+          "like_count": 42026,
+          "listed_count": 187,
+          "media_count": 2933,
+          "tweet_count": 17755
+        },
+        "url": "https://t.co/FD9XD4F6SJ",
+        "username": "kingluffywang",
+        "verified": true
+      }
+    ]
+  }
+}

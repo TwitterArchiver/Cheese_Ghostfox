@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2001374350147194935",
+    "created_at": "2025-12-17T19:30:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T20:30:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001374350147194935"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/BeetiIsDog/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/BeetiIsDog/status/2001269038669025740",
+          "start": 11,
+          "url": "https://t.co/SS64g1M8tn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001374350147194935",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001269038669025740",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "莫名戳笑点谁懂🙏🙏🙏 https://t.co/SS64g1M8tn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2001374350147194935",
+        "created_at": "2025-12-17T19:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T20:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001374350147194935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BeetiIsDog/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/BeetiIsDog/status/2001269038669025740",
+              "start": 11,
+              "url": "https://t.co/SS64g1M8tn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001374350147194935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001269038669025740",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "莫名戳笑点谁懂🙏🙏🙏 https://t.co/SS64g1M8tn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799795163843436544",
+        "conversation_id": "2001244307458752611",
+        "created_at": "2025-12-17T12:31:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T13:31:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001269038669025740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1423220645383475200",
+              "start": 0,
+              "username": "sysjf0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001269038669025740",
+        "in_reply_to_user_id": "1423220645383475200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001244307458752611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sysjf0 我今天只吃了一顿。。中和一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨大道五十，天衍四九丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬暗号通貨戦士霊狐🏳️‍⚧️",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997128038925193217/9QJNS0sg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 1087,
+          "like_count": 10555,
+          "listed_count": 2,
+          "media_count": 328,
+          "tweet_count": 3117
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T13:26:33.000Z",
+        "description": "这是一个只会碎碎念的无脑高三仓鼠仔的账号，互fo请留言|| 成分是：藤井风/神经科学/精神药理/科普/oc/碎碎念/AI聊天(⁠ ͡⁠°⁠ᴥ⁠ ͡⁠°⁠ ⁠ʋ⁠)我在知乎上写科普，名字是BEETI小小犬 || 另一个我：@5_HTIsUsagi   我老大：@sysjf0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "5_HTIsUsagi"
+              },
+              {
+                "end": 136,
+                "start": 129,
+                "username": "sysjf0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+vOQWVMQTr0Y2O…",
+                "end": 23,
+                "expanded_url": "https://t.me/+vOQWVMQTr0Y2OGI1",
+                "start": 0,
+                "url": "https://t.co/n7w34dGfVN"
+              }
+            ]
+          }
+        },
+        "id": "1799795163843436544",
+        "location": "藤井風的钢琴里",
+        "name": "ビーチイ小犬智商低",
+        "pinned_tweet_id": "1936770496970006587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998043902734110720/aqIraNX2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 731,
+          "like_count": 27693,
+          "listed_count": 2,
+          "media_count": 396,
+          "tweet_count": 6419
+        },
+        "url": "https://t.co/n7w34dGfVN",
+        "username": "BeetiIsDog",
+        "verified": false
+      }
+    ]
+  }
+}

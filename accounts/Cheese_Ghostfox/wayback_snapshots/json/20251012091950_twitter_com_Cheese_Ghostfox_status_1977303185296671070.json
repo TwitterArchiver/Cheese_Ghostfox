@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1977303185296671070",
+    "created_at": "2025-10-12T09:19:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T10:19:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977303185296671070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1817821126640496640",
+          "start": 3,
+          "username": "MTNEKO8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977303185296671070",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977287865856892966",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MTNEKO8964: 觉得自己对象很萌的转"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1977303185296671070",
+        "created_at": "2025-10-12T09:19:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T10:19:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977303185296671070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1817821126640496640",
+              "start": 3,
+              "username": "MTNEKO8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977303185296671070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977287865856892966",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MTNEKO8964: 觉得自己对象很萌的转"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817821126640496640",
+        "conversation_id": "1977287865856892966",
+        "created_at": "2025-10-12T08:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T09:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977287865856892966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Distorted_ming…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/Distorted_ming/status/1977276696287232161",
+              "start": 11,
+              "url": "https://t.co/R21BbMvZWH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977287865856892966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 174,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977276696287232161",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "觉得自己对象很萌的转 https://t.co/R21BbMvZWH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "单线程狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX幽默无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨燦若花火的生命，无法用只言片语概括丨裡推 @HEX_Ghostfox丨恋人 @HydrogenNeko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 125,
+                "username": "HEX_Ghostfox"
+              },
+              {
+                "end": 155,
+                "start": 142,
+                "username": "HydrogenNeko"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬暗号通貨戦士霊狐🏳️‍⚧️",
+        "pinned_tweet_id": "1971908706771304723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945506638892355584/vuuDoKyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 935,
+          "like_count": 8490,
+          "listed_count": 2,
+          "media_count": 250,
+          "tweet_count": 2419
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-29T07:15:16.000Z",
+        "description": "MtX🍥 / hrt：25.2.11 / 55cm 169kg｜极度社恐 / 泛性恋 / 社会化程度极低的阿斯 / 一只努力学习做好人类的猫｜面条的tg频道https://t.co/6TaiTWHzEF｜妈妈@Tim_Pan_5｜对象🥺🍜❤️@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 104,
+                "username": "Tim_Pan_5"
+              },
+              {
+                "end": 137,
+                "start": 121,
+                "username": "sanmiguelnoodle"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123456",
+                "end": 101,
+                "expanded_url": "http://t.me/MTNEKO123456",
+                "start": 78,
+                "url": "https://t.co/6TaiTWHzEF"
+              }
+            ]
+          }
+        },
+        "id": "1817821126640496640",
+        "location": "评鉴亚硝酸钠的路上",
+        "name": "面条喵🍥🐱🐈",
+        "pinned_tweet_id": "1959530946673418708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972232480225951744/Lga0T62B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2757,
+          "following_count": 2511,
+          "like_count": 38918,
+          "listed_count": 5,
+          "media_count": 556,
+          "tweet_count": 5670
+        },
+        "username": "MTNEKO8964",
+        "verified": true
+      }
+    ]
+  }
+}

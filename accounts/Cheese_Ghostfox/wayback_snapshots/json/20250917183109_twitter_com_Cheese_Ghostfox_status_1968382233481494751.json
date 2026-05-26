@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1968382233481494751",
+    "created_at": "2025-09-17T18:31:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T19:31:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968382233481494751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1962156064734138368",
+          "start": 3,
+          "username": "HydrogenNeko"
+        },
+        {
+          "end": 40,
+          "id": "1962156064734138368",
+          "start": 27,
+          "username": "HydrogenNeko"
+        },
+        {
+          "end": 64,
+          "id": "1620506107306479617",
+          "start": 48,
+          "username": "Cheese_Ghostfox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968382233481494751",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968382078577426613",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HydrogenNeko: 今天，水素实验室 @HydrogenNeko 和霊狐制作所 @Cheese_Ghostfox 进行了亲密的会谈，決定合并两家特点做独立的新厂牌！\n从2023年8月10日实验室成立，转眼间，我們已与大家共度两年美好的时光。我們和您一起建立了牢固…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 905,
+        "media_key": "3_1968380118549860352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1EXSfUbEAANE0w.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1968382233481494751",
+        "created_at": "2025-09-17T18:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T19:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968382233481494751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1962156064734138368",
+              "start": 3,
+              "username": "HydrogenNeko"
+            },
+            {
+              "end": 40,
+              "id": "1962156064734138368",
+              "start": 27,
+              "username": "HydrogenNeko"
+            },
+            {
+              "end": 64,
+              "id": "1620506107306479617",
+              "start": 48,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968382233481494751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968382078577426613",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HydrogenNeko: 今天，水素实验室 @HydrogenNeko 和霊狐制作所 @Cheese_Ghostfox 进行了亲密的会谈，決定合并两家特点做独立的新厂牌！\n从2023年8月10日实验室成立，转眼间，我們已与大家共度两年美好的时光。我們和您一起建立了牢固…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968380118549860352"
+          ]
+        },
+        "author_id": "1962156064734138368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1968382078577426613",
+        "created_at": "2025-09-17T18:30:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T19:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968382078577426613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1962156064734138368",
+              "start": 9,
+              "username": "HydrogenNeko"
+            },
+            {
+              "end": 46,
+              "id": "1620506107306479617",
+              "start": 30,
+              "username": "Cheese_Ghostfox"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YeNfLvfVRG",
+              "end": 184,
+              "expanded_url": "https://x.com/HydrogenNeko/status/1968382078577426613/photo/1",
+              "media_key": "3_1968380118549860352",
+              "start": 161,
+              "url": "https://t.co/YeNfLvfVRG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968382078577426613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天，水素实验室 @HydrogenNeko 和霊狐制作所 @Cheese_Ghostfox 进行了亲密的会谈，決定合并两家特点做独立的新厂牌！\n从2023年8月10日实验室成立，转眼间，我們已与大家共度两年美好的时光。我們和您一起建立了牢固的一个互助互信的大家庭，非常感激您的參與。我們將換上新衣，繼續致力解决患者需求 https://t.co/YeNfLvfVRG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "欠拟合狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX幽默无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨長白山香煙與粉魔爪愛好者 丨拒絕鑑政辨經❌/超友好🥰丨燦若花火的生命，无法用只言片语概括丨裡推慎fo @HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 143,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター🏳️‍⚧️",
+        "pinned_tweet_id": "1919548841357148382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945506638892355584/vuuDoKyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 818,
+          "like_count": 7635,
+          "listed_count": 2,
+          "media_count": 234,
+          "tweet_count": 2186
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T14:10:44.000Z",
+        "description": "葉加瀬 水素仍在人間・MTX奇異搞笑小朋友🍥・業餘調查記者、偵探・私人實驗室「水素實驗室」創始人(建設ing…)🧬・有效利他主義者・余命1年 ・「すべてを癒す万能薬になりたい」・Wife @Chiyuyu520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 94,
+                "username": "Chiyuyu520"
+              }
+            ]
+          }
+        },
+        "id": "1962156064734138368",
+        "name": "☯️🧬水素實驗室 公式ツイッター🏳️‍⚧️",
+        "pinned_tweet_id": "1962163704134549962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962156244841709568/SgYFPIvk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 229,
+          "like_count": 932,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 475
+        },
+        "username": "HydrogenNeko",
+        "verified": false
+      }
+    ]
+  }
+}

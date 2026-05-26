@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2009545432121389437",
+    "created_at": "2026-01-09T10:58:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T11:58:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009580526739574787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1871475391682297856",
+          "start": 0,
+          "username": "Cyniton"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009580526739574787",
+    "in_reply_to_user_id": "1620506107306479617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009578776221581717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cyniton 也就是说，通过诸如边框/色彩做出明确的功能分区，通过字号，分层来准确传达信息，通过最简单易懂的文本描述或图形符号来描述功能\n实际上「千禧年/拟物」风格最大的问题就是:它并没有做到每个视觉元素都有对应的功能或交互，以及拟物其实有一点令人费解(参见那条「如何设计一个跨越万年的符号」)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2009545432121389437",
+        "created_at": "2026-01-09T10:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T11:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009580526739574787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1871475391682297856",
+              "start": 0,
+              "username": "Cyniton"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009580526739574787",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009578776221581717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cyniton 也就是说，通过诸如边框/色彩做出明确的功能分区，通过字号，分层来准确传达信息，通过最简单易懂的文本描述或图形符号来描述功能\n实际上「千禧年/拟物」风格最大的问题就是:它并没有做到每个视觉元素都有对应的功能或交互，以及拟物其实有一点令人费解(参见那条「如何设计一个跨越万年的符号」)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2009545432121389437",
+        "created_at": "2026-01-09T10:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T11:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009578776221581717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1871475391682297856",
+              "start": 0,
+              "username": "Cyniton"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009578776221581717",
+        "in_reply_to_user_id": "1871475391682297856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009571065945886782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cyniton 狐觉得不然，这两种反而是同时将「宜人性」与「高效性」拉到底的交互方式…\n狐觉得未来会是更多融合心理学…加入更多自然引导的…扁平化界面\n设计目的会是让没学习过此软件的用户以最快的速度掌握软件使用，让使用软件的用户以最快的速度找到ta们需要的部分\n以及用最可靠醒目的方式将信息灌进用户…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨あなたの記憶で永遠に六番目になりたい!丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugHLJi"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009299914820599808/Yse9qefX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 1140,
+          "like_count": 11521,
+          "listed_count": 2,
+          "media_count": 366,
+          "tweet_count": 3450
+        },
+        "url": "https://t.co/COn8ugHLJi",
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-24T08:38:38.000Z",
+        "description": "Cyniton | 让有序的信息自由流动",
+        "id": "1871475391682297856",
+        "name": "Cyniton",
+        "pinned_tweet_id": "1923598911027151221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871477134910496769/W6ehSsCB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 276,
+          "like_count": 2753,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 636
+        },
+        "username": "Cyniton",
+        "verified": false
+      }
+    ]
+  }
+}

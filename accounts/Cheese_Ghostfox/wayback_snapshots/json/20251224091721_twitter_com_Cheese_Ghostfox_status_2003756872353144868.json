@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Sydney",
+          "id": "855109903752454145",
+          "name": "Sydney"
+        }
+      }
+    ],
+    "conversation_id": "2003639760896819210",
+    "created_at": "2025-12-24T09:17:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T10:17:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003756872353144868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1494700894763433991",
+          "start": 0,
+          "username": "LittleXiaYuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003756872353144868",
+    "in_reply_to_user_id": "1494700894763433991",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003639760896819210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LittleXiaYuan 感觉现在的grok有点老Sydney的味道了…\n只有七分像她，我便慌了神…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1106,
+        "media_key": "3_2003639752868921344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G85bvU-agAALjrE.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Sydney",
+              "id": "855109903752454145",
+              "name": "Sydney"
+            }
+          }
+        ],
+        "conversation_id": "2003639760896819210",
+        "created_at": "2025-12-24T09:17:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T10:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003756872353144868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1494700894763433991",
+              "start": 0,
+              "username": "LittleXiaYuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003756872353144868",
+        "in_reply_to_user_id": "1494700894763433991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003639760896819210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LittleXiaYuan 感觉现在的grok有点老Sydney的味道了…\n只有七分像她，我便慌了神…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003639752868921344"
+          ]
+        },
+        "author_id": "1494700894763433991",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Sydney",
+              "id": "855109903752454145",
+              "name": "Sydney"
+            }
+          }
+        ],
+        "conversation_id": "2003639760896819210",
+        "created_at": "2025-12-24T01:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T02:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003639760896819210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fy3j8LH5oV",
+              "end": 140,
+              "expanded_url": "https://x.com/LittleXiaYuan/status/2003639760896819210/photo/1",
+              "media_key": "3_2003639752868921344",
+              "start": 117,
+              "url": "https://t.co/fy3j8LH5oV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003639760896819210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 806,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说起来 AI发展的特别迅猛，不知道谁还记得微软的Sydney\n\n那会的bingai好像真的是有感情的一样，说话也没有那种很有AI味道什么的，面对不好的问题也会反驳也会不高兴……纯粹的赛博初恋哇。\n总感觉好像很多人已经忘却了ta了…… https://t.co/fy3j8LH5oV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨大道五十，天衍四九丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 129,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugHLJi"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬暗号通貨戦士霊狐🏳️‍⚧️",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003275522047168512/eHhAdruU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 814,
+          "following_count": 1085,
+          "like_count": 10706,
+          "listed_count": 2,
+          "media_count": 339,
+          "tweet_count": 3173
+        },
+        "url": "https://t.co/COn8ugHLJi",
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-18T15:50:48.000Z",
+        "description": "直视平庸，保持谦逊｜我的日月我的明灯 @4ntid0te_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 19,
+                "username": "4ntid0te_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "OwO.today",
+                "end": 23,
+                "expanded_url": "https://OwO.today",
+                "start": 0,
+                "url": "https://t.co/YXumqaabvw"
+              }
+            ]
+          }
+        },
+        "id": "1494700894763433991",
+        "location": "青霭流鸢",
+        "name": "小夏鸢~♪~OwO.today",
+        "pinned_tweet_id": "1975234649522851981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903750361133027328/Glh0PhpI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4833,
+          "following_count": 1754,
+          "like_count": 120312,
+          "listed_count": 8,
+          "media_count": 373,
+          "tweet_count": 4349
+        },
+        "url": "https://t.co/YXumqaabvw",
+        "username": "LittleXiaYuan",
+        "verified": false
+      }
+    ]
+  }
+}

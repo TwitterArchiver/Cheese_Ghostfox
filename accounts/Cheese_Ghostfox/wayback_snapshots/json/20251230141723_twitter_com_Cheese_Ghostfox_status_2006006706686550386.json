@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2006006706686550386",
+    "created_at": "2025-12-30T14:17:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T15:17:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006006706686550386"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "这本质上来说是囚徒困境，每个人都想让自己发出的消息更快被对方响应，但每个人都不会想沉浸在即时聊天的「注意力地狱」中，这会导致「消息分级」只能是一个理想化的幻想(这要求每个人都自律地遵守规则，压抑人性)",
+          "display_url": "grok.com/share/c2hhcmQt…",
+          "end": 23,
+          "expanded_url": "https://grok.com/share/c2hhcmQtMw_5a854233-ce75-4344-9086-0b8618ad632d",
+          "start": 0,
+          "status": 200,
+          "title": "即时聊天工具与注意力管理 | Shared Grok Conversation",
+          "unwound_url": "https://grok.com/share/c2hhcmQtMw_5a854233-ce75-4344-9086-0b8618ad632d",
+          "url": "https://t.co/Ox3RSFDIYD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006006706686550386",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/Ox3RSFDIYD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2006006706686550386",
+        "created_at": "2025-12-30T14:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T15:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006006706686550386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "这本质上来说是囚徒困境，每个人都想让自己发出的消息更快被对方响应，但每个人都不会想沉浸在即时聊天的「注意力地狱」中，这会导致「消息分级」只能是一个理想化的幻想(这要求每个人都自律地遵守规则，压抑人性)",
+              "display_url": "grok.com/share/c2hhcmQt…",
+              "end": 23,
+              "expanded_url": "https://grok.com/share/c2hhcmQtMw_5a854233-ce75-4344-9086-0b8618ad632d",
+              "start": 0,
+              "status": 200,
+              "title": "即时聊天工具与注意力管理 | Shared Grok Conversation",
+              "unwound_url": "https://grok.com/share/c2hhcmQtMw_5a854233-ce75-4344-9086-0b8618ad632d",
+              "url": "https://t.co/Ox3RSFDIYD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006006706686550386",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Ox3RSFDIYD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨大道五十，天衍四九丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 129,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugHLJi"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター🏳️‍⚧️",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003275522047168512/eHhAdruU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 1107,
+          "like_count": 10970,
+          "listed_count": 2,
+          "media_count": 347,
+          "tweet_count": 3249
+        },
+        "url": "https://t.co/COn8ugHLJi",
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2019537065558569105",
+    "created_at": "2026-02-05T22:22:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T23:22:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019537065558569105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1106939452658638849",
+          "start": 3,
+          "username": "angus_cx"
+        },
+        {
+          "end": 27,
+          "id": "1079519718",
+          "start": 14,
+          "username": "Megabits_mzq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019537065558569105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019408764135436644",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @angus_cx: @Megabits_mzq 原推说最让他惊讶的是嘉立创竟然懂日语“日本製” 的含义..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2019537065558569105",
+        "created_at": "2026-02-05T22:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T23:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019537065558569105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1106939452658638849",
+              "start": 3,
+              "username": "angus_cx"
+            },
+            {
+              "end": 27,
+              "id": "1079519718",
+              "start": 14,
+              "username": "Megabits_mzq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019537065558569105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019408764135436644",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @angus_cx: @Megabits_mzq 原推说最让他惊讶的是嘉立创竟然懂日语“日本製” 的含义..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1106939452658638849",
+        "conversation_id": "2019356752375058753",
+        "created_at": "2026-02-05T13:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T14:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019408764135436644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1079519718",
+              "start": 0,
+              "username": "Megabits_mzq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019408764135436644",
+        "in_reply_to_user_id": "1079519718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 644,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019356752375058753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Megabits_mzq 原推说最让他惊讶的是嘉立创竟然懂日语“日本製” 的含义..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨あなたの記憶で永遠に六番目になりたい!丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 1234,
+          "like_count": 12876,
+          "listed_count": 4,
+          "media_count": 419,
+          "tweet_count": 3896
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-16T15:25:06.000Z",
+        "description": "希望大家都开心",
+        "id": "1106939452658638849",
+        "name": "Angus",
+        "pinned_tweet_id": "1963608312324526514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904801842531590144/T3zet2NN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 1927,
+          "like_count": 18938,
+          "listed_count": 5,
+          "media_count": 479,
+          "tweet_count": 2880
+        },
+        "username": "angus_cx",
+        "verified": true
+      },
+      {
+        "created_at": "2013-01-11T12:34:38.000Z",
+        "description": "English: @Megabits_Studio / 日本語: @Megabits_mzq_jp 金鱼一条 / 想当个艺术家，但只会写代码 / 这个世界还有未来吗？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "Megabits_Studio"
+              },
+              {
+                "end": 49,
+                "start": 33,
+                "username": "Megabits_mzq_jp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "megabits.xyz",
+                "end": 23,
+                "expanded_url": "http://megabits.xyz",
+                "start": 0,
+                "url": "https://t.co/Y0tbaG653d"
+              }
+            ]
+          }
+        },
+        "id": "1079519718",
+        "location": "東京·鱼缸",
+        "name": "Megabits ❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729733422757892096/WEmf0gS1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10134,
+          "following_count": 1418,
+          "like_count": 27560,
+          "listed_count": 113,
+          "media_count": 2210,
+          "tweet_count": 10396
+        },
+        "url": "https://t.co/Y0tbaG653d",
+        "username": "Megabits_mzq",
+        "verified": false
+      }
+    ]
+  }
+}

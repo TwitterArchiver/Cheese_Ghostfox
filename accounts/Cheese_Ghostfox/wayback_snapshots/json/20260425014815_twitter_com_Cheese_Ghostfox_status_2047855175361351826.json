@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2047855175361351826",
+    "created_at": "2026-04-25T01:48:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T02:48:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047855175361351826"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Cheese_Ghostfo…",
+          "end": 148,
+          "expanded_url": "https://twitter.com/Cheese_Ghostfox/status/2047852377601180119",
+          "start": 125,
+          "url": "https://t.co/xitN2nAKld"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047855175361351826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047852377601180119",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "狐感觉真的是那种很融合的好吃，蛋是半熟咸omelet做法，在番茄与葱都完全炒熟后才放进去，盖盖30s吸汁直接出锅，又香又嫩他妈的绝了真的\n黄油味与胡椒味也很搭酸甜味型的番茄炒蛋，，，狐今天早晨链上「高维能量」了?!\n莫名其妙的有了这种天才的想法(x https://t.co/xitN2nAKld"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_2047852374790901760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGtu4ofaEAAFPqb.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2047855175361351826",
+        "created_at": "2026-04-25T01:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T02:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047855175361351826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cheese_Ghostfo…",
+              "end": 148,
+              "expanded_url": "https://twitter.com/Cheese_Ghostfox/status/2047852377601180119",
+              "start": 125,
+              "url": "https://t.co/xitN2nAKld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047855175361351826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047852377601180119",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "狐感觉真的是那种很融合的好吃，蛋是半熟咸omelet做法，在番茄与葱都完全炒熟后才放进去，盖盖30s吸汁直接出锅，又香又嫩他妈的绝了真的\n黄油味与胡椒味也很搭酸甜味型的番茄炒蛋，，，狐今天早晨链上「高维能量」了?!\n莫名其妙的有了这种天才的想法(x https://t.co/xitN2nAKld"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047852374790901760"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2047852377601180119",
+        "created_at": "2026-04-25T01:37:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T02:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047852377601180119"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "狐食"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/um5BXhTyIs",
+              "end": 104,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2047852377601180119/photo/1",
+              "media_key": "3_2047852374790901760",
+              "start": 81,
+              "url": "https://t.co/um5BXhTyIs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047852377601180119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "特制①番茄炒蛋盖饭喵!\n#狐食 \n①:指不同于一般番茄炒蛋的做法，完全去除了番茄皮，且将「炒蛋」部分的油脂替换为淡味发酵黄油并额外添加现磨黑胡椒以增加味觉复杂度 https://t.co/um5BXhTyIs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1399,
+          "following_count": 1485,
+          "like_count": 17262,
+          "listed_count": 4,
+          "media_count": 600,
+          "tweet_count": 5479
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      }
+    ]
+  }
+}

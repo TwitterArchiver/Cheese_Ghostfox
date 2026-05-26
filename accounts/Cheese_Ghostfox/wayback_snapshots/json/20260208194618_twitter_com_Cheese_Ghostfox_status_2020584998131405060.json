@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2020584998131405060",
+    "created_at": "2026-02-08T19:46:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T20:46:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020584998131405060"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086k/statu…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/hsn8086k/status/2020571355763069046",
+          "start": 21,
+          "url": "https://t.co/P1tjgPztjB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020584998131405060",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020571355763069046",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "何不直接用塑料板+UV喷绘(?)\n😈😈😈 https://t.co/P1tjgPztjB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2020584998131405060",
+        "created_at": "2026-02-08T19:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T20:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020584998131405060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2020571355763069046",
+              "start": 21,
+              "url": "https://t.co/P1tjgPztjB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020584998131405060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020571355763069046",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "何不直接用塑料板+UV喷绘(?)\n😈😈😈 https://t.co/P1tjgPztjB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2020571355763069046",
+        "created_at": "2026-02-08T18:52:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T19:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020571355763069046"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020571355763069046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 5,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到拼豆我第一反应是：能不能用贴片机类似物来打印...\n\n唉，典型的理工科思维，和你聊不下去。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨あなたの記憶で永遠に六番目になりたい!丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 1262,
+          "like_count": 12985,
+          "listed_count": 4,
+          "media_count": 427,
+          "tweet_count": 3921
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "日本 東京",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1290,
+          "following_count": 148,
+          "like_count": 3212,
+          "listed_count": 3,
+          "media_count": 98,
+          "tweet_count": 918
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

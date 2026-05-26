@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2038686739267723348",
+    "created_at": "2026-03-30T18:36:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T19:36:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038686739267723348"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jlxc2001/statu…",
+          "end": 96,
+          "expanded_url": "https://twitter.com/jlxc2001/status/2038655844079001936",
+          "start": 73,
+          "url": "https://t.co/l8vbMi9v0W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038686739267723348",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038655844079001936",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是真痛点了。。。\n狐每次想掏一张压相册底的老图出来发，就得先在相册里找到它，然后用编辑功能裁一点，再保存\n这样就把这张图重新创建了一个顶置副本 https://t.co/l8vbMi9v0W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038655840945856512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HErCr6LaYAAxRtW.jpg",
+        "width": 940
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038655838458712064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HErCrw6bkAAwuMB.jpg",
+        "width": 940
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038655839997984768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HErCr2pbAAAiJqj.jpg",
+        "width": 940
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038655839570194432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HErCr1DbcAAsdI1.jpg",
+        "width": 940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2038686739267723348",
+        "created_at": "2026-03-30T18:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T19:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038686739267723348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jlxc2001/statu…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/jlxc2001/status/2038655844079001936",
+              "start": 73,
+              "url": "https://t.co/l8vbMi9v0W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038686739267723348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038655844079001936",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是真痛点了。。。\n狐每次想掏一张压相册底的老图出来发，就得先在相册里找到它，然后用编辑功能裁一点，再保存\n这样就把这张图重新创建了一个顶置副本 https://t.co/l8vbMi9v0W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038655840945856512",
+            "3_2038655838458712064",
+            "3_2038655839997984768",
+            "3_2038655839570194432"
+          ]
+        },
+        "author_id": "1683218035602255872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2038655844079001936",
+        "created_at": "2026-03-30T16:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T17:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038655844079001936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x9qL6LLYCc",
+              "end": 157,
+              "expanded_url": "https://x.com/jlxc2001/status/2038655844079001936/photo/1",
+              "media_key": "3_2038655840945856512",
+              "start": 134,
+              "url": "https://t.co/x9qL6LLYCc"
+            },
+            {
+              "display_url": "pic.x.com/x9qL6LLYCc",
+              "end": 157,
+              "expanded_url": "https://x.com/jlxc2001/status/2038655844079001936/photo/1",
+              "media_key": "3_2038655838458712064",
+              "start": 134,
+              "url": "https://t.co/x9qL6LLYCc"
+            },
+            {
+              "display_url": "pic.x.com/x9qL6LLYCc",
+              "end": 157,
+              "expanded_url": "https://x.com/jlxc2001/status/2038655844079001936/photo/1",
+              "media_key": "3_2038655839997984768",
+              "start": 134,
+              "url": "https://t.co/x9qL6LLYCc"
+            },
+            {
+              "display_url": "pic.x.com/x9qL6LLYCc",
+              "end": 157,
+              "expanded_url": "https://x.com/jlxc2001/status/2038655844079001936/photo/1",
+              "media_key": "3_2038655839570194432",
+              "start": 134,
+              "url": "https://t.co/x9qL6LLYCc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038655844079001936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我们开发了一个App\n现在的安卓基本上相册都自带了AI搜索功能，非常方便。\n但有一个很大的缺点，就是国内很多软件不支持调用系统相册App来选择图片，\n比如一张“手机”的照片，在相册里面只要搜“手机”这个关键字就行了。\n而在第三方APP里面，你要找很久才能找到那张图。\n所以我们开发了一个APP，安装好之后，在相册里选好图片之后，点分享键，找到“将此图片临时选中”\n这张图片就会被临时复制到一个临时文件夹，这个时候，这张图片就会所有的App里面选择照片里被置顶，3分钟（时间可自定义）后，临时文件夹里的图片就会被删除，不占用系统空间。\n\n当然，这个软件还有另一个运行模式，就是直接修改照片的创建时间信息，然后3分钟后自动改回来。\n\n等我们完善一下UI界面和图标之类的东西之后，会免费上架给大家使用\n\n在这里征集一下软件APP的名字。\n以及如果我出期视频的话，标题应该怎么写"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 4002,
+          "like_count": 59,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我们开发了一个App\n现在的安卓基本上相册都自带了AI搜索功能，非常方便。\n但有一个很大的缺点，就是国内很多软件不支持调用系统相册App来选择图片，\n比如一张“手机”的照片，在相册里面只要搜“手机”这个关键字就行了。\n而在第三方APP里面，你要找很久才能找到那张图。 https://t.co/x9qL6LLYCc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1171,
+          "following_count": 1432,
+          "like_count": 15241,
+          "listed_count": 4,
+          "media_count": 518,
+          "tweet_count": 4741
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-23T20:50:49.000Z",
+        "description": "可能是个技术宅（\n喜欢数码，DIY还有初音未来，是产品经理（\n工作室在深圳喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@jlxc2001?si=j…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@jlxc2001?si=jbdNIMfp4TT4-nEv",
+                "start": 0,
+                "url": "https://t.co/pIA1Q7wSN1"
+              }
+            ]
+          }
+        },
+        "id": "1683218035602255872",
+        "location": "中国深圳",
+        "name": "江灵夏草",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934604096973271040/LyHoR0xg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13744,
+          "following_count": 181,
+          "like_count": 438,
+          "listed_count": 27,
+          "media_count": 790,
+          "tweet_count": 1994
+        },
+        "url": "https://t.co/pIA1Q7wSN1",
+        "username": "jlxc2001",
+        "verified": true
+      }
+    ]
+  }
+}

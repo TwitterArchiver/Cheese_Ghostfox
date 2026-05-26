@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1976479646201020523",
+    "created_at": "2025-10-10T03:35:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T04:35:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976491851537686704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1743964186064060416",
+          "start": 0,
+          "username": "DDr4_2133"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976491851537686704",
+    "in_reply_to_user_id": "1743964186064060416",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976491680888127973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DDr4_2133 ☝🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1976479646201020523",
+        "created_at": "2025-10-10T03:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T04:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976491851537686704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1743964186064060416",
+              "start": 0,
+              "username": "DDr4_2133"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976491851537686704",
+        "in_reply_to_user_id": "1743964186064060416",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976491680888127973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDr4_2133 ☝🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1743964186064060416",
+        "conversation_id": "1976479646201020523",
+        "created_at": "2025-10-10T03:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T04:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976491680888127973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976491680888127973",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976479646201020523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox 少校是吧（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "单线程狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX幽默无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨燦若花火的生命，无法用只言片语概括丨裡推 @HEX_Ghostfox丨恋人 @HydrogenNeko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 125,
+                "username": "HEX_Ghostfox"
+              },
+              {
+                "end": 155,
+                "start": 142,
+                "username": "HydrogenNeko"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬暗号通貨戦士霊狐🏳️‍⚧️",
+        "pinned_tweet_id": "1971908706771304723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945506638892355584/vuuDoKyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 931,
+          "like_count": 8440,
+          "listed_count": 2,
+          "media_count": 250,
+          "tweet_count": 2412
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-07T11:54:07.000Z",
+        "description": "男娘猫猫，mtx 头像是主力机 玩钢丝、PUBG、碧蓝航线、粥 喜看书（历史、纪实文学、日轻、社科） 欢迎找我聊天，可以当树洞",
+        "id": "1743964186064060416",
+        "location": "上海",
+        "name": "U.N.Owen Was her？",
+        "pinned_tweet_id": "1951457227644215335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915762502174228480/WUx-cROO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 971,
+          "like_count": 4081,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 383
+        },
+        "username": "DDr4_2133",
+        "verified": false
+      }
+    ]
+  }
+}

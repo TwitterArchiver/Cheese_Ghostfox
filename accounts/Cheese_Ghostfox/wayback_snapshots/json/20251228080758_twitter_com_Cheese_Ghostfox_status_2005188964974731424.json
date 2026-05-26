@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2005188755687440386"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2004462521080795137",
+    "created_at": "2025-12-28T08:07:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T09:07:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005188964974731424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1786255103802109952",
+          "start": 0,
+          "username": "ei_0113"
+        },
+        {
+          "end": 16,
+          "id": "1752964347746508800",
+          "start": 9,
+          "username": "52498b"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r57VBUKtvW",
+          "end": 137,
+          "expanded_url": "https://x.com/Cheese_Ghostfox/status/2005188964974731424/video/1",
+          "media_key": "13_2005188755687440386",
+          "start": 114,
+          "url": "https://t.co/r57VBUKtvW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005188964974731424",
+    "in_reply_to_user_id": "1786255103802109952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004545783291596971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ei_0113 @52498b できた～！ これが最新バージョンです！！ 完璧なPVがついて、歌唱の調教もさらに丁寧に調整して、ミックスもちゃんとやり直しました～！ ぜひ聴いてみてね\n(Translated by Grok) https://t.co/r57VBUKtvW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40800,
+        "height": 576,
+        "media_key": "13_2005188755687440386",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2005188755687440386/img/cKstRd2hFpbx9aot.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005188755687440386/vid/avc1/336x270/-itpW_wOxzedE6me.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005188755687440386/vid/avc1/450x360/xATFacs-T9UKIVc5.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005188755687440386/vid/avc1/720x576/5KoUD5yKZA2mhVaW.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2005188755687440386/pl/TehaM_MuPWAwT8XX.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2005188755687440386"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2004462521080795137",
+        "created_at": "2025-12-28T08:07:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T09:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005188964974731424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1786255103802109952",
+              "start": 0,
+              "username": "ei_0113"
+            },
+            {
+              "end": 16,
+              "id": "1752964347746508800",
+              "start": 9,
+              "username": "52498b"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r57VBUKtvW",
+              "end": 137,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2005188964974731424/video/1",
+              "media_key": "13_2005188755687440386",
+              "start": 114,
+              "url": "https://t.co/r57VBUKtvW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005188964974731424",
+        "in_reply_to_user_id": "1786255103802109952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004545783291596971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ei_0113 @52498b できた～！ これが最新バージョンです！！ 完璧なPVがついて、歌唱の調教もさらに丁寧に調整して、ミックスもちゃんとやり直しました～！ ぜひ聴いてみてね\n(Translated by Grok) https://t.co/r57VBUKtvW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786255103802109952",
+        "conversation_id": "2004462521080795137",
+        "created_at": "2025-12-26T13:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T14:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004545783291596971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1752964347746508800",
+              "start": 0,
+              "username": "52498b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004545783291596971",
+        "in_reply_to_user_id": "1752964347746508800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 257,
+          "impression_count": 34745,
+          "like_count": 2481,
+          "quote_count": 10,
+          "reply_count": 24,
+          "retweet_count": 309
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004462521080795137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@52498b だから飲酒暴走運転追放\n前を煽って理性を飛ばした\n豚箱行き愚者のメロディー\n再挑戦免停乗り捨て盗難\n何回だって重ねて逝くんだ\n終わりなき車上の悲劇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨大道五十，天衍四九丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 129,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugHLJi"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬暗号通貨戦士霊狐🏳️‍⚧️",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003275522047168512/eHhAdruU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 1099,
+          "like_count": 10838,
+          "listed_count": 2,
+          "media_count": 345,
+          "tweet_count": 3210
+        },
+        "url": "https://t.co/COn8ugHLJi",
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-03T04:43:28.000Z",
+        "description": "絡み、DM、大歓迎！ 主に音ゲーのリザルトとかスマホゲーのガチャなど やってるゲーム(大体)携帯端末系 スプラ3 プロセカ ユメステ 原神 崩壊スターレイル 鳴潮 とか 　　　　　　　　　 アイコン:@tukimi_tohma",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 100,
+                "username": "tukimi_tohma"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UChlI2…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UChlI2nKcdFv0u-r_0sMSLbQ?si=jNVY9HOSDMkg8A9q",
+                "start": 0,
+                "url": "https://t.co/c5jb7GOFJC"
+              }
+            ]
+          }
+        },
+        "id": "1786255103802109952",
+        "location": "教室のセカイ(行きたい)",
+        "name": "えいる",
+        "pinned_tweet_id": "1901200275677028362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853053186464186368/bY06Az5J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 1100,
+          "like_count": 2346,
+          "listed_count": 1,
+          "media_count": 221,
+          "tweet_count": 9197
+        },
+        "url": "https://t.co/c5jb7GOFJC",
+        "username": "ei_0113",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-01T07:57:31.000Z",
+        "description": "これ見てずっと笑えるような画像をDMで募集📩",
+        "id": "1752964347746508800",
+        "location": "ネタDMで募集中📩",
+        "name": "ネットの話題ツイ図鑑",
+        "pinned_tweet_id": "1899392669815865502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997948388608978946/NfOMtrLZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62094,
+          "following_count": 12,
+          "like_count": 398,
+          "listed_count": 86,
+          "media_count": 667,
+          "tweet_count": 1040
+        },
+        "username": "52498b",
+        "verified": false
+      }
+    ]
+  }
+}

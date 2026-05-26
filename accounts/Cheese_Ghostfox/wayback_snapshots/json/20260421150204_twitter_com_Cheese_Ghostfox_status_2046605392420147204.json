@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2046605392420147204",
+    "created_at": "2026-04-21T15:02:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T16:02:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046605392420147204"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zachxbt/status…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/zachxbt/status/2046068618082095298",
+          "start": 19,
+          "url": "https://t.co/zQatGIydiy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046605392420147204",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046068618082095298",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有趣的项目\n狐看到了很多不同的声音🤔 https://t.co/zQatGIydiy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 801,
+        "media_key": "3_2046068611253743616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGUYj7fbMAAE32Z.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1757,
+        "media_key": "3_2046068611245326336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGUYj7dawAA_Htq.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2046605392420147204",
+        "created_at": "2026-04-21T15:02:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T16:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046605392420147204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zachxbt/status…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/zachxbt/status/2046068618082095298",
+              "start": 19,
+              "url": "https://t.co/zQatGIydiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046605392420147204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046068618082095298",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有趣的项目\n狐看到了很多不同的声音🤔 https://t.co/zQatGIydiy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046068611253743616",
+            "3_2046068611245326336"
+          ]
+        },
+        "author_id": "3012852462",
+        "conversation_id": "2046064759456649549",
+        "created_at": "2026-04-20T03:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T04:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046068618082095298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1966060147232616450",
+              "start": 0,
+              "username": "MemeCore_M"
+            },
+            {
+              "end": 22,
+              "id": "2800345565",
+              "start": 12,
+              "username": "Grayscale"
+            },
+            {
+              "end": 56,
+              "id": "3012852462",
+              "start": 48,
+              "username": "zachxbt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rsFD3oBgfM",
+              "end": 234,
+              "expanded_url": "https://x.com/zachxbt/status/2046068618082095298/photo/1",
+              "media_key": "3_2046068611253743616",
+              "start": 211,
+              "url": "https://t.co/rsFD3oBgfM"
+            },
+            {
+              "display_url": "pic.x.com/rsFD3oBgfM",
+              "end": 234,
+              "expanded_url": "https://x.com/zachxbt/status/2046068618082095298/photo/1",
+              "media_key": "3_2046068611245326336",
+              "start": 211,
+              "url": "https://t.co/rsFD3oBgfM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046068618082095298",
+        "in_reply_to_user_id": "1966060147232616450",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 289,
+          "impression_count": 1149429,
+          "like_count": 7450,
+          "quote_count": 6828,
+          "reply_count": 1598,
+          "retweet_count": 2646
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046064759456649549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MemeCore_M @Grayscale Officially recognized on @ZachXBT ! We’re just getting started. \n\nPlease provide a single data point to support your $6B mkt cap at a top 20 token and why insiders hold &gt;90% of supply. https://t.co/rsFD3oBgfM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1392,
+          "following_count": 1480,
+          "like_count": 16980,
+          "listed_count": 4,
+          "media_count": 590,
+          "tweet_count": 5385
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2015-02-08T02:00:26.000Z",
+        "description": "Scam survivor turned 2D investigator, Advisor @paradigm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "paradigm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/investigations",
+                "end": 23,
+                "expanded_url": "https://t.me/investigations",
+                "start": 0,
+                "url": "https://t.co/QQUVAtXi35"
+              }
+            ]
+          }
+        },
+        "id": "3012852462",
+        "name": "ZachXBT",
+        "pinned_tweet_id": "1836752923830702392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006489492593455104/7--yA6Jz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004285,
+          "following_count": 1938,
+          "like_count": 236584,
+          "listed_count": 9608,
+          "media_count": 6549,
+          "tweet_count": 23151
+        },
+        "url": "https://t.co/QQUVAtXi35",
+        "username": "zachxbt",
+        "verified": true
+      }
+    ]
+  }
+}

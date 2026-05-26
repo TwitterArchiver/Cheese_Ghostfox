@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2018687465989795957",
+    "created_at": "2026-02-03T14:57:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T15:57:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018700325687906672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1915685161192349697",
+          "start": 0,
+          "username": "Cutterknife0601"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018700325687906672",
+    "in_reply_to_user_id": "1915685161192349697",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018699984036565391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cutterknife0601 是的喵!\nbtw，豆师傅文笔比狐好多了XD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2018687465989795957",
+        "created_at": "2026-02-03T14:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T15:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018700325687906672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1915685161192349697",
+              "start": 0,
+              "username": "Cutterknife0601"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018700325687906672",
+        "in_reply_to_user_id": "1915685161192349697",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018699984036565391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cutterknife0601 是的喵!\nbtw，豆师傅文笔比狐好多了XD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915685161192349697",
+        "conversation_id": "2018687465989795957",
+        "created_at": "2026-02-03T14:55:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T15:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018699984036565391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018699984036565391",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018687465989795957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox 看到最后一行我终于释怀的笑（\n我就说你不会为了这点破事浪费时间XD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨あなたの記憶で永遠に六番目になりたい!丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 1222,
+          "like_count": 12658,
+          "listed_count": 4,
+          "media_count": 415,
+          "tweet_count": 3834
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-25T08:32:32.000Z",
+        "description": "裡世界生物/性別認同目前♀/INFJ4w5/半本行走的DSM-5/重度社恐/這一欄到底應該寫什麼其實我也不知道因為我有記憶障礙都忘了等想起來再來補充",
+        "id": "1915685161192349697",
+        "name": "裁紙刀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015468036837568512/6vtw7Z79_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 67
+        },
+        "username": "Cutterknife0601",
+        "verified": false
+      }
+    ]
+  }
+}

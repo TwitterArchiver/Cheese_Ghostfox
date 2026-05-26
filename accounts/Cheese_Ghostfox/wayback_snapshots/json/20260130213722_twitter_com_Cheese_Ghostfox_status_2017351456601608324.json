@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "2017351456601608324",
+    "created_at": "2026-01-30T21:37:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T22:37:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017351456601608324"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sysjf0/status/…",
+          "end": 167,
+          "expanded_url": "https://twitter.com/sysjf0/status/2017272220436054317",
+          "start": 144,
+          "url": "https://t.co/oOT27XPiUl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017351456601608324",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 181,
+            "start": 175,
+            "tag": "心理学研究"
+          }
+        ]
+      },
+      "text": "类似于「负面心理暗示」造成的「滑落效应」(越贴标签越产生症状，越有症状把标签也贴得越牢)\n或许这就是诊断与检验的意义，至少对于器质性疑病来说一张检验报告就能打断这个要命的正反馈循环\n然而精神疾病没法如此…直观确凿地诊断与排除，导致被类似原因「传染」的人就真的得上精神/心理疾病了(大悲)\n莫名地会让人想到《心理测量者》中低san值会传染的设定(((\n#心理学研究"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017272220436054317",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "类似于「负面心理暗示」造成的「滑落效应」(越贴标签越产生症状，越有症状把标签也贴得越牢)\n或许这就是诊断与检验的意义，至少对于器质性疑病来说一张检验报告就能打断这个要命的正反馈循环\n然而精神疾病没法如此…直观确凿地诊断与排除，导致被类似原因「传染」的人就真的得上精神/心理疾病了(大悲) https://t.co/oOT27XPiUl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2017351456601608324",
+        "created_at": "2026-01-30T21:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T22:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017351456601608324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sysjf0/status/…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/sysjf0/status/2017272220436054317",
+              "start": 144,
+              "url": "https://t.co/oOT27XPiUl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017351456601608324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 181,
+                "start": 175,
+                "tag": "心理学研究"
+              }
+            ]
+          },
+          "text": "类似于「负面心理暗示」造成的「滑落效应」(越贴标签越产生症状，越有症状把标签也贴得越牢)\n或许这就是诊断与检验的意义，至少对于器质性疑病来说一张检验报告就能打断这个要命的正反馈循环\n然而精神疾病没法如此…直观确凿地诊断与排除，导致被类似原因「传染」的人就真的得上精神/心理疾病了(大悲)\n莫名地会让人想到《心理测量者》中低san值会传染的设定(((\n#心理学研究"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017272220436054317",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "类似于「负面心理暗示」造成的「滑落效应」(越贴标签越产生症状，越有症状把标签也贴得越牢)\n或许这就是诊断与检验的意义，至少对于器质性疑病来说一张检验报告就能打断这个要命的正反馈循环\n然而精神疾病没法如此…直观确凿地诊断与排除，导致被类似原因「传染」的人就真的得上精神/心理疾病了(大悲) https://t.co/oOT27XPiUl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1423220645383475200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2017272220436054317",
+        "created_at": "2026-01-30T16:22:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T17:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017272220436054317"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 128,
+              "start": 124,
+              "tag": "碎碎念"
+            },
+            {
+              "end": 134,
+              "start": 129,
+              "tag": "星辰计划"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017272220436054317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "其实了解心理学也是有副作用的，了解越多，越容易把他人或自己给标签化\n\n贴上标签之后，便觉得都是理所应当的了，不做出改变，一直呆在标签化的舒适区下沉\n\n就像是一些看了几个抑郁症科普，同时间内刚好心理不适，就自己贴上了，久而久之，会带来特别负面的影响\n#碎碎念 #星辰计划"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨あなたの記憶で永遠に六番目になりたい!丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugHLJi"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 1217,
+          "like_count": 12289,
+          "listed_count": 3,
+          "media_count": 405,
+          "tweet_count": 3757
+        },
+        "url": "https://t.co/COn8ugHLJi",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-05T09:53:54.000Z",
+        "description": "最喜欢的推 @BeetiIsDog @umichen0502324 @citrus_404\n放弃发推涨fo了，当日记写",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "BeetiIsDog"
+              },
+              {
+                "end": 33,
+                "start": 18,
+                "username": "umichen0502324"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "citrus_404"
+              }
+            ]
+          }
+        },
+        "id": "1423220645383475200",
+        "location": "1",
+        "name": "十九方",
+        "pinned_tweet_id": "1862539669592031578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014664352557891585/EvzYmSHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 925,
+          "like_count": 26694,
+          "listed_count": 4,
+          "media_count": 1793,
+          "tweet_count": 22930
+        },
+        "username": "sysjf0",
+        "verified": false
+      }
+    ]
+  }
+}

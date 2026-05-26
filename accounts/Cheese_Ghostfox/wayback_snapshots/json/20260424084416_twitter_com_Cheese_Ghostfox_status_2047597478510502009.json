@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Ethereum Cryptocurrency",
+          "id": "1007361429752594432",
+          "name": "Ethereum cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Ethereum Cryptocurrency",
+          "id": "1007361429752594432",
+          "name": "Ethereum cryptocurrency"
+        }
+      }
+    ],
+    "conversation_id": "2047593426234098077",
+    "created_at": "2026-04-24T08:44:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T09:44:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047597478510502009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2046530162536357888",
+          "start": 0,
+          "username": "yueyechunxue"
+        }
+      ],
+      "urls": [
+        {
+          "description": "来自您好友的邀请，登录后将绑定好友的邀请码。更多返佣福利可到 app 内邀请中心查看。",
+          "display_url": "web3.bitget.com/share/3jd4Sr?i…",
+          "end": 115,
+          "expanded_url": "https://web3.bitget.com/share/3jd4Sr?inviteCode=zZyaHp",
+          "start": 92,
+          "status": 200,
+          "title": "邀请返佣计划｜Bitget Wallet",
+          "unwound_url": "https://web3.bitget.com/zh/invite_login?inviteCode=zZyaHp&utm_source=newInviteRebate&type=card",
+          "url": "https://t.co/Y0sX2xnSqx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047597478510502009",
+    "in_reply_to_user_id": "2046530162536357888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047596215223894135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yueyechunxue 这么点ETH想给您转都没法转😂\n贵族链转账的gas费是您这金额的五倍了(((\n要不试试Bitget卡(?)\n比较简单,好开,这个没什么门槛,而且还好用喵!\nhttps://t.co/Y0sX2xnSqx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Ethereum Cryptocurrency",
+              "id": "1007361429752594432",
+              "name": "Ethereum cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Ethereum Cryptocurrency",
+              "id": "1007361429752594432",
+              "name": "Ethereum cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2047593426234098077",
+        "created_at": "2026-04-24T08:44:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T09:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047597478510502009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2046530162536357888",
+              "start": 0,
+              "username": "yueyechunxue"
+            }
+          ],
+          "urls": [
+            {
+              "description": "来自您好友的邀请，登录后将绑定好友的邀请码。更多返佣福利可到 app 内邀请中心查看。",
+              "display_url": "web3.bitget.com/share/3jd4Sr?i…",
+              "end": 115,
+              "expanded_url": "https://web3.bitget.com/share/3jd4Sr?inviteCode=zZyaHp",
+              "start": 92,
+              "status": 200,
+              "title": "邀请返佣计划｜Bitget Wallet",
+              "unwound_url": "https://web3.bitget.com/zh/invite_login?inviteCode=zZyaHp&utm_source=newInviteRebate&type=card",
+              "url": "https://t.co/Y0sX2xnSqx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047597478510502009",
+        "in_reply_to_user_id": "2046530162536357888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047596215223894135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yueyechunxue 这么点ETH想给您转都没法转😂\n贵族链转账的gas费是您这金额的五倍了(((\n要不试试Bitget卡(?)\n比较简单,好开,这个没什么门槛,而且还好用喵!\nhttps://t.co/Y0sX2xnSqx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046530162536357888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Ethereum Cryptocurrency",
+              "id": "1007361429752594432",
+              "name": "Ethereum cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Ethereum Cryptocurrency",
+              "id": "1007361429752594432",
+              "name": "Ethereum cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2047593426234098077",
+        "created_at": "2026-04-24T08:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T09:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047596215223894135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047596215223894135",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047593426234098077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox 我挺需要0.0001个ETH来开Safepal虚拟卡的，不过交易所都是50USD起售，没这么多闲钱🫠所以到现在都没开成"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1397,
+          "following_count": 1484,
+          "like_count": 17193,
+          "listed_count": 4,
+          "media_count": 596,
+          "tweet_count": 5452
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-21T10:04:01.000Z",
+        "description": "这里是春雪狐哦，是个小药娘,08年出厂,主要发碎碎念和涩图,业余福利姬然而发的大多数是清水涩图,陪聊🚪门槛50,爱好很多但是不精,可能会接线下单子哦",
+        "id": "2046530162536357888",
+        "location": "Sendai-shi Miyagino, Miyagi",
+        "name": "はるゆき狐🌸🍥",
+        "pinned_tweet_id": "2046551513414406431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046535232296570880/KSm_JaEu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 64,
+          "like_count": 88,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 120
+        },
+        "username": "yueyechunxue",
+        "verified": true
+      }
+    ]
+  }
+}

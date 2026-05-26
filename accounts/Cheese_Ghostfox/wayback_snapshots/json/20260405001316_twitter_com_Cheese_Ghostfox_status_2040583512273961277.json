@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2040583512273961277",
+    "created_at": "2026-04-05T00:13:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T01:13:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040583512273961277"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ena1_mizuki/st…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/ena1_mizuki/status/2040314092054069282",
+          "start": 5,
+          "url": "https://t.co/7bxOnStgpO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040583512273961277",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040314092054069282",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还真是🙀 https://t.co/7bxOnStgpO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2040583512273961277",
+        "created_at": "2026-04-05T00:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T01:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040583512273961277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ena1_mizuki/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/ena1_mizuki/status/2040314092054069282",
+              "start": 5,
+              "url": "https://t.co/7bxOnStgpO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040583512273961277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040314092054069282",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还真是🙀 https://t.co/7bxOnStgpO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2040314092054069282",
+        "created_at": "2026-04-04T06:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T07:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040314092054069282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cici20120712/s…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/cici20120712/status/2040080078974157145",
+              "start": 45,
+              "url": "https://t.co/uWJk3dUXmM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040314092054069282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5836,
+          "like_count": 75,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040080078974157145",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "。。还真是，而且据我所知很多同类都是这样，所以我感觉0721方式和性少数或许是有关联的😇 https://t.co/uWJk3dUXmM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1212,
+          "following_count": 1447,
+          "like_count": 15524,
+          "listed_count": 4,
+          "media_count": 527,
+          "tweet_count": 4848
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1636,
+          "following_count": 1091,
+          "like_count": 16126,
+          "listed_count": 6,
+          "media_count": 594,
+          "tweet_count": 4469
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009144862525018113"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2009144867625337026",
+    "created_at": "2026-01-08T06:07:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T07:07:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009144867625337026"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kAbwTQM6MP",
+          "end": 118,
+          "expanded_url": "https://x.com/Cheese_Ghostfox/status/2009144867625337026/photo/1",
+          "media_key": "3_2009144862525018113",
+          "start": 95,
+          "url": "https://t.co/kAbwTQM6MP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009144867625337026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "狐突发奇想…\n给推友们看看腿罢!\n(家居休闲着装致歉喵，不好看致歉，拍摄环境脏乱差致歉喵!)\n闲得没事随手拍的www\n没色情暴露敏感内容正常着装拍摄，打敏感保护过路推友眼睛与san值喵🙏😘 https://t.co/kAbwTQM6MP"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2009144867625337026].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2009144867625337026",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2009144867625337026"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2009144862525018113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-Hqm4ka0AEI221.jpg",
+        "width": 922
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨あなたの記憶で永遠に六番目になりたい!丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugHLJi"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008861838755483648/cHzI3JdP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 1136,
+          "like_count": 11461,
+          "listed_count": 2,
+          "media_count": 365,
+          "tweet_count": 3420
+        },
+        "url": "https://t.co/COn8ugHLJi",
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      }
+    ]
+  }
+}

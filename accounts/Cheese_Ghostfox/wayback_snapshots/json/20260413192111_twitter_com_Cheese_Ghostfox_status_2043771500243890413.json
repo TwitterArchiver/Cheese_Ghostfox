@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2043767988151824854",
+    "created_at": "2026-04-13T19:21:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T20:21:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043771500243890413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2038975737055543296",
+          "start": 0,
+          "username": "WujiChem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043771500243890413",
+    "in_reply_to_user_id": "2038975737055543296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043771210354581779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WujiChem 遵命(\n(其实这上面只有六条记录XD)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2043767988151824854",
+        "created_at": "2026-04-13T19:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T20:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043771500243890413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2038975737055543296",
+              "start": 0,
+              "username": "WujiChem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043771500243890413",
+        "in_reply_to_user_id": "2038975737055543296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043771210354581779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WujiChem 遵命(\n(其实这上面只有六条记录XD)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038975737055543296",
+        "conversation_id": "2043767988151824854",
+        "created_at": "2026-04-13T19:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T20:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043771210354581779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043771210354581779",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043767988151824854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox stop"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1354,
+          "following_count": 1463,
+          "like_count": 16553,
+          "listed_count": 4,
+          "media_count": 572,
+          "tweet_count": 5227
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-31T13:44:41.000Z",
+        "description": "关注被限制了，不能马上回关致歉",
+        "id": "2038975737055543296",
+        "name": "☯️🧬玄陽",
+        "pinned_tweet_id": "2042733665583796612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038976322236755968/ntvGPdG0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 56,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 158
+        },
+        "username": "WujiChem",
+        "verified": false
+      }
+    ]
+  }
+}

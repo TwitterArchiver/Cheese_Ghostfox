@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000542132411703296"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2000542135825863046",
+    "created_at": "2025-12-15T12:23:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T13:23:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000542135825863046"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PBCTPT05FT",
+          "end": 62,
+          "expanded_url": "https://x.com/Cheese_Ghostfox/status/2000542135825863046/photo/1",
+          "media_key": "3_2000542132411703296",
+          "start": 39,
+          "url": "https://t.co/PBCTPT05FT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000542135825863046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "经典金汤力喵!\n(由于狐的母亲也想喝只好做成低酒精度的了😭)\n还是很好喝的😋 https://t.co/PBCTPT05FT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_2000542132411703296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8NaeFiaIAAMJBp.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000542132411703296"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2000542135825863046",
+        "created_at": "2025-12-15T12:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T13:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000542135825863046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PBCTPT05FT",
+              "end": 62,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2000542135825863046/photo/1",
+              "media_key": "3_2000542132411703296",
+              "start": 39,
+              "url": "https://t.co/PBCTPT05FT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000542135825863046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经典金汤力喵!\n(由于狐的母亲也想喝只好做成低酒精度的了😭)\n还是很好喝的😋 https://t.co/PBCTPT05FT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨大道五十，天衍四九丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬暗号通貨戦士霊狐🏳️‍⚧️",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997128038925193217/9QJNS0sg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 1083,
+          "like_count": 10499,
+          "listed_count": 2,
+          "media_count": 327,
+          "tweet_count": 3105
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      }
+    ]
+  }
+}

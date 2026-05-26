@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2016721365785858487",
+    "created_at": "2026-01-29T03:53:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T04:53:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1725762533821476865",
+          "start": 3,
+          "username": "wwwqlwyxyz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/article/2016…",
+          "end": 39,
+          "expanded_url": "http://x.com/i/article/2016636709988102144",
+          "start": 16,
+          "status": 500,
+          "unwound_url": "https://x.com/i/article/2016636709988102144",
+          "url": "https://t.co/kFwMtt4LOu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016721365785858487",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016642427017449696",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wwwqlwyxyz: https://t.co/kFwMtt4LOu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {
+          "title": "潜龙勿用炼签指南：点火、升阶、成器"
+        },
+        "attachments": {},
+        "author_id": "1725762533821476865",
+        "conversation_id": "2016642427017449696",
+        "created_at": "2026-01-28T22:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T23:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2016…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2016636709988102144",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2016636709988102144",
+              "url": "https://t.co/kFwMtt4LOu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016642427017449696",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7446,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kFwMtt4LOu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨あなたの記憶で永遠に六番目になりたい!丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugHLJi"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 897,
+          "following_count": 1205,
+          "like_count": 12184,
+          "listed_count": 2,
+          "media_count": 402,
+          "tweet_count": 3720
+        },
+        "url": "https://t.co/COn8ugHLJi",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-18T06:27:17.000Z",
+        "description": "On-chain I-Ching Oracle — 卜卦问道，链上窥天机。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "qlwy.xyz",
+                "end": 23,
+                "expanded_url": "https://qlwy.xyz",
+                "start": 0,
+                "url": "https://t.co/FLD3XEbkl8"
+              }
+            ]
+          }
+        },
+        "id": "1725762533821476865",
+        "name": "潜龙勿用",
+        "pinned_tweet_id": "2016344545815151053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014677549637574657/W054fZLA_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3122,
+          "following_count": 44,
+          "like_count": 37,
+          "listed_count": 4,
+          "media_count": 5,
+          "tweet_count": 81
+        },
+        "url": "https://t.co/FLD3XEbkl8",
+        "username": "wwwqlwyxyz",
+        "verified": true
+      }
+    ]
+  }
+}

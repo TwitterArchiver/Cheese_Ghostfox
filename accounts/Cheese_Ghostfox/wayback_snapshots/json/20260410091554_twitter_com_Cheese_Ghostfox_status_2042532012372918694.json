@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2042528570589978944",
+    "created_at": "2026-04-10T09:15:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T10:15:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042532012372918694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2038975737055543296",
+          "start": 0,
+          "username": "WujiChem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042532012372918694",
+    "in_reply_to_user_id": "2038975737055543296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042528570589978944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WujiChem 叶老师真的是神颜啊🤯🤯🤯\n喜欢"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5533,
+        "height": 1280,
+        "media_key": "13_2042528507780272128",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2042528507780272128/img/7lYXTNZIMWCG5Fri.jpg",
+        "public_metrics": {
+          "view_count": 19
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042528507780272128/vid/avc1/320x568/hpqh11Z_lq5uWhsQ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042528507780272128/vid/avc1/480x852/0sh0MHXzjL5cwvtI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042528507780272128/vid/avc1/720x1280/AmdV4oPKDX8EE365.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2042528507780272128/pl/LAnI1RR1noTG7YYG.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2042528570589978944",
+        "created_at": "2026-04-10T09:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T10:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042532012372918694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2038975737055543296",
+              "start": 0,
+              "username": "WujiChem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042532012372918694",
+        "in_reply_to_user_id": "2038975737055543296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042528570589978944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WujiChem 叶老师真的是神颜啊🤯🤯🤯\n喜欢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042528507780272128"
+          ]
+        },
+        "author_id": "2038975737055543296",
+        "conversation_id": "2042528570589978944",
+        "created_at": "2026-04-10T09:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T10:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042528570589978944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tEMZ3SQZ5I",
+              "end": 41,
+              "expanded_url": "https://x.com/WujiChem/status/2042528570589978944/video/1",
+              "media_key": "13_2042528507780272128",
+              "start": 18,
+              "url": "https://t.co/tEMZ3SQZ5I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042528570589978944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "补档一下.. 我真的好喜欢这个眼妆 https://t.co/tEMZ3SQZ5I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1254,
+          "following_count": 1456,
+          "like_count": 15958,
+          "listed_count": 4,
+          "media_count": 550,
+          "tweet_count": 5034
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-31T13:44:41.000Z",
+        "description": "关注被限制了，不能马上回关致歉",
+        "id": "2038975737055543296",
+        "name": "☯️🧬玄陽",
+        "pinned_tweet_id": "2042487311599018415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038976322236755968/ntvGPdG0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 34,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 86
+        },
+        "username": "WujiChem",
+        "verified": false
+      }
+    ]
+  }
+}

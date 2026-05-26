@@ -1,0 +1,433 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007266373043666944"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2007038953086734544",
+    "created_at": "2026-01-03T01:42:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T02:42:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007266376092963083"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 34,
+          "normalized_text": "VCC",
+          "probability": 0.7345,
+          "start": 32,
+          "type": "Other"
+        },
+        {
+          "end": 38,
+          "normalized_text": "GND",
+          "probability": 0.594,
+          "start": 36,
+          "type": "Other"
+        },
+        {
+          "end": 45,
+          "normalized_text": "SSTXp1",
+          "probability": 0.6413,
+          "start": 40,
+          "type": "Other"
+        },
+        {
+          "end": 52,
+          "normalized_text": "SSTXn1",
+          "probability": 0.6568,
+          "start": 47,
+          "type": "Other"
+        },
+        {
+          "end": 59,
+          "normalized_text": "SSRXp2",
+          "probability": 0.748,
+          "start": 54,
+          "type": "Other"
+        },
+        {
+          "end": 66,
+          "normalized_text": "SSRXn2",
+          "probability": 0.7646,
+          "start": 61,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1864763770930892800",
+          "start": 0,
+          "username": "doeun_o_o"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tGOXuOP409",
+          "end": 216,
+          "expanded_url": "https://x.com/Cheese_Ghostfox/status/2007266376092963083/photo/1",
+          "media_key": "3_2007266373043666944",
+          "start": 193,
+          "url": "https://t.co/tGOXuOP409"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007266376092963083",
+    "in_reply_to_user_id": "1864763770930892800",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007038953086734544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doeun_o_o for now，she can have VCC/GND/SSTXp1/SSTXn1/SSRXp2/SSRXn2 ports at same time(\nyour illustration is a masterpiece btw.\nsry for AI fan fiction...this idea just pops out of my mind TwT🙏 https://t.co/tGOXuOP409"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2007266373043666944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9s-IZ7awAAHkdC.jpg",
+        "width": 864
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2007038934078132225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9pvRtwbEAEe8mD.jpg",
+        "width": 1465
+      },
+      {
+        "height": 2027,
+        "media_key": "3_2007038936380817408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9pvR2VbQAAHgqy.jpg",
+        "width": 1435
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007266373043666944"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2007038953086734544",
+        "created_at": "2026-01-03T01:42:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T02:42:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007266376092963083"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "VCC",
+              "probability": 0.7345,
+              "start": 32,
+              "type": "Other"
+            },
+            {
+              "end": 38,
+              "normalized_text": "GND",
+              "probability": 0.594,
+              "start": 36,
+              "type": "Other"
+            },
+            {
+              "end": 45,
+              "normalized_text": "SSTXp1",
+              "probability": 0.6413,
+              "start": 40,
+              "type": "Other"
+            },
+            {
+              "end": 52,
+              "normalized_text": "SSTXn1",
+              "probability": 0.6568,
+              "start": 47,
+              "type": "Other"
+            },
+            {
+              "end": 59,
+              "normalized_text": "SSRXp2",
+              "probability": 0.748,
+              "start": 54,
+              "type": "Other"
+            },
+            {
+              "end": 66,
+              "normalized_text": "SSRXn2",
+              "probability": 0.7646,
+              "start": 61,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1864763770930892800",
+              "start": 0,
+              "username": "doeun_o_o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tGOXuOP409",
+              "end": 216,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2007266376092963083/photo/1",
+              "media_key": "3_2007266373043666944",
+              "start": 193,
+              "url": "https://t.co/tGOXuOP409"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007266376092963083",
+        "in_reply_to_user_id": "1864763770930892800",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007038953086734544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doeun_o_o for now，she can have VCC/GND/SSTXp1/SSTXn1/SSRXp2/SSRXn2 ports at same time(\nyour illustration is a masterpiece btw.\nsry for AI fan fiction...this idea just pops out of my mind TwT🙏 https://t.co/tGOXuOP409"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007038934078132225",
+            "3_2007038936380817408"
+          ]
+        },
+        "author_id": "1864763770930892800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2007038953086734544",
+        "created_at": "2026-01-02T10:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T11:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007038953086734544"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "初音ミク"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ViA4X35x73",
+              "end": 32,
+              "expanded_url": "https://x.com/doeun_o_o/status/2007038953086734544/photo/1",
+              "media_key": "3_2007038934078132225",
+              "start": 9,
+              "url": "https://t.co/ViA4X35x73"
+            },
+            {
+              "display_url": "pic.x.com/ViA4X35x73",
+              "end": 32,
+              "expanded_url": "https://x.com/doeun_o_o/status/2007038953086734544/photo/1",
+              "media_key": "3_2007038936380817408",
+              "start": 9,
+              "url": "https://t.co/ViA4X35x73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007038953086734544",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2320,
+          "impression_count": 394934,
+          "like_count": 44656,
+          "quote_count": 32,
+          "reply_count": 17,
+          "retweet_count": 4067
+        },
+        "reply_settings": "everyone",
+        "text": "#初音ミク\n🔌🔋 https://t.co/ViA4X35x73"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨あなたの記憶で永遠に六番目になりたい!丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugHLJi"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006106648180580354/H1nFPBxL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 827,
+          "following_count": 1123,
+          "like_count": 11202,
+          "listed_count": 2,
+          "media_count": 353,
+          "tweet_count": 3314
+        },
+        "url": "https://t.co/COn8ugHLJi",
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T20:08:30.000Z",
+        "description": "💗Commission : https://t.co/ml0uPSEqyo\n/ ✉️ contact  : doeunkuki@naver.com /\nAI 🚫, Do not copy , use , reupload my artwork 🚫",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "doeuncommission.carrd.co",
+                "end": 37,
+                "expanded_url": "https://doeuncommission.carrd.co/",
+                "start": 14,
+                "url": "https://t.co/ml0uPSEqyo"
+              }
+            ]
+          }
+        },
+        "id": "1864763770930892800",
+        "name": "Doeun / ドウン",
+        "pinned_tweet_id": "2007038953086734544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930587525464350720/W0kWW14e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63372,
+          "following_count": 211,
+          "like_count": 11439,
+          "listed_count": 170,
+          "media_count": 140,
+          "tweet_count": 5847
+        },
+        "username": "doeun_o_o",
+        "verified": true
+      }
+    ]
+  }
+}

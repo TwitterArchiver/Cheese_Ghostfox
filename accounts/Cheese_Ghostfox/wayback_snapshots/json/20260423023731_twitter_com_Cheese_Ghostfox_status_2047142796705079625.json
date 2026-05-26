@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046925412442439680"
+      ],
+      "media_source_tweet_id": [
+        "2046925419098886503"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2047142796705079625",
+    "created_at": "2026-04-23T02:37:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T03:37:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047142796705079625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1697240283816333313",
+          "start": 3,
+          "username": "itoma_11010"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4yJKLXuYbB",
+          "end": 43,
+          "expanded_url": "https://x.com/itoma_11010/status/2046925419098886503/photo/1",
+          "media_key": "3_2046925412442439680",
+          "start": 20,
+          "url": "https://t.co/4yJKLXuYbB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047142796705079625",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 575
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046925419098886503",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @itoma_11010: テト https://t.co/4yJKLXuYbB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 944,
+        "media_key": "3_2046925412442439680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGgj0UpaAAAtpxL.jpg",
+        "width": 678
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046925412442439680"
+          ],
+          "media_source_tweet_id": [
+            "2046925419098886503"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2047142796705079625",
+        "created_at": "2026-04-23T02:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T03:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047142796705079625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1697240283816333313",
+              "start": 3,
+              "username": "itoma_11010"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4yJKLXuYbB",
+              "end": 43,
+              "expanded_url": "https://x.com/itoma_11010/status/2046925419098886503/photo/1",
+              "media_key": "3_2046925412442439680",
+              "start": 20,
+              "url": "https://t.co/4yJKLXuYbB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047142796705079625",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 575
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046925419098886503",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @itoma_11010: テト https://t.co/4yJKLXuYbB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046925412442439680"
+          ]
+        },
+        "author_id": "1697240283816333313",
+        "conversation_id": "2046925419098886503",
+        "created_at": "2026-04-22T12:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T13:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046925419098886503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4yJKLXuYbB",
+              "end": 26,
+              "expanded_url": "https://x.com/itoma_11010/status/2046925419098886503/photo/1",
+              "media_key": "3_2046925412442439680",
+              "start": 3,
+              "url": "https://t.co/4yJKLXuYbB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046925419098886503",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 508,
+          "impression_count": 46910,
+          "like_count": 6607,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 575
+        },
+        "reply_settings": "everyone",
+        "text": "テト https://t.co/4yJKLXuYbB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1393,
+          "following_count": 1481,
+          "like_count": 17073,
+          "listed_count": 4,
+          "media_count": 592,
+          "tweet_count": 5410
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-31T13:30:17.000Z",
+        "description": "趣味アカウント￤たまに絵￤合成音声、音楽、V、ゲーム好き￤※依頼❌￤🗝▶@110MK_sub￤▶ https://t.co/nBM4cnR5AF",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "110MK_sub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/60c9a6d1-84c4-…",
+                "end": 72,
+                "expanded_url": "https://lit.link/60c9a6d1-84c4-4ff8-96cd-368761f94ec4",
+                "start": 49,
+                "url": "https://t.co/nBM4cnR5AF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/pxn3gzzci4szu0…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/pxn3gzzci4szu0i?t=tceY9F&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/Rojxc08I7F"
+              }
+            ]
+          }
+        },
+        "id": "1697240283816333313",
+        "location": "※転載・AI学習禁止",
+        "name": "糸巻",
+        "pinned_tweet_id": "1855151422373085656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774642287378833408/TJSN1EcL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22688,
+          "following_count": 442,
+          "like_count": 13153,
+          "listed_count": 79,
+          "media_count": 546,
+          "tweet_count": 5685
+        },
+        "url": "https://t.co/Rojxc08I7F",
+        "username": "itoma_11010",
+        "verified": false
+      }
+    ]
+  }
+}

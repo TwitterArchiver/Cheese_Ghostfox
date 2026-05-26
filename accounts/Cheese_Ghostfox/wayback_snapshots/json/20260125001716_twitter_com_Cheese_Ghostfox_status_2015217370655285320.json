@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2015217370655285320",
+    "created_at": "2026-01-25T00:17:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T01:17:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015217370655285320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1400012445154889731",
+          "start": 3,
+          "username": "DtDt666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015217370655285320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014876123965038890",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DtDt666: 马斯克的 10大残酷预言\n\n媒体铺天盖地报道的是那句\"机器人数量将超过人类\"。\n\n100亿到200亿台，听起来像科幻电影的设定。\n\n但我反复看了几遍他的发言，觉得这个数字不是重点。\n\n\"当AI和机器人什么都能干的时候，人类需要思考，我们存在的意义是什么…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1068,
+        "media_key": "3_2014873358069010432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_ZEpNcaEAAJaQc.jpg",
+        "width": 1900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2015217370655285320",
+        "created_at": "2026-01-25T00:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T01:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015217370655285320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1400012445154889731",
+              "start": 3,
+              "username": "DtDt666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015217370655285320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014876123965038890",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DtDt666: 马斯克的 10大残酷预言\n\n媒体铺天盖地报道的是那句\"机器人数量将超过人类\"。\n\n100亿到200亿台，听起来像科幻电影的设定。\n\n但我反复看了几遍他的发言，觉得这个数字不是重点。\n\n\"当AI和机器人什么都能干的时候，人类需要思考，我们存在的意义是什么…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014873358069010432"
+          ]
+        },
+        "author_id": "1400012445154889731",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2014876123965038890",
+        "created_at": "2026-01-24T01:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T02:40:38.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014875962677301249",
+          "2014876123965038890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tQjT6e6UJ3",
+              "end": 152,
+              "expanded_url": "https://x.com/DtDt666/status/2014876123965038890/photo/1",
+              "media_key": "3_2014873358069010432",
+              "start": 129,
+              "url": "https://t.co/tQjT6e6UJ3"
+            },
+            {
+              "display_url": "x.com/DtDt666/status…",
+              "end": 176,
+              "expanded_url": "https://twitter.com/DtDt666/status/2014719388637921288",
+              "start": 153,
+              "url": "https://t.co/WjvLJvNprs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014876123965038890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "马斯克的 10大残酷预言\n\n媒体铺天盖地报道的是那句\"机器人数量将超过人类\"。\n\n100亿到200亿台，听起来像科幻电影的设定。\n\n但我反复看了几遍他的发言，觉得这个数字不是重点。\n\n\"当AI和机器人什么都能干的时候，人类需要思考，我们存在的意义是什么。\"\n\n重点是他后面那句话，这句被很多媒体一笔带过的话。\n\n这才是马斯克真正想说的东西。翻译成更直白的表达就是：人这个物种，可能快要\"没用\"了。\n\n1，人类启动硅基文明：碳基人类的核心价值可能只在于启动更高级的硅基智能，此后人类的历史任务便告完成。\n\n2,拼命存钱将彻底失去意义：AI与机器人将带来物质极大丰裕，商品与服务成本趋近于零，传统货币体系或面临终结。\n\n3，白领工作将率先全面崩塌：依赖信息处理的工作在AI面前毫无抵抗之力，而物理世界中的手艺活反而更持久。\n\n4,学历正迅速沦为废纸：大学四年所学赶不上AI四代进化，未来只认实战能力与认知深度。\n\n5，电是AI的“新血液”，瓦特是新货币：制约AI的关键不是芯片，而是电力。未来谁掌握能源，谁就掌控文明。\n\n6,三年内，人类医生将被手术机器人全面超越：AI手术机器人因手稳、不倦、实时全球学习，精度将远超人类。\n\n7，未来3-7年：文明切换的“地狱过渡期”：旧体系快速瓦解，新体系尚未建成，社会将经历剧烈颠簸与阵痛。\n\n8,工作将成为人类昂贵的“特权”：标准化全部由机器完成，真人提供的深度陪伴与人性化服务成为稀缺奢侈品。\n\n9，AGI已进入倒计时，2026年即将到来：技术爆炸临界点已至，真正的通用人工智能今年就可能实现。\n\n10,社会将进入“全民高收入”时代：生产力爆发式增长，使得商品与服务像自来水一样便宜，高收入成为普遍现象。\n\n一个正在兑现的时间表\n马斯克的预测向来大胆，也向来不准时。他说过2020年实现全自动驾驶，说过2024年送人上火星，这些都没兑现。所以很多人听他说话，习惯性打个对折。\n\n但这次他给出的时间表，我觉得值得认真对待。\n\n他说特斯拉的人形机器人Optimus，2026年会到5万至10万台，之后每年产量翻10倍。按这个速度推算，2030年就是百万台级别，2035年就是上亿台。\n\n你可能会说，这不还是在画饼吗？\n\n区别在于，Optimus不是PPT，是已经在特斯拉工厂里干活的真机器。去年我看过一些流出的视频，这东西已经能搬箱子、分拣零件、在产线上做一些简单操作了。它不是波士顿动力那种炫技型的机器人，是真的在往\"能干活、能量产、能便宜\"的方向走。\n\n马斯克给出的目标售价是2万到2.5万美元，大概十几万人民币。这个价格如果能实现，意味着什么？意味着一个中小企业主，花一辆中档轿车的钱，就能买一个24小时不休息、不要社保、不会抱怨的\"员工\"。\n\n这笔账太容易算了。\n\n\"几乎免费\"背后的经济学困境\n马斯克在达沃斯还说了一个很有意思的推论：当机器人能做所有人类能做的事，而且数量足够多的时候，商品和服务的成本会趋近于零。他用的词是\"almost free\"——几乎免费。\n\n乍一听，这像是个乌托邦式的美好愿景。东西都不要钱了，人人都能过上好日子，多好。\n\n但你仔细想一层，就会发现这里面藏着一个巨大的悖论：如果生产不再需要人类劳动，那人靠什么获得收入？如果人没有收入，\"免费\"这个概念还有意义吗？\n\n这不是我在抬杠，这是经济学的基本逻辑。我们现在的整个社会运转，建立在一个前提上：人通过劳动创造价值，获得报酬，然后用报酬去交换别人的劳动成果。这个循环一旦断掉，整个系统就要重写。\n\n马斯克显然也意识到了这个问题，所以他才会说\"人类需要思考存在的意义\"。他没有给出答案，但他把问题摆在了桌面上。\n\n这次可能真的不一样\n每次技术革命，都会有人跳出来说\"这次狼真的来了\"。\n\n19世纪的卢德派工人砸毁纺织机，觉得机器会让所有人失业。结果呢？工业革命创造了更多的工作岗位。\n\n20世纪初汽车取代马车，几十万马车夫确实失业了，但汽车产业养活了几百万人。20世纪末电脑普及，打字员和接线员消失了，但程序员和产品经理出现了。\n\n历史的经验告诉我们，技术会消灭旧工作，但也会创造新工作。人类总能找到新的位置。\n\n但这一次，我不确定这个规律还能不能成立。\n\n原因很简单：以前的技术革命，机器取代的是人的\"体力\"或者\"重复性劳动\"。纺织机取代的是织布工的手，汽车取代的是马车夫的腿，电脑取代的是打字员的手指。但人的大脑还在，人还能学习新技能，去做那些机器做不了的事情。\n\n这一次不一样。AI取代的是脑力劳动，是思考、判断、创作、决策这些我们以为只有人类才能做的事情。\n\n当机器不光能动，还能想，人类还能退到哪里去？\n\n我跟踪科技行业二十多年，见过很多次\"狼来了\"。但这一次，我隐隐觉得，狼可能真的站在门口了。\n\n马斯克的底气从哪里来\n你可能会问：凭什么马斯克说的就会成真？这个世界上喜欢预测未来的人多了去了，为什么要单独把他的话当回事？\n\n这个问题我也想过。我的答案是：因为他不只是在预测，他是在执行。\n\n马斯克这个人有个特点，他说的很多话听起来像是科幻小说，但他真的会投入资源去做，而且经常做成。\n\n他说要做电动车的时候，通用、福特那些老牌车企都觉得他是个笑话。现在特斯拉是全球市值最高的汽车公司。他说要做可回收火箭的时候，NASA的工程师都觉得不可能。现在SpaceX是全球发射次数最多的航天公司，NASA反过来要找他买服务。他说要做脑机接口的时候，大家觉得这是纯粹的科幻。现在Neuralink已经在做人体临床试验了。\n\n这个人的可怕之处在于，他不是在空谈，他是在一边说一边干。而且他手里有钱、有团队、有技术积累、有产业链整合能力。\n\n所以当他说\"机器人会超过人类\"的时候，我不会把它当成一个博眼球的段子。我会认真想一想：如果这件事真的发生，哪怕只是部分发生，世界会变成什么样？\n\n普通人能做什么\n说实话，面对这种级别的变革，我也没有什么灵丹妙药可以开。\n\n但有几点是我这些年观察科技行业、跟各种创业者聊天之后，慢慢形成的一些想法。\n\n第一，不要试图和机器比效率。这是一场注定会输的比赛。机器永远比你快、比你准、比你便宜、比你耐操。如果你的核心竞争力是\"我能干多少活\"，那基本上就是在和推土机比挖坑。\n\n第二，去做那些机器不擅长的事情。至少在目前这个阶段，机器还不太擅长处理模糊性、建立信任关系、在信息不完整的情况下做判断、给事情赋予意义和价值。这些\"软\"的能力，可能会变得越来越重要。\n\n第三，保持学习的状态，但不要陷入焦虑。技术变化太快，你不可能什么都学会，也没必要什么都学会。更重要的是保持一种开放的心态，愿意接触新东西，愿意承认自己不懂，愿意在必要的时候推翻自己过去的认知。\n\n这些话说起来有点虚，但我觉得比任何具体的技能建议都更有用。因为具体的技能会过时，但学习的能力和开放的心态不会。\n\n写在最后\n马斯克在达沃斯的这场发言，我前前后后看了三遍。\n\n第一遍觉得他又在放卫星，习惯了。第二遍开始觉得有些话细思极恐。第三遍看完，我在想一个问题：如果他说的哪怕只有一半成真，我们这代人的后半生，会不会和前半生完全不一样？\n\n100亿台机器人，商品服务几乎免费，人类不再需要工作——这些描述听起来像乌托邦，但仔细想想，又像是另一种形式的噩梦。\n\n因为\"不用工作\"的另一面，是\"没有事情需要你做\"。而对很多人来说，\"被需要\"本身就是活着的意义。\n\n见过互联网泡沫破灭，见过移动互联网崛起，见过无数风口来了又走。但这一次，我有一种不太一样的感觉。\n\n这种感觉很难描述。\n\n不是恐惧，也不是兴奋，更像是一种站在悬崖边上的眩晕感——你知道有什么大事要发生，但你不确定自己准备好了没有。\n\n马斯克说，人类需要思考存在的意义。\n\n这话听起来很哲学，但其实很现实。\n\n如果有一天，机器真的能做所有人能做的事，你觉得人还剩下什么是不可替代的？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 21102,
+          "like_count": 97,
+          "quote_count": 3,
+          "reply_count": 27,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014719388637921288",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "马斯克的 10大残酷预言\n\n媒体铺天盖地报道的是那句\"机器人数量将超过人类\"。\n\n100亿到200亿台，听起来像科幻电影的设定。\n\n但我反复看了几遍他的发言，觉得这个数字不是重点。\n\n\"当AI和机器人什么都能干的时候，人类需要思考，我们存在的意义是什么。\" https://t.co/tQjT6e6UJ3 https://t.co/WjvLJvNprs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨あなたの記憶で永遠に六番目になりたい!丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugHLJi"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 1182,
+          "like_count": 11937,
+          "listed_count": 2,
+          "media_count": 395,
+          "tweet_count": 3655
+        },
+        "url": "https://t.co/COn8ugHLJi",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-02T08:52:39.000Z",
+        "description": "一生只搞一个币 $SOL  \n\n把复杂的问题，用图片简单化\n\n陪兄弟们一起穿越牛熊！\n\n#OKX  定投，就用OKX https://t.co/KejoV0foz5\n\n#Binance 币安福利官专属注册通道👉https://t.co/wExZLqKcA2",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 12,
+                "start": 8,
+                "tag": "SOL"
+              }
+            ],
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 44,
+                "tag": "OKX"
+              },
+              {
+                "end": 92,
+                "start": 84,
+                "tag": "Binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "okx.com/join/7484094",
+                "end": 82,
+                "expanded_url": "http://www.okx.com/join/7484094",
+                "start": 59,
+                "url": "https://t.co/KejoV0foz5"
+              },
+              {
+                "display_url": "maxweb.black/join?ref=53200…",
+                "end": 128,
+                "expanded_url": "https://www.maxweb.black/join?ref=532007156",
+                "start": 105,
+                "url": "https://t.co/wExZLqKcA2"
+              }
+            ]
+          }
+        },
+        "id": "1400012445154889731",
+        "location": "Hong Kong",
+        "name": "看不懂的SOL",
+        "pinned_tweet_id": "1895474001369333776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759123402139500544/g6UJlLcs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169551,
+          "following_count": 1738,
+          "like_count": 16061,
+          "listed_count": 1859,
+          "media_count": 3269,
+          "tweet_count": 5880
+        },
+        "username": "DtDt666",
+        "verified": true
+      }
+    ]
+  }
+}

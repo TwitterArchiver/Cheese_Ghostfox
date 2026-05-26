@@ -1,0 +1,523 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2004462521080795137",
+    "created_at": "2025-12-27T15:54:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T16:54:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004944027339350081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "3322503031",
+          "start": 0,
+          "username": "renawevin"
+        },
+        {
+          "end": 19,
+          "id": "1786255103802109952",
+          "start": 11,
+          "username": "ei_0113"
+        },
+        {
+          "end": 27,
+          "id": "1752964347746508800",
+          "start": 20,
+          "username": "52498b"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Cheese_Ghostfo…",
+          "end": 63,
+          "expanded_url": "https://x.com/Cheese_Ghostfox/status/2004942771808075951?s=20",
+          "start": 40,
+          "url": "https://t.co/TsLKX6sToh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004944027339350081",
+    "in_reply_to_user_id": "3322503031",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004942771808075951",
+        "type": "quoted"
+      },
+      {
+        "id": "2004857453197099312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@renawevin @ei_0113 @52498b 我刚刚做了差不多的事w\nhttps://t.co/TsLKX6sToh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19832,
+        "height": 1080,
+        "media_key": "13_2004942549275103232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2004942549275103232/img/79J3EPlbO--gFZJg.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004942549275103232/vid/avc1/480x270/LU-vGsTl_ad8DNBi.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004942549275103232/vid/avc1/640x360/UKU-LBDihbxjrDPS.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004942549275103232/vid/avc1/1280x720/ebCe1wUdWVblOj5E.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2004942549275103232/pl/BqwILU5Ya_Sa2WpC.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2004462521080795137",
+        "created_at": "2025-12-27T15:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T16:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004944027339350081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3322503031",
+              "start": 0,
+              "username": "renawevin"
+            },
+            {
+              "end": 19,
+              "id": "1786255103802109952",
+              "start": 11,
+              "username": "ei_0113"
+            },
+            {
+              "end": 27,
+              "id": "1752964347746508800",
+              "start": 20,
+              "username": "52498b"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Cheese_Ghostfo…",
+              "end": 63,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2004942771808075951?s=20",
+              "start": 40,
+              "url": "https://t.co/TsLKX6sToh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004944027339350081",
+        "in_reply_to_user_id": "3322503031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004942771808075951",
+            "type": "quoted"
+          },
+          {
+            "id": "2004857453197099312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@renawevin @ei_0113 @52498b 我刚刚做了差不多的事w\nhttps://t.co/TsLKX6sToh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2004942549275103232"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2004462521080795137",
+        "created_at": "2025-12-27T15:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T16:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004942771808075951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1786255103802109952",
+              "start": 0,
+              "username": "ei_0113"
+            },
+            {
+              "end": 16,
+              "id": "1752964347746508800",
+              "start": 9,
+              "username": "52498b"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V1LG7DS1i5",
+              "end": 164,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2004942771808075951/video/1",
+              "media_key": "13_2004942549275103232",
+              "start": 141,
+              "url": "https://t.co/V1LG7DS1i5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004942771808075951",
+        "in_reply_to_user_id": "1786255103802109952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004782430281240972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ei_0113 @52498b やりました！\nあまり出来の良くない半完成品ですが… この面白いIdeaを本当にみんなに聴いてもらえるようになりました～！\nmidishow User「gktwo」さんが公開してくださった人声MIDIファイルのおかげです。 ありがとうございます！！ https://t.co/V1LG7DS1i5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3322503031",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2004462521080795137",
+        "created_at": "2025-12-27T10:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T11:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004857453197099312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1786255103802109952",
+              "start": 0,
+              "username": "ei_0113"
+            },
+            {
+              "end": 16,
+              "id": "1752964347746508800",
+              "start": 9,
+              "username": "52498b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004857453197099312",
+        "in_reply_to_user_id": "1786255103802109952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 187,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004545783291596971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ei_0113 @52498b 我都想打開Vocaloid叫ミク來唱了（#"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨大道五十，天衍四九丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 129,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugHLJi"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬暗号通貨戦士霊狐🏳️‍⚧️",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003275522047168512/eHhAdruU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 1095,
+          "like_count": 10811,
+          "listed_count": 2,
+          "media_count": 343,
+          "tweet_count": 3201
+        },
+        "url": "https://t.co/COn8ugHLJi",
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-21T14:38:14.000Z",
+        "description": "台湾人です。にゃんこミクかわいい！\n中文⭕ / English👌 / 日本語🔰\nVocaloid／Unity／RM 2003／雀魂／CHUNITHM／maimai／プロセカ／Project DIVA\na.k.a. 雷丸⊗魚娜 a.k.a. 魚雷×丸娜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "renawevin.weebly.com",
+                "end": 23,
+                "expanded_url": "http://renawevin.weebly.com/",
+                "start": 0,
+                "url": "https://t.co/D8knfxxNVg"
+              }
+            ]
+          }
+        },
+        "id": "3322503031",
+        "location": "台灣",
+        "name": "魚丸◎蕾娜",
+        "pinned_tweet_id": "1841423230990737867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1475286012201148418/vbZsZNaG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 75,
+          "like_count": 1441,
+          "listed_count": 2,
+          "media_count": 891,
+          "tweet_count": 2934
+        },
+        "url": "https://t.co/D8knfxxNVg",
+        "username": "renawevin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-03T04:43:28.000Z",
+        "description": "絡み、DM、大歓迎！ 主に音ゲーのリザルトとかスマホゲーのガチャなど やってるゲーム(大体)携帯端末系 スプラ3 プロセカ ユメステ 原神 崩壊スターレイル 鳴潮 とか 　　　　　　　　　 アイコン:@tukimi_tohma",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 100,
+                "username": "tukimi_tohma"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UChlI2…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UChlI2nKcdFv0u-r_0sMSLbQ?si=jNVY9HOSDMkg8A9q",
+                "start": 0,
+                "url": "https://t.co/c5jb7GOFJC"
+              }
+            ]
+          }
+        },
+        "id": "1786255103802109952",
+        "location": "教室のセカイ(行きたい)",
+        "name": "えいる",
+        "pinned_tweet_id": "1901200275677028362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853053186464186368/bY06Az5J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 1090,
+          "like_count": 2329,
+          "listed_count": 1,
+          "media_count": 221,
+          "tweet_count": 9177
+        },
+        "url": "https://t.co/c5jb7GOFJC",
+        "username": "ei_0113",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-01T07:57:31.000Z",
+        "description": "これ見てずっと笑えるような画像をDMで募集📩",
+        "id": "1752964347746508800",
+        "location": "ネタDMで募集中📩",
+        "name": "ネットの話題ツイ図鑑",
+        "pinned_tweet_id": "1899392669815865502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997948388608978946/NfOMtrLZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62072,
+          "following_count": 12,
+          "like_count": 372,
+          "listed_count": 86,
+          "media_count": 661,
+          "tweet_count": 1008
+        },
+        "username": "52498b",
+        "verified": false
+      }
+    ]
+  }
+}

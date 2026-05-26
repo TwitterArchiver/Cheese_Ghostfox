@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2015216856462930209",
+    "created_at": "2026-01-25T00:15:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T01:15:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015216856462930209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1324198319535521795",
+          "start": 3,
+          "username": "KKaWSB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015216856462930209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015208889390870631",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KKaWSB: 津大学的科学家们做了一个实验：他们用光粒子（叫做光子）把量子计算机的基本操作（逻辑门）从一个小型量子处理器“传送”到另一个处理器上，这两个处理器相隔大约2米远。他们不是真的把东西物理移动，而是通过量子纠缠这个奇妙的物理现象，让信息瞬间共享，就像科幻电影里…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1480,
+        "media_key": "3_2015208540529721344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_d1fZabgAAgaZ0.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2015216856462930209",
+        "created_at": "2026-01-25T00:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T01:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015216856462930209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1324198319535521795",
+              "start": 3,
+              "username": "KKaWSB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015216856462930209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015208889390870631",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KKaWSB: 津大学的科学家们做了一个实验：他们用光粒子（叫做光子）把量子计算机的基本操作（逻辑门）从一个小型量子处理器“传送”到另一个处理器上，这两个处理器相隔大约2米远。他们不是真的把东西物理移动，而是通过量子纠缠这个奇妙的物理现象，让信息瞬间共享，就像科幻电影里…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015208540529721344"
+          ]
+        },
+        "author_id": "1324198319535521795",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2015208889390870631",
+        "created_at": "2026-01-24T23:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T00:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015208889390870631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4rrbOxxmDq",
+              "end": 157,
+              "expanded_url": "https://x.com/KKaWSB/status/2015208889390870631/photo/1",
+              "media_key": "3_2015208540529721344",
+              "start": 134,
+              "url": "https://t.co/4rrbOxxmDq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015208889390870631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "津大学的科学家们做了一个实验：他们用光粒子（叫做光子）把量子计算机的基本操作（逻辑门）从一个小型量子处理器“传送”到另一个处理器上，这两个处理器相隔大约2米远。他们不是真的把东西物理移动，而是通过量子纠缠这个奇妙的物理现象，让信息瞬间共享，就像科幻电影里的传送一样。\n\n这项技术能帮助未来构建更大的量子超级计算机，因为它让不同的量子模块可以远程连接，而不用直接用线连起来。实验结果很可靠，准确率高达99.7%。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 248,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "津大学的科学家们做了一个实验：他们用光粒子（叫做光子）把量子计算机的基本操作（逻辑门）从一个小型量子处理器“传送”到另一个处理器上，这两个处理器相隔大约2米远。他们不是真的把东西物理移动，而是通过量子纠缠这个奇妙的物理现象，让信息瞬间共享，就像科幻电影里的传送一样。 https://t.co/4rrbOxxmDq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨あなたの記憶で永遠に六番目になりたい!丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugHLJi"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 1182,
+          "like_count": 11936,
+          "listed_count": 2,
+          "media_count": 395,
+          "tweet_count": 3654
+        },
+        "url": "https://t.co/COn8ugHLJi",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-05T03:54:29.000Z",
+        "description": "Co-founder of CarbonSilicon AI ｜ AI-powered on-chain algorithmic trading (Palo Alto) | 硅谷 P 将军｜金狗投研｜深绿 Agent👽｜Learn in public📖｜\n\n✈️投研频道：https://t.co/QsTW1lsaMp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/KKcasi",
+                "end": 159,
+                "expanded_url": "https://t.me/KKcasi",
+                "start": 136,
+                "url": "https://t.co/QsTW1lsaMp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+2wIEN3JaDn5hZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+2wIEN3JaDn5hZjAx",
+                "start": 0,
+                "url": "https://t.co/RAqwp4VYZc"
+              }
+            ]
+          }
+        },
+        "id": "1324198319535521795",
+        "location": "Palo Alto",
+        "name": "KK.aWSB",
+        "pinned_tweet_id": "1968453490084299020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597151544004132864/tTRRgVeE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52012,
+          "following_count": 2710,
+          "like_count": 7964,
+          "listed_count": 532,
+          "media_count": 2549,
+          "tweet_count": 6151
+        },
+        "url": "https://t.co/RAqwp4VYZc",
+        "username": "KKaWSB",
+        "verified": true
+      }
+    ]
+  }
+}

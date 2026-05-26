@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1978703103328227787",
+    "created_at": "2025-10-16T06:02:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T07:02:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978703103328227787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1158637486328782848",
+          "start": 3,
+          "username": "mdclub01"
+        },
+        {
+          "end": 23,
+          "id": "1257910808433922048",
+          "start": 14,
+          "username": "newsNZcn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978703103328227787",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978675975656235422",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mdclub01: @newsNZcn 我也是在人民健康的道路上帮上忙了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1978703103328227787",
+        "created_at": "2025-10-16T06:02:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T07:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978703103328227787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1158637486328782848",
+              "start": 3,
+              "username": "mdclub01"
+            },
+            {
+              "end": 23,
+              "id": "1257910808433922048",
+              "start": 14,
+              "username": "newsNZcn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978703103328227787",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978675975656235422",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mdclub01: @newsNZcn 我也是在人民健康的道路上帮上忙了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1158637486328782848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1978649735432180104",
+        "created_at": "2025-10-16T04:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T05:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978675975656235422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1257910808433922048",
+              "start": 0,
+              "username": "newsNZcn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978675975656235422",
+        "in_reply_to_user_id": "1257910808433922048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 284,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978649735432180104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@newsNZcn 我也是在人民健康的道路上帮上忙了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "单线程狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX幽默无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨燦若花火的生命，无法用只言片语概括丨裡推 @HEX_Ghostfox丨恋人 @HydrogenNeko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 125,
+                "username": "HEX_Ghostfox"
+              },
+              {
+                "end": 155,
+                "start": 142,
+                "username": "HydrogenNeko"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬暗号通貨戦士霊狐🏳️‍⚧️",
+        "pinned_tweet_id": "1971908706771304723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945506638892355584/vuuDoKyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 939,
+          "like_count": 8659,
+          "listed_count": 2,
+          "media_count": 256,
+          "tweet_count": 2441
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-06T07:14:37.000Z",
+        "description": "华语原创｜国产经典｜情色文学｜系列宇宙\n欢迎关注追踪我们\n获得第一手情欲作品😍👉👌💦\n麻豆官方IG：https://t.co/PSmfH57fIr\n麻豆国际版TG频道：https://t.co/8vHBT9LmK3\n麻豆传媒APP官方推特：@Mdapp12com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 120,
+                "username": "Mdapp12com"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/mdclub01/",
+                "end": 73,
+                "expanded_url": "https://www.instagram.com/mdclub01/",
+                "start": 50,
+                "url": "https://t.co/PSmfH57fIr"
+              },
+              {
+                "display_url": "t.me/+WB3vqddQUHliZ…",
+                "end": 107,
+                "expanded_url": "https://t.me/+WB3vqddQUHliZmU1",
+                "start": 84,
+                "url": "https://t.co/8vHBT9LmK3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "portaly.cc/modelmediaaisa",
+                "end": 23,
+                "expanded_url": "https://portaly.cc/modelmediaaisa",
+                "start": 0,
+                "url": "https://t.co/bz51DBtBkw"
+              }
+            ]
+          }
+        },
+        "id": "1158637486328782848",
+        "location": "距离100公尺",
+        "name": "【麻豆传媒映画】 全球唯一官方帐号",
+        "pinned_tweet_id": "1978412787253891085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881651865269743616/qNOMwMS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565610,
+          "following_count": 599,
+          "like_count": 4135,
+          "listed_count": 1309,
+          "media_count": 1846,
+          "tweet_count": 6902
+        },
+        "url": "https://t.co/bz51DBtBkw",
+        "username": "mdclub01",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-06T05:51:54.000Z",
+        "description": "天地奇闻，古今趣谈。♨️ \n\n▫️轻度内容创作者。✍️\n\n▫️X 文大多搜集于网络。欢迎发现并纠正错误。🙏\n\n（Stories, Pictures, Videos for Mystery, Novelty, and Fantasy.）\n\n▫️DM for removal or credit. ©️",
+        "id": "1257910808433922048",
+        "location": "NZ",
+        "name": "环球猎奇🏅",
+        "pinned_tweet_id": "1976733295569461580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1269197501799620609/qG1L0Xrk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157710,
+          "following_count": 6,
+          "like_count": 42417,
+          "listed_count": 479,
+          "media_count": 11048,
+          "tweet_count": 16265
+        },
+        "username": "newsNZcn",
+        "verified": true
+      }
+    ]
+  }
+}

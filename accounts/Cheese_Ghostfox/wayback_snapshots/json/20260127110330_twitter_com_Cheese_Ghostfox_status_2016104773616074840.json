@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015941977590923265"
+      ],
+      "media_source_tweet_id": [
+        "2015941984180175008"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2016104773616074840",
+    "created_at": "2026-01-27T11:03:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T12:03:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016104773616074840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "956315000",
+          "start": 3,
+          "username": "MC_SHIZU"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0BJY9G3cbe",
+          "end": 40,
+          "expanded_url": "https://x.com/MC_SHIZU/status/2015941984180175008/photo/1",
+          "media_key": "3_2015941977590923265",
+          "start": 17,
+          "url": "https://t.co/0BJY9G3cbe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016104773616074840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015941984180175008",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MC_SHIZU: 草😂 https://t.co/0BJY9G3cbe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1013,
+        "media_key": "3_2015941977590923265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_oQjDYbAAEtZdU.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015941977590923265"
+          ],
+          "media_source_tweet_id": [
+            "2015941984180175008"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2016104773616074840",
+        "created_at": "2026-01-27T11:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T12:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016104773616074840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "956315000",
+              "start": 3,
+              "username": "MC_SHIZU"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0BJY9G3cbe",
+              "end": 40,
+              "expanded_url": "https://x.com/MC_SHIZU/status/2015941984180175008/photo/1",
+              "media_key": "3_2015941977590923265",
+              "start": 17,
+              "url": "https://t.co/0BJY9G3cbe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016104773616074840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015941984180175008",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MC_SHIZU: 草😂 https://t.co/0BJY9G3cbe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015941977590923265"
+          ]
+        },
+        "author_id": "956315000",
+        "conversation_id": "2015941984180175008",
+        "created_at": "2026-01-27T00:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T01:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015941984180175008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0BJY9G3cbe",
+              "end": 26,
+              "expanded_url": "https://x.com/MC_SHIZU/status/2015941984180175008/photo/1",
+              "media_key": "3_2015941977590923265",
+              "start": 3,
+              "url": "https://t.co/0BJY9G3cbe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015941984180175008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 43339,
+          "like_count": 951,
+          "quote_count": 5,
+          "reply_count": 20,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "草😂 https://t.co/0BJY9G3cbe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨あなたの記憶で永遠に六番目になりたい!丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugHLJi"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 1197,
+          "like_count": 12086,
+          "listed_count": 2,
+          "media_count": 397,
+          "tweet_count": 3680
+        },
+        "url": "https://t.co/COn8ugHLJi",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2012-11-18T22:08:58.000Z",
+        "description": "No personal info, more personal protect (possibly) ；50% political + 45% ACG + 5% NSFW🔞; Please mute if content aren't suitable.",
+        "id": "956315000",
+        "name": "SHIZU",
+        "pinned_tweet_id": "1846866556871233879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793632441850335232/zeLqtndH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 515,
+          "like_count": 63876,
+          "listed_count": 3,
+          "media_count": 2342,
+          "tweet_count": 111059
+        },
+        "username": "MC_SHIZU",
+        "verified": false
+      }
+    ]
+  }
+}

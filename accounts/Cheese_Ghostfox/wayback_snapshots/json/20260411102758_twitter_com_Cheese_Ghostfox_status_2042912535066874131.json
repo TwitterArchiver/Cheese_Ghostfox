@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2042912494738640902"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2042902925559894224",
+    "created_at": "2026-04-11T10:27:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T11:27:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042912535066874131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999040656942223360",
+          "start": 0,
+          "username": "ewan114514"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SXYHAWZZwj",
+          "end": 41,
+          "expanded_url": "https://x.com/Cheese_Ghostfox/status/2042912535066874131/video/1",
+          "media_key": "7_2042912494738640902",
+          "start": 18,
+          "url": "https://t.co/SXYHAWZZwj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042912535066874131",
+    "in_reply_to_user_id": "1999040656942223360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042912011764535742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ewan114514 给您录了! https://t.co/SXYHAWZZwj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19392,
+        "height": 1280,
+        "media_key": "7_2042912494738640902",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2042912494738640902/pu/img/7OWEyCSoXhrquEJc.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042912494738640902/pu/vid/avc1/320x568/GR_vBat95K-xM0gs.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042912494738640902/pu/vid/avc1/480x852/uunqajOJ97YO5nw6.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042912494738640902/pu/vid/avc1/720x1280/t7xtt31CjkATEoRO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2042912494738640902/pu/pl/wQ00-LlmQoTlZNX6.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2042912494738640902"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2042902925559894224",
+        "created_at": "2026-04-11T10:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042912535066874131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999040656942223360",
+              "start": 0,
+              "username": "ewan114514"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SXYHAWZZwj",
+              "end": 41,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2042912535066874131/video/1",
+              "media_key": "7_2042912494738640902",
+              "start": 18,
+              "url": "https://t.co/SXYHAWZZwj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042912535066874131",
+        "in_reply_to_user_id": "1999040656942223360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042912011764535742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ewan114514 给您录了! https://t.co/SXYHAWZZwj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999040656942223360",
+        "conversation_id": "2042902925559894224",
+        "created_at": "2026-04-11T10:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042912011764535742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042912011764535742",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042902925559894224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox 我也想耍刀😭😭，这有什么教程吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1278,
+          "following_count": 1453,
+          "like_count": 16141,
+          "listed_count": 4,
+          "media_count": 556,
+          "tweet_count": 5093
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-11T08:57:00.000Z",
+        "description": "𝓜𝓮𝓻𝓻𝔂 𝓒𝓱𝓻𝓲𝓼𝓽𝓶𝓪𝓼, 𝓜𝓻. 𝓛𝓪𝔀𝓻𝓮𝓷𝓬𝓮  | choose life",
+        "id": "1999040656942223360",
+        "location": "第六病室",
+        "name": "伊万(absolute",
+        "pinned_tweet_id": "2042905392410431801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042862844606312448/skmkLiUg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 50,
+          "like_count": 445,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 29
+        },
+        "username": "ewan114514",
+        "verified": false
+      }
+    ]
+  }
+}

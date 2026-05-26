@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047576861795074048",
+        "3_2047576861786669056",
+        "3_2047576861790875648",
+        "3_2047576859769225216"
+      ],
+      "media_source_tweet_id": [
+        "2047577106566250752",
+        "2047577106566250752",
+        "2047577106566250752",
+        "2047577106566250752"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2047868798980734996",
+    "created_at": "2026-04-25T02:42:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T03:42:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047868798980734996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1499103632255455233",
+          "start": 3,
+          "username": "AKIYAMAYUGUMO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sssvqgTiUN",
+          "end": 56,
+          "expanded_url": "https://x.com/AKIYAMAYUGUMO/status/2047577106566250752/photo/1",
+          "media_key": "3_2047576861795074048",
+          "start": 33,
+          "url": "https://t.co/sssvqgTiUN"
+        },
+        {
+          "display_url": "pic.x.com/sssvqgTiUN",
+          "end": 56,
+          "expanded_url": "https://x.com/AKIYAMAYUGUMO/status/2047577106566250752/photo/1",
+          "media_key": "3_2047576861786669056",
+          "start": 33,
+          "url": "https://t.co/sssvqgTiUN"
+        },
+        {
+          "display_url": "pic.x.com/sssvqgTiUN",
+          "end": 56,
+          "expanded_url": "https://x.com/AKIYAMAYUGUMO/status/2047577106566250752/photo/1",
+          "media_key": "3_2047576861790875648",
+          "start": 33,
+          "url": "https://t.co/sssvqgTiUN"
+        },
+        {
+          "display_url": "pic.x.com/sssvqgTiUN",
+          "end": 56,
+          "expanded_url": "https://x.com/AKIYAMAYUGUMO/status/2047577106566250752/photo/1",
+          "media_key": "3_2047576859769225216",
+          "start": 33,
+          "url": "https://t.co/sssvqgTiUN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047868798980734996",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 101
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047577106566250752",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AKIYAMAYUGUMO: 什么嘛，你这不是很会设计吗 https://t.co/sssvqgTiUN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1938,
+        "media_key": "3_2047576861795074048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGp0TqmawAAjun6.jpg",
+        "width": 960
+      },
+      {
+        "height": 1938,
+        "media_key": "3_2047576861786669056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGp0TqkagAAyJwi.jpg",
+        "width": 960
+      },
+      {
+        "height": 1938,
+        "media_key": "3_2047576861790875648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGp0TqlasAA9YxM.jpg",
+        "width": 960
+      },
+      {
+        "height": 1938,
+        "media_key": "3_2047576859769225216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGp0TjDawAAELX9.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047576861795074048",
+            "3_2047576861786669056",
+            "3_2047576861790875648",
+            "3_2047576859769225216"
+          ],
+          "media_source_tweet_id": [
+            "2047577106566250752",
+            "2047577106566250752",
+            "2047577106566250752",
+            "2047577106566250752"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2047868798980734996",
+        "created_at": "2026-04-25T02:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T03:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047868798980734996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1499103632255455233",
+              "start": 3,
+              "username": "AKIYAMAYUGUMO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sssvqgTiUN",
+              "end": 56,
+              "expanded_url": "https://x.com/AKIYAMAYUGUMO/status/2047577106566250752/photo/1",
+              "media_key": "3_2047576861795074048",
+              "start": 33,
+              "url": "https://t.co/sssvqgTiUN"
+            },
+            {
+              "display_url": "pic.x.com/sssvqgTiUN",
+              "end": 56,
+              "expanded_url": "https://x.com/AKIYAMAYUGUMO/status/2047577106566250752/photo/1",
+              "media_key": "3_2047576861786669056",
+              "start": 33,
+              "url": "https://t.co/sssvqgTiUN"
+            },
+            {
+              "display_url": "pic.x.com/sssvqgTiUN",
+              "end": 56,
+              "expanded_url": "https://x.com/AKIYAMAYUGUMO/status/2047577106566250752/photo/1",
+              "media_key": "3_2047576861790875648",
+              "start": 33,
+              "url": "https://t.co/sssvqgTiUN"
+            },
+            {
+              "display_url": "pic.x.com/sssvqgTiUN",
+              "end": 56,
+              "expanded_url": "https://x.com/AKIYAMAYUGUMO/status/2047577106566250752/photo/1",
+              "media_key": "3_2047576859769225216",
+              "start": 33,
+              "url": "https://t.co/sssvqgTiUN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047868798980734996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 101
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047577106566250752",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AKIYAMAYUGUMO: 什么嘛，你这不是很会设计吗 https://t.co/sssvqgTiUN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047576861795074048",
+            "3_2047576861786669056",
+            "3_2047576861790875648",
+            "3_2047576859769225216"
+          ]
+        },
+        "author_id": "1499103632255455233",
+        "conversation_id": "2047577106566250752",
+        "created_at": "2026-04-24T07:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T08:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047577106566250752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sssvqgTiUN",
+              "end": 37,
+              "expanded_url": "https://x.com/AKIYAMAYUGUMO/status/2047577106566250752/photo/1",
+              "media_key": "3_2047576861795074048",
+              "start": 14,
+              "url": "https://t.co/sssvqgTiUN"
+            },
+            {
+              "display_url": "pic.x.com/sssvqgTiUN",
+              "end": 37,
+              "expanded_url": "https://x.com/AKIYAMAYUGUMO/status/2047577106566250752/photo/1",
+              "media_key": "3_2047576861786669056",
+              "start": 14,
+              "url": "https://t.co/sssvqgTiUN"
+            },
+            {
+              "display_url": "pic.x.com/sssvqgTiUN",
+              "end": 37,
+              "expanded_url": "https://x.com/AKIYAMAYUGUMO/status/2047577106566250752/photo/1",
+              "media_key": "3_2047576861790875648",
+              "start": 14,
+              "url": "https://t.co/sssvqgTiUN"
+            },
+            {
+              "display_url": "pic.x.com/sssvqgTiUN",
+              "end": 37,
+              "expanded_url": "https://x.com/AKIYAMAYUGUMO/status/2047577106566250752/photo/1",
+              "media_key": "3_2047576859769225216",
+              "start": 14,
+              "url": "https://t.co/sssvqgTiUN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047577106566250752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 250,
+          "impression_count": 118107,
+          "like_count": 1592,
+          "quote_count": 13,
+          "reply_count": 127,
+          "retweet_count": 101
+        },
+        "reply_settings": "everyone",
+        "text": "什么嘛，你这不是很会设计吗 https://t.co/sssvqgTiUN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1400,
+          "following_count": 1486,
+          "like_count": 17267,
+          "listed_count": 4,
+          "media_count": 601,
+          "tweet_count": 5483
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-02T19:25:41.000Z",
+        "description": "📸 航空・鉄道写真 | 🏙️ 都市交通研究 | ⚓ 海軍史・国際関係 | 🔭 世界を観測し | 🌅 時よ止まれ、お前は美しい | 🎵 勘ぐれい | 🌍 We Are The World | 🚫 ファシズム・反人道思想",
+        "id": "1499103632255455233",
+        "location": "时隙废都",
+        "name": "秋山夕云✂️",
+        "pinned_tweet_id": "2040809499657941060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006631382605520896/kxXzgSYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 895,
+          "following_count": 770,
+          "like_count": 19494,
+          "listed_count": 3,
+          "media_count": 1241,
+          "tweet_count": 4593
+        },
+        "username": "AKIYAMAYUGUMO",
+        "verified": false
+      }
+    ]
+  }
+}

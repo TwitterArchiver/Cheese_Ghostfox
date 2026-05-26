@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024383985087107072"
+      ],
+      "media_source_tweet_id": [
+        "2024383998672458073"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2024453100803936465",
+    "created_at": "2026-02-19T11:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T12:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024453100803936465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "69280655",
+          "start": 3,
+          "username": "paipaipaitang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xq9MF0R4oT",
+          "end": 42,
+          "expanded_url": "https://x.com/paipaipaitang/status/2024383998672458073/photo/1",
+          "media_key": "3_2024383985087107072",
+          "start": 19,
+          "url": "https://t.co/Xq9MF0R4oT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024453100803936465",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024383998672458073",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @paipaipaitang: https://t.co/Xq9MF0R4oT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1173,
+        "media_key": "3_2024383985087107072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBgOgkAbUAARfZU.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024383985087107072"
+          ],
+          "media_source_tweet_id": [
+            "2024383998672458073"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2024453100803936465",
+        "created_at": "2026-02-19T11:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T12:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024453100803936465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "69280655",
+              "start": 3,
+              "username": "paipaipaitang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xq9MF0R4oT",
+              "end": 42,
+              "expanded_url": "https://x.com/paipaipaitang/status/2024383998672458073/photo/1",
+              "media_key": "3_2024383985087107072",
+              "start": 19,
+              "url": "https://t.co/Xq9MF0R4oT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024453100803936465",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024383998672458073",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @paipaipaitang: https://t.co/Xq9MF0R4oT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024383985087107072"
+          ]
+        },
+        "author_id": "69280655",
+        "conversation_id": "2024383998672458073",
+        "created_at": "2026-02-19T07:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T08:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024383998672458073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xq9MF0R4oT",
+              "end": 23,
+              "expanded_url": "https://x.com/paipaipaitang/status/2024383998672458073/photo/1",
+              "media_key": "3_2024383985087107072",
+              "start": 0,
+              "url": "https://t.co/Xq9MF0R4oT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024383998672458073",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Xq9MF0R4oT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨あなたの記憶で永遠に六番目になりたい!丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1012,
+          "following_count": 1347,
+          "like_count": 13607,
+          "listed_count": 4,
+          "media_count": 442,
+          "tweet_count": 4114
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2009-08-27T12:47:46.000Z",
+        "description": "tg：paitangcuzhi3",
+        "id": "69280655",
+        "name": "☯️🧬ATLAS 無極",
+        "pinned_tweet_id": "2020235179483340839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016934483623395328/-DAVEPMX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 904,
+          "following_count": 63,
+          "like_count": 322,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 347
+        },
+        "username": "paipaipaitang",
+        "verified": true
+      }
+    ]
+  }
+}

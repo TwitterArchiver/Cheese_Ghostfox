@@ -1,0 +1,473 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2011164866556342272"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2011164889151390009",
+    "created_at": "2026-01-13T19:54:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T20:54:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2011164889151390009"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 10,
+          "start": 5,
+          "tag": "Grok"
+        }
+      ],
+      "urls": [
+        {
+          "description": "The Coca Cola secret formula is one of the best kept secrets in recent history...and I hate secrets. So, naturally, I deciphered it with the help of mass spe...",
+          "display_url": "youtube.com/watch?v=TDkH3E…",
+          "end": 72,
+          "expanded_url": "https://www.youtube.com/watch?v=TDkH3EbWTYc",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2009273131836243968/RsBKQ33H?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2009273131836243968/RsBKQ33H?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 49,
+          "status": 200,
+          "title": "Perfectly Replicating Coca Cola (It Took Me A Year)",
+          "unwound_url": "https://www.youtube.com/watch?v=TDkH3EbWTYc",
+          "url": "https://t.co/BYoCVVs9op"
+        },
+        {
+          "description": "A automated calculator for some one who wants to try out \"LabCoatz\" 's \"Labcoke\" making. - CheeseGhostfox/LabCokecalculator",
+          "display_url": "github.com/CheeseGhostfox…",
+          "end": 148,
+          "expanded_url": "https://github.com/CheeseGhostfox/LabCokecalculator",
+          "start": 125,
+          "status": 200,
+          "title": "GitHub - CheeseGhostfox/LabCokecalculator: A automated calculator for some one who wants to try out \"LabCoatz\" 's \"Labcoke\" making.",
+          "unwound_url": "https://github.com/CheeseGhostfox/LabCokecalculator",
+          "url": "https://t.co/0TyuTYGZOZ"
+        },
+        {
+          "display_url": "pic.x.com/FEQ10HZXXU",
+          "end": 194,
+          "expanded_url": "https://x.com/Cheese_Ghostfox/status/2011164889151390009/photo/1",
+          "media_key": "3_2011164866556342272",
+          "start": 171,
+          "url": "https://t.co/FEQ10HZXXU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011164889151390009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我刚刚与 #Grok 协作(实为Vibe coding XD)编写制作了一个帮助您简单地计算与复现https://t.co/BYoCVVs9op\n逆向工程的\"可口可乐配方\"的小工具\n您可以在下方的Github链接中获取这个随心而为的半成品并尝试它👇\nhttps://t.co/0TyuTYGZOZ\n仅供娱乐,请勿将制成物质应用于人类或动物! https://t.co/FEQ10HZXXU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2011164866556342272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-kXyl_WMAAX9aO.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011164866556342272"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2011164889151390009",
+        "created_at": "2026-01-13T19:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T20:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011164889151390009"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 5,
+              "tag": "Grok"
+            }
+          ],
+          "urls": [
+            {
+              "description": "The Coca Cola secret formula is one of the best kept secrets in recent history...and I hate secrets. So, naturally, I deciphered it with the help of mass spe...",
+              "display_url": "youtube.com/watch?v=TDkH3E…",
+              "end": 72,
+              "expanded_url": "https://www.youtube.com/watch?v=TDkH3EbWTYc",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2009273131836243968/RsBKQ33H?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2009273131836243968/RsBKQ33H?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 49,
+              "status": 200,
+              "title": "Perfectly Replicating Coca Cola (It Took Me A Year)",
+              "unwound_url": "https://www.youtube.com/watch?v=TDkH3EbWTYc",
+              "url": "https://t.co/BYoCVVs9op"
+            },
+            {
+              "description": "A automated calculator for some one who wants to try out \"LabCoatz\" 's \"Labcoke\" making. - CheeseGhostfox/LabCokecalculator",
+              "display_url": "github.com/CheeseGhostfox…",
+              "end": 148,
+              "expanded_url": "https://github.com/CheeseGhostfox/LabCokecalculator",
+              "start": 125,
+              "status": 200,
+              "title": "GitHub - CheeseGhostfox/LabCokecalculator: A automated calculator for some one who wants to try out \"LabCoatz\" 's \"Labcoke\" making.",
+              "unwound_url": "https://github.com/CheeseGhostfox/LabCokecalculator",
+              "url": "https://t.co/0TyuTYGZOZ"
+            },
+            {
+              "display_url": "pic.x.com/FEQ10HZXXU",
+              "end": 194,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2011164889151390009/photo/1",
+              "media_key": "3_2011164866556342272",
+              "start": 171,
+              "url": "https://t.co/FEQ10HZXXU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011164889151390009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我刚刚与 #Grok 协作(实为Vibe coding XD)编写制作了一个帮助您简单地计算与复现https://t.co/BYoCVVs9op\n逆向工程的\"可口可乐配方\"的小工具\n您可以在下方的Github链接中获取这个随心而为的半成品并尝试它👇\nhttps://t.co/0TyuTYGZOZ\n仅供娱乐,请勿将制成物质应用于人类或动物! https://t.co/FEQ10HZXXU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨あなたの記憶で永遠に六番目になりたい!丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugHLJi"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009299914820599808/Yse9qefX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 856,
+          "following_count": 1142,
+          "like_count": 11704,
+          "listed_count": 2,
+          "media_count": 375,
+          "tweet_count": 3525
+        },
+        "url": "https://t.co/COn8ugHLJi",
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      }
+    ]
+  }
+}

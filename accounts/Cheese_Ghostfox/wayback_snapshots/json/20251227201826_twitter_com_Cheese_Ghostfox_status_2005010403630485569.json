@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005010400761589760"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2005007910615814365",
+    "created_at": "2025-12-27T20:18:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T21:18:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005010403630485569"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/An9P3WXuBF",
+          "end": 139,
+          "expanded_url": "https://x.com/Cheese_Ghostfox/status/2005010403630485569/photo/1",
+          "media_key": "3_2005010400761589760",
+          "start": 116,
+          "url": "https://t.co/An9P3WXuBF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005010403630485569",
+    "in_reply_to_user_id": "1620506107306479617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005007910615814365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "故而，对于您在服装穿搭选择上提出的疑问，可以简单地归为四个象限(见图)\n横轴为颜值，纵轴为穿搭理念，在一般情况下ABD三种情况都会有很好的效果，在现实生活中看到也不会很奇怪\nC，象限则适合于网络活动，可在有较高后期条件的情况下进行 https://t.co/An9P3WXuBF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2005010400761589760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9M6ViRbsAALTOZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005010400761589760"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2005007910615814365",
+        "created_at": "2025-12-27T20:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T21:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005010403630485569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/An9P3WXuBF",
+              "end": 139,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2005010403630485569/photo/1",
+              "media_key": "3_2005010400761589760",
+              "start": 116,
+              "url": "https://t.co/An9P3WXuBF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005010403630485569",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005007910615814365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "故而，对于您在服装穿搭选择上提出的疑问，可以简单地归为四个象限(见图)\n横轴为颜值，纵轴为穿搭理念，在一般情况下ABD三种情况都会有很好的效果，在现实生活中看到也不会很奇怪\nC，象限则适合于网络活动，可在有较高后期条件的情况下进行 https://t.co/An9P3WXuBF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2005007910615814365",
+        "created_at": "2025-12-27T20:08:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T21:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005007910615814365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qqqqqf5/status…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/qqqqqf5/status/2004792796184789078",
+              "start": 146,
+              "url": "https://t.co/ss4G7G7Op3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005007910615814365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004792796184789078",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "狐认为具体情况需要具体分析\n常服应以实用为主导，采用此类难以在直接目视情况下获得效果的服装无疑是低收益的，选择偏日常的搭配更加合适(即使您颜值极高)\n而如果穿衣服的目的是拍照出片发推特，在有后期处理的情况下自然可以尽竭夸张之所能，本质上与Cosplay穿搭共通(丑无所谓，交给后期喵)\n🧵↓ https://t.co/ss4G7G7Op3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨大道五十，天衍四九丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 129,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugHLJi"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬暗号通貨戦士霊狐🏳️‍⚧️",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003275522047168512/eHhAdruU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 1096,
+          "like_count": 10827,
+          "listed_count": 2,
+          "media_count": 344,
+          "tweet_count": 3206
+        },
+        "url": "https://t.co/COn8ugHLJi",
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2047593426234098077",
+    "created_at": "2026-04-24T08:51:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T09:51:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047599299471761522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2046530162536357888",
+          "start": 0,
+          "username": "yueyechunxue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047599299471761522",
+    "in_reply_to_user_id": "2046530162536357888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047598805802229836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yueyechunxue 10U...狐觉得不难w\n况且不冻结的,开完直接绑微信日常花掉就好了(x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2047593426234098077",
+        "created_at": "2026-04-24T08:51:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T09:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047599299471761522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2046530162536357888",
+              "start": 0,
+              "username": "yueyechunxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047599299471761522",
+        "in_reply_to_user_id": "2046530162536357888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047598805802229836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yueyechunxue 10U...狐觉得不难w\n况且不冻结的,开完直接绑微信日常花掉就好了(x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046530162536357888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405571471955533827",
+              "name": "USD Coin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "id": "1405571471955533827",
+              "name": "USD Coin"
+            }
+          }
+        ],
+        "conversation_id": "2047593426234098077",
+        "created_at": "2026-04-24T08:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T09:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047598805802229836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047598805802229836",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047598221539848586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox 草，这个也需要预存USDC😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1397,
+          "following_count": 1484,
+          "like_count": 17196,
+          "listed_count": 4,
+          "media_count": 597,
+          "tweet_count": 5455
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-21T10:04:01.000Z",
+        "description": "这里是春雪狐哦，是个小药娘,08年出厂,主要发碎碎念和涩图,业余福利姬然而发的大多数是清水涩图,陪聊🚪门槛50,爱好很多但是不精,可能会接线下单子哦",
+        "id": "2046530162536357888",
+        "location": "Sendai-shi Miyagino, Miyagi",
+        "name": "はるゆき狐🌸🍥",
+        "pinned_tweet_id": "2046551513414406431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046535232296570880/KSm_JaEu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 64,
+          "like_count": 88,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 123
+        },
+        "username": "yueyechunxue",
+        "verified": true
+      }
+    ]
+  }
+}

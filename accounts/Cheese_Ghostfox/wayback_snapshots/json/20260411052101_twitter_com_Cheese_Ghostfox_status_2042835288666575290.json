@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042617088649592832"
+      ],
+      "media_source_tweet_id": [
+        "2042618323729551632"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2042835288666575290",
+    "created_at": "2026-04-11T05:21:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T06:21:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042835288666575290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1571884079741603842",
+          "start": 3,
+          "username": "myfanwy_wy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ef5nO4EtTw",
+          "end": 123,
+          "expanded_url": "https://x.com/myfanwy_wy/status/2042618323729551632/photo/1",
+          "media_key": "3_2042617088649592832",
+          "start": 100,
+          "url": "https://t.co/Ef5nO4EtTw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042835288666575290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042618323729551632",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @myfanwy_wy: 其实，有一个术语叫 arousal nonconcordance，指的是生理上的生殖器反应与主观上的性唤起，并不一定总是一致。\n\n生理上的生殖器反应（genital… https://t.co/Ef5nO4EtTw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 832,
+        "media_key": "3_2042617088649592832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjVa30aAAAPMFC.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042617088649592832"
+          ],
+          "media_source_tweet_id": [
+            "2042618323729551632"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2042835288666575290",
+        "created_at": "2026-04-11T05:21:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042835288666575290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1571884079741603842",
+              "start": 3,
+              "username": "myfanwy_wy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ef5nO4EtTw",
+              "end": 123,
+              "expanded_url": "https://x.com/myfanwy_wy/status/2042618323729551632/photo/1",
+              "media_key": "3_2042617088649592832",
+              "start": 100,
+              "url": "https://t.co/Ef5nO4EtTw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042835288666575290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042618323729551632",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @myfanwy_wy: 其实，有一个术语叫 arousal nonconcordance，指的是生理上的生殖器反应与主观上的性唤起，并不一定总是一致。\n\n生理上的生殖器反应（genital… https://t.co/Ef5nO4EtTw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042617088649592832"
+          ]
+        },
+        "author_id": "1571884079741603842",
+        "conversation_id": "2042618323729551632",
+        "created_at": "2026-04-10T14:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T15:54:05.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042617116185235583",
+          "2042617551738503549",
+          "2042618014806479218",
+          "2042618323729551632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ef5nO4EtTw",
+              "end": 106,
+              "expanded_url": "https://x.com/myfanwy_wy/status/2042618323729551632/photo/1",
+              "media_key": "3_2042617088649592832",
+              "start": 83,
+              "url": "https://t.co/Ef5nO4EtTw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042618323729551632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "其实，有一个术语叫 arousal nonconcordance，指的是生理上的生殖器反应与主观上的性唤起，并不一定总是一致。\n\n生理上的生殖器反应（genital response）往往是对性相关刺激所产生的生理反应，而这些刺激未必一定是一个人主观上觉得有吸引力、愉悦，或真正想要的。比如像图片中提到的那样，在观看色情视频时，身体可能因为接收到性相关刺激而出现反应，甚至分泌“性唤起液”，但这并不一定代表当事人在主观上真的感到兴奋或享受。\n\n相对来说，所谓主观上的性唤起（subjective arousal），指的是一个人在主观上的感受，例如“这让我有欲望”“我在享受”或“我想要更多”。比如图片中表述的“内心毫无波澜，大脑也没有兴奋起来”，就说明即使身体可能出现了反应，主观上的性唤起也并没有真正发生。\n\n因此，这个概念讨论的是外周系统，也就是生殖器，与中枢系统，也就是大脑，之间的关系；两者是彼此分离、但又相互关联的系统。也正因为如此，这两个系统的反应并不一定总是重叠或一致。\n\n所以，生殖器反应本身并不能直接说明一个人在主观上是否被唤起，也不能说明其是否享受当下发生的事情。并且，研究也发现，生殖器反应与主观性唤起之间的一致性，在男性身上约为 50%，而在女性身上则更低。\n\n一个很极端的例子就是，在遭遇非自愿性行为时，女性身体也可能出现生理反应，但这种反应并不代表她主观上有性唤起，更不代表她在享受这个过程。\n\n因此，在性行为中，建议女性不要仅仅以生殖器反应来判断自己是否被唤起。与此同时，也要留意自己主观上的感受：是否真的准备好了，是否真的在享受，是否真的还想继续。只有在这些答案都明确且肯定的情况下，再进入下一步。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 6768,
+          "like_count": 80,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "其实，有一个术语叫 arousal nonconcordance，指的是生理上的生殖器反应与主观上的性唤起，并不一定总是一致。\n\n生理上的生殖器反应（genital https://t.co/Ef5nO4EtTw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1260,
+          "following_count": 1453,
+          "like_count": 16026,
+          "listed_count": 4,
+          "media_count": 553,
+          "tweet_count": 5053
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-19T15:29:18.000Z",
+        "description": "MDNI | Researcher in Women’s, Gender, and Sexuality Studies | vibrator-lover | unapologetic smut writer @myfanwy_smutty | bad bitch, always",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 104,
+                "username": "myfanwy_smutty"
+              }
+            ]
+          }
+        },
+        "id": "1571884079741603842",
+        "name": "Myfanwy",
+        "pinned_tweet_id": "2000497575183732768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997937840882352128/DOoC6Kwq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8540,
+          "following_count": 9,
+          "like_count": 526,
+          "listed_count": 17,
+          "media_count": 356,
+          "tweet_count": 1180
+        },
+        "username": "myfanwy_wy",
+        "verified": false
+      }
+    ]
+  }
+}

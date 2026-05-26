@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2042542962283024425",
+    "created_at": "2026-04-10T10:01:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T11:01:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042543590472323385"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042543590472323385",
+    "in_reply_to_user_id": "1620506107306479617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042542962283024425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还是两片\n吃糟践了啊\n没有精神效果的...\n不如给狐吃还能退退烧🙃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2042542958260686848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFiR_6makAA4GDy.jpg",
+        "width": 1080
+      },
+      {
+        "height": 922,
+        "media_key": "3_2042542959686807552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFiR__6bcAARDKN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2042542962283024425",
+        "created_at": "2026-04-10T10:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T11:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042543590472323385"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042543590472323385",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042542962283024425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还是两片\n吃糟践了啊\n没有精神效果的...\n不如给狐吃还能退退烧🙃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042542958260686848",
+            "3_2042542959686807552"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042542962283024425",
+        "created_at": "2026-04-10T09:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T10:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042542962283024425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fVAWnvC1AX",
+              "end": 77,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2042542962283024425/photo/1",
+              "media_key": "3_2042542958260686848",
+              "start": 54,
+              "url": "https://t.co/fVAWnvC1AX"
+            },
+            {
+              "display_url": "pic.x.com/fVAWnvC1AX",
+              "end": 77,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2042542962283024425/photo/1",
+              "media_key": "3_2042542959686807552",
+              "start": 54,
+              "url": "https://t.co/fVAWnvC1AX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042542962283024425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "墙内O感康的\n不会吃，可以给狐吗...\n真的需要这个TwT\n(本来有RT主题的，手机卡死了，对不起...) https://t.co/fVAWnvC1AX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1254,
+          "following_count": 1456,
+          "like_count": 15970,
+          "listed_count": 4,
+          "media_count": 551,
+          "tweet_count": 5037
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      }
+    ]
+  }
+}

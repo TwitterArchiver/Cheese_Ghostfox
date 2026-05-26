@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2005998022044582104",
+    "created_at": "2025-12-30T13:42:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T14:42:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005998022044582104"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Cheese_Ghostfo…",
+          "end": 158,
+          "expanded_url": "https://twitter.com/Cheese_Ghostfox/status/2005996392817517038",
+          "start": 135,
+          "url": "https://t.co/xO6uCADRFC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005998022044582104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005996392817517038",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因此，狐更偏向于非即时沟通方式(例如几个挂载到outlook的邮箱)，而不是QQ/微信/telegram/X之流，它们会不停地向狐的timeline中插入新的优先级不同的事项，这毁了狐的注意力机制\n但沟通方式必需要与其他人接轨，这胁迫着狐继续使用这些并不科学健康的方式 https://t.co/xO6uCADRFC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2005998022044582104",
+        "created_at": "2025-12-30T13:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T14:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005998022044582104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cheese_Ghostfo…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/Cheese_Ghostfox/status/2005996392817517038",
+              "start": 135,
+              "url": "https://t.co/xO6uCADRFC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005998022044582104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005996392817517038",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因此，狐更偏向于非即时沟通方式(例如几个挂载到outlook的邮箱)，而不是QQ/微信/telegram/X之流，它们会不停地向狐的timeline中插入新的优先级不同的事项，这毁了狐的注意力机制\n但沟通方式必需要与其他人接轨，这胁迫着狐继续使用这些并不科学健康的方式 https://t.co/xO6uCADRFC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2005995452446171323",
+        "created_at": "2025-12-30T13:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T14:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005996392817517038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1608781688775245825",
+              "start": 0,
+              "username": "YekaseSuiso2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005996392817517038",
+        "in_reply_to_user_id": "1608781688775245825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005995452446171323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YekaseSuiso2022 可能由于它们不同的注意力分配机制:PC更偏向于任务聚焦(软体各司其职，交互更沉浸，进入与退出某一个任务更简单，你注意的点由你自己决定)\n手机设备更偏向于事件聚焦(消息，通知，由设备本身主导的流式信息，注意力主导权在设备而非你自己)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨大道五十，天衍四九丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 129,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugHLJi"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター🏳️‍⚧️",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003275522047168512/eHhAdruU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 1107,
+          "like_count": 10962,
+          "listed_count": 2,
+          "media_count": 346,
+          "tweet_count": 3240
+        },
+        "url": "https://t.co/COn8ugHLJi",
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      }
+    ]
+  }
+}

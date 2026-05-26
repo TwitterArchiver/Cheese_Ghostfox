@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007287476097101824"
+      ],
+      "media_source_tweet_id": [
+        "2007287664538702285"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2007519828941406280",
+    "created_at": "2026-01-03T18:29:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T19:29:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007519828941406280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1957815847201980416",
+          "start": 3,
+          "username": "2D2SSwsYAj74271"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7PPir7Iopa",
+          "end": 49,
+          "expanded_url": "https://x.com/2D2SSwsYAj74271/status/2007287664538702285/photo/1",
+          "media_key": "3_2007287476097101824",
+          "start": 26,
+          "url": "https://t.co/7PPir7Iopa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007519828941406280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007287664538702285",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @2D2SSwsYAj74271: お顔みて https://t.co/7PPir7Iopa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2458,
+        "media_key": "3_2007287476097101824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9tRUw7bsAAk9sz.jpg",
+        "width": 2125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007287476097101824"
+          ],
+          "media_source_tweet_id": [
+            "2007287664538702285"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2007519828941406280",
+        "created_at": "2026-01-03T18:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T19:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007519828941406280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1957815847201980416",
+              "start": 3,
+              "username": "2D2SSwsYAj74271"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7PPir7Iopa",
+              "end": 49,
+              "expanded_url": "https://x.com/2D2SSwsYAj74271/status/2007287664538702285/photo/1",
+              "media_key": "3_2007287476097101824",
+              "start": 26,
+              "url": "https://t.co/7PPir7Iopa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007519828941406280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007287664538702285",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @2D2SSwsYAj74271: お顔みて https://t.co/7PPir7Iopa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007287476097101824"
+          ]
+        },
+        "author_id": "1957815847201980416",
+        "conversation_id": "2007287664538702285",
+        "created_at": "2026-01-03T03:07:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T04:07:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007287664538702285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7PPir7Iopa",
+              "end": 28,
+              "expanded_url": "https://x.com/2D2SSwsYAj74271/status/2007287664538702285/photo/1",
+              "media_key": "3_2007287476097101824",
+              "start": 5,
+              "url": "https://t.co/7PPir7Iopa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007287664538702285",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 6960,
+          "like_count": 1194,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "お顔みて https://t.co/7PPir7Iopa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨あなたの記憶で永遠に六番目になりたい!丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugHLJi"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006106648180580354/H1nFPBxL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 1124,
+          "like_count": 11206,
+          "listed_count": 2,
+          "media_count": 352,
+          "tweet_count": 3329
+        },
+        "url": "https://t.co/COn8ugHLJi",
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-19T14:45:06.000Z",
+        "description": "@4bgP4r1AJk45185のサブ垢です\n色々ポストします気にしないでください\nいろんなジャンルが好き落書きたくさん投稿します、基本的にフォロバします　アニメとかボカロが好き",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "4bgP4r1AJk45185"
+              }
+            ]
+          }
+        },
+        "id": "1957815847201980416",
+        "name": "さぶぽん",
+        "pinned_tweet_id": "1984565522185535495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957818743880577026/sMcLttZV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 347,
+          "like_count": 5088,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 722
+        },
+        "username": "2D2SSwsYAj74271",
+        "verified": false
+      }
+    ]
+  }
+}

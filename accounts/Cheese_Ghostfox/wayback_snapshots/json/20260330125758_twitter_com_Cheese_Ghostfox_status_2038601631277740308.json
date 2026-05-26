@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038601542811717632"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2037576223182962935",
+    "created_at": "2026-03-30T12:57:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T13:57:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038601631277740308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2991532163",
+          "start": 0,
+          "username": "NaiveKoala"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ATCSHdJVvl",
+          "end": 101,
+          "expanded_url": "https://x.com/Cheese_Ghostfox/status/2038601631277740308/photo/1",
+          "media_key": "3_2038601542811717632",
+          "start": 78,
+          "url": "https://t.co/ATCSHdJVvl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038601631277740308",
+    "in_reply_to_user_id": "2991532163",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038597475834175822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NaiveKoala 嗯造糖皮质激素吗(((\n哈人\n副作用能拉得比正面作用还长,而且狐遭过一次殃了,绝不想再碰这些鬼东西\n狐真有这玩意,仅作为战略储备药 https://t.co/ATCSHdJVvl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1844,
+        "media_key": "3_2038601542811717632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEqRTV3bEAAKBie.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038601542811717632"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2037576223182962935",
+        "created_at": "2026-03-30T12:57:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T13:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038601631277740308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2991532163",
+              "start": 0,
+              "username": "NaiveKoala"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ATCSHdJVvl",
+              "end": 101,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2038601631277740308/photo/1",
+              "media_key": "3_2038601542811717632",
+              "start": 78,
+              "url": "https://t.co/ATCSHdJVvl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038601631277740308",
+        "in_reply_to_user_id": "2991532163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038597475834175822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NaiveKoala 嗯造糖皮质激素吗(((\n哈人\n副作用能拉得比正面作用还长,而且狐遭过一次殃了,绝不想再碰这些鬼东西\n狐真有这玩意,仅作为战略储备药 https://t.co/ATCSHdJVvl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2991532163",
+        "conversation_id": "2037576223182962935",
+        "created_at": "2026-03-30T12:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T13:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038597475834175822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038597475834175822",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037576923598225503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox Hydrocortisone/dexamethasone"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 1424,
+          "like_count": 15210,
+          "listed_count": 4,
+          "media_count": 516,
+          "tweet_count": 4722
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2015-01-22T05:41:18.000Z",
+        "description": "Sometimes a koala, sometimes a bear. 🐻🐼🐨. Curious most of the time. Profile pic by @AkaririAmira.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 83,
+                "username": "AkaririAmira"
+              }
+            ]
+          }
+        },
+        "id": "2991532163",
+        "name": "Kai the Koala",
+        "pinned_tweet_id": "1534875224453263362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1231186413783150593/NfshLlU__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 197,
+          "like_count": 1485,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1415
+        },
+        "username": "NaiveKoala",
+        "verified": false
+      }
+    ]
+  }
+}

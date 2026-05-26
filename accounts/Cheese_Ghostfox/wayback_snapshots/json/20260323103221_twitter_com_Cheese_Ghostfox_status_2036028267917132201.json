@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2035982210277498908",
+    "created_at": "2026-03-23T10:32:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T11:32:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036028267917132201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1455052899336085509",
+          "start": 0,
+          "username": "kajiweb3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036028267917132201",
+    "in_reply_to_user_id": "1455052899336085509",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035982210277498908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kajiweb3 Fiat24有计划做实体卡吗👀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1279,
+        "media_key": "3_2035981793804046336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEFCp4TaUAAAJdt.jpg",
+        "width": 1706
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2035982210277498908",
+        "created_at": "2026-03-23T10:32:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T11:32:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036028267917132201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1455052899336085509",
+              "start": 0,
+              "username": "kajiweb3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036028267917132201",
+        "in_reply_to_user_id": "1455052899336085509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035982210277498908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kajiweb3 Fiat24有计划做实体卡吗👀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035981793804046336"
+          ]
+        },
+        "author_id": "1455052899336085509",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10041437724",
+              "name": "Apple - Apple Pay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237094778463858688",
+              "name": "Fintech"
+            }
+          }
+        ],
+        "conversation_id": "2035982210277498908",
+        "created_at": "2026-03-23T07:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T08:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035982210277498908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7cTUoozT4Y",
+              "end": 146,
+              "expanded_url": "https://x.com/kajiweb3/status/2035982210277498908/photo/1",
+              "media_key": "3_2035981793804046336",
+              "start": 123,
+              "url": "https://t.co/7cTUoozT4Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035982210277498908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你的传统银行卡还能用多久？\n\n我们变得越来越高频的使用 Bitget Wallet u卡。在线下真实消费场景中，国内绑定微信支付宝全覆盖，海外绑定 ApplePay 覆盖率几乎 100%，而且在零费额度内不用担心繁琐的换汇流程和磨损，全额返还。\n\n即使不小心被微信风控了，也仍然可以再绑定到支付宝或其他平台消费，而不是像传统银行一样被迫等待漫长的解冻通知或几个工作日的提现到账，隐性风险成本让人窒息。\n\nu卡的时间成本只有传统 OTC 的 1/72，资金利用率提升3400%。Payfi 仍是目前被严重低估的 Web3 基础设施，如果你也对时间价值敏感，欢迎大家把 Bitget Wallet 当作“币圈支付宝”来开张卡体验一下用 Crypto 享受现实世界的生活方式。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9645,
+          "like_count": 50,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你的传统银行卡还能用多久？\n\n我们变得越来越高频的使用 Bitget Wallet u卡。在线下真实消费场景中，国内绑定微信支付宝全覆盖，海外绑定 ApplePay 覆盖率几乎 100%，而且在零费额度内不用担心繁琐的换汇流程和磨损，全额返还。 https://t.co/7cTUoozT4Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1105,
+          "following_count": 1406,
+          "like_count": 14988,
+          "listed_count": 4,
+          "media_count": 506,
+          "tweet_count": 4637
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-01T06:03:53.000Z",
+        "description": "💳 @BitgetWalletCN 发言人\n💰 你的币圈支付宝、Meme摆渡车、黄金储备库、RWA代理\n👩🏻‍💻 客服问题请点击钱包App左上角再点击右上角提交工单",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "BitgetWalletCN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bgw.live",
+                "end": 23,
+                "expanded_url": "https://www.bgw.live",
+                "start": 0,
+                "url": "https://t.co/oCz3KV6BLB"
+              }
+            ]
+          }
+        },
+        "id": "1455052899336085509",
+        "location": "据说用这个下载链接的人都翻倍了👉",
+        "name": "kajiQ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014158635254022145/TVuz1zTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33675,
+          "following_count": 1408,
+          "like_count": 6352,
+          "listed_count": 65,
+          "media_count": 574,
+          "tweet_count": 7601
+        },
+        "url": "https://t.co/oCz3KV6BLB",
+        "username": "kajiweb3",
+        "verified": true
+      }
+    ]
+  }
+}

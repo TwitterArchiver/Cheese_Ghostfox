@@ -1,0 +1,581 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Binance CEO.",
+          "id": "1603445515831545856",
+          "name": "Changpeng Zhao"
+        }
+      }
+    ],
+    "conversation_id": "2016501037109309634",
+    "created_at": "2026-01-28T16:42:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T17:42:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016552429119246563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "913314383526223872",
+          "start": 0,
+          "username": "chunxiangai"
+        },
+        {
+          "end": 24,
+          "id": "902926941413453824",
+          "start": 13,
+          "username": "cz_binance"
+        },
+        {
+          "end": 37,
+          "id": "1003840309166366721",
+          "start": 25,
+          "username": "heyibinance"
+        },
+        {
+          "end": 43,
+          "id": "1720665183188922368",
+          "start": 38,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016552429119246563",
+    "in_reply_to_user_id": "913314383526223872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016501037109309634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chunxiangai @cz_binance @heyibinance @grok\n详细解释这篇推文的观点"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 976,
+        "media_key": "3_2016501027541819392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_wNACvXIAAHQ-7.jpg",
+        "width": 1810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Binance CEO.",
+              "id": "1603445515831545856",
+              "name": "Changpeng Zhao"
+            }
+          }
+        ],
+        "conversation_id": "2016501037109309634",
+        "created_at": "2026-01-28T16:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T17:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016552429119246563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "913314383526223872",
+              "start": 0,
+              "username": "chunxiangai"
+            },
+            {
+              "end": 24,
+              "id": "902926941413453824",
+              "start": 13,
+              "username": "cz_binance"
+            },
+            {
+              "end": 37,
+              "id": "1003840309166366721",
+              "start": 25,
+              "username": "heyibinance"
+            },
+            {
+              "end": 43,
+              "id": "1720665183188922368",
+              "start": 38,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016552429119246563",
+        "in_reply_to_user_id": "913314383526223872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016501037109309634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chunxiangai @cz_binance @heyibinance @grok\n详细解释这篇推文的观点"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016501027541819392"
+          ]
+        },
+        "author_id": "913314383526223872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Binance CEO.",
+              "id": "1603445515831545856",
+              "name": "Changpeng Zhao"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1486271512655003652",
+              "name": "Web3"
+            }
+          }
+        ],
+        "conversation_id": "2016501037109309634",
+        "created_at": "2026-01-28T13:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T14:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016501037109309634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 154,
+              "id": "902926941413453824",
+              "start": 143,
+              "username": "cz_binance"
+            },
+            {
+              "end": 167,
+              "id": "1003840309166366721",
+              "start": 155,
+              "username": "heyibinance"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BwFJpoiYv7",
+              "end": 191,
+              "expanded_url": "https://x.com/chunxiangai/status/2016501037109309634/photo/1",
+              "media_key": "3_2016501027541819392",
+              "start": 168,
+              "url": "https://t.co/BwFJpoiYv7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016501037109309634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 154,
+                "id": "902926941413453824",
+                "start": 143,
+                "username": "cz_binance"
+              },
+              {
+                "end": 167,
+                "id": "1003840309166366721",
+                "start": 155,
+                "username": "heyibinance"
+              }
+            ]
+          },
+          "text": "从前，币安有个公链叫BSC\n\nBSC上有个随机数预言机，叫BCS VRF\n\n这个预言机一年被调用了35000次\n\n其中 $潜龙勿用 一天就调用了27000次\n\n不是 $潜龙勿用 非要调用，而是BSC终于来了一个懂技术的非畜生dev\n\n和我咨询UIUX细节，让我对web3简直刮目相看\n\n@cz_binance @heyibinance \n\n二位别吵了，关注一下做事的人"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 25876,
+          "like_count": 109,
+          "quote_count": 10,
+          "reply_count": 47,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "从前，币安有个公链叫BSC\n\nBSC上有个随机数预言机，叫BCS VRF\n\n这个预言机一年被调用了35000次\n\n其中 $潜龙勿用 一天就调用了27000次\n\n不是 $潜龙勿用 非要调用，而是BSC终于来了一个懂技术的非畜生dev\n\n和我咨询UIUX细节，让我对web3简直刮目相看\n\n@cz_binance @heyibinance https://t.co/BwFJpoiYv7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨あなたの記憶で永遠に六番目になりたい!丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugHLJi"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 896,
+          "following_count": 1202,
+          "like_count": 12179,
+          "listed_count": 2,
+          "media_count": 402,
+          "tweet_count": 3718
+        },
+        "url": "https://t.co/COn8ugHLJi",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2017-09-28T08:08:12.000Z",
+        "description": "🖊️ https://t.co/JdQJw24lMU - AI剧作 🍅 https://t.co/zIZro8VMhM - 胃之书 🧑‍🎓 https://t.co/5ZDmWKIcPj - 入门课程 💼 https://t.co/ZUJhkg8tnj - 顾问服务 🎬 https://t.co/3RBH3kB6QZ - 出海神器",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "laper.ai",
+                "end": 26,
+                "expanded_url": "http://laper.ai",
+                "start": 3,
+                "url": "https://t.co/JdQJw24lMU"
+              },
+              {
+                "display_url": "bellybook.cn",
+                "end": 59,
+                "expanded_url": "http://bellybook.cn",
+                "start": 36,
+                "url": "https://t.co/zIZro8VMhM"
+              },
+              {
+                "display_url": "love.chunxiang.space",
+                "end": 93,
+                "expanded_url": "http://love.chunxiang.space",
+                "start": 70,
+                "url": "https://t.co/5ZDmWKIcPj"
+              },
+              {
+                "display_url": "chunxiang.ai",
+                "end": 126,
+                "expanded_url": "http://chunxiang.ai",
+                "start": 103,
+                "url": "https://t.co/ZUJhkg8tnj"
+              },
+              {
+                "display_url": "motherbase.app",
+                "end": 159,
+                "expanded_url": "http://motherbase.app",
+                "start": 136,
+                "url": "https://t.co/3RBH3kB6QZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chunxiang.space",
+                "end": 23,
+                "expanded_url": "https://chunxiang.space",
+                "start": 0,
+                "url": "https://t.co/fUfMyHYSAw"
+              }
+            ]
+          }
+        },
+        "id": "913314383526223872",
+        "name": "赵纯想",
+        "pinned_tweet_id": "2013854869128675368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011038039137796099/jvuSR95B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36482,
+          "following_count": 405,
+          "like_count": 1944,
+          "listed_count": 304,
+          "media_count": 369,
+          "tweet_count": 2595
+        },
+        "url": "https://t.co/fUfMyHYSAw",
+        "username": "chunxiangai",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-30T16:12:13.000Z",
+        "description": "@BNBchain\n@YZiLabs\n@GiggleAcademy\n@binance",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "BNBchain"
+              },
+              {
+                "end": 18,
+                "start": 10,
+                "username": "YZiLabs"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "GiggleAcademy"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "binance"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "binance.com",
+                "end": 23,
+                "expanded_url": "http://www.binance.com",
+                "start": 0,
+                "url": "https://t.co/zlvCSBIFGA"
+              }
+            ]
+          }
+        },
+        "id": "902926941413453824",
+        "name": "CZ 🔶 BNB",
+        "pinned_tweet_id": "1981404850832494666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961440580279336960/PiiIs8Lh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10725894,
+          "following_count": 1214,
+          "like_count": 17552,
+          "listed_count": 39857,
+          "media_count": 947,
+          "tweet_count": 7884
+        },
+        "url": "https://t.co/zlvCSBIFGA",
+        "username": "cz_binance",
+        "verified": true
+      },
+      {
+        "created_at": "2018-06-05T03:25:54.000Z",
+        "description": "Co-Founder & Chief Customer Service Officer @Binance， Holder of #BNB",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 64,
+                "tag": "BNB"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "Binance"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "binance.com",
+                "end": 23,
+                "expanded_url": "http://binance.com",
+                "start": 0,
+                "url": "https://t.co/cAe7RXTCAk"
+              }
+            ]
+          }
+        },
+        "id": "1003840309166366721",
+        "location": "Mars",
+        "name": "Yi He",
+        "pinned_tweet_id": "1996318378282328320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974520590410170369/q2Q0S0fa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566893,
+          "following_count": 1204,
+          "like_count": 2359,
+          "listed_count": 3804,
+          "media_count": 322,
+          "tweet_count": 4664
+        },
+        "url": "https://t.co/cAe7RXTCAk",
+        "username": "heyibinance",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7700613,
+          "following_count": 3,
+          "like_count": 84,
+          "listed_count": 5916,
+          "media_count": 7949279,
+          "tweet_count": 96004075
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,556 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047467110579003392",
+        "3_2047467110574776322",
+        "3_2047467110578974720",
+        "3_2047467110574809088"
+      ],
+      "media_source_tweet_id": [
+        "2047467114563514419",
+        "2047467114563514419",
+        "2047467114563514419",
+        "2047467114563514419"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1206704182717104128",
+          "name": "Model figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1206704182717104128",
+          "name": "Model figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278061468265508864",
+          "name": "Collectibles"
+        }
+      }
+    ],
+    "conversation_id": "2047539150530945292",
+    "created_at": "2026-04-24T04:52:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T05:52:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047539150530945292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1625260687",
+          "start": 3,
+          "username": "yasai31_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ud18kFNWVB",
+          "end": 49,
+          "expanded_url": "https://x.com/yasai31_/status/2047467114563514419/photo/1",
+          "media_key": "3_2047467110579003392",
+          "start": 26,
+          "url": "https://t.co/ud18kFNWVB"
+        },
+        {
+          "display_url": "pic.x.com/ud18kFNWVB",
+          "end": 49,
+          "expanded_url": "https://x.com/yasai31_/status/2047467114563514419/photo/1",
+          "media_key": "3_2047467110574776322",
+          "start": 26,
+          "url": "https://t.co/ud18kFNWVB"
+        },
+        {
+          "display_url": "pic.x.com/ud18kFNWVB",
+          "end": 49,
+          "expanded_url": "https://x.com/yasai31_/status/2047467114563514419/photo/1",
+          "media_key": "3_2047467110578974720",
+          "start": 26,
+          "url": "https://t.co/ud18kFNWVB"
+        },
+        {
+          "display_url": "pic.x.com/ud18kFNWVB",
+          "end": 49,
+          "expanded_url": "https://x.com/yasai31_/status/2047467114563514419/photo/1",
+          "media_key": "3_2047467110574809088",
+          "start": 26,
+          "url": "https://t.co/ud18kFNWVB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047539150530945292",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 178
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047467114563514419",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yasai31_: 表情再現がcute…… https://t.co/ud18kFNWVB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 447,
+        "media_key": "3_2047467110579003392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGoQfTdbYAAHzCj.jpg",
+        "width": 447
+      },
+      {
+        "height": 677,
+        "media_key": "3_2047467110574776322",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGoQfTca4AIXi_a.jpg",
+        "width": 677
+      },
+      {
+        "height": 442,
+        "media_key": "3_2047467110578974720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGoQfTda8AA5bRU.jpg",
+        "width": 435
+      },
+      {
+        "height": 592,
+        "media_key": "3_2047467110574809088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGoQfTcbYAAnCQa.jpg",
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047467110579003392",
+            "3_2047467110574776322",
+            "3_2047467110578974720",
+            "3_2047467110574809088"
+          ],
+          "media_source_tweet_id": [
+            "2047467114563514419",
+            "2047467114563514419",
+            "2047467114563514419",
+            "2047467114563514419"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278061468265508864",
+              "name": "Collectibles"
+            }
+          }
+        ],
+        "conversation_id": "2047539150530945292",
+        "created_at": "2026-04-24T04:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T05:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047539150530945292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1625260687",
+              "start": 3,
+              "username": "yasai31_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ud18kFNWVB",
+              "end": 49,
+              "expanded_url": "https://x.com/yasai31_/status/2047467114563514419/photo/1",
+              "media_key": "3_2047467110579003392",
+              "start": 26,
+              "url": "https://t.co/ud18kFNWVB"
+            },
+            {
+              "display_url": "pic.x.com/ud18kFNWVB",
+              "end": 49,
+              "expanded_url": "https://x.com/yasai31_/status/2047467114563514419/photo/1",
+              "media_key": "3_2047467110574776322",
+              "start": 26,
+              "url": "https://t.co/ud18kFNWVB"
+            },
+            {
+              "display_url": "pic.x.com/ud18kFNWVB",
+              "end": 49,
+              "expanded_url": "https://x.com/yasai31_/status/2047467114563514419/photo/1",
+              "media_key": "3_2047467110578974720",
+              "start": 26,
+              "url": "https://t.co/ud18kFNWVB"
+            },
+            {
+              "display_url": "pic.x.com/ud18kFNWVB",
+              "end": 49,
+              "expanded_url": "https://x.com/yasai31_/status/2047467114563514419/photo/1",
+              "media_key": "3_2047467110574809088",
+              "start": 26,
+              "url": "https://t.co/ud18kFNWVB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047539150530945292",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 178
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047467114563514419",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yasai31_: 表情再現がcute…… https://t.co/ud18kFNWVB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047467110579003392",
+            "3_2047467110574776322",
+            "3_2047467110578974720",
+            "3_2047467110574809088"
+          ]
+        },
+        "author_id": "1625260687",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278061468265508864",
+              "name": "Collectibles"
+            }
+          }
+        ],
+        "conversation_id": "2047467114563514419",
+        "created_at": "2026-04-24T00:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T01:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047467114563514419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ud18kFNWVB",
+              "end": 35,
+              "expanded_url": "https://x.com/yasai31_/status/2047467114563514419/photo/1",
+              "media_key": "3_2047467110579003392",
+              "start": 12,
+              "url": "https://t.co/ud18kFNWVB"
+            },
+            {
+              "display_url": "pic.x.com/ud18kFNWVB",
+              "end": 35,
+              "expanded_url": "https://x.com/yasai31_/status/2047467114563514419/photo/1",
+              "media_key": "3_2047467110574776322",
+              "start": 12,
+              "url": "https://t.co/ud18kFNWVB"
+            },
+            {
+              "display_url": "pic.x.com/ud18kFNWVB",
+              "end": 35,
+              "expanded_url": "https://x.com/yasai31_/status/2047467114563514419/photo/1",
+              "media_key": "3_2047467110578974720",
+              "start": 12,
+              "url": "https://t.co/ud18kFNWVB"
+            },
+            {
+              "display_url": "pic.x.com/ud18kFNWVB",
+              "end": 35,
+              "expanded_url": "https://x.com/yasai31_/status/2047467114563514419/photo/1",
+              "media_key": "3_2047467110574809088",
+              "start": 12,
+              "url": "https://t.co/ud18kFNWVB"
+            },
+            {
+              "display_url": "x.com/gsc_goodsmile/…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/gsc_goodsmile/status/2047149251994480818",
+              "start": 36,
+              "url": "https://t.co/iYTQYQ4z7d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047467114563514419",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 154,
+          "impression_count": 22069,
+          "like_count": 1577,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 178
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047149251994480818",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "表情再現がcute…… https://t.co/ud18kFNWVB https://t.co/iYTQYQ4z7d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1395,
+          "following_count": 1484,
+          "like_count": 17179,
+          "listed_count": 4,
+          "media_count": 596,
+          "tweet_count": 5446
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2013-07-27T11:11:50.000Z",
+        "description": "主に重音テトでカバーを投稿しています🥖 絵と調声をする \n◆ニコニコ［https://t.co/8aIZX1tWLr］◆Youtube［https://t.co/MiIeZmXXyQ］\n(JASRAC許諾番号J240540991/NexTone許諾番号ID000009605)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/3vILq4P",
+                "end": 58,
+                "expanded_url": "http://bit.ly/3vILq4P",
+                "start": 35,
+                "url": "https://t.co/8aIZX1tWLr"
+              },
+              {
+                "display_url": "youtube.com/@yasai31",
+                "end": 91,
+                "expanded_url": "https://www.youtube.com/@yasai31",
+                "start": 68,
+                "url": "https://t.co/MiIeZmXXyQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fori.io/yasai31",
+                "end": 23,
+                "expanded_url": "https://fori.io/yasai31",
+                "start": 0,
+                "url": "https://t.co/Wg8W6HroE2"
+              }
+            ]
+          }
+        },
+        "id": "1625260687",
+        "location": "yyyasai31✉gmail.com",
+        "name": "yasai31",
+        "pinned_tweet_id": "1946497369237033042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1548113983617413127/IVkCkHXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44050,
+          "following_count": 830,
+          "like_count": 54128,
+          "listed_count": 89,
+          "media_count": 860,
+          "tweet_count": 17622
+        },
+        "url": "https://t.co/Wg8W6HroE2",
+        "username": "yasai31_",
+        "verified": true
+      }
+    ]
+  }
+}
