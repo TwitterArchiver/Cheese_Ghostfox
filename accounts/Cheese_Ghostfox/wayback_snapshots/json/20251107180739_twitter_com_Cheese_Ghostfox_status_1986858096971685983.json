@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986858092437606400"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "1986858096971685983",
+    "created_at": "2025-11-07T18:07:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T19:07:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986858096971685983"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ewmm3EAeFX",
+          "end": 52,
+          "expanded_url": "https://x.com/Cheese_Ghostfox/status/1986858096971685983/photo/1",
+          "media_key": "3_1986858092437606400",
+          "start": 29,
+          "url": "https://t.co/ewmm3EAeFX"
+        },
+        {
+          "display_url": "x.com/3He2_Ka1R0/sta…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/3He2_Ka1R0/status/1986783586033549788",
+          "start": 53,
+          "url": "https://t.co/EbmLPLT3X0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986858096971685983",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986783586033549788",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "時間是個環，我們會把同樣的事情做了一遍又一遍，直到永遠… https://t.co/ewmm3EAeFX https://t.co/EbmLPLT3X0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1337,
+        "media_key": "3_1986858092437606400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5K86ILakAAG5yd.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1853,
+        "media_key": "3_1986783582816436225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5J5JGNaAAEeTJ4.jpg",
+        "width": 1263
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986858092437606400"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "1986858096971685983",
+        "created_at": "2025-11-07T18:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T19:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986858096971685983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ewmm3EAeFX",
+              "end": 52,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/1986858096971685983/photo/1",
+              "media_key": "3_1986858092437606400",
+              "start": 29,
+              "url": "https://t.co/ewmm3EAeFX"
+            },
+            {
+              "display_url": "x.com/3He2_Ka1R0/sta…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/3He2_Ka1R0/status/1986783586033549788",
+              "start": 53,
+              "url": "https://t.co/EbmLPLT3X0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986858096971685983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986783586033549788",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "時間是個環，我們會把同樣的事情做了一遍又一遍，直到永遠… https://t.co/ewmm3EAeFX https://t.co/EbmLPLT3X0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986783582816436225"
+          ]
+        },
+        "author_id": "1892114014563598339",
+        "conversation_id": "1986783586033549788",
+        "created_at": "2025-11-07T13:11:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T14:11:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986783586033549788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tu8043ZPkk",
+              "end": 40,
+              "expanded_url": "https://x.com/3He2_Ka1R0/status/1986783586033549788/photo/1",
+              "media_key": "3_1986783582816436225",
+              "start": 17,
+              "url": "https://t.co/Tu8043ZPkk"
+            },
+            {
+              "display_url": "x.com/BelovedUren896…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/BelovedUren8964/status/1986777357865386279",
+              "start": 41,
+              "url": "https://t.co/FLercatAaQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986783586033549788",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986777357865386279",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我吃吃吃吃吃吃吃吃吃吃吃吃吃吃吃 https://t.co/Tu8043ZPkk https://t.co/FLercatAaQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "单线程狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨燦若花火的生命，无法用只言片语概括丨裡推 @HEX_Ghostfox丨恋人 @YekaseSuiso2022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 123,
+                "username": "HEX_Ghostfox"
+              },
+              {
+                "end": 156,
+                "start": 140,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬暗号通貨戦士霊狐🏳️‍⚧️",
+        "pinned_tweet_id": "1971908706771304723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984625831894016000/RhpiuO0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 1049,
+          "like_count": 9412,
+          "listed_count": 2,
+          "media_count": 289,
+          "tweet_count": 2724
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T07:28:41.000Z",
+        "description": "‣  你有尝试变得真实吗?叫我 𝗞𝗮𝗶𝗿𝗼 就好ɪɴᴛᴘ⁃ᴍ𝔱𝖝⁃ᴏᴠᴇʀᴅᴏsᴇ﹠ᴅʀᴜɢ⁃Ⓐ☜",
+        "id": "1892114014563598339",
+        "name": "xX梅妻鹤子Xx",
+        "pinned_tweet_id": "1962443374633644505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984261889027895296/4bprvd8Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 395,
+          "like_count": 57521,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 2316
+        },
+        "username": "3He2_Ka1R0",
+        "verified": false
+      }
+    ]
+  }
+}

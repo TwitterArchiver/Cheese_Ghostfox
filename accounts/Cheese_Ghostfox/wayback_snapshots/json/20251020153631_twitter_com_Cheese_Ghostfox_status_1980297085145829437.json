@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Albert Einstein",
+          "id": "963117586387845120",
+          "name": "Albert Einstein"
+        }
+      }
+    ],
+    "conversation_id": "1980285826094489951",
+    "created_at": "2025-10-20T15:36:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T16:36:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980297085145829437"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "Einstein",
+          "probability": 0.9042,
+          "start": 12,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1971208789853675520",
+          "start": 0,
+          "username": "seroglumax"
+        }
+      ],
+      "urls": [
+        {
+          "description": "The neurophysiological footprint of brain activity after cardiac arrest and during near-death experience (NDE) is not well understood. Although a hypoactive ...",
+          "display_url": "doi.org/10.3389/fnagi.…",
+          "end": 123,
+          "expanded_url": "https://doi.org/10.3389/fnagi.2022.813531",
+          "images": [
+            {
+              "height": 1113,
+              "url": "https://pbs.twimg.com/news_img/1966762993925935104/XwJ3q07M?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1966762993925935104/XwJ3q07M?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 100,
+          "status": 200,
+          "title": "Frontiers | Enhanced Interplay of Neuronal Coherence and Coupling in the Dying Human Brain",
+          "unwound_url": "https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2022.813531/full",
+          "url": "https://t.co/cFdDpFh93e"
+        },
+        {
+          "description": "The brain is assumed to be hypoactive during cardiac arrest. However, animal models of cardiac and respiratory arrest demonstrate a surge of gamma ...",
+          "display_url": "doi.org/10.1073/pnas.2…",
+          "end": 147,
+          "expanded_url": "https://doi.org/10.1073/pnas.2216268120",
+          "images": [
+            {
+              "height": 1911,
+              "url": "https://pbs.twimg.com/news_img/1980089759327207424/tK9i-xyS?format=jpg&name=orig",
+              "width": 4200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1980089759327207424/tK9i-xyS?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 124,
+          "status": 200,
+          "title": "Surge of neurophysiological coupling and connectivity of gamma oscillations in the dying human brain | PNAS",
+          "unwound_url": "https://www.pnas.org/doi/10.1073/pnas.2216268120",
+          "url": "https://t.co/Ewt3xNcdUf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980297085145829437",
+    "in_reply_to_user_id": "1971208789853675520",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980293650501546267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seroglumax Einstein's general/special theory of relativity, multiple near-death experience reports\nhttps://t.co/cFdDpFh93e\nhttps://t.co/Ewt3xNcdUf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Albert Einstein",
+              "id": "963117586387845120",
+              "name": "Albert Einstein"
+            }
+          }
+        ],
+        "conversation_id": "1980285826094489951",
+        "created_at": "2025-10-20T15:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T16:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980297085145829437"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "Einstein",
+              "probability": 0.9042,
+              "start": 12,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1971208789853675520",
+              "start": 0,
+              "username": "seroglumax"
+            }
+          ],
+          "urls": [
+            {
+              "description": "The neurophysiological footprint of brain activity after cardiac arrest and during near-death experience (NDE) is not well understood. Although a hypoactive ...",
+              "display_url": "doi.org/10.3389/fnagi.…",
+              "end": 123,
+              "expanded_url": "https://doi.org/10.3389/fnagi.2022.813531",
+              "images": [
+                {
+                  "height": 1113,
+                  "url": "https://pbs.twimg.com/news_img/1966762993925935104/XwJ3q07M?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1966762993925935104/XwJ3q07M?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 100,
+              "status": 200,
+              "title": "Frontiers | Enhanced Interplay of Neuronal Coherence and Coupling in the Dying Human Brain",
+              "unwound_url": "https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2022.813531/full",
+              "url": "https://t.co/cFdDpFh93e"
+            },
+            {
+              "description": "The brain is assumed to be hypoactive during cardiac arrest. However, animal models of cardiac and respiratory arrest demonstrate a surge of gamma ...",
+              "display_url": "doi.org/10.1073/pnas.2…",
+              "end": 147,
+              "expanded_url": "https://doi.org/10.1073/pnas.2216268120",
+              "images": [
+                {
+                  "height": 1911,
+                  "url": "https://pbs.twimg.com/news_img/1980089759327207424/tK9i-xyS?format=jpg&name=orig",
+                  "width": 4200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1980089759327207424/tK9i-xyS?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 124,
+              "status": 200,
+              "title": "Surge of neurophysiological coupling and connectivity of gamma oscillations in the dying human brain | PNAS",
+              "unwound_url": "https://www.pnas.org/doi/10.1073/pnas.2216268120",
+              "url": "https://t.co/Ewt3xNcdUf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980297085145829437",
+        "in_reply_to_user_id": "1971208789853675520",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980293650501546267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seroglumax Einstein's general/special theory of relativity, multiple near-death experience reports\nhttps://t.co/cFdDpFh93e\nhttps://t.co/Ewt3xNcdUf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971208789853675520",
+        "conversation_id": "1980285826094489951",
+        "created_at": "2025-10-20T15:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T16:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980293650501546267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980293650501546267",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980292484677898486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox source?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "单线程狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨燦若花火的生命，无法用只言片语概括丨裡推 @HEX_Ghostfox丨恋人 @YekaseSuiso2022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 123,
+                "username": "HEX_Ghostfox"
+              },
+              {
+                "end": 156,
+                "start": 140,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬暗号通貨戦士霊狐🏳️‍⚧️",
+        "pinned_tweet_id": "1971908706771304723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945506638892355584/vuuDoKyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 977,
+          "like_count": 8715,
+          "listed_count": 2,
+          "media_count": 259,
+          "tweet_count": 2464
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T13:43:46.000Z",
+        "description": "Space Observation Satellite",
+        "id": "1971208789853675520",
+        "name": "seroglu",
+        "pinned_tweet_id": "1978987904866087169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971248808110727168/N67JCK6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 72,
+          "like_count": 224,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 267
+        },
+        "username": "seroglumax",
+        "verified": false
+      }
+    ]
+  }
+}

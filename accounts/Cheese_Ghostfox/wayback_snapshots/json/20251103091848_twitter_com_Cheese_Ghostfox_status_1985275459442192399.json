@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1985275459442192399",
+    "created_at": "2025-11-03T09:18:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T10:18:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985275459442192399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1577106973270585344",
+          "start": 3,
+          "username": "dak821122"
+        },
+        {
+          "end": 79,
+          "id": "1959978816430022656",
+          "start": 66,
+          "username": "gui_hei58942"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985275459442192399",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 180
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984970370378842112",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dak821122: 空投鸟币，每人66666666枚\n如果在评论留下你的美食照片会多空投一些🦜币\n\n1.关注我\n2.关注 @gui_hei58942\n3.转发并点赞此推文\n\n完成3项后留下你的bnb钱包地址\n即可获得空投\n\n我会检查是否完成后，再进行发放 https:…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1984970357988839424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4wIBhWa0AADUzF.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1985275459442192399",
+        "created_at": "2025-11-03T09:18:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T10:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985275459442192399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1577106973270585344",
+              "start": 3,
+              "username": "dak821122"
+            },
+            {
+              "end": 79,
+              "id": "1959978816430022656",
+              "start": 66,
+              "username": "gui_hei58942"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985275459442192399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 180
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984970370378842112",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dak821122: 空投鸟币，每人66666666枚\n如果在评论留下你的美食照片会多空投一些🦜币\n\n1.关注我\n2.关注 @gui_hei58942\n3.转发并点赞此推文\n\n完成3项后留下你的bnb钱包地址\n即可获得空投\n\n我会检查是否完成后，再进行发放 https:…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984970357988839424"
+          ]
+        },
+        "author_id": "1577106973270585344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1984970370378842112",
+        "created_at": "2025-11-02T13:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T14:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984970370378842112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 64,
+              "id": "1959978816430022656",
+              "start": 51,
+              "username": "gui_hei58942"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bN4QBxx4I8",
+              "end": 141,
+              "expanded_url": "https://x.com/dak821122/status/1984970370378842112/photo/1",
+              "media_key": "3_1984970357988839424",
+              "start": 118,
+              "url": "https://t.co/bN4QBxx4I8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984970370378842112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5566,
+          "like_count": 209,
+          "quote_count": 1,
+          "reply_count": 257,
+          "retweet_count": 180
+        },
+        "reply_settings": "everyone",
+        "text": "空投鸟币，每人66666666枚\n如果在评论留下你的美食照片会多空投一些🦜币\n\n1.关注我\n2.关注 @gui_hei58942\n3.转发并点赞此推文\n\n完成3项后留下你的bnb钱包地址\n即可获得空投\n\n我会检查是否完成后，再进行发放 https://t.co/bN4QBxx4I8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "单线程狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨燦若花火的生命，无法用只言片语概括丨裡推 @HEX_Ghostfox丨恋人 @YekaseSuiso2022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 123,
+                "username": "HEX_Ghostfox"
+              },
+              {
+                "end": 156,
+                "start": 140,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬暗号通貨戦士霊狐🏳️‍⚧️",
+        "pinned_tweet_id": "1971908706771304723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984625831894016000/RhpiuO0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 1040,
+          "like_count": 9347,
+          "listed_count": 2,
+          "media_count": 273,
+          "tweet_count": 2620
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-04T01:23:32.000Z",
+        "description": "25年 800U → 12000U                                               \n求知｜上进｜坚持\n   🦜鸟币慈善家   \n                              \n🐿️ 黑天鹅不是灾难，是磨刀石",
+        "id": "1577106973270585344",
+        "location": "咕噜松鼠岛",
+        "name": "咕噜Gulu🌊RIVER",
+        "pinned_tweet_id": "1984970370378842112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981609018729586688/P7p54yko_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 376,
+          "like_count": 492,
+          "listed_count": 3,
+          "media_count": 74,
+          "tweet_count": 1052
+        },
+        "username": "dak821122",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-25T13:59:12.000Z",
+        "description": "空投达人/潜力meme发掘者/交易就用币安钱包，免手续费，超好用👉🏻 https://t.co/qt7ICClctY商务对接，需要帮空投直接推特私聊我。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "web3.binance.com/referral?ref=W…",
+                "end": 58,
+                "expanded_url": "https://web3.binance.com/referral?ref=W27EOR24",
+                "start": 35,
+                "url": "https://t.co/qt7ICClctY"
+              }
+            ]
+          }
+        },
+        "id": "1959978816430022656",
+        "location": "Vila Chinesa, Mogi das Cruzes",
+        "name": "和尚",
+        "pinned_tweet_id": "1985211146320871812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972716280747589632/SSgWvj-V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3524,
+          "following_count": 670,
+          "like_count": 500,
+          "listed_count": 1,
+          "media_count": 445,
+          "tweet_count": 1523
+        },
+        "username": "gui_hei58942",
+        "verified": true
+      }
+    ]
+  }
+}

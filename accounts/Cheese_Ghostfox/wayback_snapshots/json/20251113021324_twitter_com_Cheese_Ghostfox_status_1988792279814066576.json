@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988792266694275072"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1988788968851403111",
+    "created_at": "2025-11-13T02:13:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T03:13:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988792279814066576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1909218259033100288",
+          "start": 0,
+          "username": "JokerJoker6262"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/M5ccBAVMpB",
+          "end": 72,
+          "expanded_url": "https://x.com/Cheese_Ghostfox/status/1988792279814066576/photo/1",
+          "media_key": "3_1988792266694275072",
+          "start": 49,
+          "url": "https://t.co/M5ccBAVMpB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988792279814066576",
+    "in_reply_to_user_id": "1909218259033100288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988790540092207528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JokerJoker6262 回复你这条的时候正好走到这家店旁边了(\n都说到这了，先吃一顿罢😋 https://t.co/M5ccBAVMpB"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1988790540092207528].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1988790540092207528",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1988790540092207528"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1988792266694275072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5mcB4xbMAAzHWv.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988792266694275072"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1988788968851403111",
+        "created_at": "2025-11-13T02:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T03:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988792279814066576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1909218259033100288",
+              "start": 0,
+              "username": "JokerJoker6262"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M5ccBAVMpB",
+              "end": 72,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/1988792279814066576/photo/1",
+              "media_key": "3_1988792266694275072",
+              "start": 49,
+              "url": "https://t.co/M5ccBAVMpB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988792279814066576",
+        "in_reply_to_user_id": "1909218259033100288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988790540092207528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JokerJoker6262 回复你这条的时候正好走到这家店旁边了(\n都说到这了，先吃一顿罢😋 https://t.co/M5ccBAVMpB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "单线程狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨燦若花火的生命，无法用只言片语概括丨裡推 @HEX_Ghostfox丨恋人 @YekaseSuiso2022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 123,
+                "username": "HEX_Ghostfox"
+              },
+              {
+                "end": 156,
+                "start": 140,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬暗号通貨戦士霊狐🏳️‍⚧️",
+        "pinned_tweet_id": "1971908706771304723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984625831894016000/RhpiuO0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 1072,
+          "like_count": 9701,
+          "listed_count": 2,
+          "media_count": 301,
+          "tweet_count": 2819
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-07T12:14:47.000Z",
+        "description": "宠物:@Ateiriaror3562 分身:@JokerJust2653┋碳基生活账号-随缘过关注┋🙇‍言论致歉┋分享琐事┋精神异常┋难以接触之人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 3,
+                "username": "Ateiriaror3562"
+              },
+              {
+                "end": 36,
+                "start": 22,
+                "username": "JokerJust2653"
+              }
+            ]
+          }
+        },
+        "id": "1909218259033100288",
+        "name": "Joker.Joker",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909218440851881984/1jXD9EVM_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 5,
+          "like_count": 253,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 145
+        },
+        "username": "JokerJoker6262",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1956693137700638998",
+    "created_at": "2025-11-08T15:16:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T16:16:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987177536842011060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1643482518555963392",
+          "start": 0,
+          "username": "hzhzhzorz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987177536842011060",
+    "in_reply_to_user_id": "1643482518555963392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956693137700638998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hzhzhzorz 哇，还有新京推友(\n中嘞，老乡!"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1956693112979607552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyeSBO2aUAAJut8.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2208,
+        "media_key": "3_1956693113097068544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyeSBPSaoAAMhvB.jpg",
+        "width": 1242
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1956693113084514304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyeSBPPbEAAQSYM.jpg",
+        "width": 1078
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1956693114011394048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyeSBSsaIAAb6BS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1956693137700638998",
+        "created_at": "2025-11-08T15:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T16:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987177536842011060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1643482518555963392",
+              "start": 0,
+              "username": "hzhzhzorz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987177536842011060",
+        "in_reply_to_user_id": "1643482518555963392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956693137700638998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hzhzhzorz 哇，还有新京推友(\n中嘞，老乡!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956693112979607552",
+            "3_1956693113097068544",
+            "3_1956693113084514304",
+            "3_1956693114011394048"
+          ]
+        },
+        "author_id": "1643482518555963392",
+        "conversation_id": "1956693137700638998",
+        "created_at": "2025-08-16T12:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T13:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956693137700638998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/znP2JXUGAu",
+              "end": 114,
+              "expanded_url": "https://x.com/hzhzhzorz/status/1956693137700638998/photo/1",
+              "media_key": "3_1956693112979607552",
+              "start": 91,
+              "url": "https://t.co/znP2JXUGAu"
+            },
+            {
+              "display_url": "pic.x.com/znP2JXUGAu",
+              "end": 114,
+              "expanded_url": "https://x.com/hzhzhzorz/status/1956693137700638998/photo/1",
+              "media_key": "3_1956693113097068544",
+              "start": 91,
+              "url": "https://t.co/znP2JXUGAu"
+            },
+            {
+              "display_url": "pic.x.com/znP2JXUGAu",
+              "end": 114,
+              "expanded_url": "https://x.com/hzhzhzorz/status/1956693137700638998/photo/1",
+              "media_key": "3_1956693113084514304",
+              "start": 91,
+              "url": "https://t.co/znP2JXUGAu"
+            },
+            {
+              "display_url": "pic.x.com/znP2JXUGAu",
+              "end": 114,
+              "expanded_url": "https://x.com/hzhzhzorz/status/1956693137700638998/photo/1",
+              "media_key": "3_1956693114011394048",
+              "start": 91,
+              "url": "https://t.co/znP2JXUGAu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956693137700638998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 31756,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "蹭波冷度扩个列😼求推友帮转\n＝今沢江朝 叫我小昭也可以\n坐标长春 男的 高三生不定时出没\n除了粉红和支黑都可以来跟我互fo🥰\np1是我的微信区推图orz\n主推：青柑普洱 没钱了另算 https://t.co/znP2JXUGAu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "单线程狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨燦若花火的生命，无法用只言片语概括丨裡推 @HEX_Ghostfox丨恋人 @YekaseSuiso2022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 123,
+                "username": "HEX_Ghostfox"
+              },
+              {
+                "end": 156,
+                "start": 140,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬暗号通貨戦士霊狐🏳️‍⚧️",
+        "pinned_tweet_id": "1971908706771304723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984625831894016000/RhpiuO0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 698,
+          "following_count": 1059,
+          "like_count": 9455,
+          "listed_count": 2,
+          "media_count": 291,
+          "tweet_count": 2746
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-05T05:15:48.000Z",
+        "description": "‖青柑普洱大王/哥控/东百坐牢学生/185-63死宅男\n‖喜欢发推特和绿泡泡 推特没有流量nbcs所以啥话都往外说\n‖fo我的都会被我查成分回fo\n‖自由民主\n‖大一统秦始皇和顺彘滚出去\n‖梯子偶尔失活，熟的欢迎私信问绿泡泡",
+        "id": "1643482518555963392",
+        "location": "怡紅院",
+        "name": "今沢江朝",
+        "pinned_tweet_id": "1956693137700638998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920307211936378880/U8fjF4sr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 433,
+          "like_count": 3063,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 1636
+        },
+        "username": "hzhzhzorz",
+        "verified": false
+      }
+    ]
+  }
+}

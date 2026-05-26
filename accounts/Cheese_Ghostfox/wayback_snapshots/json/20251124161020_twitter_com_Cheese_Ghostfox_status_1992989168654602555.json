@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992989164921585664"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "1992590074463277566",
+    "created_at": "2025-11-24T16:10:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T17:10:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992989168654602555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1299312684991569920",
+          "start": 0,
+          "username": "DanJack67524194"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8VkUlL93vT",
+          "end": 40,
+          "expanded_url": "https://x.com/Cheese_Ghostfox/status/1992989168654602555/photo/1",
+          "media_key": "3_1992989164921585664",
+          "start": 17,
+          "url": "https://t.co/8VkUlL93vT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992989168654602555",
+    "in_reply_to_user_id": "1299312684991569920",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992590074463277566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DanJack67524194 https://t.co/8VkUlL93vT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1150,
+        "media_key": "3_1992989164921585664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6iFFhBagAAfMfO.jpg",
+        "width": 775
+      },
+      {
+        "height": 864,
+        "media_key": "3_1992590068150865920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6caHBsakAAk2QA.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992989164921585664"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "1992590074463277566",
+        "created_at": "2025-11-24T16:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T17:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992989168654602555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1299312684991569920",
+              "start": 0,
+              "username": "DanJack67524194"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8VkUlL93vT",
+              "end": 40,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/1992989168654602555/photo/1",
+              "media_key": "3_1992989164921585664",
+              "start": 17,
+              "url": "https://t.co/8VkUlL93vT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992989168654602555",
+        "in_reply_to_user_id": "1299312684991569920",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992590074463277566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DanJack67524194 https://t.co/8VkUlL93vT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992590068150865920"
+          ]
+        },
+        "author_id": "1299312684991569920",
+        "conversation_id": "1992590074463277566",
+        "created_at": "2025-11-23T13:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T14:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992590074463277566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kI5wcpct20",
+              "end": 35,
+              "expanded_url": "https://x.com/DanJack67524194/status/1992590074463277566/photo/1",
+              "media_key": "3_1992590068150865920",
+              "start": 12,
+              "url": "https://t.co/kI5wcpct20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992590074463277566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 83111,
+          "like_count": 1078,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "你跟上次那個純戰士一隊 https://t.co/kI5wcpct20"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "单线程狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨燦若花火的生命，无法用只言片语概括丨裡推 @HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 123,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬暗号通貨戦士霊狐🏳️‍⚧️",
+        "pinned_tweet_id": "1971908706771304723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984625831894016000/RhpiuO0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 1084,
+          "like_count": 10131,
+          "listed_count": 2,
+          "media_count": 312,
+          "tweet_count": 2990
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-28T11:48:01.000Z",
+        "description": "（大部分梗圖皆為轉載）（現在也有自己翻譯的梗圖*如有翻譯圖，皆有翻譯浮水印*）\nthreads ：https://t.co/uiN3asDWEM\n\nig（梗圖帳）：https://t.co/4O83ZaXG7x",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "threads.com/@fox_sun_moon",
+                "end": 72,
+                "expanded_url": "https://www.threads.com/@fox_sun_moon",
+                "start": 49,
+                "url": "https://t.co/uiN3asDWEM"
+              },
+              {
+                "display_url": "instagram.com/fox_sun_moon?i…",
+                "end": 105,
+                "expanded_url": "https://www.instagram.com/fox_sun_moon?igsh=ZXh3MXpyb",
+                "start": 82,
+                "url": "https://t.co/4O83ZaXG7x"
+              }
+            ]
+          }
+        },
+        "id": "1299312684991569920",
+        "location": "羅馬帝國—君士坦丁堡",
+        "name": "狐曌🦊北上生存戰——打響！",
+        "pinned_tweet_id": "1963584776155144438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923538905741111296/OuHg0oGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7379,
+          "following_count": 1983,
+          "like_count": 31345,
+          "listed_count": 26,
+          "media_count": 7216,
+          "tweet_count": 32706
+        },
+        "username": "DanJack67524194",
+        "verified": false
+      }
+    ]
+  }
+}

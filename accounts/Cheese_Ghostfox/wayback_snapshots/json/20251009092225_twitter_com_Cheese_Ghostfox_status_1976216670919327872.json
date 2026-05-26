@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1976156486171783582",
+    "created_at": "2025-10-09T09:22:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T10:22:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976216670919327872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1891827919833661446",
+          "start": 0,
+          "username": "MememomoZ"
+        },
+        {
+          "end": 25,
+          "id": "1632296925826543618",
+          "start": 11,
+          "username": "Crypto_Cat888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976216670919327872",
+    "in_reply_to_user_id": "1891827919833661446",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976183633259134987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MememomoZ @Crypto_Cat888 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1976156486171783582",
+        "created_at": "2025-10-09T09:22:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T10:22:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976216670919327872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1891827919833661446",
+              "start": 0,
+              "username": "MememomoZ"
+            },
+            {
+              "end": 25,
+              "id": "1632296925826543618",
+              "start": 11,
+              "username": "Crypto_Cat888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976216670919327872",
+        "in_reply_to_user_id": "1891827919833661446",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976183633259134987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MememomoZ @Crypto_Cat888 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891827919833661446",
+        "conversation_id": "1976156486171783582",
+        "created_at": "2025-10-09T07:11:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T08:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976183633259134987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1632296925826543618",
+              "start": 0,
+              "username": "Crypto_Cat888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976183633259134987",
+        "in_reply_to_user_id": "1632296925826543618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1113,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976156486171783582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Crypto_Cat888 第一个出来的是bnbholder嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "单线程狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX幽默无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨燦若花火的生命，无法用只言片语概括丨裡推 @HEX_Ghostfox丨恋人 @HydrogenNeko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 125,
+                "username": "HEX_Ghostfox"
+              },
+              {
+                "end": 155,
+                "start": 142,
+                "username": "HydrogenNeko"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬暗号通貨戦士霊狐🏳️‍⚧️",
+        "pinned_tweet_id": "1971908706771304723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945506638892355584/vuuDoKyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 929,
+          "like_count": 8388,
+          "listed_count": 2,
+          "media_count": 249,
+          "tweet_count": 2400
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T12:32:00.000Z",
+        "description": "Web3实习生。| 投资练习生。| 喜欢发现独角兽的快乐。 喜欢建设和创造的快乐。 I love meme.",
+        "id": "1891827919833661446",
+        "name": "MemoZ 🔸BNB | $M 🐜| Moss",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945857145016369152/x6yastqn_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 231,
+          "like_count": 120,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 280
+        },
+        "username": "MememomoZ",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-05T08:28:20.000Z",
+        "description": "100x hunter🐶| memecoin lover👨‍🍳 | 未来的女链上皇😈|OKX 钱包最全的链上交易工具 https://t.co/7C8Gd7qv5F",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "web3.okx.com/join/CAT8888",
+                "end": 82,
+                "expanded_url": "https://web3.okx.com/join/CAT8888",
+                "start": 59,
+                "url": "https://t.co/7C8Gd7qv5F"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "inv.debot.ai/r/cat8888",
+                "end": 23,
+                "expanded_url": "https://inv.debot.ai/r/cat8888",
+                "start": 0,
+                "url": "https://t.co/ay508th7DH"
+              }
+            ]
+          }
+        },
+        "id": "1632296925826543618",
+        "name": "CryptoCat | 猫姐 🐈",
+        "pinned_tweet_id": "1976156486171783582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969368372002635783/_WJ72Z2E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60299,
+          "following_count": 2033,
+          "like_count": 19111,
+          "listed_count": 1239,
+          "media_count": 4619,
+          "tweet_count": 22687
+        },
+        "url": "https://t.co/ay508th7DH",
+        "username": "Crypto_Cat888",
+        "verified": true
+      }
+    ]
+  }
+}

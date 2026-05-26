@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975531563275460611"
+      ],
+      "media_source_tweet_id": [
+        "1975531565989175711"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "1975609621990809710",
+    "created_at": "2025-10-07T17:10:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T18:10:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975609621990809710"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 52,
+          "start": 47,
+          "tag": "币安人生"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1962156064734138368",
+          "start": 3,
+          "username": "HydrogenNeko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qwYpKRXnXW",
+          "end": 76,
+          "expanded_url": "https://x.com/HydrogenNeko/status/1975531565989175711/photo/1",
+          "media_key": "3_1975531563275460611",
+          "start": 53,
+          "url": "https://t.co/qwYpKRXnXW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975609621990809710",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975531565989175711",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HydrogenNeko: 已经上车币安人生，已买入莫辜负，祈祷能够赚钱呜呜呜呜呜呜\n#币安人生 https://t.co/qwYpKRXnXW"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1975609621990809710].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1975609621990809710",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1975609621990809710"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1888,
+        "media_key": "3_1975531563275460611",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2p_fW-bIAMxt1C.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975531563275460611"
+          ]
+        },
+        "author_id": "1962156064734138368",
+        "conversation_id": "1975531565989175711",
+        "created_at": "2025-10-07T12:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T13:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975531565989175711"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 29,
+              "tag": "币安人生"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qwYpKRXnXW",
+              "end": 58,
+              "expanded_url": "https://x.com/HydrogenNeko/status/1975531565989175711/photo/1",
+              "media_key": "3_1975531563275460611",
+              "start": 35,
+              "url": "https://t.co/qwYpKRXnXW"
+            },
+            {
+              "display_url": "x.com/EnHeng456/stat…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/EnHeng456/status/1975520438051873012",
+              "start": 59,
+              "url": "https://t.co/pRQh2CKRij"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975531565989175711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 202,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975520438051873012",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已经上车币安人生，已买入莫辜负，祈祷能够赚钱呜呜呜呜呜呜\n#币安人生 https://t.co/qwYpKRXnXW https://t.co/pRQh2CKRij"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "欠拟合狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX幽默无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨燦若花火的生命，无法用只言片语概括丨裡推 @HEX_Ghostfox丨恋人 @HydrogenNeko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 125,
+                "username": "HEX_Ghostfox"
+              },
+              {
+                "end": 155,
+                "start": 142,
+                "username": "HydrogenNeko"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬暗号通貨戦士霊狐🏳️‍⚧️",
+        "pinned_tweet_id": "1971908706771304723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945506638892355584/vuuDoKyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 915,
+          "like_count": 8322,
+          "listed_count": 2,
+          "media_count": 247,
+          "tweet_count": 2383
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T14:10:44.000Z",
+        "description": "Yekase Suiso | An ordinary person who dares to take a stand | Life turns people into cats | Love, resistance, non-violence, non-cooperation | 15y.o CEO",
+        "id": "1962156064734138368",
+        "name": "HydrogenNeko.CEO",
+        "pinned_tweet_id": "1972630061590434052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974788908069400576/RF-82BmV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 403,
+          "like_count": 1432,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 319
+        },
+        "username": "HydrogenNeko",
+        "verified": false
+      }
+    ]
+  }
+}

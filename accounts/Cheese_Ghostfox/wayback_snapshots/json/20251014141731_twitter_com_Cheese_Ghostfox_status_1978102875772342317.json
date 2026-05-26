@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Binance CEO.",
+          "id": "1603445515831545856",
+          "name": "Changpeng Zhao"
+        }
+      }
+    ],
+    "conversation_id": "1978102594519060737",
+    "created_at": "2025-10-14T14:17:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T15:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978102875772342317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1962156064734138368",
+          "start": 0,
+          "username": "HydrogenNeko"
+        },
+        {
+          "end": 25,
+          "id": "902926941413453824",
+          "start": 14,
+          "username": "cz_binance"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978102875772342317",
+    "in_reply_to_user_id": "1962156064734138368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978102594519060737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HydrogenNeko @cz_binance 玩币归赵说是\n小两口的大镰刀割麻了喵..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 243,
+        "media_key": "3_1978102109800112128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3OhY3AWIAACMhG.png",
+        "width": 570
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Binance CEO.",
+              "id": "1603445515831545856",
+              "name": "Changpeng Zhao"
+            }
+          }
+        ],
+        "conversation_id": "1978102594519060737",
+        "created_at": "2025-10-14T14:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T15:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978102875772342317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1962156064734138368",
+              "start": 0,
+              "username": "HydrogenNeko"
+            },
+            {
+              "end": 25,
+              "id": "902926941413453824",
+              "start": 14,
+              "username": "cz_binance"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978102875772342317",
+        "in_reply_to_user_id": "1962156064734138368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978102594519060737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HydrogenNeko @cz_binance 玩币归赵说是\n小两口的大镰刀割麻了喵..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978102109800112128"
+          ]
+        },
+        "author_id": "1962156064734138368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Binance CEO.",
+              "id": "1603445515831545856",
+              "name": "Changpeng Zhao"
+            }
+          }
+        ],
+        "conversation_id": "1978102594519060737",
+        "created_at": "2025-10-14T14:16:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T15:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978102594519060737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "902926941413453824",
+              "start": 12,
+              "username": "cz_binance"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NiyrW0PsMg",
+              "end": 86,
+              "expanded_url": "https://x.com/HydrogenNeko/status/1978102594519060737/photo/1",
+              "media_key": "3_1978102109800112128",
+              "start": 63,
+              "url": "https://t.co/NiyrW0PsMg"
+            },
+            {
+              "display_url": "x.com/Cheese_Ghostfo…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/Cheese_Ghostfox/status/1978100714707497018",
+              "start": 87,
+              "url": "https://t.co/mNrYQT6Oeb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978102594519060737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978100714707497018",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "会好的吗，等通知！\n请 @cz_binance 对我们这些散户做出回答\n别修复k线作假了，你个死大割\n下次315有你就好笑了 https://t.co/NiyrW0PsMg https://t.co/mNrYQT6Oeb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "单线程狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX幽默无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨燦若花火的生命，无法用只言片语概括丨裡推 @HEX_Ghostfox丨恋人 @HydrogenNeko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 125,
+                "username": "HEX_Ghostfox"
+              },
+              {
+                "end": 155,
+                "start": 142,
+                "username": "HydrogenNeko"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬暗号通貨戦士霊狐🏳️‍⚧️",
+        "pinned_tweet_id": "1971908706771304723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945506638892355584/vuuDoKyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 935,
+          "like_count": 8608,
+          "listed_count": 2,
+          "media_count": 254,
+          "tweet_count": 2432
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T14:10:44.000Z",
+        "description": "Yekase Suiso | An ordinary person who dares to take a stand | Life turns people into cats | Love, resistance, non-violence, non-cooperation | 15y.o CEO",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/CGs2sVd9Ta",
+                "end": 23,
+                "expanded_url": "http://discord.gg/CGs2sVd9Ta",
+                "start": 0,
+                "url": "https://t.co/3vRyPqnP1u"
+              }
+            ]
+          }
+        },
+        "id": "1962156064734138368",
+        "location": "The LFE",
+        "name": "Yekase Suiso🔮藥圈大賢者",
+        "pinned_tweet_id": "1977276508189475083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974788908069400576/RF-82BmV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 440,
+          "like_count": 1602,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 431
+        },
+        "url": "https://t.co/3vRyPqnP1u",
+        "username": "HydrogenNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-30T16:12:13.000Z",
+        "description": "@BNBchain\n@YZiLabs\n@GiggleAcademy\n@binance",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "BNBchain"
+              },
+              {
+                "end": 18,
+                "start": 10,
+                "username": "YZiLabs"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "GiggleAcademy"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "binance"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "binance.com",
+                "end": 23,
+                "expanded_url": "http://www.binance.com",
+                "start": 0,
+                "url": "https://t.co/zlvCSBIFGA"
+              }
+            ]
+          }
+        },
+        "id": "902926941413453824",
+        "name": "CZ 🔶 BNB",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961440580279336960/PiiIs8Lh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10352079,
+          "following_count": 1892,
+          "like_count": 17454,
+          "listed_count": 38359,
+          "media_count": 905,
+          "tweet_count": 7199
+        },
+        "url": "https://t.co/zlvCSBIFGA",
+        "username": "cz_binance",
+        "verified": true
+      }
+    ]
+  }
+}

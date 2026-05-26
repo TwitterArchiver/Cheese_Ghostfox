@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1971899783452545418",
+    "created_at": "2025-09-28T05:48:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T06:48:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972176518496637128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1779149099084009472",
+          "start": 0,
+          "username": "MikuLoverr_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972176518496637128",
+    "in_reply_to_user_id": "1779149099084009472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971899783452545418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MikuLoverr_ A罢，B起码可以学到图纸理论与葛明历程("
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 328,
+        "media_key": "3_1971899780042575880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G12YZwIb0AgmWIK.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1971899783452545418",
+        "created_at": "2025-09-28T05:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T06:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972176518496637128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1779149099084009472",
+              "start": 0,
+              "username": "MikuLoverr_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972176518496637128",
+        "in_reply_to_user_id": "1779149099084009472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971899783452545418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MikuLoverr_ A罢，B起码可以学到图纸理论与葛明历程("
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971899780042575880"
+          ]
+        },
+        "author_id": "1779149099084009472",
+        "conversation_id": "1971899783452545418",
+        "created_at": "2025-09-27T11:28:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T12:28:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971899783452545418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/19VP2AI4BE",
+              "end": 23,
+              "expanded_url": "https://x.com/MikuLoverr_/status/1971899783452545418/photo/1",
+              "media_key": "3_1971899780042575880",
+              "start": 0,
+              "url": "https://t.co/19VP2AI4BE"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "6f1840cee437e17a"
+        },
+        "id": "1971899783452545418",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 63820,
+          "like_count": 445,
+          "quote_count": 4,
+          "reply_count": 40,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/19VP2AI4BE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "欠拟合狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX幽默无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨燦若花火的生命，无法用只言片语概括丨裡推 @HEX_Ghostfox丨恋人 @HydrogenNeko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 125,
+                "username": "HEX_Ghostfox"
+              },
+              {
+                "end": 155,
+                "start": 142,
+                "username": "HydrogenNeko"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター🏳️‍⚧️",
+        "pinned_tweet_id": "1971908706771304723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945506638892355584/vuuDoKyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 900,
+          "like_count": 7992,
+          "listed_count": 2,
+          "media_count": 241,
+          "tweet_count": 2315
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T14:06:24.000Z",
+        "description": "Miku单推人 /抑郁疯癫二相体/备证备术/167cm/48kg/hrt：2024.11.16/09年16岁理科牲/重庆一中唯一mtf（暴论）/负能小号 @HiddenEmmMiku （同时作为里推使用）/双相ADHD感统失调/恋人 @mikumiku3648 /tips：本人玩梗不等同于自己实际立场",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "HiddenEmmMiku"
+              },
+              {
+                "end": 130,
+                "start": 117,
+                "username": "mikumiku3648"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ys-api.mihoyo.com/event/download…",
+                "end": 23,
+                "expanded_url": "https://ys-api.mihoyo.com/event/download_porter/link/ys_cn/official/android_default",
+                "start": 0,
+                "url": "https://t.co/rz5fLl5d1r"
+              }
+            ]
+          }
+        },
+        "id": "1779149099084009472",
+        "location": "劳资蜀道山",
+        "name": "emm🏳️‍⚧️🍥🥝",
+        "pinned_tweet_id": "1935374858705321997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930670465724612608/-qLodlKH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1368,
+          "following_count": 1195,
+          "like_count": 24502,
+          "listed_count": 9,
+          "media_count": 766,
+          "tweet_count": 12392
+        },
+        "url": "https://t.co/rz5fLl5d1r",
+        "username": "MikuLoverr_",
+        "verified": false
+      }
+    ]
+  }
+}

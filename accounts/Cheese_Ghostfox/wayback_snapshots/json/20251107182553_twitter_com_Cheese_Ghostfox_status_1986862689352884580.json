@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1986862689352884580",
+    "created_at": "2025-11-07T18:25:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T19:25:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986862689352884580"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MurphyHanNECTL…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/MurphyHanNECTL/status/1986817343415320774",
+          "start": 20,
+          "url": "https://t.co/mEdc1oxiUX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986862689352884580",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986817343415320774",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "物理是化学的内核，化学是物理的升华应用 https://t.co/mEdc1oxiUX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1986862689352884580",
+        "created_at": "2025-11-07T18:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T19:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986862689352884580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MurphyHanNECTL…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/MurphyHanNECTL/status/1986817343415320774",
+              "start": 20,
+              "url": "https://t.co/mEdc1oxiUX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986862689352884580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986817343415320774",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "物理是化学的内核，化学是物理的升华应用 https://t.co/mEdc1oxiUX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360644579834273793",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1986754443048796193",
+        "created_at": "2025-11-07T15:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T16:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986817343415320774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1222794842880626689",
+              "start": 0,
+              "username": "chenchen_suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986817343415320774",
+        "in_reply_to_user_id": "1222794842880626689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986754443048796193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenchen_suki 化学其实要做好多物理实验"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "单线程狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨燦若花火的生命，无法用只言片语概括丨裡推 @HEX_Ghostfox丨恋人 @YekaseSuiso2022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 123,
+                "username": "HEX_Ghostfox"
+              },
+              {
+                "end": 156,
+                "start": 140,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬暗号通貨戦士霊狐🏳️‍⚧️",
+        "pinned_tweet_id": "1971908706771304723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984625831894016000/RhpiuO0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 1049,
+          "like_count": 9414,
+          "listed_count": 2,
+          "media_count": 289,
+          "tweet_count": 2727
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-13T17:40:35.000Z",
+        "description": "a student / furry / To tread soft sands where winds caress the fleeting tide😋🥰\n/家有大猫 @Sandtailed 🥰🥰😋/constructing @ViaFoliorum",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 85,
+                "username": "Sandtailed"
+              },
+              {
+                "end": 126,
+                "start": 114,
+                "username": "ViaFoliorum"
+              }
+            ]
+          }
+        },
+        "id": "1360644579834273793",
+        "location": "Server",
+        "name": "Murphy Han",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1543434968453419008/fFTv_OY3_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 2090,
+          "like_count": 62466,
+          "listed_count": 2,
+          "media_count": 210,
+          "tweet_count": 3017
+        },
+        "username": "MurphyHanNECTL",
+        "verified": false
+      }
+    ]
+  }
+}

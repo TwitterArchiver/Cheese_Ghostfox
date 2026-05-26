@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1970668245901627461",
+    "created_at": "2025-09-24T06:04:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T07:04:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970730950834430189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1681362222461734912",
+          "start": 0,
+          "username": "PWFFFFFF_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970730950834430189",
+    "in_reply_to_user_id": "1681362222461734912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970730335467118689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PWFFFFFF_ 在特定领域是绝对的GOAT!\n其它用途嘛…"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1970730335467118689].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1970730335467118689",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1970730335467118689"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1970668245901627461",
+        "created_at": "2025-09-24T06:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T07:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970730950834430189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1681362222461734912",
+              "start": 0,
+              "username": "PWFFFFFF_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970730950834430189",
+        "in_reply_to_user_id": "1681362222461734912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970730335467118689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PWFFFFFF_ 在特定领域是绝对的GOAT!\n其它用途嘛…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "欠拟合狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX幽默无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨拒絕鑑政辨經❌/超友好🥰丨燦若花火的生命，无法用只言片语概括丨裡推 @HEX_Ghostfox丨恋人 @HydrogenNeko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 126,
+                "username": "HEX_Ghostfox"
+              },
+              {
+                "end": 156,
+                "start": 143,
+                "username": "HydrogenNeko"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター🏳️‍⚧️",
+        "pinned_tweet_id": "1919548841357148382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945506638892355584/vuuDoKyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 889,
+          "like_count": 7835,
+          "listed_count": 2,
+          "media_count": 239,
+          "tweet_count": 2268
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-18T17:56:31.000Z",
+        "description": "birth:2009/現於日本/日本語を勉強しています/中（繁/简）、EN(really poor)/on the edge/如果您認為我令您產生了不快，請block我，我不想與任何人產生爭執，謝謝您。/如果您在現實中認識我並在未被我推薦的情況下找到了此帳號，請離開吧，我很害怕您，我很抱歉。/自己:@PWFFFFFF_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 150,
+                "username": "PWFFFFFF_"
+              }
+            ]
+          }
+        },
+        "id": "1681362222461734912",
+        "location": "夢",
+        "name": "PureWhiteFFFFFF",
+        "pinned_tweet_id": "1965037052057231609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758404075077636096/qVOw-Mcq_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 522,
+          "like_count": 10693,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 111
+        },
+        "username": "PWFFFFFF_",
+        "verified": false
+      }
+    ]
+  }
+}

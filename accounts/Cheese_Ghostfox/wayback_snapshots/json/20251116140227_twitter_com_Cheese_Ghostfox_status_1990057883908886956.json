@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990057880889016320"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "1990057883908886956",
+    "created_at": "2025-11-16T14:02:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T15:02:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990057883908886956"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/r3OyZYRL0A",
+          "end": 25,
+          "expanded_url": "https://x.com/Cheese_Ghostfox/status/1990057883908886956/photo/1",
+          "media_key": "3_1990057880889016320",
+          "start": 2,
+          "url": "https://t.co/r3OyZYRL0A"
+        },
+        {
+          "display_url": "x.com/RikuSakaLine/s…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/RikuSakaLine/status/1990011837384151174",
+          "start": 26,
+          "url": "https://t.co/clEgE5Cor2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990057883908886956",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990011837384151174",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🙀 https://t.co/r3OyZYRL0A https://t.co/clEgE5Cor2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 888,
+        "media_key": "3_1990057880889016320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G54bGVDbQAAhHBV.jpg",
+        "width": 712
+      },
+      {
+        "height": 1480,
+        "media_key": "3_1990011820879626240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G53xNSJbwAAOf9t.jpg",
+        "width": 1188
+      },
+      {
+        "height": 1480,
+        "media_key": "3_1990011820925661184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G53xNSUaMAAgZyt.jpg",
+        "width": 1188
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990057880889016320"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "1990057883908886956",
+        "created_at": "2025-11-16T14:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T15:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990057883908886956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r3OyZYRL0A",
+              "end": 25,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/1990057883908886956/photo/1",
+              "media_key": "3_1990057880889016320",
+              "start": 2,
+              "url": "https://t.co/r3OyZYRL0A"
+            },
+            {
+              "display_url": "x.com/RikuSakaLine/s…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/RikuSakaLine/status/1990011837384151174",
+              "start": 26,
+              "url": "https://t.co/clEgE5Cor2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990057883908886956",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990011837384151174",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🙀 https://t.co/r3OyZYRL0A https://t.co/clEgE5Cor2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990011820879626240",
+            "3_1990011820925661184"
+          ]
+        },
+        "author_id": "1830192967120011266",
+        "conversation_id": "1990011837384151174",
+        "created_at": "2025-11-16T10:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T11:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990011837384151174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F7rBDmxWBk",
+              "end": 27,
+              "expanded_url": "https://x.com/RikuSakaLine/status/1990011837384151174/photo/1",
+              "media_key": "3_1990011820879626240",
+              "start": 4,
+              "url": "https://t.co/F7rBDmxWBk"
+            },
+            {
+              "display_url": "pic.x.com/F7rBDmxWBk",
+              "end": 27,
+              "expanded_url": "https://x.com/RikuSakaLine/status/1990011837384151174/photo/1",
+              "media_key": "3_1990011820925661184",
+              "start": 4,
+              "url": "https://t.co/F7rBDmxWBk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990011837384151174",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 149,
+          "like_count": 2,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😨😨😨 https://t.co/F7rBDmxWBk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "单线程狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨燦若花火的生命，无法用只言片语概括丨裡推 @HEX_Ghostfox丨恋人 @YekaseSuiso2022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 123,
+                "username": "HEX_Ghostfox"
+              },
+              {
+                "end": 156,
+                "start": 140,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬暗号通貨戦士霊狐🏳️‍⚧️",
+        "pinned_tweet_id": "1971908706771304723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984625831894016000/RhpiuO0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 1076,
+          "like_count": 9917,
+          "listed_count": 2,
+          "media_count": 303,
+          "tweet_count": 2919
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-01T10:36:43.000Z",
+        "description": "繁华之下，尽是丑恶｜上海市杨浦区高一生｜悲观主义者｜铁路·飞行器·EEW系统爱好者｜擅长人文地理·应用地质·地质灾害·观测气象研究｜似理科生｜努力学习中｜高考日语生｜地方主义｜请多关照(っ´▽`)っ",
+        "id": "1830192967120011266",
+        "location": "杨浦站",
+        "name": "陸叠阪線",
+        "pinned_tweet_id": "1989267737630351613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974849521286094848/KjhtbY6Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 212,
+          "like_count": 4436,
+          "listed_count": 0,
+          "media_count": 289,
+          "tweet_count": 1667
+        },
+        "username": "RikuSakaLine",
+        "verified": false
+      }
+    ]
+  }
+}

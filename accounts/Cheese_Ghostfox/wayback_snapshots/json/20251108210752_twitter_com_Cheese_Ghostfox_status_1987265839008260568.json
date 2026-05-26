@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1987173751839203482",
+    "created_at": "2025-11-08T21:07:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T22:07:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987265839008260568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1679060089007742977",
+          "start": 0,
+          "username": "wo4wendidegou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987265839008260568",
+    "in_reply_to_user_id": "1679060089007742977",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987247655282692529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wo4wendidegou 空腹1g…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1987173751839203482",
+        "created_at": "2025-11-08T21:07:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T22:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987265839008260568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1679060089007742977",
+              "start": 0,
+              "username": "wo4wendidegou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987265839008260568",
+        "in_reply_to_user_id": "1679060089007742977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987247655282692529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wo4wendidegou 空腹1g…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679060089007742977",
+        "conversation_id": "1987173751839203482",
+        "created_at": "2025-11-08T19:55:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T20:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987247655282692529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987247655282692529",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987190579504292320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox 你tmd吃了多少"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "单线程狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨燦若花火的生命，无法用只言片语概括丨裡推 @HEX_Ghostfox丨恋人 @YekaseSuiso2022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 123,
+                "username": "HEX_Ghostfox"
+              },
+              {
+                "end": 156,
+                "start": 140,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬暗号通貨戦士霊狐🏳️‍⚧️",
+        "pinned_tweet_id": "1971908706771304723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984625831894016000/RhpiuO0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 1060,
+          "like_count": 9484,
+          "listed_count": 2,
+          "media_count": 291,
+          "tweet_count": 2761
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-12T09:28:26.000Z",
+        "description": "左派青年/尊重LGBT/反中修/馬克思主義者/不是键政魔怔人/現居中國大陸/170cm 52kg/09高二理科生～/ENTP/愛好cos 二次元 羽毛球 中長跑 化學/我喜歡你們 歡迎互fo捏～",
+        "id": "1679060089007742977",
+        "location": "半人马座",
+        "name": "化学菜鸡",
+        "pinned_tweet_id": "1981033147317015001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976982635965820928/pxRPYl9b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 470,
+          "like_count": 1693,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 798
+        },
+        "username": "wo4wendidegou",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968256085447593985"
+      ],
+      "media_source_tweet_id": [
+        "1968256128556638579"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "1968557370285637999",
+    "created_at": "2025-09-18T06:07:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T07:07:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968557370285637999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "857173942586441729",
+          "start": 3,
+          "username": "kieed23232"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/89FHb5aT8p",
+          "end": 39,
+          "expanded_url": "https://x.com/kieed23232/status/1968256128556638579/photo/1",
+          "media_key": "3_1968256085447593985",
+          "start": 16,
+          "url": "https://t.co/89FHb5aT8p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968557370285637999",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12573
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968256128556638579",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kieed23232: https://t.co/89FHb5aT8p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2500,
+        "media_key": "3_1968256085447593985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Cme0Aa0AEfBx0.jpg",
+        "width": 1595
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968256085447593985"
+          ],
+          "media_source_tweet_id": [
+            "1968256128556638579"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "1968557370285637999",
+        "created_at": "2025-09-18T06:07:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T07:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968557370285637999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "857173942586441729",
+              "start": 3,
+              "username": "kieed23232"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/89FHb5aT8p",
+              "end": 39,
+              "expanded_url": "https://x.com/kieed23232/status/1968256128556638579/photo/1",
+              "media_key": "3_1968256085447593985",
+              "start": 16,
+              "url": "https://t.co/89FHb5aT8p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968557370285637999",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12573
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968256128556638579",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kieed23232: https://t.co/89FHb5aT8p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968256085447593985"
+          ]
+        },
+        "author_id": "857173942586441729",
+        "conversation_id": "1968256128556638579",
+        "created_at": "2025-09-17T10:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T11:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968256128556638579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/89FHb5aT8p",
+              "end": 23,
+              "expanded_url": "https://x.com/kieed23232/status/1968256128556638579/photo/1",
+              "media_key": "3_1968256085447593985",
+              "start": 0,
+              "url": "https://t.co/89FHb5aT8p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968256128556638579",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9945,
+          "impression_count": 2262433,
+          "like_count": 143747,
+          "quote_count": 261,
+          "reply_count": 217,
+          "retweet_count": 12573
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/89FHb5aT8p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "欠拟合狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX幽默无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨長白山香煙與粉魔爪愛好者 丨拒絕鑑政辨經❌/超友好🥰丨燦若花火的生命，无法用只言片语概括丨裡推慎fo @HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 143,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター🏳️‍⚧️",
+        "pinned_tweet_id": "1919548841357148382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945506638892355584/vuuDoKyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 822,
+          "like_count": 7642,
+          "listed_count": 2,
+          "media_count": 234,
+          "tweet_count": 2189
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-26T10:06:08.000Z",
+        "description": "Illustrator，Hatsune Miku ♥/ Kasane Teto ♥\nNO AI🚫 didn`t use AI \nPainting Live Streaming &screen recording 作画生放送/作画録画→https://t.co/wLGByCsiwn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/25589919",
+                "end": 140,
+                "expanded_url": "https://space.bilibili.com/25589919",
+                "start": 117,
+                "url": "https://t.co/wLGByCsiwn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/11525066",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/11525066",
+                "start": 0,
+                "url": "https://t.co/iHBM2GdjPo"
+              }
+            ]
+          }
+        },
+        "id": "857173942586441729",
+        "name": "kieed",
+        "pinned_tweet_id": "1829852267304140916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/908705750075060224/ciddanZN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305753,
+          "following_count": 556,
+          "like_count": 671,
+          "listed_count": 1936,
+          "media_count": 201,
+          "tweet_count": 332
+        },
+        "url": "https://t.co/iHBM2GdjPo",
+        "username": "kieed23232",
+        "verified": false
+      }
+    ]
+  }
+}

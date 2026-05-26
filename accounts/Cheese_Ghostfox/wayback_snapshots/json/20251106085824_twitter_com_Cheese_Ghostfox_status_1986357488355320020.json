@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1985687460186292637",
+    "created_at": "2025-11-06T08:58:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T09:58:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986357488355320020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1971735483626749952",
+          "start": 0,
+          "username": "kkchi375093"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986357488355320020",
+    "in_reply_to_user_id": "1971735483626749952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986346592438452687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkchi375093 收到!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1985687460186292637",
+        "created_at": "2025-11-06T08:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T09:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986357488355320020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1971735483626749952",
+              "start": 0,
+              "username": "kkchi375093"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986357488355320020",
+        "in_reply_to_user_id": "1971735483626749952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986346592438452687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkchi375093 收到!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971735483626749952",
+        "conversation_id": "1985687460186292637",
+        "created_at": "2025-11-06T08:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T09:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986346592438452687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986346592438452687",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985746325833728138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox 查收"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "单线程狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨燦若花火的生命，无法用只言片语概括丨裡推 @HEX_Ghostfox丨恋人 @YekaseSuiso2022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 123,
+                "username": "HEX_Ghostfox"
+              },
+              {
+                "end": 156,
+                "start": 140,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬暗号通貨戦士霊狐🏳️‍⚧️",
+        "pinned_tweet_id": "1971908706771304723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984625831894016000/RhpiuO0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 691,
+          "following_count": 1051,
+          "like_count": 9561,
+          "listed_count": 2,
+          "media_count": 285,
+          "tweet_count": 2705
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-27T00:36:05.000Z",
+        "description": "TG必备的搜索引擎，极搜JISOU帮你精准找到，想要的群组、频道、音乐 、视频\n\n👉 https://t.co/8Zs1ro8df1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/jisou?start=a_…",
+                "end": 66,
+                "expanded_url": "http://t.me/jisou?start=a_6422614318",
+                "start": 43,
+                "url": "https://t.co/8Zs1ro8df1"
+              }
+            ]
+          }
+        },
+        "id": "1971735483626749952",
+        "location": "Taiwan",
+        "name": "安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974393765118009345/zsIrM9iU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 529,
+          "like_count": 289,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 551
+        },
+        "username": "kkchi375093",
+        "verified": false
+      }
+    ]
+  }
+}

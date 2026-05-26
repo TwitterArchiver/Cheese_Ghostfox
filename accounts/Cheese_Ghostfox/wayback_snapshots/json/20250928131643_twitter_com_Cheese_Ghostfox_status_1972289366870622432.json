@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1972289366870622432",
+    "created_at": "2025-09-28T13:16:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T14:16:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972289366870622432"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jianlvup/statu…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/jianlvup/status/1972198144609079699",
+          "start": 7,
+          "url": "https://t.co/ALUZJui17g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972289366870622432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972198144609079699",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "无孩爱猫女( https://t.co/ALUZJui17g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 808,
+        "media_key": "3_1972198141710708736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G16nwr9aMAAgTkl.jpg",
+        "width": 780
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1972289366870622432",
+        "created_at": "2025-09-28T13:16:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T14:16:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972289366870622432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jianlvup/statu…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/jianlvup/status/1972198144609079699",
+              "start": 7,
+              "url": "https://t.co/ALUZJui17g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972289366870622432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972198144609079699",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "无孩爱猫女( https://t.co/ALUZJui17g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972198141710708736"
+          ]
+        },
+        "author_id": "1589809419822329857",
+        "conversation_id": "1972198144609079699",
+        "created_at": "2025-09-28T07:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T08:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972198144609079699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VfV7b3MFkJ",
+              "end": 32,
+              "expanded_url": "https://x.com/jianlvup/status/1972198144609079699/photo/1",
+              "media_key": "3_1972198141710708736",
+              "start": 9,
+              "url": "https://t.co/VfV7b3MFkJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972198144609079699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 962,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你属于哪个群体？ https://t.co/VfV7b3MFkJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "欠拟合狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX幽默无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨燦若花火的生命，无法用只言片语概括丨裡推 @HEX_Ghostfox丨恋人 @HydrogenNeko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 125,
+                "username": "HEX_Ghostfox"
+              },
+              {
+                "end": 155,
+                "start": 142,
+                "username": "HydrogenNeko"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター🏳️‍⚧️",
+        "pinned_tweet_id": "1971908706771304723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945506638892355584/vuuDoKyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 900,
+          "like_count": 8011,
+          "listed_count": 2,
+          "media_count": 241,
+          "tweet_count": 2319
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "一个奇怪的人 私信互关 INTJ 热爱与大家讨论交流 爱评论点赞 华北人 人物志评分创始人 起名字对联压力大师\n逃生舱：@jianlvya\n搭档:@KawawaDiana8964\n前身：@Jianlv117（复活赛中）1.5w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "jianlvya"
+              },
+              {
+                "end": 89,
+                "start": 73,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "Jianlv117"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "新西兰（奇怪回复和转推多为广告哈❛˓◞˂̵✧)",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "1972076927247962245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913249977419366400/uP3H_UOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8644,
+          "following_count": 985,
+          "like_count": 43865,
+          "listed_count": 31,
+          "media_count": 1607,
+          "tweet_count": 3834
+        },
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

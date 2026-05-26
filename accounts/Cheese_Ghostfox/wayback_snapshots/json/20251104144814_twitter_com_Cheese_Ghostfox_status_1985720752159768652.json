@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985720748552671233"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "1985720752159768652",
+    "created_at": "2025-11-04T14:48:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T15:48:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985720752159768652"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/S0wKYRhuev",
+          "end": 45,
+          "expanded_url": "https://x.com/Cheese_Ghostfox/status/1985720752159768652/photo/1",
+          "media_key": "3_1985720748552671233",
+          "start": 22,
+          "url": "https://t.co/S0wKYRhuev"
+        },
+        {
+          "display_url": "x.com/BeetiIsDog/sta…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/BeetiIsDog/status/1985719346526896266",
+          "start": 46,
+          "url": "https://t.co/lc6ULjB6WW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985720752159768652",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985719346526896266",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "根据此bingo的评判标准，狐大抵是阴湿的 https://t.co/S0wKYRhuev https://t.co/lc6ULjB6WW"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1985720752159768652].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1985720752159768652",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1985720752159768652"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 711,
+        "media_key": "3_1985720748552671233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G46ygACa0AESsjv.jpg",
+        "width": 708
+      },
+      {
+        "height": 1186,
+        "media_key": "3_1985719343607660544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G46xOONbQAAKQ2N.jpg",
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985719343607660544"
+          ]
+        },
+        "author_id": "1799795163843436544",
+        "conversation_id": "1985719346526896266",
+        "created_at": "2025-11-04T14:42:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T15:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985719346526896266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ik7hAxqllz",
+              "end": 40,
+              "expanded_url": "https://x.com/BeetiIsDog/status/1985719346526896266/photo/1",
+              "media_key": "3_1985719343607660544",
+              "start": 17,
+              "url": "https://t.co/Ik7hAxqllz"
+            },
+            {
+              "display_url": "x.com/jngyn298282/st…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/jngyn298282/status/1985671862483816465",
+              "start": 41,
+              "url": "https://t.co/dVoj7vISzs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985719346526896266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985671862483816465",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看似健全但是masking点满了 https://t.co/Ik7hAxqllz https://t.co/dVoj7vISzs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "单线程狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨燦若花火的生命，无法用只言片语概括丨裡推 @HEX_Ghostfox丨恋人 @YekaseSuiso2022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 123,
+                "username": "HEX_Ghostfox"
+              },
+              {
+                "end": 156,
+                "start": 140,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬暗号通貨戦士霊狐🏳️‍⚧️",
+        "pinned_tweet_id": "1971908706771304723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984625831894016000/RhpiuO0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 1044,
+          "like_count": 9440,
+          "listed_count": 2,
+          "media_count": 281,
+          "tweet_count": 2661
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T13:26:33.000Z",
+        "description": "病み垢/demigirl/不知道藤井風的歌有多好听的人可以永别了。/这是一个只会发布转发碎碎念画作内容的无脑仓鼠人的账号，互fo请留言。不参与争论和吵架，多点关心多点爱 || 这是另一个我：@5_HTIsUsagi   我老大：@sysjf0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "5_HTIsUsagi"
+              },
+              {
+                "end": 121,
+                "start": 114,
+                "username": "sysjf0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+vOQWVMQTr0Y2O…",
+                "end": 23,
+                "expanded_url": "https://t.me/+vOQWVMQTr0Y2OGI1",
+                "start": 0,
+                "url": "https://t.co/n7w34dGfVN"
+              }
+            ]
+          }
+        },
+        "id": "1799795163843436544",
+        "location": "≤ 1 km",
+        "name": "ビーチイ小犬 |๏ᆺ๏υ)",
+        "pinned_tweet_id": "1936770496970006587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984412560318423040/hpni-GSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 645,
+          "like_count": 20799,
+          "listed_count": 3,
+          "media_count": 285,
+          "tweet_count": 4724
+        },
+        "url": "https://t.co/n7w34dGfVN",
+        "username": "BeetiIsDog",
+        "verified": false
+      }
+    ]
+  }
+}

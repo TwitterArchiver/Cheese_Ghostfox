@@ -1,0 +1,143 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "1952164570874990592"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "1952164572103856620",
+    "created_at": "2025-08-04T00:27:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T01:27:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952164572103856620"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1952164572103856620",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的推特交际圈里对自制雌二醇凝胶的需求量大吗？这是一个市场调查"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2025-08-05T00:27:57.000Z",
+        "id": "1952164570874990592",
+        "options": [
+          {
+            "label": "需要，会购买",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "需要，在价格有竞争力的情况下会购买",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "不需要，购买hrt药物我自有妙处",
+            "position": 3,
+            "votes": 0
+          },
+          {
+            "label": "不需要，我甚至不知道啥是凝胶",
+            "position": 4,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1952164570874990592"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "1952164572103856620",
+        "created_at": "2025-08-04T00:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T01:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952164572103856620"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952164572103856620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的推特交际圈里对自制雌二醇凝胶的需求量大吗？这是一个市场调查"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "幽灵狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學學習預定 電子工程學精通🆙 丨MtX幽默无证可能含糖药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨長白山香煙與粉色魔爪愛好者 丨無政治傾向/尊重所有人 /超友好🥰丨良い世,来いよ! 丨裡推慎fo @HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 143,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "Turn around....(∞_눈)",
+        "name": "霊狐製作所–公式ツイッター🏳️‍⚧️🧬",
+        "pinned_tweet_id": "1919548841357148382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945506638892355584/vuuDoKyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 602,
+          "like_count": 5128,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 1632
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,789 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Binance CEO.",
+          "id": "1603445515831545856",
+          "name": "Changpeng Zhao"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1304115130267963392",
+          "name": "Binance Coin cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1372588659346612225",
+          "name": "Binance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974596794716162",
+          "name": "Financial services"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1304115130267963392",
+          "name": "Binance Coin cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390680741206368263",
+          "name": "Cryptocurrency exchanges"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1484181943616884743",
+          "name": "Cryptocoins"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491481998862348291",
+          "name": "Digital asset industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "1492162686204854274",
+          "name": "Digital assets & cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "For cryptocurrency entities",
+          "id": "174",
+          "name": "Digital Assets & Crypto"
+        },
+        "entity": {
+          "id": "1304115130267963392",
+          "name": "Binance Coin cryptocurrency"
+        }
+      }
+    ],
+    "conversation_id": "1976170975881539759",
+    "created_at": "2025-10-09T06:20:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T07:20:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976170975881539759"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 64,
+          "start": 56,
+          "tag": "binance"
+        },
+        {
+          "end": 69,
+          "start": 65,
+          "tag": "bnb"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 27,
+          "id": "1003840309166366721",
+          "start": 15,
+          "username": "heyibinance"
+        },
+        {
+          "end": 38,
+          "id": "1451036242431262720",
+          "start": 28,
+          "username": "binancezh"
+        },
+        {
+          "end": 50,
+          "id": "902926941413453824",
+          "start": 39,
+          "username": "cz_binance"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/shuaibaobaommd…",
+          "end": 93,
+          "expanded_url": "https://twitter.com/shuaibaobaommd/status/1976146874450231725",
+          "start": 70,
+          "url": "https://t.co/aORT3OhtSQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976170975881539759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976146874450231725",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我该怎么找到和使用这个功能?\n@heyibinance @binancezh @cz_binance \n🚀🚀🚀\n#binance #bnb https://t.co/aORT3OhtSQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1976146857740111872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2yvGNeakAAwMa_.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Binance CEO.",
+              "id": "1603445515831545856",
+              "name": "Changpeng Zhao"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1304115130267963392",
+              "name": "Binance Coin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1372588659346612225",
+              "name": "Binance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304115130267963392",
+              "name": "Binance Coin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390680741206368263",
+              "name": "Cryptocurrency exchanges"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "id": "1304115130267963392",
+              "name": "Binance Coin cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "1976170975881539759",
+        "created_at": "2025-10-09T06:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T07:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976170975881539759"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 56,
+              "tag": "binance"
+            },
+            {
+              "end": 69,
+              "start": 65,
+              "tag": "bnb"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 27,
+              "id": "1003840309166366721",
+              "start": 15,
+              "username": "heyibinance"
+            },
+            {
+              "end": 38,
+              "id": "1451036242431262720",
+              "start": 28,
+              "username": "binancezh"
+            },
+            {
+              "end": 50,
+              "id": "902926941413453824",
+              "start": 39,
+              "username": "cz_binance"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/shuaibaobaommd…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/shuaibaobaommd/status/1976146874450231725",
+              "start": 70,
+              "url": "https://t.co/aORT3OhtSQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976170975881539759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976146874450231725",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我该怎么找到和使用这个功能?\n@heyibinance @binancezh @cz_binance \n🚀🚀🚀\n#binance #bnb https://t.co/aORT3OhtSQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976146857740111872"
+          ]
+        },
+        "author_id": "992728835111112710",
+        "conversation_id": "1976146874450231725",
+        "created_at": "2025-10-09T04:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T05:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976146874450231725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XHW2Nwx7SA",
+              "end": 186,
+              "expanded_url": "https://x.com/shuaibaobaommd/status/1976146874450231725/photo/1",
+              "media_key": "3_1976146857740111872",
+              "start": 163,
+              "url": "https://t.co/XHW2Nwx7SA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976146874450231725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 30372,
+          "like_count": 78,
+          "quote_count": 6,
+          "reply_count": 48,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "BNB meme进入新纪元～\n早上看到消息随即清仓了所有老Meme，并在群内通知（全网应该比较早）～\n以后Meme路径：专属内盘-alpha观察区-aster现货-alpha-合约-现货～\n传闻下午四五点上线～\n今天出来的龙头随便买，前两个应该至少上合约（一如当初刚开alpha一样）\n今天正确的姿势：下午枯坐坐等专属内盘～ https://t.co/XHW2Nwx7SA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "单线程狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX幽默无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨燦若花火的生命，无法用只言片语概括丨裡推 @HEX_Ghostfox丨恋人 @HydrogenNeko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 125,
+                "username": "HEX_Ghostfox"
+              },
+              {
+                "end": 155,
+                "start": 142,
+                "username": "HydrogenNeko"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬暗号通貨戦士霊狐🏳️‍⚧️",
+        "pinned_tweet_id": "1971908706771304723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945506638892355584/vuuDoKyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 922,
+          "like_count": 8363,
+          "listed_count": 2,
+          "media_count": 248,
+          "tweet_count": 2394
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-05T03:25:54.000Z",
+        "description": "Co-Founder & Chief Customer Service Officer @Binance  \nHolder of #BNB",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 69,
+                "start": 65,
+                "tag": "BNB"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "Binance"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "binance.com",
+                "end": 23,
+                "expanded_url": "http://binance.com",
+                "start": 0,
+                "url": "https://t.co/cAe7RYbdrS"
+              }
+            ]
+          }
+        },
+        "id": "1003840309166366721",
+        "location": "Mars",
+        "name": "Yi He",
+        "pinned_tweet_id": "1911845602281095388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974520590410170369/q2Q0S0fa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471816,
+          "following_count": 1111,
+          "like_count": 2085,
+          "listed_count": 2974,
+          "media_count": 300,
+          "tweet_count": 4255
+        },
+        "url": "https://t.co/cAe7RYbdrS",
+        "username": "heyibinance",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-21T04:03:48.000Z",
+        "description": "关注Binance华语，\n洞悉行情节奏，\n劲享币安重重好礼，\n让你的邻家小编不下岗！\n注册立拿100U：https://t.co/SLuxJUoDEi\n商业合作： https://t.co/aPXd3SWVfx\n #Binance #BNB",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 107,
+                "tag": "Binance"
+              },
+              {
+                "end": 120,
+                "start": 116,
+                "tag": "BNB"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "binance.com/zh-CN",
+                "end": 75,
+                "expanded_url": "https://www.binance.com/zh-CN",
+                "start": 52,
+                "url": "https://t.co/SLuxJUoDEi"
+              },
+              {
+                "display_url": "t.me/chloeset0",
+                "end": 105,
+                "expanded_url": "https://t.me/chloeset0",
+                "start": 82,
+                "url": "https://t.co/aPXd3SWVfx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "binance.com/zh-CN/download",
+                "end": 23,
+                "expanded_url": "http://binance.com/zh-CN/download",
+                "start": 0,
+                "url": "https://t.co/MuMMBD1AVs"
+              }
+            ]
+          }
+        },
+        "id": "1451036242431262720",
+        "name": "币安Binance华语",
+        "pinned_tweet_id": "1971115294006575346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815972658640740354/RySOJZ_Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396688,
+          "following_count": 380,
+          "like_count": 7470,
+          "listed_count": 2170,
+          "media_count": 7287,
+          "tweet_count": 14581
+        },
+        "url": "https://t.co/MuMMBD1AVs",
+        "username": "binancezh",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-30T16:12:13.000Z",
+        "description": "@BNBchain\n@YZiLabs\n@GiggleAcademy\n@binance",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "BNBchain"
+              },
+              {
+                "end": 18,
+                "start": 10,
+                "username": "YZiLabs"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "GiggleAcademy"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "binance"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "binance.com",
+                "end": 23,
+                "expanded_url": "http://www.binance.com",
+                "start": 0,
+                "url": "https://t.co/zlvCSBIFGA"
+              }
+            ]
+          }
+        },
+        "id": "902926941413453824",
+        "name": "CZ 🔶 BNB",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961440580279336960/PiiIs8Lh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10323119,
+          "following_count": 1886,
+          "like_count": 17399,
+          "listed_count": 38120,
+          "media_count": 901,
+          "tweet_count": 7089
+        },
+        "url": "https://t.co/zlvCSBIFGA",
+        "username": "cz_binance",
+        "verified": true
+      },
+      {
+        "created_at": "2018-05-05T11:32:53.000Z",
+        "description": "Web3资深玩家，Opensky社区创始人，Wagmi 资本合伙人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wagmiventures.co",
+                "end": 23,
+                "expanded_url": "http://www.wagmiventures.co/",
+                "start": 0,
+                "url": "https://t.co/CHN962WWwj"
+              }
+            ]
+          }
+        },
+        "id": "992728835111112710",
+        "location": "Beijing",
+        "name": "MARK",
+        "pinned_tweet_id": "1808026435845869728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866861348447223808/_QDPn-1A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37783,
+          "following_count": 671,
+          "like_count": 688,
+          "listed_count": 630,
+          "media_count": 795,
+          "tweet_count": 2571
+        },
+        "url": "https://t.co/CHN962WWwj",
+        "username": "shuaibaobaommd",
+        "verified": true
+      }
+    ]
+  }
+}

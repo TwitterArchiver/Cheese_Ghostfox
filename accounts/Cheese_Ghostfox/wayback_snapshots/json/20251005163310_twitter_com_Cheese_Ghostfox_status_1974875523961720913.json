@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974441723914002432"
+      ],
+      "media_source_tweet_id": [
+        "1974441729647648856"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "1974875523961720913",
+    "created_at": "2025-10-05T16:33:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T17:33:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974875523961720913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1639816523190763521",
+          "start": 3,
+          "username": "ggdxfulan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1yZfO29x84",
+          "end": 40,
+          "expanded_url": "https://x.com/ggdxfulan/status/1974441729647648856/photo/1",
+          "media_key": "3_1974441723914002432",
+          "start": 17,
+          "url": "https://t.co/1yZfO29x84"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974875523961720913",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974441729647648856",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ggdxfulan: ？ https://t.co/1yZfO29x84"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1728,
+        "media_key": "3_1974441723914002432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2agSW-aoAAEKUX.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974441723914002432"
+          ],
+          "media_source_tweet_id": [
+            "1974441729647648856"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "1974875523961720913",
+        "created_at": "2025-10-05T16:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T17:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974875523961720913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1639816523190763521",
+              "start": 3,
+              "username": "ggdxfulan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1yZfO29x84",
+              "end": 40,
+              "expanded_url": "https://x.com/ggdxfulan/status/1974441729647648856/photo/1",
+              "media_key": "3_1974441723914002432",
+              "start": 17,
+              "url": "https://t.co/1yZfO29x84"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974875523961720913",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974441729647648856",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ggdxfulan: ？ https://t.co/1yZfO29x84"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974441723914002432"
+          ]
+        },
+        "author_id": "1639816523190763521",
+        "conversation_id": "1974441729647648856",
+        "created_at": "2025-10-04T11:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T12:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974441729647648856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1yZfO29x84",
+              "end": 25,
+              "expanded_url": "https://x.com/ggdxfulan/status/1974441729647648856/photo/1",
+              "media_key": "3_1974441723914002432",
+              "start": 2,
+              "url": "https://t.co/1yZfO29x84"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974441729647648856",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 91090,
+          "like_count": 755,
+          "quote_count": 9,
+          "reply_count": 42,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/1yZfO29x84"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "欠拟合狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX幽默无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨燦若花火的生命，无法用只言片语概括丨裡推 @HEX_Ghostfox丨恋人 @HydrogenNeko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 125,
+                "username": "HEX_Ghostfox"
+              },
+              {
+                "end": 155,
+                "start": 142,
+                "username": "HydrogenNeko"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター🏳️‍⚧️",
+        "pinned_tweet_id": "1971908706771304723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945506638892355584/vuuDoKyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 908,
+          "like_count": 8222,
+          "listed_count": 2,
+          "media_count": 245,
+          "tweet_count": 2353
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "MtX药娘只1不0永不翻车、持MtF证(莫名其妙开出来的)、抖s、ENFP，男同攻、姐T的组合体，喜欢草人",
+        "id": "1639816523190763521",
+        "location": "距离你2km",
+        "name": "乖乖哒芙兰🍥",
+        "pinned_tweet_id": "1972915977861177561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929849322272968704/hQan_chB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11417,
+          "following_count": 454,
+          "like_count": 27414,
+          "listed_count": 19,
+          "media_count": 2927,
+          "tweet_count": 10046
+        },
+        "username": "ggdxfulan",
+        "verified": false
+      }
+    ]
+  }
+}

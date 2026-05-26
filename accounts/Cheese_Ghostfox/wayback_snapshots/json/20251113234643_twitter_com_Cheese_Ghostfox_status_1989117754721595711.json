@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1989116500855464100",
+    "created_at": "2025-11-13T23:46:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T00:46:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989117754721595711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1909218259033100288",
+          "start": 0,
+          "username": "JokerJoker6262"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989117754721595711",
+    "in_reply_to_user_id": "1909218259033100288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989116500855464100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JokerJoker6262 😱😱😱\n光怪陆离诡异至极啊"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1989116500855464100].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1989116500855464100",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1989116500855464100"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1989116500855464100",
+        "created_at": "2025-11-13T23:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T00:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989117754721595711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1909218259033100288",
+              "start": 0,
+              "username": "JokerJoker6262"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989117754721595711",
+        "in_reply_to_user_id": "1909218259033100288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989116500855464100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JokerJoker6262 😱😱😱\n光怪陆离诡异至极啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "单线程狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨燦若花火的生命，无法用只言片语概括丨裡推 @HEX_Ghostfox丨恋人 @YekaseSuiso2022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 123,
+                "username": "HEX_Ghostfox"
+              },
+              {
+                "end": 156,
+                "start": 140,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬暗号通貨戦士霊狐🏳️‍⚧️",
+        "pinned_tweet_id": "1971908706771304723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984625831894016000/RhpiuO0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 1073,
+          "like_count": 9722,
+          "listed_count": 2,
+          "media_count": 301,
+          "tweet_count": 2828
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-07T12:14:47.000Z",
+        "description": "宠物:@Ateiriaror3562 分身:@JokerJust2653┋碳基生活账号-随缘过关注┋🙇‍言论致歉┋分享琐事┋精神异常┋难以接触之人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 3,
+                "username": "Ateiriaror3562"
+              },
+              {
+                "end": 36,
+                "start": 22,
+                "username": "JokerJust2653"
+              }
+            ]
+          }
+        },
+        "id": "1909218259033100288",
+        "name": "Joker.Joker",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909218440851881984/1jXD9EVM_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 5,
+          "like_count": 256,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 150
+        },
+        "username": "JokerJoker6262",
+        "verified": false
+      }
+    ]
+  }
+}

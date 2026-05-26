@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Binance CEO.",
+          "id": "1603445515831545856",
+          "name": "Changpeng Zhao"
+        }
+      }
+    ],
+    "conversation_id": "1976180942843912408",
+    "created_at": "2025-10-09T07:00:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T08:00:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976180942843912408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "902926941413453824",
+          "start": 3,
+          "username": "cz_binance"
+        },
+        {
+          "end": 27,
+          "id": "1441606324010184707",
+          "start": 16,
+          "username": "yyds123888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976180942843912408",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976180572579156400",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cz_binance: @yyds123888 Not me. The community did.🙏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Binance CEO.",
+              "id": "1603445515831545856",
+              "name": "Changpeng Zhao"
+            }
+          }
+        ],
+        "conversation_id": "1976180942843912408",
+        "created_at": "2025-10-09T07:00:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T08:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976180942843912408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "902926941413453824",
+              "start": 3,
+              "username": "cz_binance"
+            },
+            {
+              "end": 27,
+              "id": "1441606324010184707",
+              "start": 16,
+              "username": "yyds123888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976180942843912408",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976180572579156400",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cz_binance: @yyds123888 Not me. The community did.🙏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "902926941413453824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Binance CEO.",
+              "id": "1603445515831545856",
+              "name": "Changpeng Zhao"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          }
+        ],
+        "conversation_id": "1975857804964753549",
+        "created_at": "2025-10-09T06:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T07:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976180572579156400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1441606324010184707",
+              "start": 0,
+              "username": "yyds123888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976180572579156400",
+        "in_reply_to_user_id": "1441606324010184707",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6266,
+          "like_count": 133,
+          "quote_count": 1,
+          "reply_count": 127,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975857804964753549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyds123888 Not me. The community did.🙏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "单线程狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX幽默无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨燦若花火的生命，无法用只言片语概括丨裡推 @HEX_Ghostfox丨恋人 @HydrogenNeko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 125,
+                "username": "HEX_Ghostfox"
+              },
+              {
+                "end": 155,
+                "start": 142,
+                "username": "HydrogenNeko"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬暗号通貨戦士霊狐🏳️‍⚧️",
+        "pinned_tweet_id": "1971908706771304723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945506638892355584/vuuDoKyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 922,
+          "like_count": 8369,
+          "listed_count": 2,
+          "media_count": 248,
+          "tweet_count": 2396
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-30T16:12:13.000Z",
+        "description": "@BNBchain\n@YZiLabs\n@GiggleAcademy\n@binance",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "BNBchain"
+              },
+              {
+                "end": 18,
+                "start": 10,
+                "username": "YZiLabs"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "GiggleAcademy"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "binance"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "binance.com",
+                "end": 23,
+                "expanded_url": "http://www.binance.com",
+                "start": 0,
+                "url": "https://t.co/zlvCSBIFGA"
+              }
+            ]
+          }
+        },
+        "id": "902926941413453824",
+        "name": "CZ 🔶 BNB",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961440580279336960/PiiIs8Lh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10323888,
+          "following_count": 1886,
+          "like_count": 17401,
+          "listed_count": 38135,
+          "media_count": 902,
+          "tweet_count": 7094
+        },
+        "url": "https://t.co/zlvCSBIFGA",
+        "username": "cz_binance",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-25T03:31:52.000Z",
+        "description": "I tweet about trading、 financial markets. | #OKX Web3钱包，支持130+公链：https://t.co/ECDma2zadC |  | #Binance：https://t.co/z0ZPXAnvgu",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 44,
+                "tag": "OKX"
+              },
+              {
+                "end": 102,
+                "start": 94,
+                "tag": "Binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "okx.com/cn/join/1877145",
+                "end": 88,
+                "expanded_url": "http://www.okx.com/cn/join/1877145",
+                "start": 65,
+                "url": "https://t.co/ECDma2zadC"
+              },
+              {
+                "display_url": "marketwebb.com/join?ref=28090…",
+                "end": 126,
+                "expanded_url": "https://www.marketwebb.com/join?ref=280908244",
+                "start": 103,
+                "url": "https://t.co/z0ZPXAnvgu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/flg33",
+                "end": 23,
+                "expanded_url": "https://t.me/flg33",
+                "start": 0,
+                "url": "https://t.co/UTNt98shuD"
+              }
+            ]
+          }
+        },
+        "id": "1441606324010184707",
+        "location": "微信：fg22582",
+        "name": "币圈福利哥 $M | 🐜",
+        "pinned_tweet_id": "1928817803999719909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945870001140895744/z9AZdL0p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145504,
+          "following_count": 7351,
+          "like_count": 25989,
+          "listed_count": 305,
+          "media_count": 3351,
+          "tweet_count": 21578
+        },
+        "url": "https://t.co/UTNt98shuD",
+        "username": "yyds123888",
+        "verified": true
+      }
+    ]
+  }
+}

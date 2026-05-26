@@ -1,0 +1,485 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995788242537574400"
+      ],
+      "media_source_tweet_id": [
+        "1995788344769552489"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "1996065922927469033",
+    "created_at": "2025-12-03T03:56:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T04:56:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996065922927469033"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 56,
+          "start": 51,
+          "tag": "Grok"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1986585182066122755",
+          "start": 3,
+          "username": "Heavenfire_King"
+        },
+        {
+          "end": 28,
+          "id": "6690032",
+          "start": 21,
+          "username": "vista8"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PLJmLYCbfs",
+          "end": 86,
+          "expanded_url": "https://x.com/Heavenfire_King/status/1995788344769552489/photo/1",
+          "media_key": "3_1995788242537574400",
+          "start": 63,
+          "url": "https://t.co/PLJmLYCbfs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996065922927469033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995788344769552489",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Heavenfire_King: @vista8 我知道你为啥没流量了\n你也太不把x的大兄弟 #Grok 当回事了😅 https://t.co/PLJmLYCbfs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 733,
+        "media_key": "3_1995788242537574400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7J21RtacAAIA8O.png",
+        "width": 730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995788242537574400"
+          ],
+          "media_source_tweet_id": [
+            "1995788344769552489"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1996065922927469033",
+        "created_at": "2025-12-03T03:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T04:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996065922927469033"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 51,
+              "tag": "Grok"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1986585182066122755",
+              "start": 3,
+              "username": "Heavenfire_King"
+            },
+            {
+              "end": 28,
+              "id": "6690032",
+              "start": 21,
+              "username": "vista8"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PLJmLYCbfs",
+              "end": 86,
+              "expanded_url": "https://x.com/Heavenfire_King/status/1995788344769552489/photo/1",
+              "media_key": "3_1995788242537574400",
+              "start": 63,
+              "url": "https://t.co/PLJmLYCbfs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996065922927469033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995788344769552489",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Heavenfire_King: @vista8 我知道你为啥没流量了\n你也太不把x的大兄弟 #Grok 当回事了😅 https://t.co/PLJmLYCbfs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995788242537574400"
+          ]
+        },
+        "author_id": "1986585182066122755",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1995726951298769048",
+        "created_at": "2025-12-02T09:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T10:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995788344769552489"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "Grok"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 7,
+              "id": "6690032",
+              "start": 0,
+              "username": "vista8"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PLJmLYCbfs",
+              "end": 65,
+              "expanded_url": "https://x.com/Heavenfire_King/status/1995788344769552489/photo/1",
+              "media_key": "3_1995788242537574400",
+              "start": 42,
+              "url": "https://t.co/PLJmLYCbfs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995788344769552489",
+        "in_reply_to_user_id": "6690032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2991,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995726951298769048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vista8 我知道你为啥没流量了\n你也太不把x的大兄弟 #Grok 当回事了😅 https://t.co/PLJmLYCbfs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "单线程狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨大道五十，天衍四九丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 114,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬暗号通貨戦士霊狐🏳️‍⚧️",
+        "pinned_tweet_id": "1971908706771304723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984625831894016000/RhpiuO0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 1086,
+          "like_count": 10323,
+          "listed_count": 2,
+          "media_count": 319,
+          "tweet_count": 3045
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T00:03:23.000Z",
+        "description": "天火义王 | AI增长实战 (Growth Hacking)\n📉 逆境涅槃中： 正在进行一场公开的“复活”实验。\n🎯 当前任务： 验证【AI+GEO+增长黑客】策略，挑战 2026/2 前达成5000粉。 \n🧠 核心输出： 涨粉的实录与感悟\n👇 在这里的收获：增长经验干货分享和全部实践的成果物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "docs.qq.com/aio/DUWN2YW9YZ…",
+                "end": 23,
+                "expanded_url": "https://docs.qq.com/aio/DUWN2YW9YZE5LRFR1",
+                "start": 0,
+                "url": "https://t.co/QFVz0kT6Ww"
+              }
+            ]
+          }
+        },
+        "id": "1986585182066122755",
+        "location": "Orion",
+        "name": "天火义王",
+        "pinned_tweet_id": "1994054257017045447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986585336995057665/5GYURVa__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 228,
+          "like_count": 1638,
+          "listed_count": 1,
+          "media_count": 239,
+          "tweet_count": 1121
+        },
+        "url": "https://t.co/QFVz0kT6Ww",
+        "username": "Heavenfire_King",
+        "verified": true
+      },
+      {
+        "created_at": "2007-06-09T05:48:52.000Z",
+        "description": "喜欢摇滚乐、爱钓鱼的PM\n网站：https://t.co/vnUpLt752o",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "qiaomu.ai",
+                "end": 39,
+                "expanded_url": "https://www.qiaomu.ai",
+                "start": 16,
+                "url": "https://t.co/vnUpLt752o"
+              }
+            ]
+          }
+        },
+        "id": "6690032",
+        "location": "Beijing",
+        "name": "向阳乔木",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960882043249942533/h4J39ERy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69696,
+          "following_count": 1398,
+          "like_count": 6958,
+          "listed_count": 998,
+          "media_count": 1836,
+          "tweet_count": 6162
+        },
+        "username": "vista8",
+        "verified": true
+      }
+    ]
+  }
+}

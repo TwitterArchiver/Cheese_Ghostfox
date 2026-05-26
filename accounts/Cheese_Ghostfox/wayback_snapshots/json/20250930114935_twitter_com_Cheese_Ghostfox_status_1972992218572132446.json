@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972992214927376384"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "1972992218572132446",
+    "created_at": "2025-09-30T11:49:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T12:49:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972992218572132446"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ypAhcdT05y",
+          "end": 51,
+          "expanded_url": "https://x.com/Cheese_Ghostfox/status/1972992218572132446/photo/1",
+          "media_key": "3_1972992214927376384",
+          "start": 28,
+          "url": "https://t.co/ypAhcdT05y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972992218572132446",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个真的好好喝!\n不愧是大日本东洋货，果然就是好喵☝🤓 https://t.co/ypAhcdT05y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1972992214927376384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2F591NbgAAIOKo.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972992214927376384"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "1972992218572132446",
+        "created_at": "2025-09-30T11:49:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T12:49:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972992218572132446"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ypAhcdT05y",
+              "end": 51,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/1972992218572132446/photo/1",
+              "media_key": "3_1972992214927376384",
+              "start": 28,
+              "url": "https://t.co/ypAhcdT05y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972992218572132446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个真的好好喝!\n不愧是大日本东洋货，果然就是好喵☝🤓 https://t.co/ypAhcdT05y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "欠拟合狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX幽默无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨燦若花火的生命，无法用只言片语概括丨裡推 @HEX_Ghostfox丨恋人 @HydrogenNeko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 125,
+                "username": "HEX_Ghostfox"
+              },
+              {
+                "end": 155,
+                "start": 142,
+                "username": "HydrogenNeko"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター🏳️‍⚧️",
+        "pinned_tweet_id": "1971908706771304723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945506638892355584/vuuDoKyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 904,
+          "like_count": 8106,
+          "listed_count": 2,
+          "media_count": 245,
+          "tweet_count": 2342
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1984765893973512342",
+    "created_at": "2025-11-02T06:18:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T07:18:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984867808778559638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1737474298934161409",
+          "start": 0,
+          "username": "blueicesama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984867808778559638",
+    "in_reply_to_user_id": "1737474298934161409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984765893973512342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blueicesama 哇，还有拟合样条曲线(\n看得人很想拉伸–剪切了(x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1737,
+        "media_key": "3_1984765885849239552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4tODrRbgAADojW.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1984765893973512342",
+        "created_at": "2025-11-02T06:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T07:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984867808778559638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1737474298934161409",
+              "start": 0,
+              "username": "blueicesama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984867808778559638",
+        "in_reply_to_user_id": "1737474298934161409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984765893973512342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blueicesama 哇，还有拟合样条曲线(\n看得人很想拉伸–剪切了(x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984765885849239552"
+          ]
+        },
+        "author_id": "1737474298934161409",
+        "conversation_id": "1984765893973512342",
+        "created_at": "2025-11-01T23:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T00:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984765893973512342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Az7QYS9gZF",
+              "end": 31,
+              "expanded_url": "https://x.com/blueicesama/status/1984765893973512342/photo/1",
+              "media_key": "3_1984765885849239552",
+              "start": 8,
+              "url": "https://t.co/Az7QYS9gZF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984765893973512342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 29539,
+          "like_count": 234,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "看到这个好心动 https://t.co/Az7QYS9gZF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "单线程狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨燦若花火的生命，无法用只言片语概括丨裡推 @HEX_Ghostfox丨恋人 @YekaseSuiso2022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 123,
+                "username": "HEX_Ghostfox"
+              },
+              {
+                "end": 156,
+                "start": 140,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬暗号通貨戦士霊狐🏳️‍⚧️",
+        "pinned_tweet_id": "1971908706771304723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984625831894016000/RhpiuO0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 1034,
+          "like_count": 9264,
+          "listed_count": 2,
+          "media_count": 271,
+          "tweet_count": 2589
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-20T14:05:40.000Z",
+        "description": "🏳️‍🌈/INFJ-T/Apple全肯定bot/中文·日本語·ENG/大连人/网蓝/杂学分享·日常碎碎念·生活账·奇怪梗图/三倍厚袜/不涉政/里@blueicesamaQWQ 社交饱和暂不扩列·本账号任何关注不代表本人立场 推止于推/可爱小狐狸@ri_si16512/老公@StarryCloud1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 73,
+                "username": "blueicesamaQWQ"
+              },
+              {
+                "end": 134,
+                "start": 123,
+                "username": "ri_si16512"
+              },
+              {
+                "end": 153,
+                "start": 137,
+                "username": "StarryCloud1123"
+              }
+            ]
+          }
+        },
+        "id": "1737474298934161409",
+        "location": "「落し水 岐れて細き 川生る」",
+        "name": "蓝冰冰冰蓝蓝",
+        "pinned_tweet_id": "1983061990609424563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875804058004676608/uKIbIoPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6564,
+          "following_count": 3299,
+          "like_count": 39111,
+          "listed_count": 9,
+          "media_count": 924,
+          "tweet_count": 8248
+        },
+        "username": "blueicesama",
+        "verified": false
+      }
+    ]
+  }
+}

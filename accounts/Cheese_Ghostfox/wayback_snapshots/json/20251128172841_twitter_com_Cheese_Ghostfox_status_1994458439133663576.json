@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1994444890638586295",
+    "created_at": "2025-11-28T17:28:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T18:28:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994458439133663576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1670705567688704001",
+          "start": 0,
+          "username": "RailhamChiMing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994458439133663576",
+    "in_reply_to_user_id": "1670705567688704001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994445715964399843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RailhamChiMing 长春是一座没有梦想与未来的城市…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1994444890638586295",
+        "created_at": "2025-11-28T17:28:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T18:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994458439133663576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1670705567688704001",
+              "start": 0,
+              "username": "RailhamChiMing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994458439133663576",
+        "in_reply_to_user_id": "1670705567688704001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994445715964399843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RailhamChiMing 长春是一座没有梦想与未来的城市…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1670705567688704001",
+        "conversation_id": "1994444890638586295",
+        "created_at": "2025-11-28T16:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T17:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994445715964399843"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994445715964399843",
+        "in_reply_to_user_id": "1670705567688704001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994444890638586295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果留在长春能一次性拿两纸文凭的话，我肯定毫不犹豫地选择留在长春\n。\n来这么远的地方不就是为了镀金吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "单线程狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨大道五十，天衍四九丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 114,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬暗号通貨戦士霊狐🏳️‍⚧️",
+        "pinned_tweet_id": "1971908706771304723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984625831894016000/RhpiuO0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 1083,
+          "like_count": 10244,
+          "listed_count": 2,
+          "media_count": 316,
+          "tweet_count": 3022
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-19T08:11:28.000Z",
+        "description": "视奸我是解决不了问题的喵/RHS腐竹/168 53 0.5/俄留子/双形态/猫/上白沢慧音/🚅進化清洲兄弟/历史/诗词创作/舞萌/巧克力/深夜陪聊/中推生态观察者/空谈误国，实干兴邦/本人关注列表不代表本人立场/瑞汉语推：@RoyhanChyMinh/❤️:@Forth_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "RoyhanChyMinh"
+              },
+              {
+                "end": 137,
+                "start": 129,
+                "username": "Forth_0"
+              }
+            ]
+          }
+        },
+        "id": "1670705567688704001",
+        "location": "瑞汉服务器 迟家镇 昭地辖区 瑞汉铁路办大学 国际教育学院",
+        "name": "瑞汉迟铭(Рейлхам Чи Мин)",
+        "pinned_tweet_id": "1982734856573632627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974920377005678592/mr_nLOoM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1581,
+          "following_count": 864,
+          "like_count": 20713,
+          "listed_count": 5,
+          "media_count": 1306,
+          "tweet_count": 10122
+        },
+        "username": "RailhamChiMing",
+        "verified": false
+      }
+    ]
+  }
+}

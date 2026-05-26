@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1983868790225145976",
+    "created_at": "2025-10-31T10:43:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T11:43:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984209501621563652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1427877766481858560",
+          "start": 0,
+          "username": "RangerDie1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984209501621563652",
+    "in_reply_to_user_id": "1427877766481858560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984208504144732649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RangerDie1 骗你的，给了也剧烈变形w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1983868790225145976",
+        "created_at": "2025-10-31T10:43:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T11:43:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984209501621563652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1427877766481858560",
+              "start": 0,
+              "username": "RangerDie1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984209501621563652",
+        "in_reply_to_user_id": "1427877766481858560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984208504144732649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RangerDie1 骗你的，给了也剧烈变形w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1427877766481858560",
+        "conversation_id": "1983868790225145976",
+        "created_at": "2025-10-31T10:39:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T11:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984208504144732649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984208504144732649",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983868790225145976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox 不给死藤水就剧烈变形"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "单线程狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨燦若花火的生命，无法用只言片语概括丨裡推 @HEX_Ghostfox丨恋人 @YekaseSuiso2022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 123,
+                "username": "HEX_Ghostfox"
+              },
+              {
+                "end": 156,
+                "start": 140,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "Ghost狐#心宿二",
+        "pinned_tweet_id": "1971908706771304723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983909740154646529/v9IfZkaA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 1029,
+          "like_count": 9134,
+          "listed_count": 2,
+          "media_count": 267,
+          "tweet_count": 2554
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-18T06:19:31.000Z",
+        "description": "07北京高中生，泛性恋（大概吧）打电动&看番中，有时会发疯，想找个女朋友（bushi",
+        "id": "1427877766481858560",
+        "location": "beijing",
+        "name": "我自乘风归去",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984206408196468736/qmjv-Ud-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 5721,
+          "like_count": 42699,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 1575
+        },
+        "username": "RangerDie1",
+        "verified": false
+      }
+    ]
+  }
+}

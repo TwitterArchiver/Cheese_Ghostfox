@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1999053241695527196",
+    "created_at": "2025-12-11T22:02:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T23:02:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999238482611630219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1871475391682297856",
+          "start": 0,
+          "username": "Cyniton"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999238482611630219",
+    "in_reply_to_user_id": "1871475391682297856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999053241695527196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cyniton 电子体温计的最大问题实际上是温度完全不准…\n如果您同时使用水银温度计与电子温度计来测量体温，就会发现它们之间的误差大到可怕(\n更适配贫困/救灾场景的会是温致变色材料所制的「测温贴」，它的精确度在可接受范围内，完全免疫跌落且并无能源消耗，批量制作成本也很低🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1999053241695527196",
+        "created_at": "2025-12-11T22:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T23:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999238482611630219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1871475391682297856",
+              "start": 0,
+              "username": "Cyniton"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999238482611630219",
+        "in_reply_to_user_id": "1871475391682297856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999053241695527196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cyniton 电子体温计的最大问题实际上是温度完全不准…\n如果您同时使用水银温度计与电子温度计来测量体温，就会发现它们之间的误差大到可怕(\n更适配贫困/救灾场景的会是温致变色材料所制的「测温贴」，它的精确度在可接受范围内，完全免疫跌落且并无能源消耗，批量制作成本也很低🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871475391682297856",
+        "conversation_id": "1999053241695527196",
+        "created_at": "2025-12-11T09:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T10:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999053241695527196"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999053241695527196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 733,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "有一类应急手电筒，它是没有电池的：它内部只有一个大电容，一块磁铁和一个线圈，上下甩动手电筒时，线圈切割磁感线就有了电。\n\n我在想这样的设计是不是能用在电子体温计上，这样甩一甩就有电了，无需单独的电池。\n它可以替代水银温度计，在电池不易获得的贫困地区/救灾场景使用…以及它可能更环保。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨大道五十，天衍四九丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬暗号通貨戦士霊狐🏳️‍⚧️",
+        "pinned_tweet_id": "1971908706771304723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997128038925193217/9QJNS0sg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 1073,
+          "like_count": 10419,
+          "listed_count": 2,
+          "media_count": 322,
+          "tweet_count": 3068
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-24T08:38:38.000Z",
+        "description": "Cyniton | 让有序的信息自由流动 | @Cynun75",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "Cynun75"
+              }
+            ]
+          }
+        },
+        "id": "1871475391682297856",
+        "name": "Cyniton",
+        "pinned_tweet_id": "1923598911027151221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871477134910496769/W6ehSsCB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 256,
+          "like_count": 2382,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 597
+        },
+        "username": "Cyniton",
+        "verified": false
+      }
+    ]
+  }
+}

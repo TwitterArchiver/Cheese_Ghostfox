@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1976479646201020523",
+    "created_at": "2025-10-10T06:01:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T07:01:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976528416632676477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1911004116299788288",
+          "start": 0,
+          "username": "TWCommanderCat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976528416632676477",
+    "in_reply_to_user_id": "1911004116299788288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976528284700778499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TWCommanderCat 就像炒股票一样，好玩喵😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1976479646201020523",
+        "created_at": "2025-10-10T06:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T07:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976528416632676477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1911004116299788288",
+              "start": 0,
+              "username": "TWCommanderCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976528416632676477",
+        "in_reply_to_user_id": "1911004116299788288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976528284700778499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TWCommanderCat 就像炒股票一样，好玩喵😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911004116299788288",
+        "conversation_id": "1976479646201020523",
+        "created_at": "2025-10-10T06:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T07:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976528284700778499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976528284700778499",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976527966839693686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox 哦哦那好奇虚拟货币都做什么用啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "单线程狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX幽默无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨燦若花火的生命，无法用只言片语概括丨裡推 @HEX_Ghostfox丨恋人 @HydrogenNeko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 125,
+                "username": "HEX_Ghostfox"
+              },
+              {
+                "end": 155,
+                "start": 142,
+                "username": "HydrogenNeko"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬暗号通貨戦士霊狐🏳️‍⚧️",
+        "pinned_tweet_id": "1971908706771304723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945506638892355584/vuuDoKyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 931,
+          "like_count": 8448,
+          "listed_count": 2,
+          "media_count": 250,
+          "tweet_count": 2414
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-12T10:31:12.000Z",
+        "description": "Nationalism, Democracy & Civil Rights, Livelihood of the people, 逃生艙：@TaipeiCat8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 69,
+                "username": "TaipeiCat8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/twcommandercat",
+                "end": 23,
+                "expanded_url": "http://t.me/twcommandercat",
+                "start": 0,
+                "url": "https://t.co/5Fw2EJ34qW"
+              }
+            ]
+          }
+        },
+        "id": "1911004116299788288",
+        "location": "台湾台北市中正區重慶南路一段122號",
+        "name": "國軍喵司令🇹🇼（互fo/台北の虎🐯",
+        "pinned_tweet_id": "1952286224749867237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936876826804051969/JeNzglol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1353,
+          "following_count": 900,
+          "like_count": 5450,
+          "listed_count": 7,
+          "media_count": 442,
+          "tweet_count": 1337
+        },
+        "url": "https://t.co/5Fw2EJ34qW",
+        "username": "TWCommanderCat",
+        "verified": true
+      }
+    ]
+  }
+}

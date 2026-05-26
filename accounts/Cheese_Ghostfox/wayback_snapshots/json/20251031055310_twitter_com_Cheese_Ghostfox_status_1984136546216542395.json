@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1983918988087153085",
+    "created_at": "2025-10-31T05:53:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T06:53:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984136546216542395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1371786952119250949",
+          "start": 0,
+          "username": "hamstar95712748"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984136546216542395",
+    "in_reply_to_user_id": "1371786952119250949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984126498413109452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hamstar95712748 致敬传奇药师 spring风("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1983918988087153085",
+        "created_at": "2025-10-31T05:53:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T06:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984136546216542395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1371786952119250949",
+              "start": 0,
+              "username": "hamstar95712748"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984136546216542395",
+        "in_reply_to_user_id": "1371786952119250949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984126498413109452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hamstar95712748 致敬传奇药师 spring风("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1371786952119250949",
+        "conversation_id": "1983918988087153085",
+        "created_at": "2025-10-31T05:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T06:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984126498413109452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984126498413109452",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983918988087153085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox 誰死了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "单线程狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨燦若花火的生命，无法用只言片语概括丨裡推 @HEX_Ghostfox丨恋人 @YekaseSuiso2022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 123,
+                "username": "HEX_Ghostfox"
+              },
+              {
+                "end": 156,
+                "start": 140,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "Ghost狐#心宿二",
+        "pinned_tweet_id": "1971908706771304723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983909740154646529/v9IfZkaA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 1028,
+          "like_count": 9100,
+          "listed_count": 2,
+          "media_count": 266,
+          "tweet_count": 2548
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-16T11:34:37.000Z",
+        "description": "source: https://t.co/zGobGAD1Cb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/riceshowerfan1…",
+                "end": 31,
+                "expanded_url": "https://x.com/riceshowerfan12/status/1955680148906475903?s=46&t=UpK4YW9ni6tG73AObbg82Q",
+                "start": 8,
+                "url": "https://t.co/zGobGAD1Cb"
+              }
+            ]
+          }
+        },
+        "id": "1371786952119250949",
+        "name": "hamstar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713523312612233216/QZQwFJ5D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 410,
+          "like_count": 735,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 1015
+        },
+        "username": "hamstar95712748",
+        "verified": false
+      }
+    ]
+  }
+}

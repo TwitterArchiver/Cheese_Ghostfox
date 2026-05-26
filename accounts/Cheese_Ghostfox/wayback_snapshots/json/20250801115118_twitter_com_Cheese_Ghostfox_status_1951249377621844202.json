@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1949739476038660239",
+    "created_at": "2025-08-01T11:51:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T12:51:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951249377621844202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1742850339173281792",
+          "start": 0,
+          "username": "Ganfan_man"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951249377621844202",
+    "in_reply_to_user_id": "1742850339173281792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951248954357870844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ganfan_man bro吃完这些是去搞城市探险的\n绝对高强度有氧时间大于三小时\n以及我平时不吃这个w\n现在183cm/135斤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1949739476038660239",
+        "created_at": "2025-08-01T11:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T12:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951249377621844202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1742850339173281792",
+              "start": 0,
+              "username": "Ganfan_man"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951249377621844202",
+        "in_reply_to_user_id": "1742850339173281792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951248954357870844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ganfan_man bro吃完这些是去搞城市探险的\n绝对高强度有氧时间大于三小时\n以及我平时不吃这个w\n现在183cm/135斤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1742850339173281792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "1949739476038660239",
+        "created_at": "2025-08-01T11:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T12:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951248954357870844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951248954357870844",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949739476038660239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox bro這一餐的能量攝入高於1500卡\n\n想完全代謝這些能量 至少要有氧運動2.5個小時以上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "幽灵狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學學習預定 電子工程學精通🆙 丨MtX幽默无证可能含糖药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨長白山香煙與粉色魔爪愛好者 丨無政治傾向/尊重所有人 /超友好🥰丨良い世,来いよ! 丨裡推慎fo @HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 143,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "Turn around....(∞_눈)",
+        "name": "弗雷尔卓德–灵狐🏳️‍⚧️🧬",
+        "pinned_tweet_id": "1919548841357148382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945506638892355584/vuuDoKyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 589,
+          "like_count": 4767,
+          "listed_count": 1,
+          "media_count": 192,
+          "tweet_count": 1527
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-04T10:08:20.000Z",
+        "description": "GitHub开发者 开源生态贡献值\n硬件/软件科技 空间技术探索爱好者\n二次元 游戏玩家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gan-fan-man.github.io",
+                "end": 23,
+                "expanded_url": "https://gan-fan-man.github.io/",
+                "start": 0,
+                "url": "https://t.co/FpHAZAm71K"
+              }
+            ]
+          }
+        },
+        "id": "1742850339173281792",
+        "location": "火星",
+        "name": "Ganfan_man",
+        "pinned_tweet_id": "1912071493179392483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742864938438184960/zvobOKA7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 128,
+          "like_count": 16061,
+          "listed_count": 3,
+          "media_count": 44,
+          "tweet_count": 245
+        },
+        "url": "https://t.co/FpHAZAm71K",
+        "username": "Ganfan_man",
+        "verified": false
+      }
+    ]
+  }
+}

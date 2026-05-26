@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999356336157655041"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "1999356338649104574",
+    "created_at": "2025-12-12T05:51:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T06:51:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999356338649104574"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EV8BcNpGz9",
+          "end": 33,
+          "expanded_url": "https://x.com/Cheese_Ghostfox/status/1999356338649104574/photo/1",
+          "media_key": "3_1999356336157655041",
+          "start": 10,
+          "url": "https://t.co/EV8BcNpGz9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999356338649104574",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "以下為狐的自介條( https://t.co/EV8BcNpGz9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999356336157655041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G78j_qQagAELlZp.jpg",
+        "width": 617
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999356336157655041"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "1999356338649104574",
+        "created_at": "2025-12-12T05:51:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T06:51:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999356338649104574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EV8BcNpGz9",
+              "end": 33,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/1999356338649104574/photo/1",
+              "media_key": "3_1999356336157655041",
+              "start": 10,
+              "url": "https://t.co/EV8BcNpGz9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999356338649104574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以下為狐的自介條( https://t.co/EV8BcNpGz9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨大道五十，天衍四九丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬暗号通貨戦士霊狐🏳️‍⚧️",
+        "pinned_tweet_id": "1971908706771304723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997128038925193217/9QJNS0sg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 1074,
+          "like_count": 10433,
+          "listed_count": 2,
+          "media_count": 324,
+          "tweet_count": 3076
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      }
+    ]
+  }
+}

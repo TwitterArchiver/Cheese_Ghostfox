@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1987147418555818424",
+    "created_at": "2025-11-09T11:24:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T12:24:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987481532555252183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1751235517860196352",
+          "start": 0,
+          "username": "TecsInspirecy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987481532555252183",
+    "in_reply_to_user_id": "1751235517860196352",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987476857139404909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TecsInspirecy 😭😭😭"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1987476857139404909].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1987476857139404909",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1987476857139404909"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1987147418555818424",
+        "created_at": "2025-11-09T11:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T12:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987481532555252183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1751235517860196352",
+              "start": 0,
+              "username": "TecsInspirecy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987481532555252183",
+        "in_reply_to_user_id": "1751235517860196352",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987476857139404909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TecsInspirecy 😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "单线程狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨燦若花火的生命，无法用只言片语概括丨裡推 @HEX_Ghostfox丨恋人 @YekaseSuiso2022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 123,
+                "username": "HEX_Ghostfox"
+              },
+              {
+                "end": 156,
+                "start": 140,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬暗号通貨戦士霊狐🏳️‍⚧️",
+        "pinned_tweet_id": "1971908706771304723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984625831894016000/RhpiuO0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 1065,
+          "like_count": 9536,
+          "listed_count": 2,
+          "media_count": 291,
+          "tweet_count": 2774
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T13:27:55.000Z",
+        "description": "搁浅的鱼 | @cynun:https://t.co/HkIt3gVUAU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 7,
+                "username": "cynun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "matrix.org",
+                "end": 37,
+                "expanded_url": "http://matrix.org",
+                "start": 14,
+                "url": "https://t.co/HkIt3gVUAU"
+              }
+            ]
+          }
+        },
+        "id": "1751235517860196352",
+        "location": "鱼网",
+        "name": "unuλↃ -|- Cynun",
+        "pinned_tweet_id": "1955135493756383690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889986897759686656/qS6XIa1v_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 952,
+          "like_count": 27357,
+          "listed_count": 6,
+          "media_count": 684,
+          "tweet_count": 7365
+        },
+        "username": "TecsInspirecy",
+        "verified": false
+      }
+    ]
+  }
+}
