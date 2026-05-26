@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1951659715802640565",
+    "created_at": "2025-08-02T18:04:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T19:04:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951705783269507202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1756246342676979713",
+          "start": 0,
+          "username": "sanmiguelnoodle"
+        },
+        {
+          "end": 33,
+          "id": "937675426717159424",
+          "start": 17,
+          "username": "MaoZedong1893__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951705783269507202",
+    "in_reply_to_user_id": "1756246342676979713",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951660008514666847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sanmiguelnoodle @MaoZedong1893__ 甜菜!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1951659715802640565",
+        "created_at": "2025-08-02T18:04:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T19:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951705783269507202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1756246342676979713",
+              "start": 0,
+              "username": "sanmiguelnoodle"
+            },
+            {
+              "end": 33,
+              "id": "937675426717159424",
+              "start": 17,
+              "username": "MaoZedong1893__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951705783269507202",
+        "in_reply_to_user_id": "1756246342676979713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951660008514666847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sanmiguelnoodle @MaoZedong1893__ 甜菜!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756246342676979713",
+        "conversation_id": "1951659715802640565",
+        "created_at": "2025-08-02T15:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T16:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951660008514666847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "937675426717159424",
+              "start": 0,
+              "username": "MaoZedong1893__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951660008514666847",
+        "in_reply_to_user_id": "937675426717159424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951659715802640565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaoZedong1893__ 主席終究還是遇到了屬於自己的楊開慧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "幽灵狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學學習預定 電子工程學精通🆙 丨MtX幽默无证可能含糖药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨長白山香煙與粉色魔爪愛好者 丨無政治傾向/尊重所有人 /超友好🥰丨良い世,来いよ! 丨裡推慎fo @HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 143,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "Turn around....(∞_눈)",
+        "name": "弗雷尔卓德–灵狐🏳️‍⚧️🧬",
+        "pinned_tweet_id": "1919548841357148382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945506638892355584/vuuDoKyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 591,
+          "like_count": 4950,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 1592
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T09:19:19.000Z",
+        "description": "🇹🇼中華民國派❂​　　　　台灣人です\n🇹🇼正體中文/🇹🇼简体中文/🇬🇧🇺🇸English/🇯🇵日本語\n🥺❤️窩很愛很愛的寶寶@MTNEKO123❤️🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "MTNEKO123"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/prumlin._.06171",
+                "end": 23,
+                "expanded_url": "https://ngl.link/prumlin._.06171",
+                "start": 0,
+                "url": "https://t.co/0sezusOF4u"
+              }
+            ]
+          }
+        },
+        "id": "1756246342676979713",
+        "location": "距您1.1km",
+        "name": "生力麵🍥🐱🐈",
+        "pinned_tweet_id": "1951233007156863102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928097912569090053/O7Im7m4w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 238,
+          "like_count": 1117,
+          "listed_count": 2,
+          "media_count": 298,
+          "tweet_count": 2958
+        },
+        "url": "https://t.co/0sezusOF4u",
+        "username": "sanmiguelnoodle",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-04T13:30:17.000Z",
+        "description": "毛泽东（1893年12月26日—1976年9月9日），字润之，湖南湘潭人，中国近代马列主义理论家、革命家、政治人物、军事战略家和诗人。自1945年起任中国共产党中央委员会主席，1949年起任中华人民共和国最高领导人，是中国人民解放军、中华人民共和国的主要缔造者及中共第一代领导集体的核心。",
+        "id": "937675426717159424",
+        "name": "毛泽东",
+        "pinned_tweet_id": "1951659715802640565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923359512293203968/AFltvkOy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1132,
+          "following_count": 1034,
+          "like_count": 5657,
+          "listed_count": 7,
+          "media_count": 280,
+          "tweet_count": 3453
+        },
+        "username": "MaoZedong1893__",
+        "verified": false
+      }
+    ]
+  }
+}

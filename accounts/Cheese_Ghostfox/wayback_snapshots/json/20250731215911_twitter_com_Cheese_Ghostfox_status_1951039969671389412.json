@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951039966718599169"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "1951039969671389412",
+    "created_at": "2025-07-31T21:59:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T22:59:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951039969671389412"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/H6vyPL8scr",
+          "end": 97,
+          "expanded_url": "https://x.com/Cheese_Ghostfox/status/1951039969671389412/photo/1",
+          "media_key": "3_1951039966718599169",
+          "start": 74,
+          "url": "https://t.co/H6vyPL8scr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951039969671389412",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "濒死+把自己救回来\n很奇妙的体验喵\nbut,for seriously,not again!!!\nvery f–word–ing scary!\n😇 https://t.co/H6vyPL8scr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1620,
+        "media_key": "3_1951039966718599169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxN8gz7aIAEx0Uo.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951039966718599169"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "1951039969671389412",
+        "created_at": "2025-07-31T21:59:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T22:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951039969671389412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H6vyPL8scr",
+              "end": 97,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/1951039969671389412/photo/1",
+              "media_key": "3_1951039966718599169",
+              "start": 74,
+              "url": "https://t.co/H6vyPL8scr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951039969671389412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "濒死+把自己救回来\n很奇妙的体验喵\nbut,for seriously,not again!!!\nvery f–word–ing scary!\n😇 https://t.co/H6vyPL8scr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "幽灵狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學學習預定 電子工程學精通🆙 丨MtX幽默无证可能含糖药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨長白山香煙與粉色魔爪愛好者 丨無政治傾向/尊重所有人 /超友好🥰丨良い世,来いよ! 丨裡推慎fo @HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 143,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "Turn around....(∞_눈)",
+        "name": "弗雷尔卓德–灵狐🏳️‍⚧️🧬",
+        "pinned_tweet_id": "1919548841357148382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945506638892355584/vuuDoKyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 586,
+          "like_count": 4737,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 1518
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1960215854211362908",
+    "created_at": "2025-08-27T08:46:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T09:46:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960625013524193376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1790385184397029376",
+          "start": 0,
+          "username": "pyyun189492"
+        },
+        {
+          "end": 24,
+          "id": "1757616332240224256",
+          "start": 13,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960625013524193376",
+    "in_reply_to_user_id": "1790385184397029376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960234855666725188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pyyun189492 @B_cat38324 老师你家里请什么都没用了😆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1960215854211362908",
+        "created_at": "2025-08-27T08:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T09:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960625013524193376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1790385184397029376",
+              "start": 0,
+              "username": "pyyun189492"
+            },
+            {
+              "end": 24,
+              "id": "1757616332240224256",
+              "start": 13,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960625013524193376",
+        "in_reply_to_user_id": "1790385184397029376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960234855666725188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pyyun189492 @B_cat38324 老师你家里请什么都没用了😆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790385184397029376",
+        "conversation_id": "1960215854211362908",
+        "created_at": "2025-08-26T06:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T07:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960234855666725188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757616332240224256",
+              "start": 0,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960234855666725188",
+        "in_reply_to_user_id": "1757616332240224256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 530,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960215854211362908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B_cat38324 只是因为现在是圆头形态没露出来耳朵罢了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "欠拟合狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX幽默无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨長白山香煙與粉色魔爪愛好者 丨無政治傾向 /超友好🥰丨燦若花火的生命，无法用只言片语概括丨裡推慎fo @HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 143,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "Turn around....(∞_눈)",
+        "name": "☯️🧬霊狐製作所 公式ツイッター🏳️‍⚧️",
+        "pinned_tweet_id": "1919548841357148382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945506638892355584/vuuDoKyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 747,
+          "like_count": 6760,
+          "listed_count": 1,
+          "media_count": 225,
+          "tweet_count": 1993
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T14:14:42.000Z",
+        "description": "爱具体的人，不要爱抽象的人——而我，谁都不爱",
+        "id": "1790385184397029376",
+        "name": "阿里乌斯花刀王美咲",
+        "pinned_tweet_id": "1951619614020108358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935990732709650432/iaHBMt8l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 2239,
+          "like_count": 40494,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 8098
+        },
+        "username": "pyyun189492",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "猫黑黑",
+        "pinned_tweet_id": "1853703602227085704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19811,
+          "following_count": 192,
+          "like_count": 594,
+          "listed_count": 72,
+          "media_count": 90,
+          "tweet_count": 19317
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

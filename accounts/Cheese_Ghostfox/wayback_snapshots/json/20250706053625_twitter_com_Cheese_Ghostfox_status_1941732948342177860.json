@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1941727100471476475",
+    "created_at": "2025-07-06T05:36:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T06:36:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941732948342177860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1595756551699984384",
+          "start": 0,
+          "username": "Ateiriaror3562"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941732948342177860",
+    "in_reply_to_user_id": "1595756551699984384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941727100471476475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ateiriaror3562 好久不见喵…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1941727092879556609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvJmgNXWgAEiL_R.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1941727100471476475",
+        "created_at": "2025-07-06T05:36:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T06:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941732948342177860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1595756551699984384",
+              "start": 0,
+              "username": "Ateiriaror3562"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941732948342177860",
+        "in_reply_to_user_id": "1595756551699984384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941727100471476475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ateiriaror3562 好久不见喵…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941727092879556609"
+          ]
+        },
+        "author_id": "1595756551699984384",
+        "conversation_id": "1941727100471476475",
+        "created_at": "2025-07-06T05:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T06:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941727100471476475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XZbk7FRldc",
+              "end": 23,
+              "expanded_url": "https://x.com/Ateiriaror3562/status/1941727100471476475/photo/1",
+              "media_key": "3_1941727092879556609",
+              "start": 0,
+              "url": "https://t.co/XZbk7FRldc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941727100471476475",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XZbk7FRldc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "幽灵狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學學習預定 電子工程學精通🆙 丨MtX幽默没含糖男娘🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)丨長白山香煙與粉色魔爪愛好者 丨無政治傾向/尊重所有人 /超友好🥰丨良い世,来いよ! 丨裡推慎fo @HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "Turn around....(∞_눈)",
+        "name": "弗雷尔卓德–灵狐🏳️‍⚧️",
+        "pinned_tweet_id": "1919548841357148382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928505294747004928/tZLFhjd-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 478,
+          "like_count": 3241,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 1212
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-24T12:31:53.000Z",
+        "description": "🎉有缘再见🎉┃消散-无人在意的智能体┃🚫鉴政🚫--崇尚科学理性┃发癫致歉┃中文/English/日本語┃帖子仅供娱乐‼️非个人观点┃随机内容-意识流式┃ACG痴迷┃个人小项目-打赏(⃔ *`꒳´ * )⃕↝https://t.co/Z1XfpOwti4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "just-joker.top",
+                "end": 126,
+                "expanded_url": "https://just-joker.top",
+                "start": 103,
+                "url": "https://t.co/Z1XfpOwti4"
+              }
+            ]
+          }
+        },
+        "id": "1595756551699984384",
+        "location": "伊甸园",
+        "name": "Ateiriaror",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928871710406987776/POBRcdh7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1854,
+          "following_count": 316,
+          "like_count": 14139,
+          "listed_count": 6,
+          "media_count": 2003,
+          "tweet_count": 5203
+        },
+        "username": "Ateiriaror3562",
+        "verified": false
+      }
+    ]
+  }
+}

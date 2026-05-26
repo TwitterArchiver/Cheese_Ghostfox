@@ -1,0 +1,482 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1956312800244195483",
+    "created_at": "2025-08-15T11:11:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T12:11:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956312800244195483"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 64,
+          "normalized_text": "TRUMP",
+          "probability": 0.5899,
+          "start": 60,
+          "type": "Other"
+        },
+        {
+          "end": 72,
+          "normalized_text": "Airdrop",
+          "probability": 0.3714,
+          "start": 66,
+          "type": "Other"
+        }
+      ],
+      "cashtags": [
+        {
+          "end": 65,
+          "start": 59,
+          "tag": "TRUMP"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2564507084",
+          "start": 3,
+          "username": "TrumpC_Meme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956312800244195483",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 199
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955356761751523534",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TrumpC_Meme: 🚀 Another day, another opportunity! 🚀\nThe $TRUMP Airdrop is still LIVE  don’t miss your chance to stack big before listing…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 868,
+        "media_key": "3_1955356738187599872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyLSl-zWoAAeeuQ.jpg",
+        "width": 969
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1956312800244195483",
+        "created_at": "2025-08-15T11:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T12:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956312800244195483"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 64,
+              "normalized_text": "TRUMP",
+              "probability": 0.5899,
+              "start": 60,
+              "type": "Other"
+            },
+            {
+              "end": 72,
+              "normalized_text": "Airdrop",
+              "probability": 0.3714,
+              "start": 66,
+              "type": "Other"
+            }
+          ],
+          "cashtags": [
+            {
+              "end": 65,
+              "start": 59,
+              "tag": "TRUMP"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2564507084",
+              "start": 3,
+              "username": "TrumpC_Meme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956312800244195483",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 199
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955356761751523534",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TrumpC_Meme: 🚀 Another day, another opportunity! 🚀\nThe $TRUMP Airdrop is still LIVE  don’t miss your chance to stack big before listing…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955356738187599872"
+          ]
+        },
+        "author_id": "2564507084",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1468157909318045697",
+              "name": "Solana cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1468157909318045697",
+              "name": "Solana cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "1955356761751523534",
+        "created_at": "2025-08-12T19:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T20:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955356761751523534"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "TRUMP",
+              "probability": 0.647,
+              "start": 43,
+              "type": "Other"
+            },
+            {
+              "end": 55,
+              "normalized_text": "Airdrop",
+              "probability": 0.5126,
+              "start": 49,
+              "type": "Other"
+            },
+            {
+              "end": 197,
+              "normalized_text": "Solana",
+              "probability": 0.5721,
+              "start": 192,
+              "type": "Other"
+            },
+            {
+              "end": 265,
+              "normalized_text": "Airdrop",
+              "probability": 0.7121,
+              "start": 259,
+              "type": "Other"
+            },
+            {
+              "end": 273,
+              "normalized_text": "Crypto",
+              "probability": 0.5833,
+              "start": 268,
+              "type": "Other"
+            }
+          ],
+          "cashtags": [
+            {
+              "end": 48,
+              "start": 42,
+              "tag": "TRUMP"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 198,
+              "start": 191,
+              "tag": "Solana"
+            },
+            {
+              "end": 266,
+              "start": 258,
+              "tag": "Airdrop"
+            },
+            {
+              "end": 274,
+              "start": 267,
+              "tag": "Crypto"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 152,
+              "id": "2564507084",
+              "start": 140,
+              "username": "TrumpC_Meme"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bQjhK7e4Bo",
+              "end": 298,
+              "expanded_url": "https://x.com/TrumpC_Meme/status/1955356761751523534/photo/1",
+              "media_key": "3_1955356738187599872",
+              "start": 275,
+              "url": "https://t.co/bQjhK7e4Bo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955356761751523534",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "cashtags": [
+              {
+                "end": 48,
+                "start": 42,
+                "tag": "TRUMP"
+              },
+              {
+                "end": 295,
+                "start": 289,
+                "tag": "TRUMP"
+              }
+            ],
+            "hashtags": [
+              {
+                "end": 194,
+                "start": 187,
+                "tag": "Solana"
+              },
+              {
+                "end": 262,
+                "start": 254,
+                "tag": "Airdrop"
+              },
+              {
+                "end": 270,
+                "start": 263,
+                "tag": "Crypto"
+              },
+              {
+                "end": 278,
+                "start": 271,
+                "tag": "Solana"
+              },
+              {
+                "end": 288,
+                "start": 279,
+                "tag": "Giveaway"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 152,
+                "id": "2564507084",
+                "start": 140,
+                "username": "TrumpC_Meme"
+              }
+            ]
+          },
+          "text": "🚀 Another day, another opportunity! 🚀\nThe $TRUMP Airdrop is still LIVE  don’t miss your chance to stack big before listing day! 🎯\n\n✅ Follow @TrumpC_Meme\n✅ Like ❤️ & Retweet 🔁\n✅ Drop your #Solana wallet address\n\n📢 The early birds will fly the highest! 🪂💥\n#Airdrop #Crypto #Solana #Giveaway $TRUMP"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 10458,
+          "like_count": 244,
+          "quote_count": 3,
+          "reply_count": 239,
+          "retweet_count": 199
+        },
+        "reply_settings": "everyone",
+        "text": "🚀 Another day, another opportunity! 🚀\nThe $TRUMP Airdrop is still LIVE  don’t miss your chance to stack big before listing day! 🎯\n\n✅ Follow @TrumpC_Meme\n✅ Like ❤️ &amp; Retweet 🔁\n✅ Drop your #Solana wallet address\n\n📢 The early birds will fly the highest! 🪂💥\n#Airdrop #Crypto https://t.co/bQjhK7e4Bo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "幽灵狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX幽默无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨長白山香煙與粉色魔爪愛好者 丨無政治傾向 /超友好🥰丨燦若花火的生命，无法用只言片语概括丨裡推慎fo @HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 142,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "Turn around....(∞_눈)",
+        "name": "霊狐製作所 公式ツイッター🏳️‍⚧️🧬",
+        "pinned_tweet_id": "1919548841357148382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945506638892355584/vuuDoKyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 688,
+          "like_count": 6168,
+          "listed_count": 0,
+          "media_count": 215,
+          "tweet_count": 1847
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-13T03:06:06.000Z",
+        "description": "Community, Utility, Charity. $TRUMP has it all.",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 35,
+                "start": 29,
+                "tag": "TRUMP"
+              }
+            ]
+          }
+        },
+        "id": "2564507084",
+        "location": "white House ",
+        "name": "TRUMP COIN",
+        "pinned_tweet_id": "1952831421971562902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936028597220691968/P5600iGI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5962,
+          "following_count": 4,
+          "like_count": 270,
+          "listed_count": 3,
+          "media_count": 119,
+          "tweet_count": 161
+        },
+        "username": "TrumpC_Meme",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1946175163906896249",
+    "created_at": "2025-07-18T22:08:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T23:08:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946331191923401115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "788014297238515712",
+          "start": 0,
+          "username": "jwchenzju"
+        },
+        {
+          "end": 19,
+          "id": "1433678976564662273",
+          "start": 11,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946331191923401115",
+    "in_reply_to_user_id": "788014297238515712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 581,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946187915132109200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jwchenzju @hsn8086 压抑了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1946175163906896249",
+        "created_at": "2025-07-18T22:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T23:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946331191923401115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "788014297238515712",
+              "start": 0,
+              "username": "jwchenzju"
+            },
+            {
+              "end": 19,
+              "id": "1433678976564662273",
+              "start": 11,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946331191923401115",
+        "in_reply_to_user_id": "788014297238515712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 581,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946187915132109200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jwchenzju @hsn8086 压抑了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "788014297238515712",
+        "conversation_id": "1946175163906896249",
+        "created_at": "2025-07-18T12:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T13:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946187915132109200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946187915132109200",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 19868,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946175163906896249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 编这个的估计英语老师都不好看，我初中和高中的英语老师环肥燕瘦，我都想强暴了她们。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "幽灵狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學學習預定 電子工程學精通🆙 丨MtX幽默无证可能含糖药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)丨長白山香煙與粉色魔爪愛好者 丨無政治傾向/尊重所有人 /超友好🥰丨良い世,来いよ! 丨裡推慎fo @HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 142,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "Turn around....(∞_눈)",
+        "name": "弗雷尔卓德–灵狐🏳️‍⚧️",
+        "pinned_tweet_id": "1919548841357148382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945506638892355584/vuuDoKyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 560,
+          "like_count": 4125,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 1370
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-17T13:50:23.000Z",
+        "description": "old man to have the young heart.",
+        "id": "788014297238515712",
+        "location": "Shanghai",
+        "name": "Delphi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1193663613673725953/qfPocOvO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 311,
+          "like_count": 17226,
+          "listed_count": 6,
+          "media_count": 197,
+          "tweet_count": 3437
+        },
+        "username": "jwchenzju",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1938548630870458380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85552,
+          "following_count": 975,
+          "like_count": 42333,
+          "listed_count": 198,
+          "media_count": 13803,
+          "tweet_count": 20597
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

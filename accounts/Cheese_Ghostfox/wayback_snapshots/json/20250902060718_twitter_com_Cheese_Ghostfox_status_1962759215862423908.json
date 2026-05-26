@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1962759215862423908",
+    "created_at": "2025-09-02T06:07:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T07:07:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962759215862423908"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/omgnowihavefis…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/omgnowihavefish/status/1962513009571746079",
+          "start": 7,
+          "url": "https://t.co/uVi3vvW292"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962759215862423908",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962513009571746079",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "父亲:😱😱😱 https://t.co/uVi3vvW292"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1962759215862423908",
+        "created_at": "2025-09-02T06:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T07:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962759215862423908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/omgnowihavefis…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/omgnowihavefish/status/1962513009571746079",
+              "start": 7,
+              "url": "https://t.co/uVi3vvW292"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962759215862423908",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962513009571746079",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "父亲:😱😱😱 https://t.co/uVi3vvW292"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1962513008355311616"
+          ]
+        },
+        "author_id": "1895410782936170496",
+        "conversation_id": "1962513009571746079",
+        "created_at": "2025-09-01T13:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T14:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962513009571746079"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962513009571746079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 360,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你的母亲长出了吊 而且比你的还要大 你会怎么想🤨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "欠拟合狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX幽默无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨長白山香煙與粉色魔爪愛好者 丨無政治傾向 /超友好🥰丨燦若花火的生命，无法用只言片语概括丨裡推慎fo @HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 143,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "Turn around....(∞_눈)",
+        "name": "☯️🧬霊狐製作所 公式ツイッター🏳️‍⚧️",
+        "pinned_tweet_id": "1919548841357148382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945506638892355584/vuuDoKyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 760,
+          "like_count": 6994,
+          "listed_count": 2,
+          "media_count": 228,
+          "tweet_count": 2036
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-28T09:50:01.000Z",
+        "description": "15岁mtf(14岁含糖) | 无证 | 出生日2009.12.24 | \n这里会发一些怪东西:3 | \n玩MC | 有兴趣的可以关注我:3 | 社恐\n| 最好的朋友 : 没朋友所以暂时自己担任",
+        "id": "1895410782936170496",
+        "location": "（没有人知道我的位置😎💻🇨🇳）",
+        "name": "黄瓜🏳️‍⚧️🍥?",
+        "pinned_tweet_id": "1945748909080646076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950083749598920704/TSn7WS_6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 2444,
+          "like_count": 1850,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 209
+        },
+        "username": "omgnowihavefish",
+        "verified": false
+      }
+    ]
+  }
+}

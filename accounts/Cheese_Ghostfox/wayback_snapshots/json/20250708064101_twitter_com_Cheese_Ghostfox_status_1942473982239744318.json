@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942473979706630144"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "1942379592607752634",
+    "created_at": "2025-07-08T06:41:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T07:41:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942473982239744318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1589809419822329857",
+          "start": 0,
+          "username": "jianlvup"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mCgO42Tv5m",
+          "end": 33,
+          "expanded_url": "https://x.com/Cheese_Ghostfox/status/1942473982239744318/photo/1",
+          "media_key": "3_1942473979706630144",
+          "start": 10,
+          "url": "https://t.co/mCgO42Tv5m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942473982239744318",
+    "in_reply_to_user_id": "1589809419822329857",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942379592607752634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianlvup https://t.co/mCgO42Tv5m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1007,
+        "media_key": "3_1942473979706630144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvUNyvnaYAA12hj.jpg",
+        "width": 862
+      },
+      {
+        "height": 902,
+        "media_key": "3_1942379589952475137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvS38iYWEAEp_BZ.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942473979706630144"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "1942379592607752634",
+        "created_at": "2025-07-08T06:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T07:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942473982239744318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589809419822329857",
+              "start": 0,
+              "username": "jianlvup"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mCgO42Tv5m",
+              "end": 33,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/1942473982239744318/photo/1",
+              "media_key": "3_1942473979706630144",
+              "start": 10,
+              "url": "https://t.co/mCgO42Tv5m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942473982239744318",
+        "in_reply_to_user_id": "1589809419822329857",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942379592607752634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvup https://t.co/mCgO42Tv5m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942379589952475137"
+          ]
+        },
+        "author_id": "1589809419822329857",
+        "conversation_id": "1942379592607752634",
+        "created_at": "2025-07-08T00:25:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T01:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942379592607752634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ttBTTaF0Jw",
+              "end": 35,
+              "expanded_url": "https://x.com/jianlvup/status/1942379592607752634/photo/1",
+              "media_key": "3_1942379589952475137",
+              "start": 12,
+              "url": "https://t.co/ttBTTaF0Jw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942379592607752634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 482,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你游有哪些角色是这样的 https://t.co/ttBTTaF0Jw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "幽灵狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學學習預定 電子工程學精通🆙 丨MtX幽默没含糖男娘🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)丨長白山香煙與粉色魔爪愛好者 丨無政治傾向/尊重所有人 /超友好🥰丨良い世,来いよ! 丨裡推慎fo @HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "Turn around....(∞_눈)",
+        "name": "弗雷尔卓德–灵狐🏳️‍⚧️",
+        "pinned_tweet_id": "1919548841357148382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928505294747004928/tZLFhjd-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 482,
+          "like_count": 3347,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 1229
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "一个奇怪的人 可互fo（私信） INTJ 热爱与大家讨论交流 爱评论点赞 华北人 人物志评分创始人 逃生舱：@jianlvya\n搭档:@KawawaDiana8964\n朋友:@hhjnjkoguyunmo\n伙伴：@RealColidora3\n前身：@Jianlv117（复活赛中）1.5w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "jianlvya"
+              },
+              {
+                "end": 83,
+                "start": 67,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 102,
+                "start": 87,
+                "username": "hhjnjkoguyunmo"
+              },
+              {
+                "end": 120,
+                "start": 106,
+                "username": "RealColidora3"
+              },
+              {
+                "end": 134,
+                "start": 124,
+                "username": "Jianlv117"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "新西兰（奇怪回复和转推多为广告哈❛˓◞˂̵✧)",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "1941797978898845810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913249977419366400/uP3H_UOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4482,
+          "following_count": 989,
+          "like_count": 22426,
+          "listed_count": 13,
+          "media_count": 875,
+          "tweet_count": 2119
+        },
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

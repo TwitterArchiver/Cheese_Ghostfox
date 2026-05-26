@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1945549116739916019",
+    "created_at": "2025-07-16T18:20:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T19:20:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945549116739916019"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ayue223/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/Ayue223/status/1945364322643009580",
+          "start": 8,
+          "url": "https://t.co/rYyHw8bUo0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945549116739916019",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945364322643009580",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "电烙铁yyds https://t.co/rYyHw8bUo0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 203,
+        "media_key": "3_1945364315105570816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv9SiaCWsAAi1ke.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1945549116739916019",
+        "created_at": "2025-07-16T18:20:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T19:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945549116739916019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ayue223/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Ayue223/status/1945364322643009580",
+              "start": 8,
+              "url": "https://t.co/rYyHw8bUo0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945549116739916019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945364322643009580",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "电烙铁yyds https://t.co/rYyHw8bUo0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945364315105570816"
+          ]
+        },
+        "author_id": "1842276970861596672",
+        "conversation_id": "1945364322643009580",
+        "created_at": "2025-07-16T06:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T07:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945364322643009580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NVJmgLz0bI",
+              "end": 35,
+              "expanded_url": "https://x.com/Ayue223/status/1945364322643009580/photo/1",
+              "media_key": "3_1945364315105570816",
+              "start": 12,
+              "url": "https://t.co/NVJmgLz0bI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945364322643009580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 897,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "真的有用蝴蝶刀自慰的嘛 https://t.co/NVJmgLz0bI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "幽灵狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學學習預定 電子工程學精通🆙 丨MtX幽默无证可能含糖药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)丨長白山香煙與粉色魔爪愛好者 丨無政治傾向/尊重所有人 /超友好🥰丨良い世,来いよ! 丨裡推慎fo @HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 142,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "Turn around....(∞_눈)",
+        "name": "弗雷尔卓德–灵狐🏳️‍⚧️",
+        "pinned_tweet_id": "1919548841357148382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945506638892355584/vuuDoKyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 527,
+          "like_count": 3933,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 1317
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T18:54:02.000Z",
+        "description": "互fo说明来意，一般24小时内必回，特殊情况最多48小时内。另一个号https://t.co/rDtRv1gFPb神亦有强弱之分，万神皆跪伏于我。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitter.com/yues666?s=09",
+                "end": 57,
+                "expanded_url": "https://twitter.com/yues666?s=09",
+                "start": 34,
+                "url": "https://t.co/rDtRv1gFPb"
+              }
+            ]
+          }
+        },
+        "id": "1842276970861596672",
+        "name": "灵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888400061954158592/2LbXmTrh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 42,
+          "like_count": 577,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 422
+        },
+        "username": "Ayue223",
+        "verified": false
+      }
+    ]
+  }
+}

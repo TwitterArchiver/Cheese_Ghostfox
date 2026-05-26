@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1949240612529840549",
+    "created_at": "2025-07-31T16:19:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T17:19:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950954437801128426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1756246342676979713",
+          "start": 0,
+          "username": "sanmiguelnoodle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950954437801128426",
+    "in_reply_to_user_id": "1756246342676979713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949240612529840549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sanmiguelnoodle 可爱😘"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2094,
+        "media_key": "3_1949240609136652288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw0YAalbMAABhHB.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1949240608398434304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw0YAX1a4AAW_PH.jpg",
+        "width": 1152
+      },
+      {
+        "height": 809,
+        "media_key": "3_1949240606527791104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw0YAQ3bIAAgdIb.jpg",
+        "width": 1023
+      },
+      {
+        "height": 1505,
+        "media_key": "3_1949240609740554240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw0YAc1aAAAXpKH.jpg",
+        "width": 970
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1949240612529840549",
+        "created_at": "2025-07-31T16:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T17:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950954437801128426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1756246342676979713",
+              "start": 0,
+              "username": "sanmiguelnoodle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950954437801128426",
+        "in_reply_to_user_id": "1756246342676979713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949240612529840549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sanmiguelnoodle 可爱😘"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949240609136652288",
+            "3_1949240608398434304",
+            "3_1949240606527791104",
+            "3_1949240609740554240"
+          ]
+        },
+        "author_id": "1756246342676979713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1949240612529840549",
+        "created_at": "2025-07-26T22:49:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T23:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949240612529840549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3a6AhXCbll",
+              "end": 103,
+              "expanded_url": "https://x.com/sanmiguelnoodle/status/1949240612529840549/photo/1",
+              "media_key": "3_1949240609136652288",
+              "start": 80,
+              "url": "https://t.co/3a6AhXCbll"
+            },
+            {
+              "display_url": "pic.x.com/3a6AhXCbll",
+              "end": 103,
+              "expanded_url": "https://x.com/sanmiguelnoodle/status/1949240612529840549/photo/1",
+              "media_key": "3_1949240608398434304",
+              "start": 80,
+              "url": "https://t.co/3a6AhXCbll"
+            },
+            {
+              "display_url": "pic.x.com/3a6AhXCbll",
+              "end": 103,
+              "expanded_url": "https://x.com/sanmiguelnoodle/status/1949240612529840549/photo/1",
+              "media_key": "3_1949240606527791104",
+              "start": 80,
+              "url": "https://t.co/3a6AhXCbll"
+            },
+            {
+              "display_url": "pic.x.com/3a6AhXCbll",
+              "end": 103,
+              "expanded_url": "https://x.com/sanmiguelnoodle/status/1949240612529840549/photo/1",
+              "media_key": "3_1949240609740554240",
+              "start": 80,
+              "url": "https://t.co/3a6AhXCbll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949240612529840549",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 755,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "❤️サンミゲルヌードル❤️の自己紹介です\n更新於中華民國114年7月27日06:49🐱\nP3為窩的政治立場😺\nP4為窩超愛聽的歌😼\n歡迎與窩互fo或者交朋友😽 https://t.co/3a6AhXCbll"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "幽灵狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學學習預定 電子工程學精通🆙 丨MtX幽默无证可能含糖药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨長白山香煙與粉色魔爪愛好者 丨無政治傾向/尊重所有人 /超友好🥰丨良い世,来いよ! 丨裡推慎fo @HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 143,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "Turn around....(∞_눈)",
+        "name": "弗雷尔卓德–灵狐🏳️‍⚧️🧬",
+        "pinned_tweet_id": "1919548841357148382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945506638892355584/vuuDoKyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 585,
+          "like_count": 4718,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 1510
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T09:19:19.000Z",
+        "description": "🇹🇼中華民國派❂​　　　　台灣人です\n🇹🇼正體中文/🇹🇼简体中文/🇬🇧🇺🇸English/🇯🇵日本語\n🥺❤️窩很愛很愛的寶寶@MTNEKO123❤️🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "MTNEKO123"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/prumlin._.06171",
+                "end": 23,
+                "expanded_url": "https://ngl.link/prumlin._.06171",
+                "start": 0,
+                "url": "https://t.co/0sezusOF4u"
+              }
+            ]
+          }
+        },
+        "id": "1756246342676979713",
+        "location": "雌二醇星球",
+        "name": "生力麵🍥🐱🐈",
+        "pinned_tweet_id": "1949240612529840549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928097912569090053/O7Im7m4w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 229,
+          "like_count": 1047,
+          "listed_count": 1,
+          "media_count": 292,
+          "tweet_count": 2872
+        },
+        "url": "https://t.co/0sezusOF4u",
+        "username": "sanmiguelnoodle",
+        "verified": false
+      }
+    ]
+  }
+}

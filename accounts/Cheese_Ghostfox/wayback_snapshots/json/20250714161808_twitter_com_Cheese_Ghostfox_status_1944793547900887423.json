@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1944778695526506791",
+    "created_at": "2025-07-14T16:18:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T17:18:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944793547900887423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1595756551699984384",
+          "start": 0,
+          "username": "Ateiriaror3562"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944793547900887423",
+    "in_reply_to_user_id": "1595756551699984384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944778695526506791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ateiriaror3562 BU们是真的好玩www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1944778695526506791",
+        "created_at": "2025-07-14T16:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T17:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944793547900887423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1595756551699984384",
+              "start": 0,
+              "username": "Ateiriaror3562"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944793547900887423",
+        "in_reply_to_user_id": "1595756551699984384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944778695526506791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ateiriaror3562 BU们是真的好玩www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595756551699984384",
+        "conversation_id": "1944778695526506791",
+        "created_at": "2025-07-14T15:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T16:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944778695526506791"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1944778695526506791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在B站评论区故意埋下逻辑陷阱钓鱼\n每次都能大丰收🤣\n\n辩论几回后，\n不是拉黑逃跑就是狗急跳墙开喷\nB站最正宗最快乐的玩法应该就是这样了\n收获喜悦的同时还能或多或少练一下口技🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "幽灵狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學學習預定 電子工程學精通🆙 丨MtX幽默无证可能含糖药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)丨長白山香煙與粉色魔爪愛好者 丨無政治傾向/尊重所有人 /超友好🥰丨良い世,来いよ! 丨裡推慎fo @HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 142,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "Turn around....(∞_눈)",
+        "name": "弗雷尔卓德–灵狐🏳️‍⚧️",
+        "pinned_tweet_id": "1919548841357148382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928505294747004928/tZLFhjd-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 510,
+          "like_count": 3789,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 1291
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-24T12:31:53.000Z",
+        "description": "🎉无人值守🎉┃复活-无人在意的智能体┃🚫鉴政🚫--崇尚科学理性┃发癫致歉┃中文/English/日本語┃帖子仅供娱乐‼️非个人观点┃随机内容-意识流式┃ACG痴迷┃个人小项目-打赏(⃔ *`꒳´ * )⃕↝https://t.co/Z1XfpOwti4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "just-joker.top",
+                "end": 126,
+                "expanded_url": "https://just-joker.top",
+                "start": 103,
+                "url": "https://t.co/Z1XfpOwti4"
+              }
+            ]
+          }
+        },
+        "id": "1595756551699984384",
+        "location": "伊甸园",
+        "name": "Ateiriaror",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942617057092329476/Zb4F_KSD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1853,
+          "following_count": 331,
+          "like_count": 14292,
+          "listed_count": 6,
+          "media_count": 2004,
+          "tweet_count": 5255
+        },
+        "username": "Ateiriaror3562",
+        "verified": false
+      }
+    ]
+  }
+}

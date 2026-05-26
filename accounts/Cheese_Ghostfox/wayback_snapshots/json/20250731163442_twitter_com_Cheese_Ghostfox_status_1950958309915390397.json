@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950958305909882880"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "1950958309915390397",
+    "created_at": "2025-07-31T16:34:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T17:34:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950958309915390397"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dNrHXlDlv8",
+          "end": 77,
+          "expanded_url": "https://x.com/Cheese_Ghostfox/status/1950958309915390397/photo/1",
+          "media_key": "3_1950958305909882880",
+          "start": 54,
+          "url": "https://t.co/dNrHXlDlv8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950958309915390397",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "EDC随身药盒配置\n为野外探险极端情况设计，不考虑副作用(你得活下来才配谈预后😉)\n不建议任何人学习该配置 https://t.co/dNrHXlDlv8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1950958305909882880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxMyPhtbQAAfoBo.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950958305909882880"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "1950958309915390397",
+        "created_at": "2025-07-31T16:34:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T17:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950958309915390397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dNrHXlDlv8",
+              "end": 77,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/1950958309915390397/photo/1",
+              "media_key": "3_1950958305909882880",
+              "start": 54,
+              "url": "https://t.co/dNrHXlDlv8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950958309915390397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "EDC随身药盒配置\n为野外探险极端情况设计，不考虑副作用(你得活下来才配谈预后😉)\n不建议任何人学习该配置 https://t.co/dNrHXlDlv8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "幽灵狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學學習預定 電子工程學精通🆙 丨MtX幽默无证可能含糖药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨長白山香煙與粉色魔爪愛好者 丨無政治傾向/尊重所有人 /超友好🥰丨良い世,来いよ! 丨裡推慎fo @HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 143,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "Turn around....(∞_눈)",
+        "name": "弗雷尔卓德–灵狐🏳️‍⚧️🧬",
+        "pinned_tweet_id": "1919548841357148382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945506638892355584/vuuDoKyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 585,
+          "like_count": 4720,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 1513
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      }
+    ]
+  }
+}

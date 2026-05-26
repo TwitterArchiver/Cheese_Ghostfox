@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959592806244339712"
+      ],
+      "media_source_tweet_id": [
+        "1959592809817927957"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "1959634978977059118",
+    "created_at": "2025-08-24T15:12:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T16:12:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959634978977059118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1894364220151783424",
+          "start": 3,
+          "username": "sakura19864"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4A4fKxFuQk",
+          "end": 45,
+          "expanded_url": "https://x.com/sakura19864/status/1959592809817927957/photo/1",
+          "media_key": "3_1959592806244339712",
+          "start": 22,
+          "url": "https://t.co/4A4fKxFuQk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959634978977059118",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959592809817927957",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sakura19864: 如何回复 https://t.co/4A4fKxFuQk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1617,
+        "media_key": "3_1959592806244339712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzHfRmCa0AAhOVm.jpg",
+        "width": 1918
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959592806244339712"
+          ],
+          "media_source_tweet_id": [
+            "1959592809817927957"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "1959634978977059118",
+        "created_at": "2025-08-24T15:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T16:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959634978977059118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894364220151783424",
+              "start": 3,
+              "username": "sakura19864"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4A4fKxFuQk",
+              "end": 45,
+              "expanded_url": "https://x.com/sakura19864/status/1959592809817927957/photo/1",
+              "media_key": "3_1959592806244339712",
+              "start": 22,
+              "url": "https://t.co/4A4fKxFuQk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959634978977059118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959592809817927957",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sakura19864: 如何回复 https://t.co/4A4fKxFuQk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959592806244339712"
+          ]
+        },
+        "author_id": "1894364220151783424",
+        "conversation_id": "1959592809817927957",
+        "created_at": "2025-08-24T12:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T13:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959592809817927957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4A4fKxFuQk",
+              "end": 28,
+              "expanded_url": "https://x.com/sakura19864/status/1959592809817927957/photo/1",
+              "media_key": "3_1959592806244339712",
+              "start": 5,
+              "url": "https://t.co/4A4fKxFuQk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959592809817927957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 13859,
+          "like_count": 262,
+          "quote_count": 1,
+          "reply_count": 36,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "如何回复 https://t.co/4A4fKxFuQk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "欠拟合狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX幽默无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨長白山香煙與粉色魔爪愛好者 丨無政治傾向 /超友好🥰丨燦若花火的生命，无法用只言片语概括丨裡推慎fo @HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 143,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "Turn around....(∞_눈)",
+        "name": "☯️🧬霊狐製作所 公式ツイッター🏳️‍⚧️",
+        "pinned_tweet_id": "1919548841357148382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945506638892355584/vuuDoKyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 744,
+          "like_count": 6698,
+          "listed_count": 1,
+          "media_count": 223,
+          "tweet_count": 1972
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T12:30:12.000Z",
+        "description": "噫吁嚱，危乎高哉。慎终如始，则无败事/可互fo",
+        "id": "1894364220151783424",
+        "location": "上海再教育集中营",
+        "name": "高夫☭⃠",
+        "pinned_tweet_id": "1957421205901939005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955886660203503616/cJOAsLMq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 202,
+          "like_count": 226,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 82
+        },
+        "username": "sakura19864",
+        "verified": false
+      }
+    ]
+  }
+}

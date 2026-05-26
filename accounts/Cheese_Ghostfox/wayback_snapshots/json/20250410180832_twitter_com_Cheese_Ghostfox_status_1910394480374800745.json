@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1910388241393738073",
+    "created_at": "2025-04-10T18:08:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-10T19:08:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910394480374800745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1891980816319975424",
+          "start": 0,
+          "username": "IokbunTan"
+        },
+        {
+          "end": 27,
+          "id": "1860505909723586560",
+          "start": 11,
+          "username": "x03212024Others"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910394480374800745",
+    "in_reply_to_user_id": "1891980816319975424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910392688182255929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IokbunTan @x03212024Others 少o点罢…最哈人的是您似乎在使用美金刚…在这玩意面前玉米都显得像个新兵蛋子了🤯🤯"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1910392688182255929].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1910392688182255929",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1910392688182255929"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1910388241393738073",
+        "created_at": "2025-04-10T18:08:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T19:08:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910394480374800745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1891980816319975424",
+              "start": 0,
+              "username": "IokbunTan"
+            },
+            {
+              "end": 27,
+              "id": "1860505909723586560",
+              "start": 11,
+              "username": "x03212024Others"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910394480374800745",
+        "in_reply_to_user_id": "1891980816319975424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910392688182255929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IokbunTan @x03212024Others 少o点罢…最哈人的是您似乎在使用美金刚…在这玩意面前玉米都显得像个新兵蛋子了🤯🤯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "幽灵狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學學習預定 電子工程學精通🆙 丨MtX没含糖男娘～同類貼貼大歡迎!🏳️‍⚧️ 丨長白山香菸與粉色魔爪愛好者 丨無政治傾向/尊重所有人 丨良い世,来いよ! 丨 我是@fuckpregabalin 的狗！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 112,
+                "username": "fuckpregabalin"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "Turn around....(∞_눈)",
+        "name": "芝士灵狐🏳️‍⚧️",
+        "pinned_tweet_id": "1908512773295792609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876362817898795008/xm_WN6Rd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 135,
+          "like_count": 389,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 295
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T22:39:24.000Z",
+        "description": "✝️神棍劳保|友跨含糖顺男|脑婆@fuckpregabalin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "fuckpregabalin"
+              }
+            ]
+          }
+        },
+        "id": "1891980816319975424",
+        "location": "Amoy",
+        "name": "いくぶん",
+        "pinned_tweet_id": "1907900927727776008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891993030816825346/jIO4XIsn_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 78,
+          "like_count": 1375,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 593
+        },
+        "username": "IokbunTan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T02:09:20.000Z",
+        "description": "@d07207333210的里推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "d07207333210"
+              }
+            ]
+          }
+        },
+        "id": "1860505909723586560",
+        "name": "雏煦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894382553580138496/aK_f1gaX_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 109,
+          "like_count": 1040,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 353
+        },
+        "username": "x03212024Others",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,447 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1941042742123192707",
+    "created_at": "2025-07-04T09:18:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T10:18:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941064163696230440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1756246342676979713",
+          "start": 0,
+          "username": "sanmiguelnoodle"
+        },
+        {
+          "end": 32,
+          "id": "1915723009161375744",
+          "start": 17,
+          "username": "fuckpregabalin"
+        },
+        {
+          "end": 49,
+          "id": "1888921137075134464",
+          "start": 33,
+          "username": "IxQQPnZfZOApDcH"
+        },
+        {
+          "end": 61,
+          "id": "1514956074549448712",
+          "start": 50,
+          "username": "GlunekiKCA"
+        },
+        {
+          "end": 78,
+          "id": "1680834021377593344",
+          "start": 62,
+          "username": "HyotoChandesuyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941064163696230440",
+    "in_reply_to_user_id": "1756246342676979713",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941042742123192707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sanmiguelnoodle @fuckpregabalin @IxQQPnZfZOApDcH @GlunekiKCA @HyotoChandesuyo yep😄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1941042742123192707",
+        "created_at": "2025-07-04T09:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T10:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941064163696230440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1756246342676979713",
+              "start": 0,
+              "username": "sanmiguelnoodle"
+            },
+            {
+              "end": 32,
+              "id": "1915723009161375744",
+              "start": 17,
+              "username": "fuckpregabalin"
+            },
+            {
+              "end": 49,
+              "id": "1888921137075134464",
+              "start": 33,
+              "username": "IxQQPnZfZOApDcH"
+            },
+            {
+              "end": 61,
+              "id": "1514956074549448712",
+              "start": 50,
+              "username": "GlunekiKCA"
+            },
+            {
+              "end": 78,
+              "id": "1680834021377593344",
+              "start": 62,
+              "username": "HyotoChandesuyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941064163696230440",
+        "in_reply_to_user_id": "1756246342676979713",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941042742123192707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sanmiguelnoodle @fuckpregabalin @IxQQPnZfZOApDcH @GlunekiKCA @HyotoChandesuyo yep😄"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756246342676979713",
+        "conversation_id": "1941042742123192707",
+        "created_at": "2025-07-04T07:53:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T08:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941042742123192707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            },
+            {
+              "end": 32,
+              "id": "1915723009161375744",
+              "start": 17,
+              "username": "fuckpregabalin"
+            },
+            {
+              "end": 49,
+              "id": "1888921137075134464",
+              "start": 33,
+              "username": "IxQQPnZfZOApDcH"
+            },
+            {
+              "end": 61,
+              "id": "1514956074549448712",
+              "start": 50,
+              "username": "GlunekiKCA"
+            },
+            {
+              "end": 78,
+              "id": "1680834021377593344",
+              "start": 62,
+              "username": "HyotoChandesuyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941042742123192707",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox @fuckpregabalin @IxQQPnZfZOApDcH @GlunekiKCA @HyotoChandesuyo Are you bottom?🤗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "幽灵狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學學習預定 電子工程學精通🆙 丨MtX幽默没含糖男娘🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)丨長白山香煙與粉色魔爪愛好者 丨無政治傾向/尊重所有人 /超友好🥰丨良い世,来いよ! 丨裡推慎fo @HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "Turn around....(∞_눈)",
+        "name": "弗雷尔卓德–灵狐🏳️‍⚧️",
+        "pinned_tweet_id": "1919548841357148382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928505294747004928/tZLFhjd-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 477,
+          "like_count": 3210,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 1204
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T09:19:19.000Z",
+        "description": "❤️@IxQQPnZfZOApDcH | 很容易被你騙走的… | 173cm,56kg | bd/gad/adhd | 順直(跨...?) | 台灣 | 酒精依賴 | 政治立場未知 |\n朋友們?：@MOLeren198964 @VicoOci @fuckpregabalin @Cheese_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "IxQQPnZfZOApDcH"
+              },
+              {
+                "end": 112,
+                "start": 98,
+                "username": "MOLeren198964"
+              },
+              {
+                "end": 121,
+                "start": 113,
+                "username": "VicoOci"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "fuckpregabalin"
+              },
+              {
+                "end": 154,
+                "start": 138,
+                "username": "Cheese_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/prumlinfem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/prumlinfem",
+                "start": 0,
+                "url": "https://t.co/XlPgE6Hr1j"
+              }
+            ]
+          }
+        },
+        "id": "1756246342676979713",
+        "location": "Taipei, Taiwan, R.O.China.",
+        "name": "生力麵",
+        "pinned_tweet_id": "1940833069277249611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928097912569090053/O7Im7m4w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 96,
+          "like_count": 390,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 1650
+        },
+        "url": "https://t.co/XlPgE6Hr1j",
+        "username": "sanmiguelnoodle",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T11:02:16.000Z",
+        "description": "❤️@VicoOci｜🫂@HyotoChandesuyo @yangaaa111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "VicoOci"
+              },
+              {
+                "end": 28,
+                "start": 12,
+                "username": "HyotoChandesuyo"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "yangaaa111"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/IokbunTan",
+                "end": 23,
+                "expanded_url": "https://t.me/IokbunTan",
+                "start": 0,
+                "url": "https://t.co/8W9EYboUy0"
+              }
+            ]
+          }
+        },
+        "id": "1915723009161375744",
+        "location": "Amoy",
+        "name": "腼腆害羞内向社恐小男生",
+        "pinned_tweet_id": "1940020892425507291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940836377043554304/ExIwgYMk_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 351,
+          "like_count": 10685,
+          "listed_count": 1,
+          "media_count": 361,
+          "tweet_count": 4571
+        },
+        "url": "https://t.co/8W9EYboUy0",
+        "username": "fuckpregabalin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-10T12:01:20.000Z",
+        "description": "10老年人/见证/164.46kg/阴暗的老鼠人/三角洲鼠鼠欢迎来玩",
+        "id": "1888921137075134464",
+        "name": "俗人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892231929237282816/n3MUJnwf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 255,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 482
+        },
+        "username": "IxQQPnZfZOApDcH",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-15T13:17:41.000Z",
+        "description": "你好，远道而来的朋友～这里是江朝,是无情的发图机器/大学牲在读ing/乐子人ing/对大部分人保持包容心态，大家都是朋友嘛/偶尔碎碎念注意⚠️/嗯，就这样啦～绿宝@lamte15072 |老登@KiminTW_Offical |水箱乐队主唱@AyaStellaria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 81,
+                "username": "lamte15072"
+              },
+              {
+                "end": 112,
+                "start": 96,
+                "username": "KiminTW_Offical"
+              },
+              {
+                "end": 133,
+                "start": 120,
+                "username": "AyaStellaria"
+              }
+            ]
+          }
+        },
+        "id": "1514956074549448712",
+        "location": "永夏之梦",
+        "name": "江朝",
+        "pinned_tweet_id": "1780930007436816535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910226837072216064/mSzLcdTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5979,
+          "following_count": 1465,
+          "like_count": 86498,
+          "listed_count": 33,
+          "media_count": 4087,
+          "tweet_count": 35066
+        },
+        "username": "GlunekiKCA",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T06:57:26.000Z",
+        "description": "MtX🍥｜Asexuality｜いつまでも風に吹かれたい",
+        "id": "1680834021377593344",
+        "location": "土星",
+        "name": "温原ひょと🍥",
+        "pinned_tweet_id": "1937323634810589563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940107271289044992/95lQitxE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2438,
+          "following_count": 963,
+          "like_count": 112618,
+          "listed_count": 14,
+          "media_count": 4388,
+          "tweet_count": 29952
+        },
+        "username": "HyotoChandesuyo",
+        "verified": false
+      }
+    ]
+  }
+}
