@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1844615029095887313",
+    "created_at": "2025-02-24T15:40:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T16:40:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894049845393911941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1829358757069111297",
+          "start": 0,
+          "username": "chill_promotion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894049845393911941",
+    "in_reply_to_user_id": "1829358757069111297",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1844615029095887313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chill_promotion 尼古丁真直呼内行"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1844614892864835585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GZljeMyakAE5ZpF.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1844615029095887313",
+        "created_at": "2025-02-24T15:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T16:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894049845393911941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1829358757069111297",
+              "start": 0,
+              "username": "chill_promotion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894049845393911941",
+        "in_reply_to_user_id": "1829358757069111297",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1844615029095887313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chill_promotion 尼古丁真直呼内行"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1844614892864835585"
+          ]
+        },
+        "author_id": "1829358757069111297",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1844185131537301505",
+              "name": "Tesla - We, Robot"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Vaping",
+              "id": "1047109035600764929",
+              "name": "Vaping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1844185131537301505",
+              "name": "Tesla - We, Robot"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10044199219",
+              "name": "Tesla"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044387802",
+              "name": "Tesla - Model 3"
+            }
+          }
+        ],
+        "conversation_id": "1844615029095887313",
+        "created_at": "2024-10-11T05:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-11T06:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1844615029095887313"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 80,
+              "normalized_text": "DR.VAPE Model 3",
+              "probability": 0.321,
+              "start": 66,
+              "type": "Product"
+            }
+          ],
+          "urls": [
+            {
+              "description": "香りを吸う×ウェルネス　DR.VAPE Model 3｜200万人の方々に吸いごたえや味わい深さを提供してきたDR.VAPEが作る、心と体を整えるための革新的なウェルネスデバイスです。",
+              "display_url": "drvape.jp/lp?u=m3_xad_nw…",
+              "end": 122,
+              "expanded_url": "https://drvape.jp/lp?u=m3_xad_nwb001",
+              "start": 99,
+              "status": 200,
+              "title": "【公式】DR.VAPE（ドクターベイプ） Model 3｜香りを吸う。未来が変わる。",
+              "unwound_url": "https://drvape.jp/lp?u=m3_xad_nwb001",
+              "url": "https://t.co/uGirgNccNq"
+            },
+            {
+              "display_url": "pic.x.com/AKXGcRISrC",
+              "end": 146,
+              "expanded_url": "https://x.com/chill_promotion/status/1844615029095887313/photo/1",
+              "media_key": "3_1844614892864835585",
+              "start": 123,
+              "url": "https://t.co/AKXGcRISrC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1844615029095887313",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 642,
+          "impression_count": 3526088,
+          "like_count": 1344,
+          "quote_count": 106,
+          "reply_count": 31,
+          "retweet_count": 187
+        },
+        "reply_settings": "everyone",
+        "text": "【これ全部届く!?】\n\n✅人気フレーバー6種入りセット\n✅5種のカラーから選べるお好きなデバイス\n\nweb限定、充実の初回セットで\nDR.VAPE Model 3をはじめよう。\n\n👇初回半額以下👇\nhttps://t.co/uGirgNccNq https://t.co/AKXGcRISrC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "幽灵狐狐与您同在~",
+        "id": "1620506107306479617",
+        "location": "Turn around....(∞_눈)",
+        "name": "芝士灵狐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876362817898795008/xm_WN6Rd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 31,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 26
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T03:21:48.000Z",
+        "description": "香りを吸う×ウェルネス DR.VAPE（ドクターベイプ）の\nプロモーション専用アカウントです。\nこちらのアカウントではDM等のお問い合わせに対応できません。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "drvape.jp/lp?u=m3_xad_nw…",
+                "end": 23,
+                "expanded_url": "https://drvape.jp/lp?u=m3_xad_nwb002",
+                "start": 0,
+                "url": "https://t.co/58WyR792Kf"
+              }
+            ]
+          }
+        },
+        "id": "1829358757069111297",
+        "name": "香りを吸う×ウェルネス DR.VAPE / Promotion",
+        "pinned_tweet_id": "1844615029095887313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840722706091872256/xrHKRKHG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5063,
+          "following_count": 5,
+          "like_count": 0,
+          "listed_count": 22,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "url": "https://t.co/58WyR792Kf",
+        "username": "chill_promotion",
+        "verified": true
+      }
+    ]
+  }
+}

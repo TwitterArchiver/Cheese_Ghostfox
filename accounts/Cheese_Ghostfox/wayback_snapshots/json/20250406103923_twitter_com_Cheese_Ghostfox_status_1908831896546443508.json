@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1908831893648465920"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "1908831896546443508",
+    "created_at": "2025-04-06T10:39:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T11:39:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1908831896546443508"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AqSuFj4dAb",
+          "end": 37,
+          "expanded_url": "https://x.com/Cheese_Ghostfox/status/1908831896546443508/photo/1",
+          "media_key": "3_1908831893648465920",
+          "start": 14,
+          "url": "https://t.co/AqSuFj4dAb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908831896546443508",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这种骗子必须狠狠嘴😋😋🤓🤓 https://t.co/AqSuFj4dAb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 252,
+        "media_key": "3_1908831893648465920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn2IfmzaYAAsLuO.jpg",
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908831893648465920"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "1908831896546443508",
+        "created_at": "2025-04-06T10:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T11:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908831896546443508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AqSuFj4dAb",
+              "end": 37,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/1908831896546443508/photo/1",
+              "media_key": "3_1908831893648465920",
+              "start": 14,
+              "url": "https://t.co/AqSuFj4dAb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908831896546443508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这种骗子必须狠狠嘴😋😋🤓🤓 https://t.co/AqSuFj4dAb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "幽灵狐狐与您同在~\n丨☯Survivalist 生存主義者 醫學學習預定 電子工程學精通🆙\n丨MtF 含糖藥娘～同類貼貼大歡迎!🏳️‍⚧️\n丨長白山香菸與粉色魔爪愛好者 \n丨無政治傾向/尊重所有人\n丨良い世,来いよ!",
+        "id": "1620506107306479617",
+        "location": "Turn around....(∞_눈)",
+        "name": "芝士灵狐🍥",
+        "pinned_tweet_id": "1908512773295792609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876362817898795008/xm_WN6Rd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 136,
+          "like_count": 380,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 264
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      }
+    ]
+  }
+}

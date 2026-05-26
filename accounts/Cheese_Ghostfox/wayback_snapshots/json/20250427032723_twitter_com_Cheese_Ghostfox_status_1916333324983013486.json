@@ -1,0 +1,446 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "1916084847858356248",
+    "created_at": "2025-04-27T03:27:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T04:27:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916333324983013486"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "传之彩彩",
+          "probability": 0.314,
+          "start": 24,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1649826431055302658",
+          "start": 0,
+          "username": "pwnint64"
+        },
+        {
+          "end": 16,
+          "id": "1243945571796295681",
+          "start": 10,
+          "username": "ryq59"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916333324983013486",
+    "in_reply_to_user_id": "1649826431055302658",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916332314591981652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pwnint64 @ryq59 Google笑传之彩彩壁🧐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1868,
+        "media_key": "3_1916332304987000834",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpguFAZbEAI25Fe.jpg",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "1916084847858356248",
+        "created_at": "2025-04-27T03:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T04:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916333324983013486"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "传之彩彩",
+              "probability": 0.314,
+              "start": 24,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1649826431055302658",
+              "start": 0,
+              "username": "pwnint64"
+            },
+            {
+              "end": 16,
+              "id": "1243945571796295681",
+              "start": 10,
+              "username": "ryq59"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916333324983013486",
+        "in_reply_to_user_id": "1649826431055302658",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916332314591981652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pwnint64 @ryq59 Google笑传之彩彩壁🧐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916332304987000834"
+          ]
+        },
+        "author_id": "1649826431055302658",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "1916084847858356248",
+        "created_at": "2025-04-27T03:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T04:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916332314591981652"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "Google TV",
+              "probability": 0.822,
+              "start": 7,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1243945571796295681",
+              "start": 0,
+              "username": "ryq59"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GFn2MLnSLQ",
+              "end": 41,
+              "expanded_url": "https://x.com/pwnint64/status/1916332314591981652/photo/1",
+              "media_key": "3_1916332304987000834",
+              "start": 18,
+              "url": "https://t.co/GFn2MLnSLQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916332314591981652",
+        "in_reply_to_user_id": "1243945571796295681",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916084847858356248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ryq59 Google TV: https://t.co/GFn2MLnSLQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "幽灵狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學學習預定 電子工程學精通🆙 丨MtX没含糖男娘🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)丨長白山香菸與粉色魔爪愛好者 丨無政治傾向/尊重所有人 丨大部分貼文均圖文無關😉丨良い世,来いよ! 丨",
+        "id": "1620506107306479617",
+        "location": "Turn around....(∞_눈)",
+        "name": "芝士灵狐🏳️‍⚧️",
+        "pinned_tweet_id": "1908512773295792609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876362817898795008/xm_WN6Rd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 324,
+          "like_count": 1081,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 643
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-22T17:24:25.000Z",
+        "description": "1/8.2 Billion. | mt*                                                                                              \nTweets are under WTFPL v2 License. @64bit_ndk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 150,
+                "username": "64bit_ndk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ndk.moe",
+                "end": 23,
+                "expanded_url": "https://ndk.moe",
+                "start": 0,
+                "url": "https://t.co/cgXOrekREk"
+              }
+            ]
+          }
+        },
+        "id": "1649826431055302658",
+        "location": ":D",
+        "name": "无双大黄瓜",
+        "pinned_tweet_id": "1900016464209256757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886467087834767360/rfYDuy-B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 1159,
+          "like_count": 25707,
+          "listed_count": 1,
+          "media_count": 707,
+          "tweet_count": 4220
+        },
+        "url": "https://t.co/cgXOrekREk",
+        "username": "pwnint64",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T16:58:37.000Z",
+        "description": "半个天津卫嘴子（在努力练说话了）｜家暴党MtX🏳️‍⚧️｜Retired Pro PUBG MOBILE Player｜查成分回fo（可以私信）｜Sis @iranon_lcf @yizhikapaiqaq｜请点击查看更多 以了解我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "iranon_lcf"
+              },
+              {
+                "end": 103,
+                "start": 89,
+                "username": "yizhikapaiqaq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/6W3mmCUeaH"
+              }
+            ]
+          }
+        },
+        "id": "1243945571796295681",
+        "location": "Tianjin",
+        "name": "你是想气死铨酱么🍥",
+        "pinned_tweet_id": "1765934211918397447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811063132472889345/EAJ4Qnlm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17058,
+          "following_count": 4850,
+          "like_count": 178592,
+          "listed_count": 71,
+          "media_count": 5076,
+          "tweet_count": 22745
+        },
+        "url": "https://t.co/6W3mmCUeaH",
+        "username": "ryq59",
+        "verified": true
+      }
+    ]
+  }
+}

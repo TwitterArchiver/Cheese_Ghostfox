@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1894689793239580929",
+    "created_at": "2025-02-26T10:27:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-26T11:27:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894695883473912315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1868232427220713473",
+          "start": 0,
+          "username": "fuckpregabalin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894695883473912315",
+    "in_reply_to_user_id": "1620506107306479617",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894695837399392640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuckpregabalin 难绷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1894689793239580929",
+        "created_at": "2025-02-26T10:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T11:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894695883473912315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868232427220713473",
+              "start": 0,
+              "username": "fuckpregabalin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894695883473912315",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894695837399392640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuckpregabalin 难绷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1894689793239580929",
+        "created_at": "2025-02-26T10:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T11:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894695837399392640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868232427220713473",
+              "start": 0,
+              "username": "fuckpregabalin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894695837399392640",
+        "in_reply_to_user_id": "1868232427220713473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894689793239580929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuckpregabalin 这发言人一上就会卡("
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "幽灵狐狐与您同在~",
+        "id": "1620506107306479617",
+        "location": "Turn around....(∞_눈)",
+        "name": "芝士灵狐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876362817898795008/xm_WN6Rd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 46,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 66
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T09:51:42.000Z",
+        "description": "05/10/08|STARTED ON 30/08/23|✝️Calvinism & Fundamentalism|叫我小文就好啦😘|北京語/廈門語/成都語OKです! |一辈子的朋友🥺@yangaaa111 |裡@IokbunTan |对所有人友好🥰God bless you!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 92,
+                "username": "yangaaa111"
+              },
+              {
+                "end": 116,
+                "start": 106,
+                "username": "IokbunTan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/IokbunTan/",
+                "end": 23,
+                "expanded_url": "http://t.me/IokbunTan/",
+                "start": 0,
+                "url": "https://t.co/Vis3o56nk4"
+              }
+            ]
+          }
+        },
+        "id": "1868232427220713473",
+        "location": "Amoy",
+        "name": "文",
+        "pinned_tweet_id": "1888392582729974061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884707004687802368/VY5DTmzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 608,
+          "like_count": 2070,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 280
+        },
+        "url": "https://t.co/Vis3o56nk4",
+        "username": "fuckpregabalin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1923972324702945591",
+    "created_at": "2025-05-19T07:45:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T08:45:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924370874842697746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1869496646503219200",
+          "start": 0,
+          "username": "BarkerAT18"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924370874842697746",
+    "in_reply_to_user_id": "1869496646503219200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924362871661793574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BarkerAT18 你害怕什么啊w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1923972324702945591",
+        "created_at": "2025-05-19T07:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T08:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924370874842697746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1869496646503219200",
+              "start": 0,
+              "username": "BarkerAT18"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924370874842697746",
+        "in_reply_to_user_id": "1869496646503219200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924362871661793574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BarkerAT18 你害怕什么啊w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869496646503219200",
+        "conversation_id": "1923972324702945591",
+        "created_at": "2025-05-19T07:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T08:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924362871661793574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924362871661793574",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923972324702945591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox awc，害怕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "幽灵狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學學習預定 電子工程學精通🆙 丨MtX幽默没含糖男娘🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)丨長白山香煙與粉色魔爪愛好者 丨無政治傾向/尊重所有人 /超友好🥰丨良い世,来いよ! 丨裡推慎fo @HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "Turn around....(∞_눈)",
+        "name": "芝士灵狐🧐",
+        "pinned_tweet_id": "1919548841357148382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876362817898795008/xm_WN6Rd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 398,
+          "like_count": 2292,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 884
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-18T21:35:33.000Z",
+        "description": "06泰国打工中｜上推冲浪坚持不建政、不引战、不造谣｜对能正常交流的人态度好｜不反感任何性别，只反感弱智｜不看黄推上推只为看美女和少女乐队和屌图｜只希望世界和平，愿所有人都会因为不再有争执而感到幸福（不怀好意的扣帽子我会骂回去）",
+        "id": "1869496646503219200",
+        "location": "月之森贵族学院",
+        "name": "DJ132rTabler",
+        "pinned_tweet_id": "1904245456689156317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869496974371921920/OlVrLnsp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 67,
+          "like_count": 4926,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 775
+        },
+        "username": "BarkerAT18",
+        "verified": false
+      }
+    ]
+  }
+}

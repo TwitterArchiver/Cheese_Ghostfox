@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1893931468398948665",
+    "created_at": "2025-02-24T10:40:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T11:40:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893974275016605984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1829358757069111297",
+          "start": 0,
+          "username": "chill_promotion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893974275016605984",
+    "in_reply_to_user_id": "1829358757069111297",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893931468398948665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chill_promotion 尼古丁真直呼内行"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1885152762951852032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gilocy8XYAA2fLh.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1893931468398948665",
+        "created_at": "2025-02-24T10:40:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T11:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893974275016605984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1829358757069111297",
+              "start": 0,
+              "username": "chill_promotion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893974275016605984",
+        "in_reply_to_user_id": "1829358757069111297",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893931468398948665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chill_promotion 尼古丁真直呼内行"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885152762951852032"
+          ]
+        },
+        "author_id": "1829358757069111297",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Vaping",
+              "id": "1047109035600764929",
+              "name": "Vaping"
+            }
+          }
+        ],
+        "conversation_id": "1893931468398948665",
+        "created_at": "2025-02-24T07:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T08:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893931468398948665"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "DR.VAPE",
+              "probability": 0.3014,
+              "start": 21,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "description": "香りを吸う×ウェルネス　DR.VAPE Model 3｜200万人の方々に吸いごたえや味わい深さを提供してきたDR.VAPEが作る、心と体を整えるための革新的なウェルネスデバイスです。",
+              "display_url": "drvape.jp/lp?u=m3_xad_nw…",
+              "end": 160,
+              "expanded_url": "https://drvape.jp/lp?u=m3_xad_nwb003",
+              "start": 137,
+              "status": 200,
+              "title": "【公式】DR.VAPE（ドクターベイプ） Model 3｜香りを吸う。未来が変わる。",
+              "unwound_url": "https://drvape.jp/lp?u=m3_xad_nwb003",
+              "url": "https://t.co/ixh7aIs5Ka"
+            },
+            {
+              "display_url": "pic.x.com/mL1feZjkTP",
+              "end": 184,
+              "expanded_url": "https://x.com/chill_promotion/status/1893931468398948665/photo/1",
+              "media_key": "3_1885152762951852032",
+              "start": 161,
+              "url": "https://t.co/mL1feZjkTP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893931468398948665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 308672,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "もう我慢しない、ニコチンレスの解放感。\n\nDR.VAPEは独自の製品開発によって\nニコチンやタールを含まずに満足感のある吸いごたえを実現👏\n口寂しいときのお供に最適。\n\nお好きな色のデバイス1本\n+\n人気フレーバー6種入りの\n充実の初回セット💯\n\n👇1番お得にはじめる👇\n🔗https://t.co/ixh7aIs5Ka https://t.co/mL1feZjkTP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "幽灵狐狐与您同在~",
+        "id": "1620506107306479617",
+        "location": "Turn around....(∞_눈)",
+        "name": "芝士灵狐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876362817898795008/xm_WN6Rd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 31,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 20
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T03:21:48.000Z",
+        "description": "香りを吸う×ウェルネス DR.VAPE（ドクターベイプ）の\nプロモーション専用アカウントです。\nこちらのアカウントではDM等のお問い合わせに対応できません。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "drvape.jp/lp?u=m3_xad_nw…",
+                "end": 23,
+                "expanded_url": "https://drvape.jp/lp?u=m3_xad_nwb002",
+                "start": 0,
+                "url": "https://t.co/58WyR792Kf"
+              }
+            ]
+          }
+        },
+        "id": "1829358757069111297",
+        "name": "香りを吸う×ウェルネス DR.VAPE / Promotion",
+        "pinned_tweet_id": "1844615029095887313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840722706091872256/xrHKRKHG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5035,
+          "following_count": 5,
+          "like_count": 0,
+          "listed_count": 22,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "url": "https://t.co/58WyR792Kf",
+        "username": "chill_promotion",
+        "verified": true
+      }
+    ]
+  }
+}

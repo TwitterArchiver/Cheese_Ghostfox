@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1900397820643074510",
+    "created_at": "2025-03-14T04:57:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T05:57:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900411049662406840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1868232427220713473",
+          "start": 0,
+          "username": "fuckpregabalin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900411049662406840",
+    "in_reply_to_user_id": "1868232427220713473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900397820643074510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuckpregabalin 但願會有消息🤯🤯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1900397820643074510",
+        "created_at": "2025-03-14T04:57:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T05:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900411049662406840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868232427220713473",
+              "start": 0,
+              "username": "fuckpregabalin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900411049662406840",
+        "in_reply_to_user_id": "1868232427220713473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900397820643074510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuckpregabalin 但願會有消息🤯🤯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868232427220713473",
+        "conversation_id": "1900397820643074510",
+        "created_at": "2025-03-14T04:05:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T05:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900397820643074510"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1900397820643074510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "剛給他學校發了電郵\n雖然不抱希望 不過也沒有其他方式能夠聯絡的上了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "幽灵狐狐与您同在~\n丨Survivalist 生存主義者 醫學學習預定 電子工程學精通🆙\n丨對所有群體/愛好 持包容友善態度🏳️‍⚧️\n丨長白山香菸與粉色魔爪愛好者 \n丨無政治傾向/尊重所有人\n丨良い世,来いよ!",
+        "id": "1620506107306479617",
+        "location": "Turn around....(∞_눈)",
+        "name": "芝士灵狐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876362817898795008/xm_WN6Rd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 111,
+          "like_count": 287,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 194
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T09:51:42.000Z",
+        "description": "05/10/08|SINCE 30/08/23|✝️Calvinism|叫我小文就好啦😘|永遠的戀人❤️@prumlinfem |一辈子的朋友🥺@yangaaa111 |对所有人友好🥰|所有互动均不代表立场 想连坐我的欢迎dm查成分",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 52,
+                "username": "prumlinfem"
+              },
+              {
+                "end": 83,
+                "start": 72,
+                "username": "yangaaa111"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/IokbunTan/",
+                "end": 23,
+                "expanded_url": "http://t.me/IokbunTan/",
+                "start": 0,
+                "url": "https://t.co/Vis3o56nk4"
+              }
+            ]
+          }
+        },
+        "id": "1868232427220713473",
+        "location": "Amoy",
+        "name": "文",
+        "pinned_tweet_id": "1900042109660672272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884707004687802368/VY5DTmzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 777,
+          "like_count": 4454,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 1253
+        },
+        "url": "https://t.co/Vis3o56nk4",
+        "username": "fuckpregabalin",
+        "verified": false
+      }
+    ]
+  }
+}

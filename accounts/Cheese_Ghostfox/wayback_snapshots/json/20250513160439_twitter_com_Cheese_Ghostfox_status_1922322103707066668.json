@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1922303420351844567",
+    "created_at": "2025-05-13T16:04:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T17:04:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922322103707066668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1783434487277531136",
+          "start": 0,
+          "username": "eptazocine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922322103707066668",
+    "in_reply_to_user_id": "1783434487277531136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922303420351844567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eptazocine 我敲，好萌!"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1922303420351844567].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1922303420351844567",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1922303420351844567"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1922303420351844567",
+        "created_at": "2025-05-13T16:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T17:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922322103707066668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1783434487277531136",
+              "start": 0,
+              "username": "eptazocine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922322103707066668",
+        "in_reply_to_user_id": "1783434487277531136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922303420351844567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eptazocine 我敲，好萌!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "幽灵狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學學習預定 電子工程學精通🆙 丨MtX幽默没含糖男娘🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)丨長白山香煙與粉色魔爪愛好者 丨無政治傾向/尊重所有人 /超友好🥰丨良い世,来いよ! 丨裡推慎fo @HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "Turn around....(∞_눈)",
+        "name": "芝士灵狐🧐",
+        "pinned_tweet_id": "1919548841357148382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876362817898795008/xm_WN6Rd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 373,
+          "like_count": 1938,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 781
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-25T09:55:22.000Z",
+        "description": "Record daily life | I will respond kindly to people who are kind-hearted | Have complex hobbies | No mental&psychological disorders | Wuhanese",
+        "id": "1783434487277531136",
+        "location": "中国医学科学院",
+        "name": "依他佐辛",
+        "pinned_tweet_id": "1919739529142898748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920076329602744320/zuZlXTxL_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 551,
+          "like_count": 608,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 319
+        },
+        "username": "eptazocine",
+        "verified": false
+      }
+    ]
+  }
+}

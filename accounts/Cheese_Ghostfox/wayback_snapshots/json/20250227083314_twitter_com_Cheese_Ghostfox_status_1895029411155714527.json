@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1884693494545211663",
+    "created_at": "2025-02-27T08:33:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T09:33:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895029411155714527"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "豪堪",
+          "probability": 0.5928,
+          "start": 16,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1868232427220713473",
+          "start": 0,
+          "username": "fuckpregabalin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895029411155714527",
+    "in_reply_to_user_id": "1868232427220713473",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884693494545211663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuckpregabalin 豪堪🥰🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1884693487242907648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GifGvbmbEAAQqNv.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1884693494545211663",
+        "created_at": "2025-02-27T08:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T09:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895029411155714527"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "豪堪",
+              "probability": 0.5928,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868232427220713473",
+              "start": 0,
+              "username": "fuckpregabalin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895029411155714527",
+        "in_reply_to_user_id": "1868232427220713473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884693494545211663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuckpregabalin 豪堪🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884693487242907648"
+          ]
+        },
+        "author_id": "1868232427220713473",
+        "conversation_id": "1884693494545211663",
+        "created_at": "2025-01-29T20:01:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T21:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884693494545211663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m2aoOywQSp",
+              "end": 33,
+              "expanded_url": "https://x.com/Tp7PrUx5eR28508/status/1884693494545211663/photo/1",
+              "media_key": "3_1884693487242907648",
+              "start": 10,
+              "url": "https://t.co/m2aoOywQSp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884693494545211663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 269,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "（请忽略褶皱的衬衫 https://t.co/m2aoOywQSp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "幽灵狐狐与您同在~\nSurvivalist 生存主義者 醫學學習預定 電子工程學專精🆙\n對所有群體/愛好 持包容友善態度🏳️‍⚧️\n長白山香菸與粉色魔爪愛好者 \n無政治傾向/尊重所有人",
+        "id": "1620506107306479617",
+        "location": "Turn around....(∞_눈)",
+        "name": "芝士灵狐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876362817898795008/xm_WN6Rd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 61,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 81
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T09:51:42.000Z",
+        "description": "05/10/08|STARTED ON 30/08/23|✝️Calvinism & Fundamentalism|叫我小文就好啦😘|北京語/廈門語/成都語OKです! |一辈子的朋友🥺@yangaaa111 |裡@IokbunTan |对所有人友好🥰God bless you!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 92,
+                "username": "yangaaa111"
+              },
+              {
+                "end": 116,
+                "start": 106,
+                "username": "IokbunTan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/IokbunTan/",
+                "end": 23,
+                "expanded_url": "http://t.me/IokbunTan/",
+                "start": 0,
+                "url": "https://t.co/Vis3o56nk4"
+              }
+            ]
+          }
+        },
+        "id": "1868232427220713473",
+        "location": "Amoy",
+        "name": "文",
+        "pinned_tweet_id": "1894892513305264499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884707004687802368/VY5DTmzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 625,
+          "like_count": 2164,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 330
+        },
+        "url": "https://t.co/Vis3o56nk4",
+        "username": "fuckpregabalin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1912522747684814957",
+    "created_at": "2025-04-16T17:07:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T18:07:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912553352271130682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1761357247643594752",
+          "start": 0,
+          "username": "mugong5036"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912553352271130682",
+    "in_reply_to_user_id": "1761357247643594752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912522747684814957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mugong5036 做这玩意有啥用啊👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1912522747684814957",
+        "created_at": "2025-04-16T17:07:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T18:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912553352271130682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1761357247643594752",
+              "start": 0,
+              "username": "mugong5036"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912553352271130682",
+        "in_reply_to_user_id": "1761357247643594752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912522747684814957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mugong5036 做这玩意有啥用啊👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761357247643594752",
+        "conversation_id": "1912522747684814957",
+        "created_at": "2025-04-16T15:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T16:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912522747684814957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cheese_Ghostfo…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/Cheese_Ghostfox/status/1912290310090305677",
+              "start": 55,
+              "url": "https://t.co/wiKdfI91fz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912522747684814957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912290310090305677",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的氯化钾注射液都是自行用试管配置后封装进针管的（思考）\n也可能是在学校顺的试管比较多，可以用一次就销毁一支 https://t.co/wiKdfI91fz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "幽灵狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學學習預定 電子工程學精通🆙 丨MtX没含糖男娘🏳️‍⚧️丨長白山香菸與粉色魔爪愛好者 丨無政治傾向/尊重所有人 丨大部分贴文图文无关😉丨良い世,来いよ! 丨 我是@fuckpregabalin 的狗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 113,
+                "username": "fuckpregabalin"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "Turn around....(∞_눈)",
+        "name": "芝士灵狐🏳️‍⚧️",
+        "pinned_tweet_id": "1908512773295792609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876362817898795008/xm_WN6Rd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 170,
+          "like_count": 288,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 345
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T11:47:58.000Z",
+        "description": "𝒲𝒾𝓁𝓁 𝒾𝓃 𝓇𝓊𝒾𝓃ℯ𝒹 𝒶ℊℯ 𝓁𝒶𝓈𝓉 𝒻ℴ𝓇ℯ𝓋ℯ𝓇\n 🚪88.88 \ntelegram账号已经死亡\n二代帐号:@mugong5037",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "mugong5037"
+              }
+            ]
+          }
+        },
+        "id": "1761357247643594752",
+        "name": "子归离🍥",
+        "pinned_tweet_id": "1911064827004592199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805646126517043204/oHmN8H3L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 471,
+          "like_count": 14283,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 2867
+        },
+        "username": "mugong5036",
+        "verified": false
+      }
+    ]
+  }
+}

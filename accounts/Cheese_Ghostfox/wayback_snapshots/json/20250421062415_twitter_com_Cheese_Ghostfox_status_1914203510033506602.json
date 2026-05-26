@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1914203510033506602",
+    "created_at": "2025-04-21T06:24:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T07:24:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914203510033506602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1011861281387655169",
+          "start": 3,
+          "username": "nxssvk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914203510033506602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914200857475994035",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nxssvk: 你被所有人讨厌不是没理由的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1914203510033506602",
+        "created_at": "2025-04-21T06:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T07:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914203510033506602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1011861281387655169",
+              "start": 3,
+              "username": "nxssvk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914203510033506602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914200857475994035",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nxssvk: 你被所有人讨厌不是没理由的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1011861281387655169",
+        "conversation_id": "1914200857475994035",
+        "created_at": "2025-04-21T06:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T07:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914200857475994035"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1914200857475994035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你被所有人讨厌不是没理由的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "幽灵狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學學習預定 電子工程學精通🆙 丨MtX没含糖男娘🏳️‍⚧️丨長白山香菸與粉色魔爪愛好者 丨無政治傾向/尊重所有人 丨大部分贴文图文无关😉丨良い世,来いよ! 丨 我是@fuckpregabalin 的狗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 113,
+                "username": "fuckpregabalin"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "Turn around....(∞_눈)",
+        "name": "芝士灵狐🏳️‍⚧️",
+        "pinned_tweet_id": "1908512773295792609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876362817898795008/xm_WN6Rd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 244,
+          "like_count": 472,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 417
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-27T06:38:23.000Z",
+        "description": "平息她的怒火，躺在地上任其践踏",
+        "id": "1011861281387655169",
+        "location": "向日葵的坂道",
+        "name": "好运金币姬",
+        "pinned_tweet_id": "1874817823773737252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913811459819311104/wxryoshJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 2198,
+          "like_count": 36045,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 3627
+        },
+        "username": "nxssvk",
+        "verified": false
+      }
+    ]
+  }
+}

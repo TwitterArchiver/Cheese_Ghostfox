@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1923871978836066617",
+    "created_at": "2025-05-17T22:43:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T23:43:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1923871978836066617"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AcboxLiu/statu…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/AcboxLiu/status/1923803052106011100",
+          "start": 15,
+          "url": "https://t.co/7828tzsbUd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923871978836066617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923803052106011100",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我已经用了十几年去幻想这个了 https://t.co/7828tzsbUd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1923871978836066617",
+        "created_at": "2025-05-17T22:43:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T23:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923871978836066617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AcboxLiu/statu…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/AcboxLiu/status/1923803052106011100",
+              "start": 15,
+              "url": "https://t.co/7828tzsbUd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923871978836066617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923803052106011100",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我已经用了十几年去幻想这个了 https://t.co/7828tzsbUd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601893417549967360",
+        "conversation_id": "1923803052106011100",
+        "created_at": "2025-05-17T18:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T19:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923803052106011100"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1923803052106011100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 509,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想有个做技术的对象，整天除了一起dev一些好玩的东西就是抱抱贴贴，养一只猫，可以互相依赖互相陪伴。\n我好孤独。\n我不敢回深圳了。\n我讨厌一个人。\n我想有个家。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "幽灵狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學學習預定 電子工程學精通🆙 丨MtX幽默没含糖男娘🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)丨長白山香煙與粉色魔爪愛好者 丨無政治傾向/尊重所有人 /超友好🥰丨良い世,来いよ! 丨裡推慎fo @HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "Turn around....(∞_눈)",
+        "name": "芝士灵狐🧐",
+        "pinned_tweet_id": "1919548841357148382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876362817898795008/xm_WN6Rd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 382,
+          "like_count": 2119,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 827
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "💻开源开发/全栈&LLM/EN: @acbox_lol/16岁/Building EchoAI/UI&UX学习中/Founder of @bijon_ai/🐱Github: sheepbox8646/A-level&IELTS/🧭@sciuxkit @bugduckteam/小号@xiaoxiangziqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "acbox_lol"
+              },
+              {
+                "end": 77,
+                "start": 68,
+                "username": "bijon_ai"
+              },
+              {
+                "end": 124,
+                "start": 115,
+                "username": "sciuxkit"
+              },
+              {
+                "end": 137,
+                "start": 125,
+                "username": "bugduckteam"
+              },
+              {
+                "end": 155,
+                "start": 140,
+                "username": "xiaoxiangziqwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "acbox.lol",
+                "end": 23,
+                "expanded_url": "https://acbox.lol",
+                "start": 0,
+                "url": "https://t.co/kJvOSjAt1j"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "location": "深圳-廣州-香港",
+        "name": "📦Acbox",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914958257879441409/Yh9QRIIX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4520,
+          "following_count": 2919,
+          "like_count": 2214,
+          "listed_count": 17,
+          "media_count": 681,
+          "tweet_count": 3629
+        },
+        "url": "https://t.co/kJvOSjAt1j",
+        "username": "AcboxLiu",
+        "verified": true
+      }
+    ]
+  }
+}

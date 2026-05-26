@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1903893657142558720"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "1903893660275793927",
+    "created_at": "2025-03-23T19:36:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T20:36:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1903893660275793927"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9Z6l4o0rPz",
+          "end": 42,
+          "expanded_url": "https://x.com/Cheese_Ghostfox/status/1903893660275793927/photo/1",
+          "media_key": "3_1903893657142558720",
+          "start": 19,
+          "url": "https://t.co/9Z6l4o0rPz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903893660275793927",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不，電子工程/藝術/醫學/的也幹了… https://t.co/9Z6l4o0rPz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 351,
+        "media_key": "3_1903893657142558720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmv9MaQaAAAdWkM.jpg",
+        "width": 897
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903893657142558720"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "1903893660275793927",
+        "created_at": "2025-03-23T19:36:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T20:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903893660275793927"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Z6l4o0rPz",
+              "end": 42,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/1903893660275793927/photo/1",
+              "media_key": "3_1903893657142558720",
+              "start": 19,
+              "url": "https://t.co/9Z6l4o0rPz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903893660275793927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不，電子工程/藝術/醫學/的也幹了… https://t.co/9Z6l4o0rPz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "幽灵狐狐与您同在~\n丨Survivalist 生存主義者 醫學學習預定 電子工程學精通🆙\n丨MtX 對所有群體/愛好 持包容友善態度🏳️‍⚧️\n丨長白山香菸與粉色魔爪愛好者 \n丨無政治傾向/尊重所有人\n丨良い世,来いよ!",
+        "id": "1620506107306479617",
+        "location": "Turn around....(∞_눈)",
+        "name": "芝士灵狐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876362817898795008/xm_WN6Rd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 125,
+          "like_count": 231,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 230
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1898716335250780634",
+    "created_at": "2025-03-09T12:48:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T13:48:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898717604593774749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1891980816319975424",
+          "start": 0,
+          "username": "IokbunTan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898717604593774749",
+    "in_reply_to_user_id": "1891980816319975424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898716335250780634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IokbunTan 人無一物以報天😇"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1898716335250780634].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1898716335250780634",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1898716335250780634"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1898716335250780634",
+        "created_at": "2025-03-09T12:48:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T13:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898717604593774749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1891980816319975424",
+              "start": 0,
+              "username": "IokbunTan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898717604593774749",
+        "in_reply_to_user_id": "1891980816319975424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898716335250780634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IokbunTan 人無一物以報天😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "幽灵狐狐与您同在~\n丨Survivalist 生存主義者 醫學學習預定 電子工程學精通🆙\n丨對所有群體/愛好 持包容友善態度🏳️‍⚧️\n丨長白山香菸與粉色魔爪愛好者 \n丨無政治傾向/尊重所有人\n丨",
+        "id": "1620506107306479617",
+        "location": "Turn around....(∞_눈)",
+        "name": "芝士灵狐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876362817898795008/xm_WN6Rd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 83,
+          "like_count": 164,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 172
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T22:39:24.000Z",
+        "description": "可能是@fuckpregabalin ⚠️纯树洞 瞎骂预警 慎fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 3,
+                "username": "fuckpregabalin"
+              }
+            ]
+          }
+        },
+        "id": "1891980816319975424",
+        "location": "Amoy",
+        "name": "いくぶん",
+        "pinned_tweet_id": "1897405563828687220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891993030816825346/jIO4XIsn_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 19,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 137
+        },
+        "username": "IokbunTan",
+        "verified": false
+      }
+    ]
+  }
+}

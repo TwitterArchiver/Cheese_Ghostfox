@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1906890355066417553",
+    "created_at": "2025-04-01T06:35:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T07:35:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906958618492363035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1868232427220713473",
+          "start": 0,
+          "username": "fuckpregabalin"
+        },
+        {
+          "end": 30,
+          "id": "1818731995310309376",
+          "start": 16,
+          "username": "MOLeren198964"
+        },
+        {
+          "end": 44,
+          "id": "1753581477705777152",
+          "start": 31,
+          "username": "PoloCoconut2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906958618492363035",
+    "in_reply_to_user_id": "1868232427220713473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906958457099653157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuckpregabalin @MOLeren198964 @PoloCoconut2 比我小一岁的欠爱了😁"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1906958457099653157].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1906958457099653157",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1906958457099653157"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1906890355066417553",
+        "created_at": "2025-04-01T06:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T07:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906958618492363035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868232427220713473",
+              "start": 0,
+              "username": "fuckpregabalin"
+            },
+            {
+              "end": 30,
+              "id": "1818731995310309376",
+              "start": 16,
+              "username": "MOLeren198964"
+            },
+            {
+              "end": 44,
+              "id": "1753581477705777152",
+              "start": 31,
+              "username": "PoloCoconut2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906958618492363035",
+        "in_reply_to_user_id": "1868232427220713473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906958457099653157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuckpregabalin @MOLeren198964 @PoloCoconut2 比我小一岁的欠爱了😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "幽灵狐狐与您同在~\n丨☯Survivalist 生存主義者 醫學學習預定 電子工程學精通🆙\n丨MtF 含糖藥娘～同類貼貼大歡迎!🏳️‍⚧️\n丨長白山香菸與粉色魔爪愛好者 \n丨無政治傾向/尊重所有人\n丨良い世,来いよ!",
+        "id": "1620506107306479617",
+        "location": "Turn around....(∞_눈)",
+        "name": "芝士灵狐🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876362817898795008/xm_WN6Rd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 127,
+          "like_count": 323,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 252
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T09:51:42.000Z",
+        "description": "你谁。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/IokbunTan/",
+                "end": 23,
+                "expanded_url": "http://t.me/IokbunTan/",
+                "start": 0,
+                "url": "https://t.co/HbfJLgVFv2"
+              }
+            ]
+          }
+        },
+        "id": "1868232427220713473",
+        "location": "Amoy",
+        "name": "陈郁文🍥",
+        "pinned_tweet_id": "1906774589369405481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906949974644174848/-YKnkeEL_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 772,
+          "like_count": 4663,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 127
+        },
+        "url": "https://t.co/HbfJLgVFv2",
+        "username": "fuckpregabalin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T19:34:41.000Z",
+        "description": "一个抽象B🤓爱写软笔字（很烂）小号：@Moleren114514 主人🥺：@hood8964 姐姐：@IAmTheSolipsism想挂的朋友：@charming_xiaoyu @ShadowlessmoonR @5mRtist @w3a4ng",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 18,
+                "username": "Moleren114514"
+              },
+              {
+                "end": 46,
+                "start": 37,
+                "username": "hood8964"
+              },
+              {
+                "end": 66,
+                "start": 50,
+                "username": "IAmTheSolipsism"
+              },
+              {
+                "end": 88,
+                "start": 72,
+                "username": "charming_xiaoyu"
+              },
+              {
+                "end": 105,
+                "start": 89,
+                "username": "ShadowlessmoonR"
+              },
+              {
+                "end": 114,
+                "start": 106,
+                "username": "5mRtist"
+              },
+              {
+                "end": 122,
+                "start": 115,
+                "username": "w3a4ng"
+              }
+            ]
+          }
+        },
+        "id": "1818731995310309376",
+        "location": "中华民国，北平",
+        "name": "ㄇㄌㄖ🍥",
+        "pinned_tweet_id": "1906738564349727182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895102259245260805/JLObg4-p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1205,
+          "following_count": 1664,
+          "like_count": 107820,
+          "listed_count": 8,
+          "media_count": 806,
+          "tweet_count": 17120
+        },
+        "username": "MOLeren198964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-03T00:49:48.000Z",
+        "description": "这里是可爱的🥥，请和我眼熟吧！/互fo/友跨人士/双相患者/INTP-T/你的避风港/♡@Ivy250104 @AtriAzuki♡/\nhttps://t.co/wNVLzqZiM4\n正确ID为 @PoloCoconut2；大号@PoloCoconut遭蚂蚁龙永封\n三代目：@PoloCoconut3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 44,
+                "username": "Ivy250104"
+              },
+              {
+                "end": 65,
+                "start": 55,
+                "username": "AtriAzuki"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "PoloCoconut2"
+              },
+              {
+                "end": 126,
+                "start": 114,
+                "username": "PoloCoconut"
+              },
+              {
+                "end": 150,
+                "start": 137,
+                "username": "PoloCoconut3"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "polococonut.bsky.social",
+                "end": 91,
+                "expanded_url": "http://polococonut.bsky.social",
+                "start": 68,
+                "url": "https://t.co/wNVLzqZiM4"
+              }
+            ]
+          }
+        },
+        "id": "1753581477705777152",
+        "name": "PoloCoconut 二代目",
+        "pinned_tweet_id": "1904737269728379088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901421541348585472/7_3z3M5B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 838,
+          "like_count": 2850,
+          "listed_count": 2,
+          "media_count": 212,
+          "tweet_count": 1032
+        },
+        "username": "PoloCoconut2",
+        "verified": false
+      }
+    ]
+  }
+}

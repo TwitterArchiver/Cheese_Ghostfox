@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1915027906352574769",
+    "created_at": "2025-04-24T04:06:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T05:06:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915255978951663809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1615586607482163201",
+          "start": 0,
+          "username": "moeKafuuChino"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915255978951663809",
+    "in_reply_to_user_id": "1615586607482163201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915027906352574769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moeKafuuChino 非常地新鮮，非常地美味(確信)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1915027906352574769",
+        "created_at": "2025-04-24T04:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T05:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915255978951663809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1615586607482163201",
+              "start": 0,
+              "username": "moeKafuuChino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915255978951663809",
+        "in_reply_to_user_id": "1615586607482163201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915027906352574769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moeKafuuChino 非常地新鮮，非常地美味(確信)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1615586607482163201",
+        "conversation_id": "1915027906352574769",
+        "created_at": "2025-04-23T13:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T14:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915027906352574769"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1915027906352574769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1501,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看完了会员制餐厅本篇，已经生理不适了🤮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "幽灵狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學學習預定 電子工程學精通🆙 丨MtX没含糖男娘🏳️‍⚧️丨私人实验室「靈狐製作所」创始人(建设ing…)丨長白山香菸與粉色魔爪愛好者 丨無政治傾向/尊重所有人 丨大部分贴文图文无关😉丨良い世,来いよ! 丨",
+        "id": "1620506107306479617",
+        "location": "Turn around....(∞_눈)",
+        "name": "芝士灵狐🏳️‍⚧️",
+        "pinned_tweet_id": "1908512773295792609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876362817898795008/xm_WN6Rd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 299,
+          "like_count": 797,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 566
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-18T05:47:30.000Z",
+        "description": "想和智乃谈恋爱的一般通过男性，或许是精神病",
+        "id": "1615586607482163201",
+        "name": "智乃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902004894552526848/p4Y-esPJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1757,
+          "following_count": 1260,
+          "like_count": 36704,
+          "listed_count": 7,
+          "media_count": 223,
+          "tweet_count": 1573
+        },
+        "username": "moeKafuuChino",
+        "verified": false
+      }
+    ]
+  }
+}

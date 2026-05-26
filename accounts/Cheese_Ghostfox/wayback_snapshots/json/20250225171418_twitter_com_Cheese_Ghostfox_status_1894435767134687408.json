@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1894435764013780992"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1894435767134687408",
+    "created_at": "2025-02-25T17:14:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T18:14:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1894435767134687408"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pGk48w4tgG",
+          "end": 33,
+          "expanded_url": "https://x.com/Cheese_Ghostfox/status/1894435767134687408/photo/1",
+          "media_key": "3_1894435764013780992",
+          "start": 10,
+          "url": "https://t.co/pGk48w4tgG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894435767134687408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "修仙者的專屬夜宵～ https://t.co/pGk48w4tgG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1894435764013780992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkpjSkvWUAAO2KN.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894435764013780992"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1894435767134687408",
+        "created_at": "2025-02-25T17:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T18:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894435767134687408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pGk48w4tgG",
+              "end": 33,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/1894435767134687408/photo/1",
+              "media_key": "3_1894435764013780992",
+              "start": 10,
+              "url": "https://t.co/pGk48w4tgG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894435767134687408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "修仙者的專屬夜宵～ https://t.co/pGk48w4tgG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "幽灵狐狐与您同在~",
+        "id": "1620506107306479617",
+        "location": "Turn around....(∞_눈)",
+        "name": "芝士灵狐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876362817898795008/xm_WN6Rd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 40,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 41
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      }
+    ]
+  }
+}

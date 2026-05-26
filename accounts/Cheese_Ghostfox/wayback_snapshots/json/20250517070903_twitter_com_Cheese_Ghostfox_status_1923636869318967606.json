@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1923576588110602240"
+      ],
+      "media_source_tweet_id": [
+        "1923576598319726603"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1923636869318967606",
+    "created_at": "2025-05-17T07:09:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T08:09:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923636869318967606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "613074635",
+          "start": 3,
+          "username": "iTZQing"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NRibtQNLsg",
+          "end": 36,
+          "expanded_url": "https://x.com/iTZQing/status/1923576598319726603/photo/1",
+          "media_key": "3_1923576588110602240",
+          "start": 13,
+          "url": "https://t.co/NRibtQNLsg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923636869318967606",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923576598319726603",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iTZQing: https://t.co/NRibtQNLsg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1013,
+        "media_key": "3_1923576588110602240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrHqtyCXIAA4-Eh.jpg",
+        "width": 1013
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923576588110602240"
+          ],
+          "media_source_tweet_id": [
+            "1923576598319726603"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1923636869318967606",
+        "created_at": "2025-05-17T07:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T08:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923636869318967606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "613074635",
+              "start": 3,
+              "username": "iTZQing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NRibtQNLsg",
+              "end": 36,
+              "expanded_url": "https://x.com/iTZQing/status/1923576598319726603/photo/1",
+              "media_key": "3_1923576588110602240",
+              "start": 13,
+              "url": "https://t.co/NRibtQNLsg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923636869318967606",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923576598319726603",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iTZQing: https://t.co/NRibtQNLsg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923576588110602240"
+          ]
+        },
+        "author_id": "613074635",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1923576598319726603",
+        "created_at": "2025-05-17T03:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T04:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923576598319726603"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NRibtQNLsg",
+              "end": 23,
+              "expanded_url": "https://x.com/iTZQing/status/1923576598319726603/photo/1",
+              "media_key": "3_1923576588110602240",
+              "start": 0,
+              "url": "https://t.co/NRibtQNLsg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923576598319726603",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NRibtQNLsg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "幽灵狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學學習預定 電子工程學精通🆙 丨MtX幽默没含糖男娘🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)丨長白山香煙與粉色魔爪愛好者 丨無政治傾向/尊重所有人 /超友好🥰丨良い世,来いよ! 丨裡推慎fo @HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "Turn around....(∞_눈)",
+        "name": "芝士灵狐🧐",
+        "pinned_tweet_id": "1919548841357148382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876362817898795008/xm_WN6Rd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 380,
+          "like_count": 2083,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 818
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-20T02:58:20.000Z",
+        "description": "aka {\"Alexei\"}. 裏帳@amamiyamafuyu. 64in/114lb, 🚪67CNY. 是個笨蛋請多包容。🎈INFP-T. 🎀Mahō Shōjo. 💙💛Slava. 🍛Curry. 💞@my0790042212731",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 18,
+                "username": "amamiyamafuyu"
+              },
+              {
+                "end": 119,
+                "start": 103,
+                "username": "my0790042212731"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gravatar.com/itzqing",
+                "end": 23,
+                "expanded_url": "https://gravatar.com/itzqing",
+                "start": 0,
+                "url": "https://t.co/VFMpbDVC8y"
+              }
+            ]
+          }
+        },
+        "id": "613074635",
+        "location": "ﾄｺﾖﾉｸﾆ",
+        "name": "Amamiya Mafuyu 雨宮真冬",
+        "pinned_tweet_id": "1864699964825456644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850535613432528896/Vt79Kpzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1974,
+          "following_count": 961,
+          "like_count": 22404,
+          "listed_count": 10,
+          "media_count": 1651,
+          "tweet_count": 26743
+        },
+        "url": "https://t.co/VFMpbDVC8y",
+        "username": "iTZQing",
+        "verified": false
+      }
+    ]
+  }
+}

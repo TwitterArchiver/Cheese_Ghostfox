@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1915447462191652867"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "1915447471943397418",
+    "created_at": "2025-04-24T16:47:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T17:47:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1915447471943397418"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zD7naZRYcE",
+          "end": 31,
+          "expanded_url": "https://x.com/Cheese_Ghostfox/status/1915447471943397418/photo/1",
+          "media_key": "3_1915447462191652867",
+          "start": 8,
+          "url": "https://t.co/zD7naZRYcE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915447471943397418",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这波没连上了😇 https://t.co/zD7naZRYcE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1348,
+        "media_key": "3_1915447462191652867",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpUJUYHbYAMSz8a.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915447462191652867"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "1915447471943397418",
+        "created_at": "2025-04-24T16:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T17:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915447471943397418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zD7naZRYcE",
+              "end": 31,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/1915447471943397418/photo/1",
+              "media_key": "3_1915447462191652867",
+              "start": 8,
+              "url": "https://t.co/zD7naZRYcE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915447471943397418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这波没连上了😇 https://t.co/zD7naZRYcE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "幽灵狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學學習預定 電子工程學精通🆙 丨MtX没含糖男娘🏳️‍⚧️丨私人实验室「靈狐製作所」创始人(建设ing…)丨長白山香菸與粉色魔爪愛好者 丨無政治傾向/尊重所有人 丨大部分贴文图文无关😉丨良い世,来いよ! 丨",
+        "id": "1620506107306479617",
+        "location": "Turn around....(∞_눈)",
+        "name": "芝士灵狐🏳️‍⚧️",
+        "pinned_tweet_id": "1908512773295792609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876362817898795008/xm_WN6Rd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 310,
+          "like_count": 894,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 604
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      }
+    ]
+  }
+}

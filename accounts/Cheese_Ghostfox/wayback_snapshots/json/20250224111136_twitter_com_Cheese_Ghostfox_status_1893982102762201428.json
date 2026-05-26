@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1893982099280961537"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "1893982102762201428",
+    "created_at": "2025-02-24T11:11:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T12:11:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1893982102762201428"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3xQ8a0tqvv",
+          "end": 119,
+          "expanded_url": "https://x.com/Cheese_Ghostfox/status/1893982102762201428/photo/1",
+          "media_key": "3_1893982099280961537",
+          "start": 96,
+          "url": "https://t.co/3xQ8a0tqvv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893982102762201428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "260億個晶體管的CPU，829萬個LED的顯示器，15.1Tflops計算性能的顯卡，人類最精尖的科技造物在我這個廢物手裏只能用來刷pornhub和bilibili…這何嘗不是一種悲哀呢… https://t.co/3xQ8a0tqvv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2268,
+        "media_key": "3_1893982099280961537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkjGrz6XIAEviY1.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893982099280961537"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "1893982102762201428",
+        "created_at": "2025-02-24T11:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T12:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893982102762201428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3xQ8a0tqvv",
+              "end": 119,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/1893982102762201428/photo/1",
+              "media_key": "3_1893982099280961537",
+              "start": 96,
+              "url": "https://t.co/3xQ8a0tqvv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893982102762201428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "260億個晶體管的CPU，829萬個LED的顯示器，15.1Tflops計算性能的顯卡，人類最精尖的科技造物在我這個廢物手裏只能用來刷pornhub和bilibili…這何嘗不是一種悲哀呢… https://t.co/3xQ8a0tqvv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "幽灵狐狐与您同在~",
+        "id": "1620506107306479617",
+        "location": "Turn around....(∞_눈)",
+        "name": "芝士灵狐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876362817898795008/xm_WN6Rd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 31,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 22
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      }
+    ]
+  }
+}

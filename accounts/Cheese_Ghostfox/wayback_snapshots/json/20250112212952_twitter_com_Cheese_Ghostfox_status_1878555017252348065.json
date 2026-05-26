@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1878031957072003579",
+    "created_at": "2025-01-12T21:29:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-12T22:29:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878555017252348065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1808126272934940672",
+          "start": 0,
+          "username": "KBarrett32903"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878555017252348065",
+    "in_reply_to_user_id": "1808126272934940672",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878031957072003579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KBarrett32903 1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1878031957072003579",
+        "created_at": "2025-01-12T21:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T22:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878555017252348065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1808126272934940672",
+              "start": 0,
+              "username": "KBarrett32903"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878555017252348065",
+        "in_reply_to_user_id": "1808126272934940672",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878031957072003579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KBarrett32903 1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808126272934940672",
+        "conversation_id": "1878031957072003579",
+        "created_at": "2025-01-11T10:51:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T11:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878031957072003579"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1878031957072003579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 62056,
+          "like_count": 801,
+          "quote_count": 0,
+          "reply_count": 672,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "06在读高三只是比较反差\n\n现实乖乖女 网上女菩萨\n\n来推搞涩涩 不要再质疑我了\n\n点赞评论1给看上课自卫 真实自拍（不发是小🐶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "幽灵狐狐与您同在~",
+        "id": "1620506107306479617",
+        "location": "Turn around....(∞_눈)",
+        "name": "芝士灵狐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876362817898795008/xm_WN6Rd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 20,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-02T13:11:25.000Z",
+        "description": "只想做推里默默无闻的性瘾患者女菩萨，喜欢探索异性的身体",
+        "id": "1808126272934940672",
+        "location": "距离2.8km",
+        "name": "女高 小音",
+        "pinned_tweet_id": "1873264378038108328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859149702694137856/53IuWBJT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3751,
+          "following_count": 7,
+          "like_count": 38,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 84
+        },
+        "username": "KBarrett32903",
+        "verified": false
+      }
+    ]
+  }
+}

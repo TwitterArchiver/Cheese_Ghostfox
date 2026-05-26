@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1914527554519908751",
+    "created_at": "2025-04-23T00:11:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T01:11:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914834477987324022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1877318007359418369",
+          "start": 0,
+          "username": "mngz657877"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914834477987324022",
+    "in_reply_to_user_id": "1877318007359418369",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914527554519908751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mngz657877 一眼d指导的大作喵😂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1914527540414382080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpHEp4caAAALSiH.jpg",
+        "width": 941
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1914527540527738880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpHEp43bsAACbgl.jpg",
+        "width": 941
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1914527541098110976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpHEp6_a4AAUEsV.jpg",
+        "width": 941
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1914527541534318592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpHEp8na4AAbNUJ.jpg",
+        "width": 941
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1914527554519908751",
+        "created_at": "2025-04-23T00:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T01:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914834477987324022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1877318007359418369",
+              "start": 0,
+              "username": "mngz657877"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914834477987324022",
+        "in_reply_to_user_id": "1877318007359418369",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914527554519908751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mngz657877 一眼d指导的大作喵😂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914527540414382080",
+            "3_1914527540527738880",
+            "3_1914527541098110976",
+            "3_1914527541534318592"
+          ]
+        },
+        "author_id": "1877318007359418369",
+        "conversation_id": "1914527554519908751",
+        "created_at": "2025-04-22T03:51:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T04:51:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914527554519908751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q6vGRsjZER",
+              "end": 31,
+              "expanded_url": "https://x.com/mngz657877/status/1914527554519908751/photo/1",
+              "media_key": "3_1914527540414382080",
+              "start": 8,
+              "url": "https://t.co/q6vGRsjZER"
+            },
+            {
+              "display_url": "pic.x.com/q6vGRsjZER",
+              "end": 31,
+              "expanded_url": "https://x.com/mngz657877/status/1914527554519908751/photo/1",
+              "media_key": "3_1914527540527738880",
+              "start": 8,
+              "url": "https://t.co/q6vGRsjZER"
+            },
+            {
+              "display_url": "pic.x.com/q6vGRsjZER",
+              "end": 31,
+              "expanded_url": "https://x.com/mngz657877/status/1914527554519908751/photo/1",
+              "media_key": "3_1914527541098110976",
+              "start": 8,
+              "url": "https://t.co/q6vGRsjZER"
+            },
+            {
+              "display_url": "pic.x.com/q6vGRsjZER",
+              "end": 31,
+              "expanded_url": "https://x.com/mngz657877/status/1914527554519908751/photo/1",
+              "media_key": "3_1914527541534318592",
+              "start": 8,
+              "url": "https://t.co/q6vGRsjZER"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914527554519908751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 356,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我妈跟我分享的 https://t.co/q6vGRsjZER"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "幽灵狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學學習預定 電子工程學精通🆙 丨MtX没含糖男娘🏳️‍⚧️丨長白山香菸與粉色魔爪愛好者 丨無政治傾向/尊重所有人 丨大部分贴文图文无关😉丨良い世,来いよ! 丨 我是@fuckpregabalin 的狗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 113,
+                "username": "fuckpregabalin"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "Turn around....(∞_눈)",
+        "name": "芝士灵狐🏳️‍⚧️",
+        "pinned_tweet_id": "1908512773295792609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876362817898795008/xm_WN6Rd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 273,
+          "like_count": 675,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 508
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-09T11:34:32.000Z",
+        "description": "生于10年/hrt24.6.13/🍥姐姐:@mhtqwq\n我是贝利亚,见到你很高兴/主包精神正常,就是有点发癫/我很幼稚/休学中😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 21,
+                "username": "mhtqwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mngz657877",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mngz657877",
+                "start": 0,
+                "url": "https://t.co/pmqemo56sE"
+              }
+            ]
+          }
+        },
+        "id": "1877318007359418369",
+        "name": "北矞🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909589900548358149/nq1zdZYB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 176,
+          "like_count": 1221,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 426
+        },
+        "url": "https://t.co/pmqemo56sE",
+        "username": "mngz657877",
+        "verified": false
+      }
+    ]
+  }
+}

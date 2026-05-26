@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1910699481609503164",
+    "created_at": "2025-04-15T23:56:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T00:56:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912293994094264660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1688385343580680192",
+          "start": 0,
+          "username": "heiwawomamore"
+        },
+        {
+          "end": 31,
+          "id": "1758421050638131200",
+          "start": 15,
+          "username": "Yania_lover1314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912293994094264660",
+    "in_reply_to_user_id": "1688385343580680192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912293749419647344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heiwawomamore @Yania_lover1314 可能咱浓度不够(雾)"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1912293749419647344].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1912293749419647344",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1912293749419647344"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1910699481609503164",
+        "created_at": "2025-04-15T23:56:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T00:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912293994094264660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1688385343580680192",
+              "start": 0,
+              "username": "heiwawomamore"
+            },
+            {
+              "end": 31,
+              "id": "1758421050638131200",
+              "start": 15,
+              "username": "Yania_lover1314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912293994094264660",
+        "in_reply_to_user_id": "1688385343580680192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912293749419647344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heiwawomamore @Yania_lover1314 可能咱浓度不够(雾)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "幽灵狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學學習預定 電子工程學精通🆙 丨MtX没含糖男娘🏳️‍⚧️丨長白山香菸與粉色魔爪愛好者 丨無政治傾向/尊重所有人 丨大部分贴文图文无关😉丨良い世,来いよ! 丨 我是@fuckpregabalin 的狗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 113,
+                "username": "fuckpregabalin"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "Turn around....(∞_눈)",
+        "name": "芝士灵狐🏳️‍⚧️",
+        "pinned_tweet_id": "1908512773295792609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876362817898795008/xm_WN6Rd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 158,
+          "like_count": 248,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 320
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:03:51.000Z",
+        "description": "ima ingenting more alles",
+        "id": "1688385343580680192",
+        "name": "末裏せい/まつり清(前 平和を守れ)",
+        "pinned_tweet_id": "1911862342935281917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908431767629160448/Aj8mr4zR_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1333,
+          "following_count": 2060,
+          "like_count": 104263,
+          "listed_count": 14,
+          "media_count": 1161,
+          "tweet_count": 54404
+        },
+        "username": "heiwawomamore",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T09:20:39.000Z",
+        "description": "一位燕國小妹妹惹❤️🤍🖤🤍❤️/燕國雅各賓派/性取向不固定/熱愛巴洛克洛可可古典文化🎀/原神&二次元淺度愛好者/中二病患者/輕度支黑/幽燕-海西女真-奉天滿洲正🟨🐉🟨（Foimo Hala）/Learning: Sibe gisun",
+        "id": "1758421050638131200",
+        "location": "幽燕西亞",
+        "name": "⛩️燕遼帝國第一執政官🟥⬜⬛⬜🟥",
+        "pinned_tweet_id": "1894415735365275876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898392073323335680/r39mve-__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1385,
+          "following_count": 3705,
+          "like_count": 5200,
+          "listed_count": 5,
+          "media_count": 484,
+          "tweet_count": 7308
+        },
+        "username": "Yania_lover1314",
+        "verified": false
+      }
+    ]
+  }
+}

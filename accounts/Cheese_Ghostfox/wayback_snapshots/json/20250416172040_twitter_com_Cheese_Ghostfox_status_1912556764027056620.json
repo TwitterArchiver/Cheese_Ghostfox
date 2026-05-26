@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1912290310090305677",
+    "created_at": "2025-04-16T17:20:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T18:20:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912556764027056620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1577950107470741504",
+          "start": 0,
+          "username": "RiNGChenLuer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912556764027056620",
+    "in_reply_to_user_id": "1577950107470741504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912502805635690798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RiNGChenLuer 俺拾嘞(即答)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1912290310090305677",
+        "created_at": "2025-04-16T17:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T18:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912556764027056620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1577950107470741504",
+              "start": 0,
+              "username": "RiNGChenLuer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912556764027056620",
+        "in_reply_to_user_id": "1577950107470741504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912502805635690798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RiNGChenLuer 俺拾嘞(即答)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577950107470741504",
+        "conversation_id": "1912290310090305677",
+        "created_at": "2025-04-16T13:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T14:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912502805635690798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912502805635690798",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912290310090305677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox 这个是什么特殊手段获得的吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "幽灵狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學學習預定 電子工程學精通🆙 丨MtX没含糖男娘🏳️‍⚧️丨長白山香菸與粉色魔爪愛好者 丨無政治傾向/尊重所有人 丨大部分贴文图文无关😉丨良い世,来いよ! 丨 我是@fuckpregabalin 的狗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 113,
+                "username": "fuckpregabalin"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "Turn around....(∞_눈)",
+        "name": "芝士灵狐🏳️‍⚧️",
+        "pinned_tweet_id": "1908512773295792609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876362817898795008/xm_WN6Rd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 172,
+          "like_count": 294,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 352
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-06T09:14:02.000Z",
+        "description": "居住深圳，17，学业已重启，furry\n本人政治倾向：🏳️（僵王博士投降旗）里推入口已关闭  运气好的话也许会碰到呢",
+        "id": "1577950107470741504",
+        "location": "龍門",
+        "name": "RiNGLuer洛尔&觅曙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888556651747405824/hm33VFnh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 1281,
+          "like_count": 6451,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 3197
+        },
+        "username": "RiNGChenLuer",
+        "verified": false
+      }
+    ]
+  }
+}

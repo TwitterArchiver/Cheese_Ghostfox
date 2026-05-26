@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1924126908444512636",
+    "created_at": "2025-05-19T02:04:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T03:04:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924285102751875257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1683348184331059201",
+          "start": 0,
+          "username": "ccckoajiahao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924285102751875257",
+    "in_reply_to_user_id": "1683348184331059201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924126908444512636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccckoajiahao 生他们的那俩没了呗…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1924126897392254976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrPfN_3XAAA5ocZ.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1924126908444512636",
+        "created_at": "2025-05-19T02:04:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T03:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924285102751875257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1683348184331059201",
+              "start": 0,
+              "username": "ccckoajiahao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924285102751875257",
+        "in_reply_to_user_id": "1683348184331059201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924126908444512636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccckoajiahao 生他们的那俩没了呗…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924126897392254976"
+          ]
+        },
+        "author_id": "1683348184331059201",
+        "conversation_id": "1924126908444512636",
+        "created_at": "2025-05-18T15:36:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T16:36:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924126908444512636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y93slqsDIp",
+              "end": 45,
+              "expanded_url": "https://x.com/ccckoajiahao/status/1924126908444512636/photo/1",
+              "media_key": "3_1924126897392254976",
+              "start": 22,
+              "url": "https://t.co/Y93slqsDIp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924126908444512636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2318,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么这些人这么没有素质？他们不是妈生的？ https://t.co/Y93slqsDIp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "幽灵狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學學習預定 電子工程學精通🆙 丨MtX幽默没含糖男娘🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)丨長白山香煙與粉色魔爪愛好者 丨無政治傾向/尊重所有人 /超友好🥰丨良い世,来いよ! 丨裡推慎fo @HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "Turn around....(∞_눈)",
+        "name": "芝士灵狐🧐",
+        "pinned_tweet_id": "1919548841357148382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876362817898795008/xm_WN6Rd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 395,
+          "like_count": 2220,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 848
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T05:27:50.000Z",
+        "description": "我是男银… 常在线，求骚扰（互fo）还有额…..算了算了不会写简介！就这样吧求骚扰！",
+        "id": "1683348184331059201",
+        "location": "1m",
+        "name": "c cc ko a",
+        "pinned_tweet_id": "1918351859032723600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683349322598068224/LTc07JBC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 429,
+          "like_count": 5495,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 2962
+        },
+        "username": "ccckoajiahao",
+        "verified": false
+      }
+    ]
+  }
+}

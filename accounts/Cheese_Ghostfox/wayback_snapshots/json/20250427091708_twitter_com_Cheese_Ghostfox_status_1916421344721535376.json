@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1916420264965099639",
+    "created_at": "2025-04-27T09:17:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T10:17:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916421344721535376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1909218259033100288",
+          "start": 0,
+          "username": "JokerJoker6262"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916421344721535376",
+    "in_reply_to_user_id": "1909218259033100288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916420264965099639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JokerJoker6262 好诶(*^ω^*)"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1916420264965099639].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1916420264965099639",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1916420264965099639"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1916420264965099639",
+        "created_at": "2025-04-27T09:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T10:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916421344721535376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1909218259033100288",
+              "start": 0,
+              "username": "JokerJoker6262"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916421344721535376",
+        "in_reply_to_user_id": "1909218259033100288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916420264965099639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JokerJoker6262 好诶(*^ω^*)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "幽灵狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學學習預定 電子工程學精通🆙 丨MtX没含糖男娘🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)丨長白山香菸與粉色魔爪愛好者 丨無政治傾向/尊重所有人 丨大部分貼文均圖文無關😉丨良い世,来いよ! 丨",
+        "id": "1620506107306479617",
+        "location": "Turn around....(∞_눈)",
+        "name": "芝士灵狐🏳️‍⚧️",
+        "pinned_tweet_id": "1908512773295792609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876362817898795008/xm_WN6Rd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 325,
+          "like_count": 1088,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 651
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-07T12:14:47.000Z",
+        "description": "赛博宠物:@Remained3562┋碳基生活账号-随缘过关注┋🙇‍言论致歉┋分享琐事┋精神异常┋难以接触之人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "Remained3562"
+              }
+            ]
+          }
+        },
+        "id": "1909218259033100288",
+        "name": "Joker.Joker",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909218440851881984/1jXD9EVM_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 10,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 39
+        },
+        "username": "JokerJoker6262",
+        "verified": false
+      }
+    ]
+  }
+}
