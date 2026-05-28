@@ -5,5 +5,14 @@
   "location": "-0.15m",
   "link": "github.com/CheeseGhostfox",
   "avatar": "avatar/avatar_1945506638892355584.jpg",
-  "banner": "avatar/1500x500.jpg"
+  "banner": "avatar/1500x500.jpg",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 127,
+        "start": 112,
+        "username": "fuckpregabalin"
+      }
+    ]
+  }
 }
