@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053297200990769152"
+      ],
+      "media_source_tweet_id": [
+        "2053769833716621627"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166408461485101056",
+          "name": "Authors"
+        }
+      }
+    ],
+    "conversation_id": "2053977521142829376",
+    "created_at": "2026-05-11T23:16:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T00:16:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053977521142829376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1545277694325116928",
+          "start": 3,
+          "username": "YongQuan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IK6MkKqLty",
+          "end": 133,
+          "expanded_url": "https://x.com/YongQuan/status/2053769833716621627/photo/1",
+          "media_key": "3_2053297200990769152",
+          "start": 110,
+          "url": "https://t.co/IK6MkKqLty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053977521142829376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053769833716621627",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YongQuan: 恰好相反：\n为了钱不得不去写作的是写作的奴隶\n为了钱而写 但是能写的自己开心的是职业的作家\n想写的时候就写写自己喜欢的作品\n并广为人喜爱的是优秀的作家\n\n正如梗图号一样\n所以我关闭了收益化。 https://t.co/IK6MkKqLty"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 398,
+        "media_key": "3_2053297200990769152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH7G7Otb0AArQfp.jpg",
+        "width": 369
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053297200990769152"
+          ],
+          "media_source_tweet_id": [
+            "2053769833716621627"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          }
+        ],
+        "conversation_id": "2053977521142829376",
+        "created_at": "2026-05-11T23:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T00:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053977521142829376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1545277694325116928",
+              "start": 3,
+              "username": "YongQuan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IK6MkKqLty",
+              "end": 133,
+              "expanded_url": "https://x.com/YongQuan/status/2053769833716621627/photo/1",
+              "media_key": "3_2053297200990769152",
+              "start": 110,
+              "url": "https://t.co/IK6MkKqLty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053977521142829376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053769833716621627",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YongQuan: 恰好相反：\n为了钱不得不去写作的是写作的奴隶\n为了钱而写 但是能写的自己开心的是职业的作家\n想写的时候就写写自己喜欢的作品\n并广为人喜爱的是优秀的作家\n\n正如梗图号一样\n所以我关闭了收益化。 https://t.co/IK6MkKqLty"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053297200990769152"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          }
+        ],
+        "conversation_id": "2053769833716621627",
+        "created_at": "2026-05-11T09:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T10:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053769833716621627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IK6MkKqLty",
+              "end": 119,
+              "expanded_url": "https://x.com/YongQuan/status/2053769833716621627/photo/1",
+              "media_key": "3_2053297200990769152",
+              "start": 96,
+              "url": "https://t.co/IK6MkKqLty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053769833716621627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 954,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "恰好相反：\n为了钱不得不去写作的是写作的奴隶\n为了钱而写 但是能写的自己开心的是职业的作家\n想写的时候就写写自己喜欢的作品\n并广为人喜爱的是优秀的作家\n\n正如梗图号一样\n所以我关闭了收益化。 https://t.co/IK6MkKqLty"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1487,
+          "following_count": 1518,
+          "like_count": 18897,
+          "listed_count": 7,
+          "media_count": 672,
+          "tweet_count": 6017
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Any（任意）@yqua_｜雪球@XUEQIUxka｜\nBest Team @JDGaming & @BilibiliGaming",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 7,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "JDGaming"
+              },
+              {
+                "end": 65,
+                "start": 50,
+                "username": "BilibiliGaming"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场/北京北神树",
+        "name": "铨Quan🍥",
+        "pinned_tweet_id": "2025597427319980516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9704,
+          "following_count": 4218,
+          "like_count": 44992,
+          "listed_count": 29,
+          "media_count": 3327,
+          "tweet_count": 12045
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      }
+    ]
+  }
+}

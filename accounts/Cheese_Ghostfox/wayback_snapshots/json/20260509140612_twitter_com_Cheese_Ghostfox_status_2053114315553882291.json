@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052786145193541632"
+      ],
+      "media_source_tweet_id": [
+        "2052786149475967030"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2053114315553882291",
+    "created_at": "2026-05-09T14:06:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T15:06:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053114315553882291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2047679401400373248",
+          "start": 3,
+          "username": "Hysteriadie0331"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7aXf7OgyIj",
+          "end": 44,
+          "expanded_url": "https://x.com/Hysteriadie0331/status/2052786149475967030/photo/1",
+          "media_key": "3_2052786145193541632",
+          "start": 21,
+          "url": "https://t.co/7aXf7OgyIj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053114315553882291",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052786149475967030",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hysteriadie0331: https://t.co/7aXf7OgyIj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1336,
+        "media_key": "3_2052786145193541632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHz2H3gawAAFcdL.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052786145193541632"
+          ],
+          "media_source_tweet_id": [
+            "2052786149475967030"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2053114315553882291",
+        "created_at": "2026-05-09T14:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T15:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053114315553882291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2047679401400373248",
+              "start": 3,
+              "username": "Hysteriadie0331"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7aXf7OgyIj",
+              "end": 44,
+              "expanded_url": "https://x.com/Hysteriadie0331/status/2052786149475967030/photo/1",
+              "media_key": "3_2052786145193541632",
+              "start": 21,
+              "url": "https://t.co/7aXf7OgyIj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053114315553882291",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052786149475967030",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hysteriadie0331: https://t.co/7aXf7OgyIj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052786145193541632"
+          ]
+        },
+        "author_id": "2047679401400373248",
+        "conversation_id": "2052786149475967030",
+        "created_at": "2026-05-08T16:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052786149475967030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7aXf7OgyIj",
+              "end": 23,
+              "expanded_url": "https://x.com/Hysteriadie0331/status/2052786149475967030/photo/1",
+              "media_key": "3_2052786145193541632",
+              "start": 0,
+              "url": "https://t.co/7aXf7OgyIj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052786149475967030",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 7331,
+          "like_count": 263,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7aXf7OgyIj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1491,
+          "following_count": 1522,
+          "like_count": 18733,
+          "listed_count": 7,
+          "media_count": 669,
+          "tweet_count": 5980
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-24T14:10:22.000Z",
+        "description": "小空宇｜\n生日:2009.10.28｜mtf｜中度GD🏳️‍⚧️｜重启hrt:2026.05.01🍥｜有易性症病历｜家长反对党｜天残党｜INFP-T｜逆来顺受｜BPD｜同类fo｜请和咱交朋友嘛~｜疑似精神病患者（有病历）｜咱不喜欢屏蔽\n人，被屏蔽会特别难过...｜一只小透明\n‖‖聊天群:1101059788‖‖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hysteriadie",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hysteriadie",
+                "start": 0,
+                "url": "https://t.co/TRsizLBvcB"
+              }
+            ]
+          }
+        },
+        "id": "2047679401400373248",
+        "location": "Internet and Paradise",
+        "name": "一只破碎的小天使/绒布球/猫娘🍥",
+        "pinned_tweet_id": "2051728462940197328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052785257402011649/UuKob9Eu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 329,
+          "like_count": 76,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 333
+        },
+        "url": "https://t.co/TRsizLBvcB",
+        "username": "Hysteriadie0331",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1372588659346612225",
+          "name": "Binance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974596794716162",
+          "name": "Financial services"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390680741206368263",
+          "name": "Cryptocurrency exchanges"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491481998862348291",
+          "name": "Digital asset industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "1492162686204854274",
+          "name": "Digital assets & cryptocurrency"
+        }
+      }
+    ],
+    "conversation_id": "2021510537033719941",
+    "created_at": "2026-02-11T09:04:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T10:04:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021510537033719941"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 12,
+          "tag": "Binance"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/BTCbangzhu/sta…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/BTCbangzhu/status/2021401651383501209",
+          "start": 21,
+          "url": "https://t.co/tYCbvPJ46D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021510537033719941",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021401651383501209",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哇，现实中的币安人生!\n#Binance https://t.co/tYCbvPJ46D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2021401591564431360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA12CaWbcAAjGYY.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2021401591556046848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA12CaUbgAA6J6k.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1372588659346612225",
+              "name": "Binance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390680741206368263",
+              "name": "Cryptocurrency exchanges"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2021510537033719941",
+        "created_at": "2026-02-11T09:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T10:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021510537033719941"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 12,
+              "tag": "Binance"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/BTCbangzhu/sta…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/BTCbangzhu/status/2021401651383501209",
+              "start": 21,
+              "url": "https://t.co/tYCbvPJ46D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021510537033719941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021401651383501209",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇，现实中的币安人生!\n#Binance https://t.co/tYCbvPJ46D"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021401591564431360",
+            "3_2021401591556046848"
+          ]
+        },
+        "author_id": "571539711",
+        "conversation_id": "2021401651383501209",
+        "created_at": "2026-02-11T01:51:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T02:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021401651383501209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H1P28mBvxH",
+              "end": 78,
+              "expanded_url": "https://x.com/BTCbangzhu/status/2021401651383501209/photo/1",
+              "media_key": "3_2021401591564431360",
+              "start": 55,
+              "url": "https://t.co/H1P28mBvxH"
+            },
+            {
+              "display_url": "pic.x.com/H1P28mBvxH",
+              "end": 78,
+              "expanded_url": "https://x.com/BTCbangzhu/status/2021401651383501209/photo/1",
+              "media_key": "3_2021401591556046848",
+              "start": 55,
+              "url": "https://t.co/H1P28mBvxH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021401651383501209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 73764,
+          "like_count": 296,
+          "quote_count": 1,
+          "reply_count": 196,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "车的钱是币安赚的\n老婆是bsc链玩土狗认识的\n\n今天完成了终生大事，肩上的责任也大了\n年后一起奋斗，兄弟们。 https://t.co/H1P28mBvxH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨あなたの記憶で永遠に六番目になりたい!丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 1306,
+          "like_count": 13107,
+          "listed_count": 4,
+          "media_count": 431,
+          "tweet_count": 3952
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2012-05-05T05:03:21.000Z",
+        "description": "#BNB 持有者 | 帮主用最简单的方式带大家了解币圈 | 欢迎加微信交流：BNBbangzhu | 所发推文无投资建议，看着玩，别研究 | #Binance 你的数字货币购买/交易平台，就是 #币安👉 https://t.co/nOBLODX2F4",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "BNB"
+              },
+              {
+                "end": 79,
+                "start": 71,
+                "tag": "Binance"
+              },
+              {
+                "end": 100,
+                "start": 97,
+                "tag": "币安"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "accounts.binance.com/zh-CN/register…",
+                "end": 125,
+                "expanded_url": "https://accounts.binance.com/zh-CN/register?ref=XUC9XYW1",
+                "start": 102,
+                "url": "https://t.co/nOBLODX2F4"
+              }
+            ]
+          }
+        },
+        "id": "571539711",
+        "location": "Singaparna",
+        "name": "乔帮主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849512019537625088/3ni-jg1q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33642,
+          "following_count": 4453,
+          "like_count": 14813,
+          "listed_count": 69,
+          "media_count": 629,
+          "tweet_count": 10827
+        },
+        "username": "BTCbangzhu",
+        "verified": true
+      }
+    ]
+  }
+}

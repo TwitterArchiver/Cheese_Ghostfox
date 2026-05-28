@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051111833013309440"
+      ],
+      "media_source_tweet_id": [
+        "2051111857101107503"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2051385929508774199",
+    "created_at": "2026-05-04T19:38:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T20:38:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051385929508774199"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 24,
+          "tag": "重音テト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1219911385317920774",
+          "start": 3,
+          "username": "suzusiba171171"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QWP5ntZCl6",
+          "end": 53,
+          "expanded_url": "https://x.com/suzusiba171171/status/2051111857101107503/photo/1",
+          "media_key": "3_2051111833013309440",
+          "start": 30,
+          "url": "https://t.co/QWP5ntZCl6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051385929508774199",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1310
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051111857101107503",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @suzusiba171171: 車窓　　#重音テト https://t.co/QWP5ntZCl6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2051111833013309440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHcDWElb0AAZ7VW.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051111833013309440"
+          ],
+          "media_source_tweet_id": [
+            "2051111857101107503"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2051385929508774199",
+        "created_at": "2026-05-04T19:38:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T20:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051385929508774199"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 24,
+              "tag": "重音テト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1219911385317920774",
+              "start": 3,
+              "username": "suzusiba171171"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QWP5ntZCl6",
+              "end": 53,
+              "expanded_url": "https://x.com/suzusiba171171/status/2051111857101107503/photo/1",
+              "media_key": "3_2051111833013309440",
+              "start": 30,
+              "url": "https://t.co/QWP5ntZCl6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051385929508774199",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1310
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051111857101107503",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @suzusiba171171: 車窓　　#重音テト https://t.co/QWP5ntZCl6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051111833013309440"
+          ]
+        },
+        "author_id": "1219911385317920774",
+        "conversation_id": "2051111857101107503",
+        "created_at": "2026-05-04T01:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T02:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051111857101107503"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 4,
+              "tag": "重音テト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QWP5ntZCl6",
+              "end": 33,
+              "expanded_url": "https://x.com/suzusiba171171/status/2051111857101107503/photo/1",
+              "media_key": "3_2051111833013309440",
+              "start": 10,
+              "url": "https://t.co/QWP5ntZCl6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051111857101107503",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1639,
+          "impression_count": 172412,
+          "like_count": 22607,
+          "quote_count": 23,
+          "reply_count": 4,
+          "retweet_count": 1310
+        },
+        "reply_settings": "following",
+        "text": "車窓　　#重音テト https://t.co/QWP5ntZCl6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1474,
+          "following_count": 1516,
+          "like_count": 18515,
+          "listed_count": 7,
+          "media_count": 656,
+          "tweet_count": 5875
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-22T09:15:28.000Z",
+        "description": "雑多。捏造の神。吟遊詩人-AI学習への使用禁止 依頼→DM リクエスト→https://t.co/Qq4jGhPcjp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@suzusiba171171",
+                "end": 59,
+                "expanded_url": "http://skeb.jp/@suzusiba171171",
+                "start": 36,
+                "url": "https://t.co/Qq4jGhPcjp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/suzusiba171171…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/suzusiba171171?utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/8iX6h0actv"
+              }
+            ]
+          }
+        },
+        "id": "1219911385317920774",
+        "location": "コメントした者から殺していく",
+        "name": "minstrel。",
+        "pinned_tweet_id": "2051111857101107503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1458111376996839425/MDY0w4uD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2705,
+          "following_count": 146,
+          "like_count": 40664,
+          "listed_count": 25,
+          "media_count": 1377,
+          "tweet_count": 15574
+        },
+        "url": "https://t.co/8iX6h0actv",
+        "username": "suzusiba171171",
+        "verified": false
+      }
+    ]
+  }
+}

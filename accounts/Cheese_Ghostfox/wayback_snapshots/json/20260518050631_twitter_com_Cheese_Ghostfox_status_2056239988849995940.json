@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055987261758640128"
+      ],
+      "media_source_tweet_id": [
+        "2055987487764529605"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2056239988849995940",
+    "created_at": "2026-05-18T05:06:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T06:06:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056239988849995940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1796868094658539520",
+          "start": 3,
+          "username": "Uru_ru05"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7ffJ93EbV7",
+          "end": 72,
+          "expanded_url": "https://x.com/Uru_ru05/status/2055987487764529605/photo/1",
+          "media_key": "3_2055987261758640128",
+          "start": 49,
+          "url": "https://t.co/7ffJ93EbV7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056239988849995940",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 281
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055987487764529605",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Uru_ru05: 特殊な目が流行ってるらしいので再掲しちゃう\n目が月になっている女の子 https://t.co/7ffJ93EbV7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 598,
+        "media_key": "3_2055987261758640128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhVhX_aEAAEkxx.png",
+        "width": 797
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055987261758640128"
+          ],
+          "media_source_tweet_id": [
+            "2055987487764529605"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056239988849995940",
+        "created_at": "2026-05-18T05:06:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T06:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056239988849995940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1796868094658539520",
+              "start": 3,
+              "username": "Uru_ru05"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7ffJ93EbV7",
+              "end": 72,
+              "expanded_url": "https://x.com/Uru_ru05/status/2055987487764529605/photo/1",
+              "media_key": "3_2055987261758640128",
+              "start": 49,
+              "url": "https://t.co/7ffJ93EbV7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056239988849995940",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 281
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055987487764529605",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Uru_ru05: 特殊な目が流行ってるらしいので再掲しちゃう\n目が月になっている女の子 https://t.co/7ffJ93EbV7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055987261758640128"
+          ]
+        },
+        "author_id": "1796868094658539520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055987487764529605",
+        "created_at": "2026-05-17T12:23:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055987487764529605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7ffJ93EbV7",
+              "end": 58,
+              "expanded_url": "https://x.com/Uru_ru05/status/2055987487764529605/photo/1",
+              "media_key": "3_2055987261758640128",
+              "start": 35,
+              "url": "https://t.co/7ffJ93EbV7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055987487764529605",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 803,
+          "impression_count": 62928,
+          "like_count": 6914,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 281
+        },
+        "reply_settings": "everyone",
+        "text": "特殊な目が流行ってるらしいので再掲しちゃう\n目が月になっている女の子 https://t.co/7ffJ93EbV7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1499,
+          "following_count": 1517,
+          "like_count": 19282,
+          "listed_count": 7,
+          "media_count": 691,
+          "tweet_count": 6170
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-01T11:35:25.000Z",
+        "description": "創作/透明感のある爽やかな絵が得意です🪼🌙\n無断転載・AI学習×",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/dwn681v1gumlr6…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/dwn681v1gumlr6h?t=MLYFHy&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/mfva5IPKFd"
+              }
+            ]
+          }
+        },
+        "id": "1796868094658539520",
+        "name": "うるる",
+        "pinned_tweet_id": "2041103733749321983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961440900460285952/nmT7eu5K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3848,
+          "following_count": 376,
+          "like_count": 17290,
+          "listed_count": 12,
+          "media_count": 134,
+          "tweet_count": 1825
+        },
+        "url": "https://t.co/mfva5IPKFd",
+        "username": "Uru_ru05",
+        "verified": false
+      }
+    ]
+  }
+}

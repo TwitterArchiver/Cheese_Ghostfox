@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2027546328415559731",
+    "created_at": "2026-02-28T00:48:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T01:48:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027546328415559731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "69280655",
+          "start": 3,
+          "username": "paipaipaitang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/article/2027…",
+          "end": 42,
+          "expanded_url": "http://x.com/i/article/2027409973471580160",
+          "start": 19,
+          "status": 500,
+          "unwound_url": "https://x.com/i/article/2027409973471580160",
+          "url": "https://t.co/SLs11D1o5X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027546328415559731",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027412547222335627",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @paipaipaitang: https://t.co/SLs11D1o5X"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2027546328415559731",
+        "created_at": "2026-02-28T00:48:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T01:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027546328415559731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "69280655",
+              "start": 3,
+              "username": "paipaipaitang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2027…",
+              "end": 42,
+              "expanded_url": "http://x.com/i/article/2027409973471580160",
+              "start": 19,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2027409973471580160",
+              "url": "https://t.co/SLs11D1o5X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027546328415559731",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027412547222335627",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @paipaipaitang: https://t.co/SLs11D1o5X"
+      },
+      {
+        "article": {
+          "title": "Bromantane（溴曼坦）前沿药理学与神经科学深度分析"
+        },
+        "attachments": {},
+        "author_id": "69280655",
+        "conversation_id": "2027412547222335627",
+        "created_at": "2026-02-27T15:56:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T16:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027412547222335627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2027…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2027409973471580160",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2027409973471580160",
+              "url": "https://t.co/SLs11D1o5X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027412547222335627",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 331,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SLs11D1o5X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1038,
+          "following_count": 1378,
+          "like_count": 14051,
+          "listed_count": 4,
+          "media_count": 464,
+          "tweet_count": 4296
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2009-08-27T12:47:46.000Z",
+        "description": "三年超长寿命促智店｜税全票齐正规合法产品｜有合法便宜的利他林 专注达平替｜城招ISRIB供应商｜🌵🍄🪾抗抑郁产品供应中｜超一线促智物质研究中…｜tg：paitangcuzhi3｜本店遵守中华人民共和国法律",
+        "id": "69280655",
+        "location": "49addict@proton.me",
+        "name": "☯️🧬ATLAS 無極",
+        "pinned_tweet_id": "2024527872715813152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016934483623395328/-DAVEPMX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 91,
+          "like_count": 411,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 390
+        },
+        "username": "paipaipaitang",
+        "verified": true
+      }
+    ]
+  }
+}

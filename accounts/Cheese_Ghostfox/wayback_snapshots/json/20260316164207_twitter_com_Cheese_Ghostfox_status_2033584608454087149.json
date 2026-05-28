@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033482065115811841"
+      ],
+      "media_source_tweet_id": [
+        "2033482079179292956"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2033584608454087149",
+    "created_at": "2026-03-16T16:42:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T17:42:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033584608454087149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1109456242643132416",
+          "start": 3,
+          "username": "rantan_haishin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fp1oZNfndH",
+          "end": 70,
+          "expanded_url": "https://x.com/rantan_haishin/status/2033482079179292956/photo/1",
+          "media_key": "3_2033482065115811841",
+          "start": 47,
+          "url": "https://t.co/fp1oZNfndH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033584608454087149",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 518
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033482079179292956",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rantan_haishin: 上履きが脱げてバランスを崩してしまったことによる事故 https://t.co/fp1oZNfndH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3658,
+        "media_key": "3_2033482065115811841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDhhKhRbEAE-I7T.jpg",
+        "width": 2453
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033482065115811841"
+          ],
+          "media_source_tweet_id": [
+            "2033482079179292956"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2033584608454087149",
+        "created_at": "2026-03-16T16:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T17:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033584608454087149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1109456242643132416",
+              "start": 3,
+              "username": "rantan_haishin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fp1oZNfndH",
+              "end": 70,
+              "expanded_url": "https://x.com/rantan_haishin/status/2033482079179292956/photo/1",
+              "media_key": "3_2033482065115811841",
+              "start": 47,
+              "url": "https://t.co/fp1oZNfndH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033584608454087149",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 518
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033482079179292956",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rantan_haishin: 上履きが脱げてバランスを崩してしまったことによる事故 https://t.co/fp1oZNfndH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033482065115811841"
+          ]
+        },
+        "author_id": "1109456242643132416",
+        "conversation_id": "2033482079179292956",
+        "created_at": "2026-03-16T09:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T10:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033482079179292956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fp1oZNfndH",
+              "end": 50,
+              "expanded_url": "https://x.com/rantan_haishin/status/2033482079179292956/photo/1",
+              "media_key": "3_2033482065115811841",
+              "start": 27,
+              "url": "https://t.co/fp1oZNfndH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033482079179292956",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 703,
+          "impression_count": 61084,
+          "like_count": 6883,
+          "quote_count": 8,
+          "reply_count": 11,
+          "retweet_count": 518
+        },
+        "reply_settings": "everyone",
+        "text": "上履きが脱げてバランスを崩してしまったことによる事故 https://t.co/fp1oZNfndH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 1399,
+          "like_count": 14776,
+          "listed_count": 5,
+          "media_count": 499,
+          "tweet_count": 4557
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-23T14:05:55.000Z",
+        "description": "百合みがあるイラストなどを描いています。",
+        "id": "1109456242643132416",
+        "name": "らんたん",
+        "pinned_tweet_id": "2023705234930102588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029539777654161409/HZdeymv-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28072,
+          "following_count": 117,
+          "like_count": 153,
+          "listed_count": 164,
+          "media_count": 124,
+          "tweet_count": 938
+        },
+        "username": "rantan_haishin",
+        "verified": false
+      }
+    ]
+  }
+}

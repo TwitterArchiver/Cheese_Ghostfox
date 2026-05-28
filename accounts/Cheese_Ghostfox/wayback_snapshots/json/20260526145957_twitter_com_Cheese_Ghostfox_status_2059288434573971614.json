@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059084705333743616",
+        "3_2059084705358897152",
+        "3_2059084705325289472",
+        "3_2059084705325367296"
+      ],
+      "media_source_tweet_id": [
+        "2059084716557619352",
+        "2059084716557619352",
+        "2059084716557619352",
+        "2059084716557619352"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2059288434573971614",
+    "created_at": "2026-05-26T14:59:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T15:59:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059288434573971614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2046530162536357888",
+          "start": 3,
+          "username": "yueyechunxue"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YTFYqMZwji",
+          "end": 64,
+          "expanded_url": "https://x.com/yueyechunxue/status/2059084716557619352/photo/1",
+          "media_key": "3_2059084705333743616",
+          "start": 41,
+          "url": "https://t.co/YTFYqMZwji"
+        },
+        {
+          "display_url": "pic.x.com/YTFYqMZwji",
+          "end": 64,
+          "expanded_url": "https://x.com/yueyechunxue/status/2059084716557619352/photo/1",
+          "media_key": "3_2059084705358897152",
+          "start": 41,
+          "url": "https://t.co/YTFYqMZwji"
+        },
+        {
+          "display_url": "pic.x.com/YTFYqMZwji",
+          "end": 64,
+          "expanded_url": "https://x.com/yueyechunxue/status/2059084716557619352/photo/1",
+          "media_key": "3_2059084705325289472",
+          "start": 41,
+          "url": "https://t.co/YTFYqMZwji"
+        },
+        {
+          "display_url": "pic.x.com/YTFYqMZwji",
+          "end": 64,
+          "expanded_url": "https://x.com/yueyechunxue/status/2059084716557619352/photo/1",
+          "media_key": "3_2059084705325367296",
+          "start": 41,
+          "url": "https://t.co/YTFYqMZwji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059288434573971614",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059084716557619352",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yueyechunxue: 看上去是乖乖的制服娘，实际上满脑子黄色废料🥵 https://t.co/YTFYqMZwji"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1902,
+        "media_key": "3_2059084705333743616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJNWoUfbkAAXgtC.jpg",
+        "width": 1134
+      },
+      {
+        "height": 1458,
+        "media_key": "3_2059084705358897152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJNWoUlbYAAVBPV.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059084705325289472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJNWoUdakAAmzyu.jpg",
+        "width": 1532
+      },
+      {
+        "height": 512,
+        "media_key": "3_2059084705325367296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJNWoUdbwAALlvf.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059084705333743616",
+            "3_2059084705358897152",
+            "3_2059084705325289472",
+            "3_2059084705325367296"
+          ],
+          "media_source_tweet_id": [
+            "2059084716557619352",
+            "2059084716557619352",
+            "2059084716557619352",
+            "2059084716557619352"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2059288434573971614",
+        "created_at": "2026-05-26T14:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059288434573971614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046530162536357888",
+              "start": 3,
+              "username": "yueyechunxue"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YTFYqMZwji",
+              "end": 64,
+              "expanded_url": "https://x.com/yueyechunxue/status/2059084716557619352/photo/1",
+              "media_key": "3_2059084705333743616",
+              "start": 41,
+              "url": "https://t.co/YTFYqMZwji"
+            },
+            {
+              "display_url": "pic.x.com/YTFYqMZwji",
+              "end": 64,
+              "expanded_url": "https://x.com/yueyechunxue/status/2059084716557619352/photo/1",
+              "media_key": "3_2059084705358897152",
+              "start": 41,
+              "url": "https://t.co/YTFYqMZwji"
+            },
+            {
+              "display_url": "pic.x.com/YTFYqMZwji",
+              "end": 64,
+              "expanded_url": "https://x.com/yueyechunxue/status/2059084716557619352/photo/1",
+              "media_key": "3_2059084705325289472",
+              "start": 41,
+              "url": "https://t.co/YTFYqMZwji"
+            },
+            {
+              "display_url": "pic.x.com/YTFYqMZwji",
+              "end": 64,
+              "expanded_url": "https://x.com/yueyechunxue/status/2059084716557619352/photo/1",
+              "media_key": "3_2059084705325367296",
+              "start": 41,
+              "url": "https://t.co/YTFYqMZwji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059288434573971614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059084716557619352",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yueyechunxue: 看上去是乖乖的制服娘，实际上满脑子黄色废料🥵 https://t.co/YTFYqMZwji"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059084705333743616",
+            "3_2059084705358897152",
+            "3_2059084705325289472",
+            "3_2059084705325367296"
+          ]
+        },
+        "author_id": "2046530162536357888",
+        "conversation_id": "2059084716557619352",
+        "created_at": "2026-05-26T01:30:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T02:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059084716557619352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YTFYqMZwji",
+              "end": 46,
+              "expanded_url": "https://x.com/yueyechunxue/status/2059084716557619352/photo/1",
+              "media_key": "3_2059084705333743616",
+              "start": 23,
+              "url": "https://t.co/YTFYqMZwji"
+            },
+            {
+              "display_url": "pic.x.com/YTFYqMZwji",
+              "end": 46,
+              "expanded_url": "https://x.com/yueyechunxue/status/2059084716557619352/photo/1",
+              "media_key": "3_2059084705358897152",
+              "start": 23,
+              "url": "https://t.co/YTFYqMZwji"
+            },
+            {
+              "display_url": "pic.x.com/YTFYqMZwji",
+              "end": 46,
+              "expanded_url": "https://x.com/yueyechunxue/status/2059084716557619352/photo/1",
+              "media_key": "3_2059084705325289472",
+              "start": 23,
+              "url": "https://t.co/YTFYqMZwji"
+            },
+            {
+              "display_url": "pic.x.com/YTFYqMZwji",
+              "end": 46,
+              "expanded_url": "https://x.com/yueyechunxue/status/2059084716557619352/photo/1",
+              "media_key": "3_2059084705325367296",
+              "start": 23,
+              "url": "https://t.co/YTFYqMZwji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059084716557619352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1589,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "看上去是乖乖的制服娘，实际上满脑子黄色废料🥵 https://t.co/YTFYqMZwji"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1512,
+          "following_count": 1511,
+          "like_count": 19631,
+          "listed_count": 7,
+          "media_count": 724,
+          "tweet_count": 6315
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-21T10:04:01.000Z",
+        "description": "这里是春雪狐哦，一只奇怪的狐狸，风俗药娘\n🚪70加tg",
+        "id": "2046530162536357888",
+        "location": "Sendai-shi Miyagino, Miyagi",
+        "name": "はるゆき狐🌸🍥",
+        "pinned_tweet_id": "2051417032965734467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053086582694100992/QOGXOuaO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 86,
+          "like_count": 596,
+          "listed_count": 4,
+          "media_count": 92,
+          "tweet_count": 827
+        },
+        "username": "yueyechunxue",
+        "verified": true
+      }
+    ]
+  }
+}

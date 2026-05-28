@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052622806597414912"
+      ],
+      "media_source_tweet_id": [
+        "2052622811387265316"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2052730684213735623",
+    "created_at": "2026-05-08T12:41:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T13:41:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052730684213735623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1488907289591705607",
+          "start": 3,
+          "username": "O2H2_OH4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/D12evxtHZN",
+          "end": 37,
+          "expanded_url": "https://x.com/O2H2_OH4/status/2052622811387265316/photo/1",
+          "media_key": "3_2052622806597414912",
+          "start": 14,
+          "url": "https://t.co/D12evxtHZN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052730684213735623",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 348
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052622811387265316",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @O2H2_OH4: https://t.co/D12evxtHZN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1700,
+        "media_key": "3_2052622806597414912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHxhkT0asAAzzVM.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052622806597414912"
+          ],
+          "media_source_tweet_id": [
+            "2052622811387265316"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2052730684213735623",
+        "created_at": "2026-05-08T12:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052730684213735623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1488907289591705607",
+              "start": 3,
+              "username": "O2H2_OH4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D12evxtHZN",
+              "end": 37,
+              "expanded_url": "https://x.com/O2H2_OH4/status/2052622811387265316/photo/1",
+              "media_key": "3_2052622806597414912",
+              "start": 14,
+              "url": "https://t.co/D12evxtHZN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052730684213735623",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 348
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052622811387265316",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @O2H2_OH4: https://t.co/D12evxtHZN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052622806597414912"
+          ]
+        },
+        "author_id": "1488907289591705607",
+        "conversation_id": "2052622811387265316",
+        "created_at": "2026-05-08T05:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T06:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052622811387265316"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D12evxtHZN",
+              "end": 23,
+              "expanded_url": "https://x.com/O2H2_OH4/status/2052622811387265316/photo/1",
+              "media_key": "3_2052622806597414912",
+              "start": 0,
+              "url": "https://t.co/D12evxtHZN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052622811387265316",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 334,
+          "impression_count": 36971,
+          "like_count": 4240,
+          "quote_count": 9,
+          "reply_count": 10,
+          "retweet_count": 348
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/D12evxtHZN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1487,
+          "following_count": 1520,
+          "like_count": 18701,
+          "listed_count": 7,
+          "media_count": 664,
+          "tweet_count": 5948
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-02T16:09:03.000Z",
+        "description": "후원: https://t.co/F04IP3tE1M /https://t.co/eMBDiKkTwZ /superookie45@naver.com /방송: https://t.co/RHeVtRId2j /오투 DLsite 쿠폰 페이지: https://t.co/1wRsaA6Jut",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "shoulder.fan/@Oxygen0826",
+                "end": 27,
+                "expanded_url": "https://shoulder.fan/@Oxygen0826",
+                "start": 4,
+                "url": "https://t.co/F04IP3tE1M"
+              },
+              {
+                "display_url": "fantrie.com/u14128516",
+                "end": 52,
+                "expanded_url": "https://fantrie.com/u14128516",
+                "start": 29,
+                "url": "https://t.co/eMBDiKkTwZ"
+              },
+              {
+                "display_url": "chzzk.id/o2h2",
+                "end": 105,
+                "expanded_url": "https://chzzk.id/o2h2",
+                "start": 82,
+                "url": "https://t.co/RHeVtRId2j"
+              },
+              {
+                "display_url": "bit.ly/4cKV2Tz",
+                "end": 148,
+                "expanded_url": "https://bit.ly/4cKV2Tz",
+                "start": 125,
+                "url": "https://t.co/1wRsaA6Jut"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/38237881",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/38237881",
+                "start": 0,
+                "url": "https://t.co/kuc4ydvEvU"
+              }
+            ]
+          }
+        },
+        "id": "1488907289591705607",
+        "location": "NOT AI",
+        "name": "오투🧸🎀/5일페",
+        "pinned_tweet_id": "2050209026462622143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029422599785332737/uP7lKL7c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187677,
+          "following_count": 898,
+          "like_count": 15625,
+          "listed_count": 299,
+          "media_count": 1600,
+          "tweet_count": 7692
+        },
+        "url": "https://t.co/kuc4ydvEvU",
+        "username": "O2H2_OH4",
+        "verified": true
+      }
+    ]
+  }
+}

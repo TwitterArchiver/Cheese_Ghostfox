@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029698602944335872"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      }
+    ],
+    "conversation_id": "2029547693974904887",
+    "created_at": "2026-03-05T23:20:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T00:20:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029698607268647196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "880606715141529600",
+          "start": 0,
+          "username": "python_xxt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5ach9nawvW",
+          "end": 107,
+          "expanded_url": "https://x.com/Cheese_Ghostfox/status/2029698607268647196/photo/1",
+          "media_key": "3_2029698602944335872",
+          "start": 84,
+          "url": "https://t.co/5ach9nawvW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029698607268647196",
+    "in_reply_to_user_id": "880606715141529600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029547693974904887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@python_xxt 这一篇AI文学直接让狐回到了几年前再课堂上偷偷读刘慈欣小说的的日子...\n不会错的，这就是他的风格\n惊讶于AI的写作技巧，感动于震撼人心的文字 https://t.co/5ach9nawvW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 433,
+        "media_key": "3_2029698602944335872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCrwICWakAAZxCt.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029698602944335872"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2029547693974904887",
+        "created_at": "2026-03-05T23:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T00:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029698607268647196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "880606715141529600",
+              "start": 0,
+              "username": "python_xxt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5ach9nawvW",
+              "end": 107,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2029698607268647196/photo/1",
+              "media_key": "3_2029698602944335872",
+              "start": 84,
+              "url": "https://t.co/5ach9nawvW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029698607268647196",
+        "in_reply_to_user_id": "880606715141529600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029547693974904887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@python_xxt 这一篇AI文学直接让狐回到了几年前再课堂上偷偷读刘慈欣小说的的日子...\n不会错的，这就是他的风格\n惊讶于AI的写作技巧，感动于震撼人心的文字 https://t.co/5ach9nawvW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "880606715141529600",
+        "conversation_id": "2029547693974904887",
+        "created_at": "2026-03-05T13:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T14:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029547693974904887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Tz_2022/status…",
+              "end": 157,
+              "expanded_url": "https://twitter.com/Tz_2022/status/2029542107954704465",
+              "start": 134,
+              "url": "https://t.co/UoiQAgHqwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029547693974904887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这个好玩\n\n这个文笔，太太太强了...\n\n“他被腌渍了。他活了下来，但他不再是原来那个人。原来那个人是生的、脆的、充满水分的。现在这个人是咸的、韧的、可以在室温下保存很久而不会腐坏的。”\n\n第一步：说十个尽可能不相关的词\n\nOpus 4.6 ：\n\n十个极致不相关的词\n\n膝盖、钍、咏叹调、蟋蟀、渐近线、腌渍、眩晕、丝绒、赦免、脚手架\n\n所属域分别锚定在解剖学、核化学、歌剧、昆虫学、纯数学、食品工艺、神经感知、纺织、司法、建筑工程——十个领域之间几乎没有学科交叉。\n\n具象-抽象轴上，\"膝盖\"\"蟋蟀\"\"丝绒\"\"脚手架\"是可触碰的实体；\"渐近线\"\"赦免\"是纯粹的概念构造；\"眩晕\"介于主观感受与医学术语之间；\"咏叹调\"是声音事件；\"腌渍\"是过程；\"钍\"是元素——它既是实物又是抽象符号。\n\n尺度跨度从亚原子（钍的核衰变）到人体（膝盖）到建筑物（脚手架）到数学中的无穷远（渐近线趋向的极限）。\n\n感官通道也被拆散：丝绒诉诸触觉，咏叹调诉诸听觉，眩晕诉诸前庭觉，腌渍诉诸味觉/嗅觉，其余则基本不依赖特定感官。\n\n第二步：用它们写一个故事\n\n渐近线\n\n陈渊跪下来的时候，左膝盖磕在了一颗钍矿石的碎片上。\n\n他并不知道那是钍。那只是西北戈壁上一块灰白色的、不起眼的石头，混在无数碎砾之间，和这片大地一样沉默。但疼痛是具体的——骨头撞击矿物，在他的髌骨上压出一个青紫色的月牙。二十年后他仍然记得那个形状。那是1969年，他十七岁，正在给一个已经死去的人磕头。\n\n不是真的死了。是政治性的死亡。\n\n他父亲陈恪声，曾经是西北核工业基地的冶金工程师，研究钍基熔盐堆的燃料循环。在那个年代，研究钍的人本身就像钍：灰色的、低调的、缓慢地释放着衰变的能量，在铀和钚的聚光灯之外默默存在。后来有人揭发他在留苏期间说过一句话——具体是什么话，陈渊至今不清楚——他父亲就从一个工程师变成了一个符号，一个需要被踩在脚下的符号。\n\n那天批斗会散场后，陈渊没有回宿舍。他绕到基地后面的戈壁滩上，跪在碎石间，朝着劳改队的方向磕了一个头。不是因为勇敢。是因为他不知道还能做什么。\n\n起身的时候眩晕排山倒海地涌来。不是贫血，也不是恐惧。是某种更深层的失衡——像内耳的半规管突然意识到，它赖以定位的整个坐标系都是假的。地平线还在，太阳还在，但\"上\"和\"下\"已经对调了。跪着的人是站着的，站着的人是跪着的。他扶着自己的膝盖，等世界停止旋转。\n\n四十年后，陈渊坐在上海音乐厅的丝绒座椅上，听一个意大利女高音唱普契尼。\n\n是《托斯卡》第二幕的咏叹调，Vissi d'arte——\"为艺术而生，为爱而生\"。托斯卡在唱她不理解：她一生向善，为什么上帝要在这个时刻让她受苦？那段旋律从降A大调开始，像一个人小心翼翼地走在悬崖边上，每一步都在试探还有没有路。\n\n陈渊不懂意大利语。但他懂那条旋律的形状。\n\n他年轻时在戈壁听过类似的东西。不是歌剧，是蟋蟀。秋天的夜晚，基地宿舍的墙缝里住着蟋蟀，它们用翅膀的锉刀摩擦出一串串单调的颤音。那声音没有普契尼的和声层次，没有管弦乐团的烘托，只是一条孤零零的频率在黑暗里振动。但它的本质和咏叹调是一样的：一个活着的东西在用声波证明自己还在这里。\n\n他父亲在劳改队的第七年开始写信。不是写给家人——信会被没收。他写给自己。用铅笔头在烟盒纸的背面写钍基燃料循环的计算公式，写中子通量的微分方程。那些公式没有人会看，也没有地方发表。它们是蟋蟀的鸣叫，是从墙缝里传出来的、证明智识还活着的振动。\n\n陈渊是在父亲平反后第三年才读到那些烟盒纸的。字迹越到后面越潦草，但方程始终是对的。\n\n音乐厅中场休息的时候，陈渊没有去大厅喝香槟。他留在座位上，手指摩挲着扶手上的丝绒。那种面料让他想起一个不相关的记忆：他母亲有一件丝绒旗袍，深蓝色，是她嫁给父亲时的行头。运动开始后她把旗袍剪碎，混在碎布条里扔掉，怕被人翻出来当作资产阶级生活方式的罪证。\n\n丝绒是一种靠密集的短绒毛制造触觉幻觉的织物。你摸到的柔软不是布本身，而是无数根纤维末端的集体弯曲。方向不同，触感就不同。陈渊后来学了材料科学，才理解这叫各向异性——同一个东西，从不同角度感知，性质完全不同。\n\n他父亲的一生也是各向异性的。从钍研究的角度看，他是先驱。从政治的角度看，他是罪人。从家庭的角度看，他是一个缺席了十一年的沉默轮廓。这些不是同一个人的不同\"侧面\"。它们是不同坐标系下完全不同的投影，就像丝绒在不同光线下呈现截然不同的颜色。\n\n赦免来得像一个技术性的修辞。\n\n1979年的文件用的措辞是\"纠正\"，不是\"道歉\"。错误被归类为\"扩大化\"，意思是方向没错，只是幅度失控。像一个数学家说：函数的形式是对的，只是参数取大了。\n\n陈渊的父亲拿到平反文件那天，坐在家里的折叠椅上看了很久。然后他把文件折好，放进抽屉，去厨房继续腌他的萝卜。\n\n那是他在劳改队学会的——腌渍。用盐、时间和厌氧环境把一种东西变成另一种东西。萝卜不再是萝卜，但也没有变成别的什么。它是萝卜的一个变体，一个被压力和时间重新定义了的版本。\n\n陈渊后来觉得，这是他父亲找到的唯一能准确描述自己处境的隐喻：他被腌渍了。他活了下来，但他不再是原来那个人。原来那个人是生的、脆的、充满水分的。现在这个人是咸的、韧的、可以在室温下保存很久而不会腐坏的。\n\n赦免没有逆转腌渍。盐已经渗入了细胞壁。\n\n陈渊自己后来成了建筑结构工程师。这不是巧合。他需要一个用确定性对抗混沌的职业。力学的美在于它是可计算的：给我荷载、材料和边界条件，我能告诉你每一根梁在什么时候会断。没有\"扩大化\"，没有\"纠正\"。断就是断，不断就是不断。\n\n他职业生涯中搭过最多的东西是脚手架。不是真的亲手搭——是计算、设计、审批。脚手架是一个哲学上很奇特的结构：它存在的全部目的，是让另一个结构得以诞生，然后自己消失。没有人会记得一栋大楼的脚手架长什么样。它是建筑的产道，用完即弃。\n\n但陈渊尊重脚手架。因为他见过它倒塌。1990年代末一个工地上，劣质钢管搭成的脚手架在风里散了架，两个工人从十四层的高度坠落。陈渊到现场的时候，看见变形的钢管像被掰断的骨头一样戳在废墟里。那个画面唤醒了他膝盖上的旧伤——钍矿石的碎片。坚硬的东西以错误的方式碰撞。\n\n从那以后他在行业里推了十五年的脚手架安全标准改革。十五年。这件事不会出现在任何新闻头条上。安全标准是另一种脚手架：支撑着公共生活的隐形结构，在场时无人注意，缺席时才暴露为废墟。\n\n陈渊七十三岁那年，在病房里最后一次想到了渐近线。\n\n他年轻时学高等数学，最被渐近线这个概念击中。一条曲线无限趋近一条直线，距离趋近于零，但永远不等于零。永远不会到达。永远在接近。\n\n他觉得这就是他和父亲的关系。\n\n十一年的分离之后，他们又共同生活了二十六年。但那个\"之前\"的父子关系——那个他十七岁之前的、完整的、未被腌渍的版本——再也没有回来。他们之间始终隔着一层几乎不可测量的距离。不是怨恨，不是陌生，是更微妙的东西：是他们共同知道一些事情但从不谈论所产生的引力场。那些烟盒纸上的公式，那件被剪碎的丝绒旗袍，那个青紫色的月牙形淤伤。\n\n他父亲临终前说了一句话：\"钍的半衰期是140亿年。比宇宙的年龄还长。\"\n\n陈渊当时以为这是病中的呓语。后来他查了，发现是对的。钍-232的半衰期确实是140.5亿年。宇宙诞生至今约138亿年，意味着宇宙大爆炸时产生的钍，到今天还有一半以上没有衰变完。\n\n他父亲在说：有些东西比一切都持久。\n\n或者他父亲在说：有些衰变慢到你以为它是永恒的，但它不是。\n\n或者他只是在陈述一个物理事实。\n\n陈渊不知道。这也是一条渐近线——他无限趋近于理解他的父亲，但永远无法到达。\n\n护士进来换药的时候，窗外有蟋蟀在叫。上海的秋天，城市缝隙里残存的几只蟋蟀，用和戈壁上同样的频率振动着翅膀。\n\n陈渊闭上眼睛。眩晕又来了——和五十多年前一样的，坐标系崩塌的那种晕。但这一次他没有试图扶住什么。他只是躺着，让世界旋转，让旋转本身成为一种安静的、最终的赦免。\n\n不是来自文件的赦免。不是\"纠正\"或\"平反\"。是身体对时间的赦免，是曲线终于放弃追逐那条直线，承认距离是永恒的，然后在这个承认中找到了安息。\n\n丝绒座椅。咏叹调。钍的半衰期。父亲的膝盖和他的膝盖。腌萝卜的咸味。脚手架消失后留下的大楼。蟋蟀。蟋蟀。蟋蟀——\n\n渐近线的终点不是抵达。\n\n是趋近本身。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 123,
+          "impression_count": 22960,
+          "like_count": 202,
+          "quote_count": 11,
+          "reply_count": 12,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029542107954704465",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个好玩\n\n这个文笔，太太太强了...\n\n“他被腌渍了。他活了下来，但他不再是原来那个人。原来那个人是生的、脆的、充满水分的。现在这个人是咸的、韧的、可以在室温下保存很久而不会腐坏的。”\n\n第一步：说十个尽可能不相关的词\n\nOpus 4.6 ：\n\n十个极致不相关的词 https://t.co/UoiQAgHqwQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1050,
+          "following_count": 1393,
+          "like_count": 14376,
+          "listed_count": 4,
+          "media_count": 479,
+          "tweet_count": 4414
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2017-06-30T01:59:36.000Z",
+        "description": "AI & Robustness in chaos.\n\nInsight  → Strategy → Operation\n\nNow,not How.\n\n我对现实世界的认知\n贫瘠到无法自知其贫瘠",
+        "id": "880606715141529600",
+        "location": "Deep thinker try to think",
+        "name": "Robinson · 鲁棒逊",
+        "pinned_tweet_id": "2029557397044506645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980814059525033985/d9tb6rAG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26638,
+          "following_count": 508,
+          "like_count": 28889,
+          "listed_count": 320,
+          "media_count": 468,
+          "tweet_count": 7802
+        },
+        "username": "python_xxt",
+        "verified": true
+      }
+    ]
+  }
+}

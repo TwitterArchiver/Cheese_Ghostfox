@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052705500400431104"
+      ],
+      "media_source_tweet_id": [
+        "2052705930228515059"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2052729730592624783",
+    "created_at": "2026-05-08T12:38:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T13:38:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052729730592624783"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 14,
+          "tag": "重音テト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1969215846599049216",
+          "start": 3,
+          "username": "gund_no9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/szF0A9N6Qt",
+          "end": 58,
+          "expanded_url": "https://x.com/gund_no9/status/2052705930228515059/photo/1",
+          "media_key": "3_2052705500400431104",
+          "start": 35,
+          "url": "https://t.co/szF0A9N6Qt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052729730592624783",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 96
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052705930228515059",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gund_no9: #重音テト\nもう食べられないでござる…… https://t.co/szF0A9N6Qt"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2052729730592624783].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2052729730592624783",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2052729730592624783"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2052705500400431104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHysxuPbsAAAGT4.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052705500400431104"
+          ]
+        },
+        "author_id": "1969215846599049216",
+        "conversation_id": "2052705930228515059",
+        "created_at": "2026-05-08T11:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052705930228515059"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "重音テト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/szF0A9N6Qt",
+              "end": 44,
+              "expanded_url": "https://x.com/gund_no9/status/2052705930228515059/photo/1",
+              "media_key": "3_2052705500400431104",
+              "start": 21,
+              "url": "https://t.co/szF0A9N6Qt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052705930228515059",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 161,
+          "impression_count": 11447,
+          "like_count": 1353,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 96
+        },
+        "reply_settings": "everyone",
+        "text": "#重音テト\nもう食べられないでござる…… https://t.co/szF0A9N6Qt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1487,
+          "following_count": 1520,
+          "like_count": 18698,
+          "listed_count": 7,
+          "media_count": 664,
+          "tweet_count": 5947
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-20T01:43:54.000Z",
+        "description": "お絵かきとかアニメとか\n気が向いたらこっちもよろしく→@sdkfz161_1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "sdkfz161_1"
+              }
+            ]
+          }
+        },
+        "id": "1969215846599049216",
+        "name": "藻屑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972590121435426816/yhTsVS2B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10171,
+          "following_count": 43,
+          "like_count": 672,
+          "listed_count": 57,
+          "media_count": 87,
+          "tweet_count": 681
+        },
+        "username": "gund_no9",
+        "verified": false
+      }
+    ]
+  }
+}

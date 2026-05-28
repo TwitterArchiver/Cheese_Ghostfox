@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2057175968817770645",
+    "created_at": "2026-05-20T19:05:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T20:05:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057175968817770645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2041928238327599104",
+          "start": 3,
+          "username": "atheyte"
+        },
+        {
+          "end": 22,
+          "id": "126581934",
+          "start": 13,
+          "username": "dearemon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057175968817770645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057074577214411187",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @atheyte: @dearemon 无法直视“喝过洋墨水”这句话了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2057175968817770645",
+        "created_at": "2026-05-20T19:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T20:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057175968817770645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041928238327599104",
+              "start": 3,
+              "username": "atheyte"
+            },
+            {
+              "end": 22,
+              "id": "126581934",
+              "start": 13,
+              "username": "dearemon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057175968817770645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057074577214411187",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @atheyte: @dearemon 无法直视“喝过洋墨水”这句话了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041928238327599104",
+        "conversation_id": "2056972054814146605",
+        "created_at": "2026-05-20T12:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T13:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057074577214411187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "126581934",
+              "start": 0,
+              "username": "dearemon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057074577214411187",
+        "in_reply_to_user_id": "126581934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1619,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056972054814146605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dearemon 无法直视“喝过洋墨水”这句话了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1517,
+          "following_count": 1521,
+          "like_count": 19416,
+          "listed_count": 7,
+          "media_count": 707,
+          "tweet_count": 6236
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-08T17:21:08.000Z",
+        "description": "",
+        "id": "2041928238327599104",
+        "name": "刚刚打赢复活赛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041929836273528838/X0-bjwCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 165,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 166
+        },
+        "username": "atheyte",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-26T09:45:48.000Z",
+        "description": "世上哪有Happy Ending这回事儿，Ending本身就够悲伤的了。 第一届皮皮虾花样去壳冠军 。SW 5792-2309-7599 动森梦境岛 DA-9972-7707-7708",
+        "id": "126581934",
+        "name": "禿道道🐟",
+        "pinned_tweet_id": "1917513212721090703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004910874897907712/QA8ibrUG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58344,
+          "following_count": 693,
+          "like_count": 5846,
+          "listed_count": 221,
+          "media_count": 29765,
+          "tweet_count": 392178
+        },
+        "username": "dearemon",
+        "verified": true
+      }
+    ]
+  }
+}

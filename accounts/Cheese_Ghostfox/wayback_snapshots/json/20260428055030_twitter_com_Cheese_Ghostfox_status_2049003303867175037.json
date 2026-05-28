@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2049002136013578643",
+    "created_at": "2026-04-28T05:50:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T06:50:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049003303867175037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1559904731434287108",
+          "start": 0,
+          "username": "jingyhn11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049003303867175037",
+    "in_reply_to_user_id": "1559904731434287108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049002136013578643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingyhn11 不是真的就好，愿你们二人此生平安🫡‌🫂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1396,
+        "media_key": "3_2049002122881155072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG-Ekx5aQAABeVe.jpg",
+        "width": 1260
+      },
+      {
+        "height": 715,
+        "media_key": "3_2049002123673886720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG-Ek02aYAAhe96.jpg",
+        "width": 1254
+      },
+      {
+        "height": 1268,
+        "media_key": "3_2049002121840988160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG-EkuBakAAmWnm.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2049002136013578643",
+        "created_at": "2026-04-28T05:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T06:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049003303867175037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1559904731434287108",
+              "start": 0,
+              "username": "jingyhn11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049003303867175037",
+        "in_reply_to_user_id": "1559904731434287108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049002136013578643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingyhn11 不是真的就好，愿你们二人此生平安🫡‌🫂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049002122881155072",
+            "3_2049002123673886720",
+            "3_2049002121840988160"
+          ]
+        },
+        "author_id": "1559904731434287108",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049002136013578643",
+        "created_at": "2026-04-28T05:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T06:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049002136013578643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gXv4Y8Eegp",
+              "end": 154,
+              "expanded_url": "https://x.com/jingyhn11/status/2049002136013578643/photo/1",
+              "media_key": "3_2049002122881155072",
+              "start": 131,
+              "url": "https://t.co/gXv4Y8Eegp"
+            },
+            {
+              "display_url": "pic.x.com/gXv4Y8Eegp",
+              "end": 154,
+              "expanded_url": "https://x.com/jingyhn11/status/2049002136013578643/photo/1",
+              "media_key": "3_2049002123673886720",
+              "start": 131,
+              "url": "https://t.co/gXv4Y8Eegp"
+            },
+            {
+              "display_url": "pic.x.com/gXv4Y8Eegp",
+              "end": 154,
+              "expanded_url": "https://x.com/jingyhn11/status/2049002136013578643/photo/1",
+              "media_key": "3_2049002121840988160",
+              "start": 131,
+              "url": "https://t.co/gXv4Y8Eegp"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "2049002136013578643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 87,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "最新的进展，我可以说家长和医生都是神人吗？以及对于观看到我贴子的人抱以真挚的道歉，抱歉因为我的冲动给你们带来了恐慌，他确实是失忆了，不过并不是切除手术导致，而是药物阻断。通过这件事关注我的人可以取关了，我并不想让人说我是通过这个博人眼球。后续我会好好照顾他的。 https://t.co/gXv4Y8Eegp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1426,
+          "following_count": 1504,
+          "like_count": 17580,
+          "listed_count": 4,
+          "media_count": 614,
+          "tweet_count": 5574
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-17T14:07:37.000Z",
+        "description": "灰云，种族狼，furry爱好者。\n平时发些照片和稿件，是个老司机，时不时会开车，无雷点。☺️",
+        "id": "1559904731434287108",
+        "location": "南昌市",
+        "name": "灰云",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001685366550806528/TPmPqtVv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4009,
+          "following_count": 218,
+          "like_count": 661,
+          "listed_count": 7,
+          "media_count": 161,
+          "tweet_count": 314
+        },
+        "username": "jingyhn11",
+        "verified": false
+      }
+    ]
+  }
+}

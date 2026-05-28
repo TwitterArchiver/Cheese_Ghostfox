@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058683221932728320"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2058683265519882376",
+    "created_at": "2026-05-24T22:55:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T23:55:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058683265519882376"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DmuJu8gPa2",
+          "end": 31,
+          "expanded_url": "https://x.com/Cheese_Ghostfox/status/2058683265519882376/photo/1",
+          "media_key": "3_2058683221932728320",
+          "start": 8,
+          "url": "https://t.co/DmuJu8gPa2"
+        },
+        {
+          "display_url": "x.com/Cheese_Ghostfo…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/Cheese_Ghostfox/status/2058677024814944545",
+          "start": 32,
+          "url": "https://t.co/9uD7KlgPl7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058683265519882376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058677024814944545",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "再加个智谱娘( https://t.co/DmuJu8gPa2 https://t.co/9uD7KlgPl7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2058683221932728320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJHpe6RbYAAokJS.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2058676888562982912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJHjuQoaYAAKUfL.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2058676895848558592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJHjurxbcAAR7-o.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2058676905222848512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJHjvOsbwAAYYZX.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2058676913577848832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJHjvt0a8AAH9wo.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058683221932728320"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058683265519882376",
+        "created_at": "2026-05-24T22:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T23:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058683265519882376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DmuJu8gPa2",
+              "end": 31,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2058683265519882376/photo/1",
+              "media_key": "3_2058683221932728320",
+              "start": 8,
+              "url": "https://t.co/DmuJu8gPa2"
+            },
+            {
+              "display_url": "x.com/Cheese_Ghostfo…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/Cheese_Ghostfox/status/2058677024814944545",
+              "start": 32,
+              "url": "https://t.co/9uD7KlgPl7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058683265519882376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058677024814944545",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再加个智谱娘( https://t.co/DmuJu8gPa2 https://t.co/9uD7KlgPl7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058676888562982912",
+            "3_2058676895848558592",
+            "3_2058676905222848512",
+            "3_2058676913577848832"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058677024814944545",
+        "created_at": "2026-05-24T22:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T23:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058677024814944545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YJcolSdhJa",
+              "end": 38,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2058677024814944545/photo/1",
+              "media_key": "3_2058676888562982912",
+              "start": 15,
+              "url": "https://t.co/YJcolSdhJa"
+            },
+            {
+              "display_url": "pic.x.com/YJcolSdhJa",
+              "end": 38,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2058677024814944545/photo/1",
+              "media_key": "3_2058676895848558592",
+              "start": 15,
+              "url": "https://t.co/YJcolSdhJa"
+            },
+            {
+              "display_url": "pic.x.com/YJcolSdhJa",
+              "end": 38,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2058677024814944545/photo/1",
+              "media_key": "3_2058676905222848512",
+              "start": 15,
+              "url": "https://t.co/YJcolSdhJa"
+            },
+            {
+              "display_url": "pic.x.com/YJcolSdhJa",
+              "end": 38,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2058677024814944545/photo/1",
+              "media_key": "3_2058676913577848832",
+              "start": 15,
+              "url": "https://t.co/YJcolSdhJa"
+            },
+            {
+              "display_url": "x.com/beardomination…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/beardomination/status/2048726924869124566",
+              "start": 39,
+              "url": "https://t.co/VoI7EFAkkS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058677024814944545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048726924869124566",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "「请选择您的国产人工智障」( https://t.co/YJcolSdhJa https://t.co/VoI7EFAkkS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1511,
+          "following_count": 1508,
+          "like_count": 19574,
+          "listed_count": 7,
+          "media_count": 719,
+          "tweet_count": 6298
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      }
+    ]
+  }
+}

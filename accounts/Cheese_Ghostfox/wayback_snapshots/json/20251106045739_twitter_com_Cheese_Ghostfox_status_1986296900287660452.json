@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1986074707553358204",
+    "created_at": "2025-11-06T04:57:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T05:57:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986296900287660452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1670705567688704001",
+          "start": 0,
+          "username": "RailhamChiMing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986296900287660452",
+    "in_reply_to_user_id": "1670705567688704001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986074707553358204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RailhamChiMing 哇，老乡!"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1986074702742499328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4_0a2JbMAAnrhO.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1986074707553358204",
+        "created_at": "2025-11-06T04:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T05:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986296900287660452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1670705567688704001",
+              "start": 0,
+              "username": "RailhamChiMing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986296900287660452",
+        "in_reply_to_user_id": "1670705567688704001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986074707553358204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RailhamChiMing 哇，老乡!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986074702742499328"
+          ]
+        },
+        "author_id": "1670705567688704001",
+        "conversation_id": "1986074707553358204",
+        "created_at": "2025-11-05T14:14:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T15:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986074707553358204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P9HthpkcIj",
+              "end": 30,
+              "expanded_url": "https://x.com/RailhamChiMing/status/1986074707553358204/photo/1",
+              "media_key": "3_1986074702742499328",
+              "start": 7,
+              "url": "https://t.co/P9HthpkcIj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986074707553358204",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2527,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大概是半年前 https://t.co/P9HthpkcIj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "单线程狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨燦若花火的生命，无法用只言片语概括丨裡推 @HEX_Ghostfox丨恋人 @YekaseSuiso2022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 123,
+                "username": "HEX_Ghostfox"
+              },
+              {
+                "end": 156,
+                "start": 140,
+                "username": "YekaseSuiso2022"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬暗号通貨戦士霊狐🏳️‍⚧️",
+        "pinned_tweet_id": "1971908706771304723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984625831894016000/RhpiuO0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 1051,
+          "like_count": 9552,
+          "listed_count": 2,
+          "media_count": 285,
+          "tweet_count": 2702
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-19T08:11:28.000Z",
+        "description": "RHS腐竹/168 53 0.5/俄留子/双形态/猫/上白沢慧音/🚅進化清洲兄弟/历史/诗词创作/舞萌/巧克力/中推生态观察者/空谈误国，实干兴邦/本人关注列表不代表本人立场/瑞汉语推：@RoyhanChyMinh/❤️:@Forth_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 93,
+                "username": "RoyhanChyMinh"
+              },
+              {
+                "end": 119,
+                "start": 111,
+                "username": "Forth_0"
+              }
+            ]
+          }
+        },
+        "id": "1670705567688704001",
+        "location": "瑞汉服务器 迟家镇 昭地辖区 瑞汉铁路办大学 国际教育学院",
+        "name": "瑞汉迟铭(Рейлхам Чи Мин)",
+        "pinned_tweet_id": "1982734856573632627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974920377005678592/mr_nLOoM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1133,
+          "following_count": 768,
+          "like_count": 17568,
+          "listed_count": 3,
+          "media_count": 1182,
+          "tweet_count": 8945
+        },
+        "username": "RailhamChiMing",
+        "verified": false
+      }
+    ]
+  }
+}

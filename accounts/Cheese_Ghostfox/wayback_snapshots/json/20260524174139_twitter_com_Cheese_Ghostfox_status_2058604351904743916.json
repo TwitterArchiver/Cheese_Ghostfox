@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058518123209523201"
+      ],
+      "media_source_tweet_id": [
+        "2058542532707958974"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2058604351904743916",
+    "created_at": "2026-05-24T17:41:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T18:41:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058604351904743916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1489717754190254080",
+          "start": 3,
+          "username": "FinGocco"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ih0SOEAzyk",
+          "end": 45,
+          "expanded_url": "https://x.com/FinGocco/status/2058542532707958974/photo/1",
+          "media_key": "3_2058518123209523201",
+          "start": 22,
+          "url": "https://t.co/ih0SOEAzyk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058604351904743916",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 221
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058542532707958974",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FinGocco: 放課後デート🎤 https://t.co/ih0SOEAzyk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2456,
+        "media_key": "3_2058518123209523201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJFTU5mbgAE4opu.jpg",
+        "width": 1738
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058518123209523201"
+          ],
+          "media_source_tweet_id": [
+            "2058542532707958974"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2058604351904743916",
+        "created_at": "2026-05-24T17:41:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T18:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058604351904743916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1489717754190254080",
+              "start": 3,
+              "username": "FinGocco"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ih0SOEAzyk",
+              "end": 45,
+              "expanded_url": "https://x.com/FinGocco/status/2058542532707958974/photo/1",
+              "media_key": "3_2058518123209523201",
+              "start": 22,
+              "url": "https://t.co/ih0SOEAzyk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058604351904743916",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 221
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058542532707958974",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FinGocco: 放課後デート🎤 https://t.co/ih0SOEAzyk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058518123209523201"
+          ]
+        },
+        "author_id": "1489717754190254080",
+        "conversation_id": "2058542532707958974",
+        "created_at": "2026-05-24T13:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T14:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058542532707958974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ih0SOEAzyk",
+              "end": 31,
+              "expanded_url": "https://x.com/FinGocco/status/2058542532707958974/photo/1",
+              "media_key": "3_2058518123209523201",
+              "start": 8,
+              "url": "https://t.co/ih0SOEAzyk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058542532707958974",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 211,
+          "impression_count": 9836,
+          "like_count": 2006,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 221
+        },
+        "reply_settings": "everyone",
+        "text": "放課後デート🎤 https://t.co/ih0SOEAzyk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1511,
+          "following_count": 1507,
+          "like_count": 19551,
+          "listed_count": 7,
+          "media_count": 717,
+          "tweet_count": 6290
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-04T21:49:38.000Z",
+        "description": "Hello\nIllustrator🎨Live2D ⫶\nskeb▹https://t.co/rIr8Ve1Bim ⫶🖋\nV child▹威月やあず(@izuki_yazu) ⫶🐉\nfin.gocoo○https://t.co/CQEmKc7kiy ⫶✉️\n無断転載禁止",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 73,
+                "username": "izuki_yazu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@FinGocco",
+                "end": 55,
+                "expanded_url": "https://skeb.jp/@FinGocco",
+                "start": 32,
+                "url": "https://t.co/rIr8Ve1Bim"
+              },
+              {
+                "display_url": "gmail.com",
+                "end": 122,
+                "expanded_url": "http://gmail.com",
+                "start": 99,
+                "url": "https://t.co/CQEmKc7kiy"
+              }
+            ]
+          }
+        },
+        "id": "1489717754190254080",
+        "name": "Fin Gocco",
+        "pinned_tweet_id": "2015050200252125367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801760460980830208/l-Q9b_jm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11286,
+          "following_count": 20,
+          "like_count": 797,
+          "listed_count": 47,
+          "media_count": 544,
+          "tweet_count": 2310
+        },
+        "username": "FinGocco",
+        "verified": true
+      }
+    ]
+  }
+}

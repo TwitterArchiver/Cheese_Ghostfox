@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2057251778073416107",
+    "created_at": "2026-05-21T00:12:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T01:12:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057253258331337168"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057253258331337168",
+    "in_reply_to_user_id": "1620506107306479617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057251778073416107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "狐发现了个很有趣的现象:\n无论高音假声还是低音假声都会在起句与收句处向本音音域产生尖峰(\n可能是狐的气息不够(?)\n毕竟肺很差,,,"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 63083,
+        "height": 1920,
+        "media_key": "7_2057251725577490433",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2057251725577490433/pu/img/ysLDf0b8JOMhUXHP.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057251725577490433/pu/vid/avc1/320x710/s5i_wZyJYyQxnOrW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057251725577490433/pu/vid/avc1/720x1600/9lsqz1M2kazj0Xlp.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057251725577490433/pu/vid/avc1/480x1066/3KOTJuJsODV4sqDx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2057251725577490433/pu/pl/s0CUUKe7PhKhl9QH.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057251725577490433/pu/vid/avc1/864x1920/ezI185SHeZ2xzpuy.mp4"
+          }
+        ],
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2057251778073416107",
+        "created_at": "2026-05-21T00:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T01:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057253258331337168"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057253258331337168",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057251778073416107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "狐发现了个很有趣的现象:\n无论高音假声还是低音假声都会在起句与收句处向本音音域产生尖峰(\n可能是狐的气息不够(?)\n毕竟肺很差,,,"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2057251725577490433"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2057251778073416107",
+        "created_at": "2026-05-21T00:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T01:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057251778073416107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j0pH9jGuYp",
+              "end": 71,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2057251778073416107/video/1",
+              "media_key": "7_2057251725577490433",
+              "start": 48,
+              "url": "https://t.co/j0pH9jGuYp"
+            },
+            {
+              "display_url": "x.com/Cheese_Ghostfo…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/Cheese_Ghostfox/status/2057240059276071127",
+              "start": 72,
+              "url": "https://t.co/ErpmBKmQnu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057251778073416107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057240059276071127",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再来个低假声转真声转高假声的歌(\n毛不易《消愁》\n低音部分狐真有点下不去 ，，，压出气泡音了喵 https://t.co/j0pH9jGuYp https://t.co/ErpmBKmQnu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1515,
+          "following_count": 1520,
+          "like_count": 19421,
+          "listed_count": 7,
+          "media_count": 708,
+          "tweet_count": 6242
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2030269669492609453",
+    "created_at": "2026-03-07T15:12:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T16:12:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030300500571349172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1647175261866332160",
+          "start": 0,
+          "username": "MrWogo47492"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030300500571349172",
+    "in_reply_to_user_id": "1647175261866332160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030269669492609453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MrWogo47492 狐觉得它太过「底层」且「抽象」到难以接受了(尤其是对我这个visual thinker来说)\n沿用那个编程语言的比喻，如果说化学是Java，物理是C++，那么数学这个鬼东西就是汇编语言..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2030269669492609453",
+        "created_at": "2026-03-07T15:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T16:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030300500571349172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1647175261866332160",
+              "start": 0,
+              "username": "MrWogo47492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030300500571349172",
+        "in_reply_to_user_id": "1647175261866332160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030269669492609453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MrWogo47492 狐觉得它太过「底层」且「抽象」到难以接受了(尤其是对我这个visual thinker来说)\n沿用那个编程语言的比喻，如果说化学是Java，物理是C++，那么数学这个鬼东西就是汇编语言..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647175261866332160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2030269669492609453",
+        "created_at": "2026-03-07T13:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T14:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030269669492609453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cheese_Ghostfo…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/Cheese_Ghostfox/status/2030107689959969211",
+              "start": 56,
+              "url": "https://t.co/7jeTBqPUrz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030269669492609453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030107689959969211",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "沒人關心下作為描述工具的數學(尤其analysis)嗎？因為它神奇到正常人難以理解嗎？\n還是只是因為它很醜陋。 https://t.co/7jeTBqPUrz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1075,
+          "following_count": 1397,
+          "like_count": 14476,
+          "listed_count": 4,
+          "media_count": 483,
+          "tweet_count": 4447
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-15T09:53:01.000Z",
+        "description": "以技術性談話為主，冷笑話為副，兼發些吐糟，賬號上偶然有鼠君(Rat)出現，興趣是數學和鼓\n\n無任何不良習慣，有四個好厚米，腦迴路驚人，愛講淦話，皇室戰爭/COC 6年玩家，還有……不要看我點贊了誰以及關注了誰，這很重要，這裡不總是適合小朋友看的",
+        "id": "1647175261866332160",
+        "location": "住在貝塔鎮(一個在另一個平行宇宙的小鎮)",
+        "name": "Mr wogo🌶🌶🌶",
+        "pinned_tweet_id": "1969731043034010069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734861660442312704/UKnloeoa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 30,
+          "like_count": 1626,
+          "listed_count": 1,
+          "media_count": 309,
+          "tweet_count": 1363
+        },
+        "username": "MrWogo47492",
+        "verified": false
+      }
+    ]
+  }
+}

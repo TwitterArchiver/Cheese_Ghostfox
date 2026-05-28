@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2049863125634277531",
+    "created_at": "2026-04-30T14:47:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T15:47:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049863125634277531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1351755504033230849",
+          "start": 3,
+          "username": "Restraint077"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049863125634277531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049552810958635340",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Restraint077: 一个比较普遍的理论：“完蛋了、你沦陷了”的瞬间是从“觉得对方可爱”开始。\n但我觉得是从“如果早点认识你就好了”开始。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2049863125634277531",
+        "created_at": "2026-04-30T14:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T15:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049863125634277531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1351755504033230849",
+              "start": 3,
+              "username": "Restraint077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049863125634277531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049552810958635340",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Restraint077: 一个比较普遍的理论：“完蛋了、你沦陷了”的瞬间是从“觉得对方可爱”开始。\n但我觉得是从“如果早点认识你就好了”开始。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1351755504033230849",
+        "conversation_id": "2049552810958635340",
+        "created_at": "2026-04-29T18:14:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T19:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049552810958635340"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049552810958635340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 4933,
+          "like_count": 123,
+          "quote_count": 6,
+          "reply_count": 7,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "一个比较普遍的理论：“完蛋了、你沦陷了”的瞬间是从“觉得对方可爱”开始。\n但我觉得是从“如果早点认识你就好了”开始。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1438,
+          "following_count": 1511,
+          "like_count": 17866,
+          "listed_count": 4,
+          "media_count": 624,
+          "tweet_count": 5670
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-20T04:56:53.000Z",
+        "description": "4i 04 妹1 infp Dom｜不约不调｜贪财好色｜发泄欲望地｜私信先关注不然拉黑｜晚安全世界^^",
+        "id": "1351755504033230849",
+        "name": "Serein",
+        "pinned_tweet_id": "1997707670862897479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887169883332321280/i_x8ky6t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1731,
+          "following_count": 90,
+          "like_count": 4695,
+          "listed_count": 4,
+          "media_count": 31,
+          "tweet_count": 961
+        },
+        "username": "Restraint077",
+        "verified": false
+      }
+    ]
+  }
+}

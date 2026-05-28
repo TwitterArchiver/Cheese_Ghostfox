@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2050964970519879859",
+    "created_at": "2026-05-03T15:55:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T16:55:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050967490046697870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2046530162536357888",
+          "start": 0,
+          "username": "yueyechunxue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050967490046697870",
+    "in_reply_to_user_id": "2046530162536357888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050967029256233179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yueyechunxue 🤯\n狐真是卖皮草的，，，在那种店里兼职来着\n🤔🤯"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2050967029256233179].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2050967029256233179",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2050967029256233179"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2050964970519879859",
+        "created_at": "2026-05-03T15:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T16:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050967490046697870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2046530162536357888",
+              "start": 0,
+              "username": "yueyechunxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050967490046697870",
+        "in_reply_to_user_id": "2046530162536357888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050967029256233179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yueyechunxue 🤯\n狐真是卖皮草的，，，在那种店里兼职来着\n🤔🤯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 1513,
+          "like_count": 18320,
+          "listed_count": 6,
+          "media_count": 640,
+          "tweet_count": 5805
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-21T10:04:01.000Z",
+        "description": "这里是春雪狐哦，是个小药娘,08年出厂,主要发碎碎念和一些图片",
+        "id": "2046530162536357888",
+        "location": "Sendai-shi Miyagino, Miyagi",
+        "name": "はるゆき狐🌸🍥",
+        "pinned_tweet_id": "2046551513414406431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046535232296570880/KSm_JaEu_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 75,
+          "like_count": 254,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 385
+        },
+        "username": "yueyechunxue",
+        "verified": true
+      }
+    ]
+  }
+}

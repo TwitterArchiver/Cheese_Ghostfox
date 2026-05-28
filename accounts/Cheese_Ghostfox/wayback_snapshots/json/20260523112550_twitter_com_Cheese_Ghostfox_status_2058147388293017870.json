@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2058147388293017870",
+    "created_at": "2026-05-23T11:25:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T12:25:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058147388293017870"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2058125795709636614",
+          "start": 12,
+          "url": "https://t.co/IYFfC8EWY8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058147388293017870",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058125795709636614",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个宣传真恶心到狐了🤮 https://t.co/IYFfC8EWY8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 774,
+        "media_key": "3_2058105359764484096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_b658W8AAU15N.jpg",
+        "width": 876
+      },
+      {
+        "height": 986,
+        "media_key": "3_2058105359751942144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_b655XkAApFHl.jpg",
+        "width": 866
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2058147388293017870",
+        "created_at": "2026-05-23T11:25:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T12:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058147388293017870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2058125795709636614",
+              "start": 12,
+              "url": "https://t.co/IYFfC8EWY8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058147388293017870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058125795709636614",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个宣传真恶心到狐了🤮 https://t.co/IYFfC8EWY8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058105359764484096",
+            "3_2058105359751942144"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2058125795709636614",
+        "created_at": "2026-05-23T10:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058125795709636614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O1mjSYpbeo",
+              "end": 74,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2058125795709636614/photo/1",
+              "media_key": "3_2058105359764484096",
+              "start": 51,
+              "url": "https://t.co/O1mjSYpbeo"
+            },
+            {
+              "display_url": "pic.x.com/O1mjSYpbeo",
+              "end": 74,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2058125795709636614/photo/1",
+              "media_key": "3_2058105359751942144",
+              "start": 51,
+              "url": "https://t.co/O1mjSYpbeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058125795709636614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 27375,
+          "like_count": 180,
+          "quote_count": 5,
+          "reply_count": 54,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "福州地铁上的 “催婚” 广告：\n“用戒指套住洗碗时沾满泡沫的手”\n“你负责带娃（快乐），我负责拍照” https://t.co/O1mjSYpbeo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1514,
+          "following_count": 1511,
+          "like_count": 19494,
+          "listed_count": 7,
+          "media_count": 714,
+          "tweet_count": 6270
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2232912,
+          "following_count": 1062,
+          "like_count": 9592,
+          "listed_count": 8762,
+          "media_count": 47300,
+          "tweet_count": 54427
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

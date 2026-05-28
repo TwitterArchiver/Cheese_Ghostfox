@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2055562310987796897",
+    "created_at": "2026-05-16T08:38:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T09:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055568458805543059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1841429529413529600",
+          "start": 0,
+          "username": "LazyCataww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055568458805543059",
+    "in_reply_to_user_id": "1841429529413529600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055562310987796897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LazyCataww 这个好好看..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2055562144394182656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbS4SZbAAADo6f.jpg",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2055562144230580224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbS4RyaoAAtsFI.jpg",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2055562144238989312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbS4R0a8AAfot_.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2055562310987796897",
+        "created_at": "2026-05-16T08:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T09:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055568458805543059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1841429529413529600",
+              "start": 0,
+              "username": "LazyCataww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055568458805543059",
+        "in_reply_to_user_id": "1841429529413529600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055562310987796897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LazyCataww 这个好好看..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055562144394182656",
+            "3_2055562144230580224",
+            "3_2055562144238989312"
+          ]
+        },
+        "author_id": "1841429529413529600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2055562310987796897",
+        "created_at": "2026-05-16T08:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T09:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055562310987796897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M6MBqsY2gO",
+              "end": 67,
+              "expanded_url": "https://x.com/LazyCataww/status/2055562310987796897/photo/1",
+              "media_key": "3_2055562144394182656",
+              "start": 44,
+              "url": "https://t.co/M6MBqsY2gO"
+            },
+            {
+              "display_url": "pic.x.com/M6MBqsY2gO",
+              "end": 67,
+              "expanded_url": "https://x.com/LazyCataww/status/2055562310987796897/photo/1",
+              "media_key": "3_2055562144230580224",
+              "start": 44,
+              "url": "https://t.co/M6MBqsY2gO"
+            },
+            {
+              "display_url": "pic.x.com/M6MBqsY2gO",
+              "end": 67,
+              "expanded_url": "https://x.com/LazyCataww/status/2055562310987796897/photo/1",
+              "media_key": "3_2055562144238989312",
+              "start": 44,
+              "url": "https://t.co/M6MBqsY2gO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055562310987796897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的成人礼礼物（\n还没用……\n但握着比我的万宝龙舒服\n万宝龙144太细了……\n这个刚好 https://t.co/M6MBqsY2gO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1492,
+          "following_count": 1521,
+          "like_count": 19196,
+          "listed_count": 7,
+          "media_count": 689,
+          "tweet_count": 6140
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-02T10:46:34.000Z",
+        "description": "emm\n对\n大号G了小号接着炒作",
+        "id": "1841429529413529600",
+        "name": "天雨雋子",
+        "pinned_tweet_id": "2050612191548825768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051214180745650176/YgDV8phI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 280,
+          "like_count": 6827,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1865
+        },
+        "username": "LazyCataww",
+        "verified": false
+      }
+    ]
+  }
+}

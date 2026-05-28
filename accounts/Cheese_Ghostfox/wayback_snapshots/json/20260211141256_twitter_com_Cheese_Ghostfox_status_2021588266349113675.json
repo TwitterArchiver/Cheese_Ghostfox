@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2021503140877742123",
+    "created_at": "2026-02-11T14:12:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T15:12:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021588266349113675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1833524049018032132",
+          "start": 0,
+          "username": "5_HTIsUsagi"
+        },
+        {
+          "end": 25,
+          "id": "1888239230020661248",
+          "start": 13,
+          "username": "MEASUREMEN7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021588266349113675",
+    "in_reply_to_user_id": "1833524049018032132",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021582153478201605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5_HTIsUsagi @MEASUREMEN7 🫂"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2021582153478201605].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2021582153478201605",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2021582153478201605"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2021503140877742123",
+        "created_at": "2026-02-11T14:12:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T15:12:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021588266349113675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1833524049018032132",
+              "start": 0,
+              "username": "5_HTIsUsagi"
+            },
+            {
+              "end": 25,
+              "id": "1888239230020661248",
+              "start": 13,
+              "username": "MEASUREMEN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021588266349113675",
+        "in_reply_to_user_id": "1833524049018032132",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021582153478201605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5_HTIsUsagi @MEASUREMEN7 🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨あなたの記憶で永遠に六番目になりたい!丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 964,
+          "following_count": 1309,
+          "like_count": 13123,
+          "listed_count": 4,
+          "media_count": 431,
+          "tweet_count": 3959
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-10T15:13:05.000Z",
+        "description": "只愿和你在星尘之上观星辰||只通过大号互关的申请。\n                                                                                    另一个我：@BeetiIsDog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "BeetiIsDog"
+              }
+            ]
+          }
+        },
+        "id": "1833524049018032132",
+        "name": "セロトニン兎₍ᐢ. ֑ .ᐢ₎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972524617396084736/7ox6Ge_V_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 42,
+          "like_count": 428,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 235
+        },
+        "username": "5_HTIsUsagi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我谁也不是，不要视奸我",
+        "id": "1888239230020661248",
+        "location": "私はどこにもいない",
+        "name": "度量衡",
+        "pinned_tweet_id": "1943328485046653435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 416,
+          "like_count": 19929,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 4196
+        },
+        "username": "MEASUREMEN7",
+        "verified": false
+      }
+    ]
+  }
+}

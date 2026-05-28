@@ -1,0 +1,419 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Space and astronomy",
+          "id": "847899255880564736",
+          "name": "Space"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2026608200506814805",
+    "created_at": "2026-02-25T10:40:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T11:40:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026608200506814805"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 8,
+          "start": 0,
+          "tag": "在隙间共沐红月"
+        },
+        {
+          "end": 35,
+          "start": 27,
+          "tag": "星辰与星尘之隙"
+        },
+        {
+          "end": 53,
+          "start": 45,
+          "tag": "在隙间共沐红月"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/BeetiIsDog/sta…",
+          "end": 162,
+          "expanded_url": "https://twitter.com/BeetiIsDog/status/2026604751576773101",
+          "start": 139,
+          "url": "https://t.co/rZrhvkjQjU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026608200506814805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 8,
+            "start": 0,
+            "tag": "在隙间共沐红月"
+          },
+          {
+            "end": 35,
+            "start": 27,
+            "tag": "星辰与星尘之隙"
+          },
+          {
+            "end": 53,
+            "start": 45,
+            "tag": "在隙间共沐红月"
+          }
+        ]
+      },
+      "text": "#在隙间共沐红月 天文摄影大赛\n三月三日–三月五日在 #星辰与星尘之隙  社群内发送带有 #在隙间共沐红月\n的月全食摄影作品，并附带您赏月时的感受\n所有满足以上条件的摄影作品都将视为参赛作品\n于三月五日经由社群内投票决出排名胜负\n第一名奖金2USDT\n第二/三名奖金1USDT\n同时前三名的摄影作品将由狐寻找打印装裱服务，将各自装裱好的作品赠予作者\nKeep building!\n(♡>𖥦<)/♥"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026604751576773101",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "#在隙间共沐红月 天文摄影大赛\n三月三日–三月五日在 #星辰与星尘之隙  社群内发送带有 #在隙间共沐红月\n的月全食摄影作品，并附带您赏月时的感受\n所有满足以上条件的摄影作品都将视为参赛作品\n于三月五日经由社群内投票决出排名胜负\n第一名奖金2USDT\n第二/三名奖金1USDT https://t.co/rZrhvkjQjU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2026608200506814805",
+        "created_at": "2026-02-25T10:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T11:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026608200506814805"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "在隙间共沐红月"
+            },
+            {
+              "end": 35,
+              "start": 27,
+              "tag": "星辰与星尘之隙"
+            },
+            {
+              "end": 53,
+              "start": 45,
+              "tag": "在隙间共沐红月"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/BeetiIsDog/sta…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/BeetiIsDog/status/2026604751576773101",
+              "start": 139,
+              "url": "https://t.co/rZrhvkjQjU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026608200506814805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "在隙间共沐红月"
+              },
+              {
+                "end": 35,
+                "start": 27,
+                "tag": "星辰与星尘之隙"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "在隙间共沐红月"
+              }
+            ]
+          },
+          "text": "#在隙间共沐红月 天文摄影大赛\n三月三日–三月五日在 #星辰与星尘之隙  社群内发送带有 #在隙间共沐红月\n的月全食摄影作品，并附带您赏月时的感受\n所有满足以上条件的摄影作品都将视为参赛作品\n于三月五日经由社群内投票决出排名胜负\n第一名奖金2USDT\n第二/三名奖金1USDT\n同时前三名的摄影作品将由狐寻找打印装裱服务，将各自装裱好的作品赠予作者\nKeep building!\n(♡>𖥦<)/♥"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026604751576773101",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#在隙间共沐红月 天文摄影大赛\n三月三日–三月五日在 #星辰与星尘之隙  社群内发送带有 #在隙间共沐红月\n的月全食摄影作品，并附带您赏月时的感受\n所有满足以上条件的摄影作品都将视为参赛作品\n于三月五日经由社群内投票决出排名胜负\n第一名奖金2USDT\n第二/三名奖金1USDT https://t.co/rZrhvkjQjU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799795163843436544",
+        "conversation_id": "2026604751576773101",
+        "created_at": "2026-02-25T10:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T11:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026604751576773101"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026604751576773101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "3月3号有月全食噢，能看见血月。期待大家滴摄影作品"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 1363,
+          "like_count": 13876,
+          "listed_count": 4,
+          "media_count": 457,
+          "tweet_count": 4210
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-09T13:26:33.000Z",
+        "description": "常助無傷 愛全奉全//用繁體字只是因為好看//互fo私信//只是个普通人,画我想画写我想写,不接稿,此账号用于堆积画作+迷思+碎碎念❌所有画作禁止用于AI训练❌ 我老大:@sysjf0 超级好朋友!:@Cheese_Ghostfox 黑泥:@5_HTIsUsagi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 85,
+                "username": "sysjf0"
+              },
+              {
+                "end": 116,
+                "start": 100,
+                "username": "Cheese_Ghostfox"
+              },
+              {
+                "end": 132,
+                "start": 120,
+                "username": "5_HTIsUsagi"
+              }
+            ]
+          }
+        },
+        "id": "1799795163843436544",
+        "location": "藤井風的钢琴",
+        "name": "🧬ビーチイ小犬U⁠ ⁠´⁠꓃⁠ ⁠`⁠ ⁠U多忙",
+        "pinned_tweet_id": "2007369704353169744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025829253011701760/j-qnjHkL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 832,
+          "like_count": 36148,
+          "listed_count": 2,
+          "media_count": 474,
+          "tweet_count": 7948
+        },
+        "username": "BeetiIsDog",
+        "verified": false
+      }
+    ]
+  }
+}

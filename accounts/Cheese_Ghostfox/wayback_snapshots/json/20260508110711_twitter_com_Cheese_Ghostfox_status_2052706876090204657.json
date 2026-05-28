@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2052706876090204657",
+    "created_at": "2026-05-08T11:07:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T12:07:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052706876090204657"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/txyyss/status/…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/txyyss/status/2052611798919241884",
+          "start": 29,
+          "url": "https://t.co/DLWu5pqlAq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052706876090204657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052611798919241884",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "赋空缺以意义，赋思绪以言语，赋未至以已知，赋妄想以有形! https://t.co/DLWu5pqlAq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2052706876090204657",
+        "created_at": "2026-05-08T11:07:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052706876090204657"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/txyyss/status/…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/txyyss/status/2052611798919241884",
+              "start": 29,
+              "url": "https://t.co/DLWu5pqlAq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052706876090204657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052611798919241884",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "赋空缺以意义，赋思绪以言语，赋未至以已知，赋妄想以有形! https://t.co/DLWu5pqlAq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "107653535",
+        "conversation_id": "2052611793563062327",
+        "created_at": "2026-05-08T04:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T05:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052611798919241884"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052611798919241884",
+        "in_reply_to_user_id": "107653535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1001,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052611796708847919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然后我就反思，我的日常消遣居然本质上也是写代码，于是可以被 AI 替代一部分工作，这算好事还是坏事呢。当然看着想做的事情在 AI 帮助下更快的完成，这肯定是大好事。我真正的日常消遣本质不是写代码，而是“赋妄想以有形”啊，这个乐趣 AI 是夺不走的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1486,
+          "following_count": 1519,
+          "like_count": 18690,
+          "listed_count": 7,
+          "media_count": 663,
+          "tweet_count": 5942
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2010-01-23T07:58:03.000Z",
+        "description": "Enthusiast of recreational mathematics | Also in mastodon: @txyyss@c.im",
+        "id": "107653535",
+        "name": "Shengyi Wang",
+        "pinned_tweet_id": "1854333919182700721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1645417012/LogoYi512_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17285,
+          "following_count": 1377,
+          "like_count": 7838,
+          "listed_count": 196,
+          "media_count": 2369,
+          "tweet_count": 48245
+        },
+        "username": "txyyss",
+        "verified": false
+      }
+    ]
+  }
+}

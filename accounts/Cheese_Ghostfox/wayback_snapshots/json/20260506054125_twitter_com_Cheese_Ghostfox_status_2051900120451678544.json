@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051645266827317250"
+      ],
+      "media_source_tweet_id": [
+        "2051646225561387308"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2051900120451678544",
+    "created_at": "2026-05-06T05:41:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T06:41:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051900120451678544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1750359923408732160",
+          "start": 3,
+          "username": "T6819115742636"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jJBUSQnQ0Q",
+          "end": 65,
+          "expanded_url": "https://x.com/T6819115742636/status/2051646225561387308/photo/1",
+          "media_key": "3_2051645266827317250",
+          "start": 42,
+          "url": "https://t.co/jJBUSQnQ0Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051900120451678544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 472
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051646225561387308",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @T6819115742636: 実は色々個性があるかもしれないという図です https://t.co/jJBUSQnQ0Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2891,
+        "media_key": "3_2051645266827317250",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHjogAZakAIua2h.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051645266827317250"
+          ],
+          "media_source_tweet_id": [
+            "2051646225561387308"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2051900120451678544",
+        "created_at": "2026-05-06T05:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T06:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051900120451678544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1750359923408732160",
+              "start": 3,
+              "username": "T6819115742636"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jJBUSQnQ0Q",
+              "end": 65,
+              "expanded_url": "https://x.com/T6819115742636/status/2051646225561387308/photo/1",
+              "media_key": "3_2051645266827317250",
+              "start": 42,
+              "url": "https://t.co/jJBUSQnQ0Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051900120451678544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 472
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051646225561387308",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @T6819115742636: 実は色々個性があるかもしれないという図です https://t.co/jJBUSQnQ0Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051645266827317250"
+          ]
+        },
+        "author_id": "1750359923408732160",
+        "conversation_id": "2051646225561387308",
+        "created_at": "2026-05-05T12:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T13:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051646225561387308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jJBUSQnQ0Q",
+              "end": 45,
+              "expanded_url": "https://x.com/T6819115742636/status/2051646225561387308/photo/1",
+              "media_key": "3_2051645266827317250",
+              "start": 22,
+              "url": "https://t.co/jJBUSQnQ0Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051646225561387308",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 749,
+          "impression_count": 40743,
+          "like_count": 3858,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 472
+        },
+        "reply_settings": "everyone",
+        "text": "実は色々個性があるかもしれないという図です https://t.co/jJBUSQnQ0Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1479,
+          "following_count": 1520,
+          "like_count": 18586,
+          "listed_count": 7,
+          "media_count": 660,
+          "tweet_count": 5894
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-25T03:28:35.000Z",
+        "description": "成人済み　基本壁打ちです　気ままに更新　ジャンル雑多・節操なく描きます　フォロー付け外しお気軽にどうぞ\n無断転載・自作発言・AI学習等一切許可していません\nぴくしぶ→https://t.co/I6h19DmaZ3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/95934181",
+                "end": 106,
+                "expanded_url": "https://www.pixiv.net/users/95934181",
+                "start": 83,
+                "url": "https://t.co/I6h19DmaZ3"
+              }
+            ]
+          }
+        },
+        "id": "1750359923408732160",
+        "name": "たけしたささみ🐔",
+        "pinned_tweet_id": "1963208675356778513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750360126656303104/zklU10nc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31758,
+          "following_count": 1,
+          "like_count": 2177,
+          "listed_count": 130,
+          "media_count": 609,
+          "tweet_count": 5485
+        },
+        "username": "T6819115742636",
+        "verified": false
+      }
+    ]
+  }
+}

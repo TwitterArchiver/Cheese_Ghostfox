@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2058570760843911168"
+      ],
+      "media_source_tweet_id": [
+        "2058571402555621823"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2058605453488292011",
+    "created_at": "2026-05-24T17:46:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T18:46:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058605453488292011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2008348525281898497",
+          "start": 3,
+          "username": "ZXZXZXZXmeko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LeReVRzE3v",
+          "end": 64,
+          "expanded_url": "https://x.com/ZXZXZXZXmeko/status/2058571402555621823/photo/1",
+          "media_key": "16_2058570760843911168",
+          "start": 41,
+          "url": "https://t.co/LeReVRzE3v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058605453488292011",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 157
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058571402555621823",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZXZXZXZXmeko: ずいぶん昔に描いたリコｘレグが出てきました！ https://t.co/LeReVRzE3v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1110,
+        "media_key": "16_2058570760843911168",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HJGDM0EbYAAPRjs.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HJGDM0EbYAAPRjs.mp4"
+          }
+        ],
+        "width": 1980
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2058570760843911168"
+          ],
+          "media_source_tweet_id": [
+            "2058571402555621823"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2058605453488292011",
+        "created_at": "2026-05-24T17:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T18:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058605453488292011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2008348525281898497",
+              "start": 3,
+              "username": "ZXZXZXZXmeko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LeReVRzE3v",
+              "end": 64,
+              "expanded_url": "https://x.com/ZXZXZXZXmeko/status/2058571402555621823/photo/1",
+              "media_key": "16_2058570760843911168",
+              "start": 41,
+              "url": "https://t.co/LeReVRzE3v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058605453488292011",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 157
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058571402555621823",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZXZXZXZXmeko: ずいぶん昔に描いたリコｘレグが出てきました！ https://t.co/LeReVRzE3v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2058570760843911168"
+          ]
+        },
+        "author_id": "2008348525281898497",
+        "conversation_id": "2058571402555621823",
+        "created_at": "2026-05-24T15:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T16:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058571402555621823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LeReVRzE3v",
+              "end": 46,
+              "expanded_url": "https://x.com/ZXZXZXZXmeko/status/2058571402555621823/photo/1",
+              "media_key": "16_2058570760843911168",
+              "start": 23,
+              "url": "https://t.co/LeReVRzE3v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058571402555621823",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 388,
+          "impression_count": 17808,
+          "like_count": 1735,
+          "quote_count": 7,
+          "reply_count": 7,
+          "retweet_count": 157
+        },
+        "reply_settings": "everyone",
+        "text": "ずいぶん昔に描いたリコｘレグが出てきました！ https://t.co/LeReVRzE3v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1511,
+          "following_count": 1507,
+          "like_count": 19556,
+          "listed_count": 7,
+          "media_count": 717,
+          "tweet_count": 6291
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-06T01:23:03.000Z",
+        "description": "前世：@zxzxzxmeko\n四回目転生！だるい！\n絵の無断転載は禁止！\nDO NOT USE MY ART WITHOUT PERMISSION! \n🇭🇰🇺🇸🇯🇵OK!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "zxzxzxmeko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/zxmeko",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/zxmeko",
+                "start": 0,
+                "url": "https://t.co/fyp3EEit7A"
+              }
+            ]
+          }
+        },
+        "id": "2008348525281898497",
+        "location": "アビス7層",
+        "name": "ZXmeko（メコ）＠ゼロ軸　8月まで活動停止",
+        "pinned_tweet_id": "2008385969976934700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008350261937688576/IDr4rD1X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1229,
+          "following_count": 359,
+          "like_count": 1313,
+          "listed_count": 3,
+          "media_count": 22,
+          "tweet_count": 114
+        },
+        "url": "https://t.co/fyp3EEit7A",
+        "username": "ZXZXZXZXmeko",
+        "verified": false
+      }
+    ]
+  }
+}

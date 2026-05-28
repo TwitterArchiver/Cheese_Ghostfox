@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2016866547827167692",
+    "created_at": "2026-01-29T13:30:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T14:30:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016866547827167692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1086203224388907014",
+          "start": 3,
+          "username": "BensonTWN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016866547827167692",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016764915453997475",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BensonTWN: 我也想過這個問題。\n\n我覺得 self-awareness 是一種天賦的光譜。\n\n有些人天生就會跳脫情境，去想自己現在處於什麼位置。有些人則完全無感，就是單純 follow 規則，過著 auto-run的生活。\n\n但不管你天生落在光譜的哪裡，現代社…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2016866547827167692",
+        "created_at": "2026-01-29T13:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T14:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016866547827167692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1086203224388907014",
+              "start": 3,
+              "username": "BensonTWN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016866547827167692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016764915453997475",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BensonTWN: 我也想過這個問題。\n\n我覺得 self-awareness 是一種天賦的光譜。\n\n有些人天生就會跳脫情境，去想自己現在處於什麼位置。有些人則完全無感，就是單純 follow 規則，過著 auto-run的生活。\n\n但不管你天生落在光譜的哪裡，現代社…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1086203224388907014",
+        "conversation_id": "2016764915453997475",
+        "created_at": "2026-01-29T06:46:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T07:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016764915453997475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/punkcan/status…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/punkcan/status/2016730800793014539",
+              "start": 148,
+              "url": "https://t.co/9ojXXsqcUH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016764915453997475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我也想過這個問題。\n\n我覺得 self-awareness 是一種天賦的光譜。\n\n有些人天生就會跳脫情境，去想自己現在處於什麼位置。有些人則完全無感，就是單純 follow 規則，過著 auto-run的生活。\n\n但不管你天生落在光譜的哪裡，現代社會都在壓縮這個能力。\n\n因為生活被填得太滿了。\n\n你要上班，承擔職場的義務。你要顧家，扛起傳統賦予你的責任。等到終於忙完，可以停下來了，又有手機、有影片、有遊戲、有各種娛樂在等著你。太多外界的 input 搶著填滿你的空白。\n\n以前的人日出而作，日落而息，有大把的時間獨處、跟自己對話。現在的人所有的時間都被外界的 input 所佔滿，自己 reflect 的時間反而變得非常少。\n\n結果就是，我們很少有機會真正跟自己待在一起。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 8842,
+          "like_count": 93,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016730800793014539",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也想過這個問題。\n\n我覺得 self-awareness 是一種天賦的光譜。\n\n有些人天生就會跳脫情境，去想自己現在處於什麼位置。有些人則完全無感，就是單純 follow 規則，過著 auto-run的生活。\n\n但不管你天生落在光譜的哪裡，現代社會都在壓縮這個能力。\n\n因為生活被填得太滿了。 https://t.co/9ojXXsqcUH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨あなたの記憶で永遠に六番目になりたい!丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugHLJi"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 900,
+          "following_count": 1211,
+          "like_count": 12213,
+          "listed_count": 2,
+          "media_count": 403,
+          "tweet_count": 3729
+        },
+        "url": "https://t.co/COn8ugHLJi",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2019-01-18T10:06:44.000Z",
+        "description": "Founder of @coinkarma_\nFull-time degen, part-time shit poster\n\nhttps://t.co/kibwqND8yQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "coinkarma_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/BensonTradingD…",
+                "end": 86,
+                "expanded_url": "https://t.me/BensonTradingDesk",
+                "start": 63,
+                "url": "https://t.co/kibwqND8yQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "coinkarma.co",
+                "end": 23,
+                "expanded_url": "https://coinkarma.co/",
+                "start": 0,
+                "url": "https://t.co/52MfmCM0zy"
+              }
+            ]
+          }
+        },
+        "id": "1086203224388907014",
+        "name": "Benson Sun",
+        "pinned_tweet_id": "1979927065920242048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668618508853477381/dEpVvzxO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74356,
+          "following_count": 892,
+          "like_count": 5162,
+          "listed_count": 1677,
+          "media_count": 490,
+          "tweet_count": 3002
+        },
+        "url": "https://t.co/52MfmCM0zy",
+        "username": "BensonTWN",
+        "verified": true
+      }
+    ]
+  }
+}

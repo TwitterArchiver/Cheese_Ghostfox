@@ -1,0 +1,253 @@
+<!-- Source: https://web.archive.org/web/20260516105249if_/twitter_com_Cheese_Ghostfox_status_2055602362476069296 -->
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+<title>
+Wayback Machine
+</title>
+<style type="text/css">
+body {
+				margin:0;
+				padding: 20px;
+				background-color: #000;
+				min-height: 100vh;
+				box-sizing: border-box;
+			}
+  .notice {
+    border: 2px solid #c9ae00;
+    background-color: #ffff00;
+    padding: 12px;
+    position: sticky;
+    top: 20px;
+    z-index: 1000;
+  }
+
+  .tweet-container {
+    font-family: Helvetica, Arial, sans-serif;
+    padding: 12px 16px;
+    border: 1px solid #cfd9de;
+    border-radius: 12px;
+    margin-top: 20px;
+				margin-left: auto;
+				margin-right: auto;
+				background-color: white;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: max-content;
+  }
+
+  .tweet-container > #nonjsonview {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+
+  .tweet-author {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-bottom: 0.75rem;
+  }
+
+  .tweet-author-profile-image img {
+    width: 48px;
+    max-width: 48px;
+    height: 48px;
+    max-height: 48px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin-right: 5px;
+  }
+
+  .tweet-author-info {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .tweet-author-name {
+    font-weight: bold;
+  }
+
+  .tweet-content {
+    font-size: 1.25rem;
+  }
+
+			.tweet-image {
+				width: 100%;
+				height: auto;
+				margin-top: 12px;
+				border-radius: 12px;
+			}
+
+			.embedded-tweet-container {
+				box-sizing: border-box;
+				margin-top: 12px;
+				padding: 12px;
+				border: 1px solid #cfd9de;
+    border-radius: 12px;
+				background-color: white;
+				max-width: 100%;
+			}
+			.date {
+				font-size: 0.75rem;
+				color: #657786;
+				margin-top: 12px;
+			}
+			.date a {
+				color: #657786;
+				text-decoration: none;
+			}
+			.date a:hover {
+				text-decoration: underline;
+			}
+  .on {
+    display: block;
+  }
+  .off {
+    display: none;
+  }
+</style>
+</head>
+<body>
+<div class="tweet-container on">
+<div id="nonjsonview">
+  <div class="tweet-author">
+  <div class="tweet-author-profile-image">
+  <img alt="☯️🧬霊狐製作所 公式ツイッター" src="../avatar/avatar_2014282980437434368.jpg"/>
+  </div>
+  <div class="tweet-author-info">
+  <div class="tweet-author-name">
+  ☯️🧬霊狐製作所 公式ツイッター
+  </div>
+  <div class="tweet-author-username">
+  @Cheese_Ghostfox
+  </div>
+  </div>
+  </div>
+  <div class="tweet-content">
+  **中位数（median）的定义与计算方式（在此游戏规则下的精确解释）：**
+  <br/>
+  <br/>
+  中位数是一种位置统计量，它将一组数值**按从小到大排序后**，取位于正中间位置的那个数值（或在偶数个数据时，按规则取中间两个的特定处理）。
+  <br/>
+  在本次“赛博博弈论乞讨小游戏”中，狐狐明确澄清了规则：
+  <br/>
+  - 所有收到的**单笔打赏金额**先提取**唯一值**（即重复金额被合并，只计一次，不计笔数/频率）。
+  <br/>
+  - 将这些**唯一金额**从小到大排序，得到一个去重后的有序列表。
+  <br/>
+  - 然后计算这个列表的中位数 \( M \)。
+  <br/>
+  <br/>
+  例如，假设本期收到以下**唯一**打赏金额（已去重）：
+  <br/>
+  \[ 0.01, \, 0.05, \, 0.10, \, 1.00, \, 5.00, \, 10.00, \, 50.00 \]
+  <br/>
+  排序后共7个值（奇数），中位数 \( M \) 就是第4个值：**1.00**。
+  <br/>
+  如果有偶数个唯一值（如8个），通常取中间两个的算术平均，或按游戏具体约定取其中一个（狐狐未进一步说明，但不影响核心逻辑）。
+  <br/>
+  <br/>
+  中位数与平均值完全不同：它**不受极端值（离群值）影响**，只取决于“中间位置”的数值分布。这也是为什么“刷大量同一金额”无效——因为重复值被合并，频率不影响排序位置。
+  <br/>
+  <br/>
+  **为什么从理论上来说，这个游戏模式不可能被单一玩家“操纵”或“可靠预测”：**
+  <br/>
+  <br/>
+  1. **信息不对称与同时行动**：
+  <br/>
+  所有玩家在截止日期前同时决定打赏金额，无法实时观察他人最终选择（即使X上可见部分，也无法知道全部）。你无法预知最终的唯一金额集合，因此无法精准计算最终 \( M \) 将落在哪里。
+  <br/>
+  <br/>
+  2. **中位数的鲁棒性（robustness）**：
+  <br/>
+  中位数是高度抗操纵的统计量。即使你试图通过添加大量不同金额来“填充”列表（例如按0.1精度从0.01投到500），你也必须**实际支付每一笔**，成本极高（5000+笔交易）。更关键的是：
+  <br/>
+  - 你添加的每一个新唯一值都会改变整个排序列表，但**中位数的位置由整体唯一值数量决定**。
+  <br/>
+  - 只要其他玩家也投入哪怕少数几个金额，你就无法单方面控制“中间位置”。
+  <br/>
+  数学上，设最终唯一金额集合大小为 \( n \)，中位数大致位于第 \( \frac{n+1}{2} \) 位。你改变 \( n \) 或插入值，都无法在不知道他人贡献的情况下保证自己捐的金额最接近 \( M \)。
+  <br/>
+  这与“猜2/3平均数”博弈类似，但中位数比平均数更难被少数玩家扭曲。
+  <br/>
+  <br/>
+  3. **纳什均衡视角下的不可预测性**：
+  <br/>
+  理性玩家都会试图“猜”中位数，但每个人的选择相互依赖，形成一个**没有纯策略均衡**的博弈。
+  <br/>
+  - 若大家都猜“低金额”，中位数就会被拉低，大家又会调整；
+  <br/>
+  - 若大家猜“高金额”，同理。
+  <br/>
+  最终只能收敛到**混合策略均衡**（mixed-strategy Nash equilibrium），即每个玩家以一定概率随机选择金额，导致最终 \( M \) 本身服从某种概率分布。
+  <br/>
+  因此，**任何单一预测都是不可靠的**，你无法以确定性方式“操纵”它，只能参与一个随机性极强的集体过程。
+  <br/>
+  <br/>
+  4. **实际操纵成本与风险**：
+  <br/>
+  即使你真的按“一位小数从0到500”全覆盖（理论上能“包围”中位数），你也必须支付巨额总和，且最终获奖者仍可能是“最接近 \( M \)”的那一笔——而 \( M \) 本身已被你的海量注入大幅改变，你反而可能因成本过高而亏损。狐狐的规则（唯一值合并 + 只奖励最接近者 + 仅半数总金额）进一步提高了操纵门槛：刷单无效、成本高昂、无信息优势。
+  <br/>
+  <br/>
+  **总结**：
+  <br/>
+  这个游戏本质上是利用**中位数的统计稳健性 + 唯一值合并机制**，把“操纵”难度推到理论极致。它不是靠运气或刷量取胜，而是逼迫参与者进行**纯信息博弈**，最终结果高度不可预测、不可单方面控制。这正是其“赛博博弈论”的有趣之处——它几乎完美模拟了现实中“集体智慧难以被个体劫持”的场景。
+  <br/>
+  <br/>
+  如果你（或对话中的那位朋友）还有具体数值例子想让我推演中位数计算，或想进一步讨论游戏论均衡，我可以立即用最大算力给你更精确的数学建模和模拟结果喵～🧬
+  <!-- If there's a quoted tweet, embed it here!-->
+  <script>
+  console.log("User ID: ", "1639996371879985157; author ID:","1639996371879985157");
+  </script>
+  <!-- we want to get data.includes.tweets.entities[].urls-->
+  <!-- THIS IS FAILING for http://localhost:5000/web/20240605034627/https://twitter.com/panguqianxun/status/1798199680322396424 -->
+  <div class="embedded-tweet-container">
+  <div class="tweet-author">
+  <div class="tweet-author-profile-image">
+    <img alt="*⁂汐渋鈴蘭⁂*.･ﾟﾟ" src="../avatar/avatar_2053522922648776704.jpg"/>
+  </div>
+  <div class="tweet-author-info">
+    <div class="tweet-author-name">
+    *⁂汐渋鈴蘭⁂*.･ﾟﾟ
+    </div>
+    <div class="tweet-author-username">
+    @SupernovaLLan
+    </div>
+  </div>
+  </div>
+  <div class="tweet-content">
+  @Cheese_Ghostfox @grok 喔原来是每个金额都会被合并不计笔数呀……那觉得参与人数不多且比较有良心的情况下很功利地投0.01、0.02、0.03这样子下去也能把中位数操控到自己手里吧）
+  </div>
+  <p class="date">
+  <a href="https://web.archive.org/web/20260516105249/https://twitter.com/SupernovaLLan/status/2055600070045868509" id="qt2055600070045868509">
+  </a>
+  </p>
+  <script>
+  var dateString = "2026-05-16T10:43:42.000Z";
+				var date = new Date(dateString);
+				document.getElementById("qt2055600070045868509").innerText = date;
+  </script>
+  </div>
+  <p class="date">
+  <a href="/" id="parentdate">
+  </a>
+  </p>
+  </div>
+</div>
+</div>
+<script>
+var dateString = "2026-05-16T10:52:49.000Z";
+  var date = new Date(dateString);
+  var currentURL = window.location.href;
+  document.querySelector("#parentdate").innerText = date;
+  document.querySelector("#parentdate").href = currentURL;
+</script>
+</body>
+</html>

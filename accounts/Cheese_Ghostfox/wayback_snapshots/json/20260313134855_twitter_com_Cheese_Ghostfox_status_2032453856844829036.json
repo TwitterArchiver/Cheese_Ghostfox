@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2032453856844829036",
+    "created_at": "2026-03-13T13:48:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T14:48:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032453856844829036"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SalviaSWC/stat…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/SalviaSWC/status/2032054495828386169",
+          "start": 52,
+          "url": "https://t.co/ZuQYsgilj2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032453856844829036",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032054495828386169",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "btw，亚硝酸酯类还可以作为氰化物解毒剂使用\n除了方便性行为之外也是任何一个化学工作者都应该常备的物质 https://t.co/ZuQYsgilj2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1700,
+        "media_key": "3_2031794887494963200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDJir22XkAAly4g.jpg",
+        "width": 2300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2032453856844829036",
+        "created_at": "2026-03-13T13:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T14:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032453856844829036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2032054495828386169",
+              "start": 52,
+              "url": "https://t.co/ZuQYsgilj2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032453856844829036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032054495828386169",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "btw，亚硝酸酯类还可以作为氰化物解毒剂使用\n除了方便性行为之外也是任何一个化学工作者都应该常备的物质 https://t.co/ZuQYsgilj2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031794887494963200"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2032054495828386169",
+        "created_at": "2026-03-12T11:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T12:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032054495828386169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "FreeODwiki是一个开源项目，旨在让每一位ODer都能有效地获取和分享有关Overdose和精神活性物质的信息，并在减少上述事物对ODer造成的伤害的同时，为上述事物提供一个独特的视角。",
+              "display_url": "freeodwiki.org/%E8%8D%AF%E7%8…",
+              "end": 115,
+              "expanded_url": "https://freeodwiki.org/%E8%8D%AF%E7%89%A9/%E4%BA%9A%E7%A1%9D%E9%85%B8%E9%85%AF.html",
+              "start": 92,
+              "status": 200,
+              "title": "亚硝酸酯 - FreeODwiki——可自由编辑的开源Overdose百科",
+              "unwound_url": "https://freeodwiki.org/%E8%8D%AF%E7%89%A9/%E4%BA%9A%E7%A1%9D%E9%85%B8%E9%85%AF.html",
+              "url": "https://t.co/cMsK9JvmR1"
+            },
+            {
+              "display_url": "pic.x.com/AzVts0qpA3",
+              "end": 184,
+              "expanded_url": "https://x.com/SalviaSWC/status/2032054495828386169/photo/1",
+              "media_key": "3_2031794887494963200",
+              "start": 161,
+              "url": "https://t.co/AzVts0qpA3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032054495828386169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 77095,
+          "like_count": 310,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "吸入剂药物“Rush”的化学成分是亚硝酸烷基酯。吸入人体后，血压会降低，平滑肌会舒张。特别是肛门括约肌🤓因此被男同当作助性剂。若应用妥当，后遗症微乎其微。\n\nfow专门有一个条目讲它：https://t.co/cMsK9JvmR1\n\n但是，市面上的很多口服助性剂与Rush的成分和机理并不相同，甚至未经研究，请谨慎使用。 https://t.co/AzVts0qpA3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 1399,
+          "like_count": 14718,
+          "listed_count": 5,
+          "media_count": 499,
+          "tweet_count": 4547
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|虚无主义者🥺|\n\n会发各种东西🎲|非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！|Say Know to Drugs 😼|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAMFL"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3156,
+          "following_count": 953,
+          "like_count": 20980,
+          "listed_count": 10,
+          "media_count": 356,
+          "tweet_count": 6137
+        },
+        "url": "https://t.co/20q0OtAMFL",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

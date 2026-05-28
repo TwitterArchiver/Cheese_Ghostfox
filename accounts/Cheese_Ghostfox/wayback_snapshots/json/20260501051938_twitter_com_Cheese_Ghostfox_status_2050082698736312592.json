@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2049773914860220797",
+    "created_at": "2026-05-01T05:19:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T06:19:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050082698736312592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1763381254035251200",
+          "start": 0,
+          "username": "Micro_Vatality"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050082698736312592",
+    "in_reply_to_user_id": "1763381254035251200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050082242198990979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Micro_Vatality 不知道w\n推友送给狐的((("
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2050082242198990979].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2050082242198990979",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2050082242198990979"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2049773914860220797",
+        "created_at": "2026-05-01T05:19:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T06:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050082698736312592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1763381254035251200",
+              "start": 0,
+              "username": "Micro_Vatality"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050082698736312592",
+        "in_reply_to_user_id": "1763381254035251200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050082242198990979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Micro_Vatality 不知道w\n推友送给狐的((("
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1440,
+          "following_count": 1510,
+          "like_count": 17930,
+          "listed_count": 5,
+          "media_count": 625,
+          "tweet_count": 5695
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-01T01:50:39.000Z",
+        "description": "目空一切。当伤痛已经无力挽回，它的杰作便遍布世间。\n\n我们一路走来，陶醉其间，于光影中漂泊流连。\n但擅闯这样的地方是要付出代价的。不久之后，诅咒便会勒住我们。\n\nEyes vacuum up light.\n\n框架扭曲。我自己，必须被开启。\n看哪，这是我流出的血。\n\n-We're gonna move in time.",
+        "id": "1763381254035251200",
+        "location": "Lost for Words",
+        "name": "——？",
+        "pinned_tweet_id": "2008619892543811801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046960483719380992/PrOr5XsO_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 561,
+          "like_count": 45879,
+          "listed_count": 2,
+          "media_count": 174,
+          "tweet_count": 4654
+        },
+        "username": "Micro_Vatality",
+        "verified": false
+      }
+    ]
+  }
+}

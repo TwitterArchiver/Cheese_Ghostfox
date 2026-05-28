@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2057240059276071127",
+    "created_at": "2026-05-20T23:28:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T00:28:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057241962269507965"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057241962269507965",
+    "in_reply_to_user_id": "1620506107306479617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057240059276071127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉音色没变，但是完全不在一个音域了\n(虽然是同样的难听&gt;&lt;)"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 69588,
+        "height": 1280,
+        "media_key": "7_2057240026208178176",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2057240026208178176/pu/img/lhOrV2l_C0jUt2Da.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057240026208178176/pu/vid/avc1/320x710/tgr639pQnErc9g5a.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057240026208178176/pu/vid/avc1/480x1066/89HIzSduuqrppn2B.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2057240026208178176/pu/vid/avc1/576x1280/ZxvamdXrAU72SQOj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2057240026208178176/pu/pl/8k_yYEzO-9j1HhOa.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2057240059276071127",
+        "created_at": "2026-05-20T23:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T00:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057241962269507965"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057241962269507965",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057240059276071127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉音色没变，但是完全不在一个音域了\n(虽然是同样的难听&gt;&lt;)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2057240026208178176"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2057240059276071127",
+        "created_at": "2026-05-20T23:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T00:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057240059276071127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NodgBaB85U",
+              "end": 57,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2057240059276071127/video/1",
+              "media_key": "7_2057240026208178176",
+              "start": 34,
+              "url": "https://t.co/NodgBaB85U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057240059276071127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "(no sound)\n真假声切换音高可视化:\n狐闲的没事唱漠河舞厅 https://t.co/NodgBaB85U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1515,
+          "following_count": 1520,
+          "like_count": 19421,
+          "listed_count": 7,
+          "media_count": 707,
+          "tweet_count": 6240
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      }
+    ]
+  }
+}

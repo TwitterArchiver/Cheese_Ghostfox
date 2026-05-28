@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2057860751445106863",
+    "created_at": "2026-05-23T11:17:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T12:17:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058145228465573988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1965174120477589504",
+          "start": 0,
+          "username": "ksm_sakurai"
+        },
+        {
+          "end": 25,
+          "id": "2027313596066369537",
+          "start": 13,
+          "username": "shigemeteor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058145228465573988",
+    "in_reply_to_user_id": "1965174120477589504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058139148318617865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ksm_sakurai @shigemeteor 理论来说可以，但是狐能检索到的关于这个方法的blog文章中介绍的工具链均已失效(悲)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2057860751445106863",
+        "created_at": "2026-05-23T11:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T12:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058145228465573988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965174120477589504",
+              "start": 0,
+              "username": "ksm_sakurai"
+            },
+            {
+              "end": 25,
+              "id": "2027313596066369537",
+              "start": 13,
+              "username": "shigemeteor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058145228465573988",
+        "in_reply_to_user_id": "1965174120477589504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058139148318617865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ksm_sakurai @shigemeteor 理论来说可以，但是狐能检索到的关于这个方法的blog文章中介绍的工具链均已失效(悲)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965174120477589504",
+        "conversation_id": "2057860751445106863",
+        "created_at": "2026-05-23T10:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058139148318617865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            },
+            {
+              "end": 29,
+              "id": "2027313596066369537",
+              "start": 17,
+              "username": "shigemeteor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058139148318617865",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058079705149120873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox @shigemeteor 用Postman是不是也可以"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1513,
+          "following_count": 1510,
+          "like_count": 19485,
+          "listed_count": 7,
+          "media_count": 714,
+          "tweet_count": 6267
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-08T22:03:32.000Z",
+        "description": "06｜上海｜MTX｜INFP｜ADHD｜男蝶是女同｜左翼自由派｜CS廣東在讀｜中文.日本語.ENG",
+        "id": "1965174120477589504",
+        "name": "桜井かすみ Ver.5.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039444983426809856/K41sMxJy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 100,
+          "like_count": 478,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 106
+        },
+        "username": "ksm_sakurai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T09:23:51.000Z",
+        "description": "Cu₂S + O₂ = 2Child + SO₂↑\n2Al + Cu ≜ meteor\n人理之光暗淡之时，为了没有眼泪的明天~",
+        "id": "2027313596066369537",
+        "location": "shanghai",
+        "name": "meteor",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027313721841000448/hhyXhg9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 20,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 21
+        },
+        "username": "shigemeteor",
+        "verified": false
+      }
+    ]
+  }
+}

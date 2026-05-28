@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2031720100735406355",
+    "created_at": "2026-03-11T13:13:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T14:13:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031720100735406355"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CynunVIIV/stat…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/CynunVIIV/status/2031684395690762673",
+          "start": 56,
+          "url": "https://t.co/9eL2FeapEf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031720100735406355",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031684395690762673",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "或许用荧光粉玻璃板+电子枪?\n也就是通过VFD/CRT的原理模拟辉光管的视觉效果\n同时还可以做到显示任意内容🤔 https://t.co/9eL2FeapEf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2031683204080689152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDH9HBtbYAAZUcN.jpg",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2031683522302492672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDH9ZjLawAAhQEN.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2031720100735406355",
+        "created_at": "2026-03-11T13:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T14:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031720100735406355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CynunVIIV/stat…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/CynunVIIV/status/2031684395690762673",
+              "start": 56,
+              "url": "https://t.co/9eL2FeapEf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031720100735406355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031684395690762673",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "或许用荧光粉玻璃板+电子枪?\n也就是通过VFD/CRT的原理模拟辉光管的视觉效果\n同时还可以做到显示任意内容🤔 https://t.co/9eL2FeapEf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031683204080689152",
+            "3_2031683522302492672"
+          ]
+        },
+        "author_id": "1751235517860196352",
+        "conversation_id": "2031684395690762673",
+        "created_at": "2026-03-11T10:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T11:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031684395690762673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yFqfvnAp2I",
+              "end": 152,
+              "expanded_url": "https://x.com/CynunVIIV/status/2031684395690762673/photo/1",
+              "media_key": "3_2031683204080689152",
+              "start": 129,
+              "url": "https://t.co/yFqfvnAp2I"
+            },
+            {
+              "display_url": "pic.x.com/yFqfvnAp2I",
+              "end": 152,
+              "expanded_url": "https://x.com/CynunVIIV/status/2031684395690762673/photo/1",
+              "media_key": "3_2031683522302492672",
+              "start": 129,
+              "url": "https://t.co/yFqfvnAp2I"
+            },
+            {
+              "display_url": "x.com/CynunVIIV/stat…",
+              "end": 176,
+              "expanded_url": "https://twitter.com/CynunVIIV/status/2029922771623629299",
+              "start": 153,
+              "url": "https://t.co/VDRbmRvR9C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031684395690762673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 443,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029922771623629299",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "实际结果：非常失败。\nLED灯条有辉光管的“辉”，但是过于明亮以至于比起在指示更像是在照明。\n而辉光管的那种高温（对于黑体辐射算低 但这里姑且算高）\n带来的红热和微微橙色辉光是这个方案难以达成的。\n\n不过...我们下次或许可以用可调电源和橙色灯条再试一次。 https://t.co/yFqfvnAp2I https://t.co/VDRbmRvR9C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 1405,
+          "like_count": 14635,
+          "listed_count": 4,
+          "media_count": 496,
+          "tweet_count": 4505
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-27T13:27:55.000Z",
+        "description": "抱抱鱼 | 计算机用户| 虚弱的无定形类人智能体 | HFAutism,抑郁,部分精神和心理疾病可能会影响其发言内容；遭遇异常状态请小心处理。",
+        "id": "1751235517860196352",
+        "location": "鱼网",
+        "name": "Cynun VIIV",
+        "pinned_tweet_id": "2015018532111806922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016711729737281536/ZBLrzn6D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1262,
+          "following_count": 1267,
+          "like_count": 30814,
+          "listed_count": 7,
+          "media_count": 276,
+          "tweet_count": 5732
+        },
+        "username": "CynunVIIV",
+        "verified": false
+      }
+    ]
+  }
+}

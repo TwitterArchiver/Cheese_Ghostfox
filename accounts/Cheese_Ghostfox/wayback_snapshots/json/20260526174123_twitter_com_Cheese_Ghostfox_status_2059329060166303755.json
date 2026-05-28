@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059089763274027008"
+      ],
+      "media_source_tweet_id": [
+        "2059089767732576340"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2059329060166303755",
+    "created_at": "2026-05-26T17:41:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T18:41:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059329060166303755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1319325546027896832",
+          "start": 3,
+          "username": "lodddd__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gI1PcEmQkj",
+          "end": 37,
+          "expanded_url": "https://x.com/lodddd__/status/2059089767732576340/photo/1",
+          "media_key": "3_2059089763274027008",
+          "start": 14,
+          "url": "https://t.co/gI1PcEmQkj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059329060166303755",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 738
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059089767732576340",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lodddd__: https://t.co/gI1PcEmQkj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 871,
+        "media_key": "3_2059089763274027008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJNbOuyXcAAYXJg.jpg",
+        "width": 903
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059089763274027008"
+          ],
+          "media_source_tweet_id": [
+            "2059089767732576340"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2059329060166303755",
+        "created_at": "2026-05-26T17:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T18:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059329060166303755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1319325546027896832",
+              "start": 3,
+              "username": "lodddd__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gI1PcEmQkj",
+              "end": 37,
+              "expanded_url": "https://x.com/lodddd__/status/2059089767732576340/photo/1",
+              "media_key": "3_2059089763274027008",
+              "start": 14,
+              "url": "https://t.co/gI1PcEmQkj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059329060166303755",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 738
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059089767732576340",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lodddd__: https://t.co/gI1PcEmQkj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059089763274027008"
+          ]
+        },
+        "author_id": "1319325546027896832",
+        "conversation_id": "2059089767732576340",
+        "created_at": "2026-05-26T01:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T02:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059089767732576340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gI1PcEmQkj",
+              "end": 23,
+              "expanded_url": "https://x.com/lodddd__/status/2059089767732576340/photo/1",
+              "media_key": "3_2059089763274027008",
+              "start": 0,
+              "url": "https://t.co/gI1PcEmQkj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059089767732576340",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 861,
+          "impression_count": 44513,
+          "like_count": 7369,
+          "quote_count": 18,
+          "reply_count": 15,
+          "retweet_count": 738
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gI1PcEmQkj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1512,
+          "following_count": 1511,
+          "like_count": 19640,
+          "listed_count": 7,
+          "media_count": 724,
+          "tweet_count": 6317
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-22T17:11:44.000Z",
+        "description": "zzzz",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lodddd.straw.page",
+                "end": 23,
+                "expanded_url": "https://lodddd.straw.page/",
+                "start": 0,
+                "url": "https://t.co/zZDWujFlgq"
+              }
+            ]
+          }
+        },
+        "id": "1319325546027896832",
+        "name": "lod",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059091323899027456/JR-KRmH4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6224,
+          "following_count": 97,
+          "like_count": 53235,
+          "listed_count": 15,
+          "media_count": 3513,
+          "tweet_count": 34918
+        },
+        "url": "https://t.co/zZDWujFlgq",
+        "username": "lodddd__",
+        "verified": false
+      }
+    ]
+  }
+}

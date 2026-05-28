@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2029671591710449779",
+    "created_at": "2026-03-05T21:38:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T22:38:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029673042914463989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1756246342676979713",
+          "start": 0,
+          "username": "shungleemain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029673042914463989",
+    "in_reply_to_user_id": "1756246342676979713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029672243102662723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shungleemain 因为被辣到忘记拍图了w\n「狐食」tag不会收录纯文字"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2029671591710449779",
+        "created_at": "2026-03-05T21:38:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T22:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029673042914463989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1756246342676979713",
+              "start": 0,
+              "username": "shungleemain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029673042914463989",
+        "in_reply_to_user_id": "1756246342676979713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029672243102662723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shungleemain 因为被辣到忘记拍图了w\n「狐食」tag不会收录纯文字"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756246342676979713",
+        "conversation_id": "2029671591710449779",
+        "created_at": "2026-03-05T21:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T22:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029672243102662723"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "狐食"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029672243102662723",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029671591710449779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox 為什麼不加入 #狐食 呢？是因為太辣了嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1050,
+          "following_count": 1392,
+          "like_count": 14366,
+          "listed_count": 4,
+          "media_count": 477,
+          "tweet_count": 4405
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-10T09:19:19.000Z",
+        "description": "斷糖順直男，性別認同真是男 | \n超級好詭秘@Akinoyo_desu \n超級好詭秘@bolckAshley \n可愛的蜜獾@kittymi030 \n可愛的小貓@Psych_Angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 22,
+                "username": "Akinoyo_desu"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "bolckAshley"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "kittymi030"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "Psych_Angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/shungleemain",
+                "end": 23,
+                "expanded_url": "http://t.me/shungleemain",
+                "start": 0,
+                "url": "https://t.co/Ixd7gmIU6r"
+              }
+            ]
+          }
+        },
+        "id": "1756246342676979713",
+        "location": "來看生力麵的門戶網站→",
+        "name": "聖米格爾生力麵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019219421693374464/PaBT0amc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2334,
+          "following_count": 618,
+          "like_count": 2682,
+          "listed_count": 7,
+          "media_count": 597,
+          "tweet_count": 6575
+        },
+        "url": "https://t.co/Ixd7gmIU6r",
+        "username": "shungleemain",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,515 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Bitcoin Cryptocurrency",
+          "id": "1007360414114435072",
+          "name": "Bitcoin cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Bitcoin Cryptocurrency",
+          "id": "1007360414114435072",
+          "name": "Bitcoin cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1484181943616884743",
+          "name": "Cryptocoins"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "1492162686204854274",
+          "name": "Digital assets & cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "For cryptocurrency entities",
+          "id": "174",
+          "name": "Digital Assets & Crypto"
+        },
+        "entity": {
+          "description": "Bitcoin Cryptocurrency",
+          "id": "1007360414114435072",
+          "name": "Bitcoin cryptocurrency"
+        }
+      }
+    ],
+    "conversation_id": "2015100126042493036",
+    "created_at": "2026-01-24T16:31:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T17:31:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015100126042493036"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/changxiaweb3/s…",
+          "end": 154,
+          "expanded_url": "https://twitter.com/changxiaweb3/status/2014875048935641496",
+          "start": 131,
+          "url": "https://t.co/JexSvXfH9M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015100126042493036",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014875048935641496",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "狐挺喜欢这玩法的w\n用无关痛痒的小本金打一晚上，水上出金封手，水下亏完算逑\n绝不加本金，盈利50%绝对撤出，一个月只打一次，每次只投入本月收入10%\n狐不靠这个吃饭，技术理论不到位也没法靠它吃上饭\n权当是为了给沉闷一个月的身体与精神来点高速肾上腺素的娱乐了XD https://t.co/JexSvXfH9M"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2015100126042493036",
+        "created_at": "2026-01-24T16:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T17:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015100126042493036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/changxiaweb3/s…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/changxiaweb3/status/2014875048935641496",
+              "start": 131,
+              "url": "https://t.co/JexSvXfH9M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015100126042493036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014875048935641496",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "狐挺喜欢这玩法的w\n用无关痛痒的小本金打一晚上，水上出金封手，水下亏完算逑\n绝不加本金，盈利50%绝对撤出，一个月只打一次，每次只投入本月收入10%\n狐不靠这个吃饭，技术理论不到位也没法靠它吃上饭\n权当是为了给沉闷一个月的身体与精神来点高速肾上腺素的娱乐了XD https://t.co/JexSvXfH9M"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "895198046207713280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2014875048935641496",
+        "created_at": "2026-01-24T01:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T02:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014875048935641496"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014875048935641496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "第一步:100U起步，先把胆子练出来\n刚开始，我就想: 100U就算全没了，也不影响生活。所以我放得开，一共有5次机会。$BTC1.只玩一个币:就选比特币(BTC)。盘子大，不容易被随便操控，心里踏实。\n2.杠杆不贪多:用20倍杠杆。100倍太刺激，我怕自己心态崩。20倍既能放大收益，风险也相对可控。\n3.仓位别太重:每次只用一半本金开仓，也就是50U。剩下的50U备用，防止被意外插针爆仓。\n4.定死规矩:赚10%就跑，绝不恋战;亏5%就割，绝不扛单。每天最多做2笔交易，不管输赢都停手。\n就这么干了一个月，500U变成了3000U。虽然慢，但稳。\n第二步:滚仓加码，让雪球越滚越大\n有了3000U本金，我开始调整策略，但核心纪律不变。\n1.还是半仓操作:3000U的时候，每次用1500U开仓。\n2.盈利就加仓:比如1500U赚了10%变成\n1650U，总资金就成了3150U。下次开仓就用3150U的一半，也就是1575U。$RIVER\n3.错了就重来:一旦有一笔交易止损了，就立刻把仓位降回最初的500U，等连赢几笔再慢慢加上去。\n这个阶段最考验耐心。我花了三个月时间，靠着一次次小赢，把500U滚到了10WU。\n第三步:抓住大行情，实现质的飞跃\n到了第五个月。市场来了一波不错的ト涨行情。\n\n1.加大仓位:因为前面积累了足够的利润和信心，我把单次开仓比例提高到了70%。\n2.敢于持仓:以前赚10%就跑，这次我看趋势好，把止盈位提高到了30%。\n3.严格止损:同时，我把止损位也设得更紧，确保一旦判断错了，也不会伤筋动骨。\n就这一波行情，我从2.5U直接冲到了10万U。最后想说的话:\n币圈不缺机会，但缺的是能管住自己、活下来等机会的人。记住，慢慢变富，才是最快的路。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 201,
+          "impression_count": 39526,
+          "like_count": 256,
+          "quote_count": 3,
+          "reply_count": 39,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "第一步:100U起步，先把胆子练出来\n刚开始，我就想: 100U就算全没了，也不影响生活。所以我放得开，一共有5次机会。$BTC1.只玩一个币:就选比特币(BTC)。盘子大，不容易被随便操控，心里踏实。\n2.杠杆不贪多:用20倍杠杆。100倍太刺激，我怕自己心态崩。20倍既能放大收益，风险也相对可控。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨あなたの記憶で永遠に六番目になりたい!丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugHLJi"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 1180,
+          "like_count": 11936,
+          "listed_count": 2,
+          "media_count": 395,
+          "tweet_count": 3651
+        },
+        "url": "https://t.co/COn8ugHLJi",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-09T08:20:20.000Z",
+        "description": "WEB3加密超趋势分析 | 全职交易员 | 现货合约 | 中短线策略 |市场宏观 | 出入金安全 #binance 最值得购买 #btc #eth #bnb #okb #sol 「 我的投资观点很逆向/请咨询浏览我的文章 」商务合作TG：https://t.co/le1jWV7vqK",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 49,
+                "tag": "binance"
+              },
+              {
+                "end": 68,
+                "start": 64,
+                "tag": "btc"
+              },
+              {
+                "end": 73,
+                "start": 69,
+                "tag": "eth"
+              },
+              {
+                "end": 78,
+                "start": 74,
+                "tag": "bnb"
+              },
+              {
+                "end": 83,
+                "start": 79,
+                "tag": "okb"
+              },
+              {
+                "end": 88,
+                "start": 84,
+                "tag": "sol"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/btcxiage6",
+                "end": 142,
+                "expanded_url": "https://t.me/btcxiage6",
+                "start": 119,
+                "url": "https://t.co/le1jWV7vqK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/btcxia55",
+                "end": 23,
+                "expanded_url": "https://t.me/btcxia55",
+                "start": 0,
+                "url": "https://t.co/oh7GVGyzWC"
+              }
+            ]
+          }
+        },
+        "id": "895198046207713280",
+        "location": "合约学习交流：",
+        "name": "Crypto长侠",
+        "pinned_tweet_id": "2006242192361218140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938248223023579138/8jF6x9ZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52959,
+          "following_count": 682,
+          "like_count": 16428,
+          "listed_count": 65,
+          "media_count": 566,
+          "tweet_count": 4425
+        },
+        "url": "https://t.co/oh7GVGyzWC",
+        "username": "changxiaweb3",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051194968287719424",
+        "7_2051194976718221312"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      }
+    ],
+    "conversation_id": "2051195025070195113",
+    "created_at": "2026-05-04T06:59:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T07:59:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051195025070195113"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z7Gw1MYdks",
+          "end": 63,
+          "expanded_url": "https://x.com/Cheese_Ghostfox/status/2051195025070195113/video/1",
+          "media_key": "3_2051194968287719424",
+          "start": 40,
+          "url": "https://t.co/Z7Gw1MYdks"
+        },
+        {
+          "display_url": "pic.x.com/Z7Gw1MYdks",
+          "end": 63,
+          "expanded_url": "https://x.com/Cheese_Ghostfox/status/2051195025070195113/video/1",
+          "media_key": "7_2051194976718221312",
+          "start": 40,
+          "url": "https://t.co/Z7Gw1MYdks"
+        },
+        {
+          "display_url": "x.com/Cheese_Ghostfo…",
+          "end": 87,
+          "expanded_url": "https://twitter.com/Cheese_Ghostfox/status/2051193819920806229",
+          "start": 64,
+          "url": "https://t.co/Ngy1xeb9oQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051195025070195113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051193819920806229",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "人体工学设计与手感真的优化了很多!\n现在它已经有专业级EDC玩具的把玩手感了喵 https://t.co/Z7Gw1MYdks https://t.co/Ngy1xeb9oQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051194968287719424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHdO9LnbsAA4Sye.jpg",
+        "width": 922
+      },
+      {
+        "duration_ms": 8597,
+        "height": 1920,
+        "media_key": "7_2051194976718221312",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2051194976718221312/pu/img/5rLqvrSGzSan1IrT.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2051194976718221312/pu/pl/mk5KWcskp9mU2jli.m3u8?tag=25"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051194976718221312/pu/vid/avc1/320x568/86C3hDy3C2N6EfVX.mp4?tag=25"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051194976718221312/pu/vid/avc1/720x1280/dZy3SLsMZcIOZeQ8.mp4?tag=25"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051194976718221312/pu/vid/avc1/1080x1920/nzh9X7diu2eGeksT.mp4?tag=25"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051194976718221312/pu/vid/avc1/480x852/SoSJwkw9Fwj8gAJ8.mp4?tag=25"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 922,
+        "media_key": "3_2051193817240657920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHdN6LobYAAZftp.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051194968287719424",
+            "7_2051194976718221312"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "2051195025070195113",
+        "created_at": "2026-05-04T06:59:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T07:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051195025070195113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z7Gw1MYdks",
+              "end": 63,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2051195025070195113/video/1",
+              "media_key": "3_2051194968287719424",
+              "start": 40,
+              "url": "https://t.co/Z7Gw1MYdks"
+            },
+            {
+              "display_url": "pic.x.com/Z7Gw1MYdks",
+              "end": 63,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2051195025070195113/video/1",
+              "media_key": "7_2051194976718221312",
+              "start": 40,
+              "url": "https://t.co/Z7Gw1MYdks"
+            },
+            {
+              "display_url": "x.com/Cheese_Ghostfo…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/Cheese_Ghostfox/status/2051193819920806229",
+              "start": 64,
+              "url": "https://t.co/Ngy1xeb9oQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051195025070195113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051193819920806229",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人体工学设计与手感真的优化了很多!\n现在它已经有专业级EDC玩具的把玩手感了喵 https://t.co/Z7Gw1MYdks https://t.co/Ngy1xeb9oQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051193817240657920"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "2051193819920806229",
+        "created_at": "2026-05-04T06:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T07:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051193819920806229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uOJdXfxOut",
+              "end": 165,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2051193819920806229/photo/1",
+              "media_key": "3_2051193817240657920",
+              "start": 142,
+              "url": "https://t.co/uOJdXfxOut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051193819920806229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两版发簪的设计对比与3D打印的不同可选工艺:\nJLC black:出色的精准度与强度，不错的表面质感，不甚美观的黑色外观\nGrey 喷漆:更鲜明的颜色，但是表面塑料感很重，而且精准度与强度都很差(可以看到一个明显的翘曲)\n狐建议您在能接受纯黑色外观的前提下选择JLC Black喵! https://t.co/uOJdXfxOut"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1468,
+          "following_count": 1513,
+          "like_count": 18442,
+          "listed_count": 7,
+          "media_count": 650,
+          "tweet_count": 5844
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      }
+    ]
+  }
+}

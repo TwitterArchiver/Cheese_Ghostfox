@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026974227874947072"
+      ],
+      "media_source_tweet_id": [
+        "2026978046344114205"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2027183864373006343",
+    "created_at": "2026-02-27T00:47:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T01:47:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027183864373006343"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 20,
+          "tag": "重音テト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1847253576365809664",
+          "start": 3,
+          "username": "kh0KM4Owii6325"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HQzcYEZkiK",
+          "end": 49,
+          "expanded_url": "https://x.com/kh0KM4Owii6325/status/2026978046344114205/photo/1",
+          "media_key": "3_2026974227874947072",
+          "start": 26,
+          "url": "https://t.co/HQzcYEZkiK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027183864373006343",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 335
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026978046344114205",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kh0KM4Owii6325: #重音テト https://t.co/HQzcYEZkiK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026974227874947072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCFCUiVboAAwoGl.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026974227874947072"
+          ],
+          "media_source_tweet_id": [
+            "2026978046344114205"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2027183864373006343",
+        "created_at": "2026-02-27T00:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T01:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027183864373006343"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "重音テト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1847253576365809664",
+              "start": 3,
+              "username": "kh0KM4Owii6325"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HQzcYEZkiK",
+              "end": 49,
+              "expanded_url": "https://x.com/kh0KM4Owii6325/status/2026978046344114205/photo/1",
+              "media_key": "3_2026974227874947072",
+              "start": 26,
+              "url": "https://t.co/HQzcYEZkiK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027183864373006343",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 335
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026978046344114205",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kh0KM4Owii6325: #重音テト https://t.co/HQzcYEZkiK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026974227874947072"
+          ]
+        },
+        "author_id": "1847253576365809664",
+        "conversation_id": "2026978046344114205",
+        "created_at": "2026-02-26T11:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T12:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026978046344114205"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "重音テト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HQzcYEZkiK",
+              "end": 29,
+              "expanded_url": "https://x.com/kh0KM4Owii6325/status/2026978046344114205/photo/1",
+              "media_key": "3_2026974227874947072",
+              "start": 6,
+              "url": "https://t.co/HQzcYEZkiK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026978046344114205",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 326,
+          "impression_count": 20997,
+          "like_count": 3838,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 335
+        },
+        "reply_settings": "everyone",
+        "text": "#重音テト https://t.co/HQzcYEZkiK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1028,
+          "following_count": 1372,
+          "like_count": 13988,
+          "listed_count": 4,
+          "media_count": 462,
+          "tweet_count": 4251
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-18T12:29:21.000Z",
+        "description": "レイテト大好き人間❤️🧡\nUTAU・VOCALOID等中心に描きます！\n反応とてもとても遅いです。落書き多め\n無断転載、AI学習禁止",
+        "id": "1847253576365809664",
+        "location": "妄想",
+        "name": "もちもち",
+        "pinned_tweet_id": "1942908677691981870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940039292547379200/d4L2LeK3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7017,
+          "following_count": 32,
+          "like_count": 3073,
+          "listed_count": 24,
+          "media_count": 168,
+          "tweet_count": 325
+        },
+        "username": "kh0KM4Owii6325",
+        "verified": false
+      }
+    ]
+  }
+}

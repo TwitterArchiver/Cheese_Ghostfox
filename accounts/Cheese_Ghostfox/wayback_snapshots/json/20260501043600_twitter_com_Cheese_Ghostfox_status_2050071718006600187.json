@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050030546516844544"
+      ],
+      "media_source_tweet_id": [
+        "2050030584349475279"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2050071718006600187",
+    "created_at": "2026-05-01T04:36:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T05:36:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050071718006600187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1756909109788753920",
+          "start": 3,
+          "username": "__fanqie__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/T38aYA9I4l",
+          "end": 53,
+          "expanded_url": "https://x.com/__fanqie__/status/2050030584349475279/photo/1",
+          "media_key": "3_2050030546516844544",
+          "start": 30,
+          "url": "https://t.co/T38aYA9I4l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050071718006600187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050030584349475279",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__fanqie__: 这豆包咋光顾着鬼脑意淫了？ https://t.co/T38aYA9I4l"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2050071718006600187].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2050071718006600187",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2050071718006600187"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1435,
+        "media_key": "3_2050030546516844544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHMr66fWIAAqmU1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050030546516844544"
+          ]
+        },
+        "author_id": "1756909109788753920",
+        "conversation_id": "2050030584349475279",
+        "created_at": "2026-05-01T01:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T02:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050030584349475279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T38aYA9I4l",
+              "end": 37,
+              "expanded_url": "https://x.com/__fanqie__/status/2050030584349475279/photo/1",
+              "media_key": "3_2050030546516844544",
+              "start": 14,
+              "url": "https://t.co/T38aYA9I4l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050030584349475279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 7427,
+          "like_count": 163,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "这豆包咋光顾着鬼脑意淫了？ https://t.co/T38aYA9I4l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1440,
+          "following_count": 1509,
+          "like_count": 17923,
+          "listed_count": 5,
+          "media_count": 625,
+          "tweet_count": 5691
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅\n随机性评论，都懂一点\n不讨论政治/发梗图为主/侵权私信删除\n评论区约炮广告均为诈骗，请勿相信",
+        "id": "1756909109788753920",
+        "location": "番茄树上",
+        "name": "不包番茄籽的番茄",
+        "pinned_tweet_id": "2049387713699381754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043538335155859456/EL2nafA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5813,
+          "following_count": 2977,
+          "like_count": 1518,
+          "listed_count": 12,
+          "media_count": 1097,
+          "tweet_count": 9051
+        },
+        "username": "__fanqie__",
+        "verified": true
+      }
+    ]
+  }
+}

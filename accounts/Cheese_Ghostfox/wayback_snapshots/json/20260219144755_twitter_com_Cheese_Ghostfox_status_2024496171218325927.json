@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024472291703394304"
+      ],
+      "media_source_tweet_id": [
+        "2024472294073205005"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2024496171218325927",
+    "created_at": "2026-02-19T14:47:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T15:47:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024496171218325927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1799795163843436544",
+          "start": 3,
+          "username": "BeetiIsDog"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FxYgKwHSTo",
+          "end": 48,
+          "expanded_url": "https://x.com/BeetiIsDog/status/2024472294073205005/photo/1",
+          "media_key": "3_2024472291703394304",
+          "start": 25,
+          "url": "https://t.co/FxYgKwHSTo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024496171218325927",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024472294073205005",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BeetiIsDog: 谁能教我画女人啊 https://t.co/FxYgKwHSTo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 929,
+        "media_key": "3_2024472291703394304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBhe0ryaEAA3pLm.jpg",
+        "width": 725
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024472291703394304"
+          ],
+          "media_source_tweet_id": [
+            "2024472294073205005"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2024496171218325927",
+        "created_at": "2026-02-19T14:47:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T15:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024496171218325927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1799795163843436544",
+              "start": 3,
+              "username": "BeetiIsDog"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FxYgKwHSTo",
+              "end": 48,
+              "expanded_url": "https://x.com/BeetiIsDog/status/2024472294073205005/photo/1",
+              "media_key": "3_2024472291703394304",
+              "start": 25,
+              "url": "https://t.co/FxYgKwHSTo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024496171218325927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024472294073205005",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BeetiIsDog: 谁能教我画女人啊 https://t.co/FxYgKwHSTo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024472291703394304"
+          ]
+        },
+        "author_id": "1799795163843436544",
+        "conversation_id": "2024472294073205005",
+        "created_at": "2026-02-19T13:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T14:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024472294073205005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FxYgKwHSTo",
+              "end": 32,
+              "expanded_url": "https://x.com/BeetiIsDog/status/2024472294073205005/photo/1",
+              "media_key": "3_2024472291703394304",
+              "start": 9,
+              "url": "https://t.co/FxYgKwHSTo"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2024472294073205005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 215,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "谁能教我画女人啊 https://t.co/FxYgKwHSTo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨あなたの記憶で永遠に六番目になりたい!丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 1347,
+          "like_count": 13609,
+          "listed_count": 4,
+          "media_count": 442,
+          "tweet_count": 4116
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-09T13:26:33.000Z",
+        "description": "常助無傷 愛全奉全//用繁體字只是因為好看//只是个普通人,画我想画写我想写,不接稿,此账号用于堆积画作+迷思+碎碎念❌所有画作禁止用于AI训练❌ 我老大:@sysjf0 超级好朋友!:@Cheese_Ghostfox 黑泥:@5_HTIsUsagi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 78,
+                "username": "sysjf0"
+              },
+              {
+                "end": 109,
+                "start": 93,
+                "username": "Cheese_Ghostfox"
+              },
+              {
+                "end": 125,
+                "start": 113,
+                "username": "5_HTIsUsagi"
+              }
+            ]
+          }
+        },
+        "id": "1799795163843436544",
+        "location": "藤井風的钢琴",
+        "name": "🧬ビーチイ小犬U⁠ ⁠´⁠꓃⁠ ⁠`⁠ ⁠U多忙",
+        "pinned_tweet_id": "2007369704353169744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011003169300697088/tOG-ysnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 813,
+          "like_count": 35498,
+          "listed_count": 2,
+          "media_count": 471,
+          "tweet_count": 7854
+        },
+        "username": "BeetiIsDog",
+        "verified": false
+      }
+    ]
+  }
+}

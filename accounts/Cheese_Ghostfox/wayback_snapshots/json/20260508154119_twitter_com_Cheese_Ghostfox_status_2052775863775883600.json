@@ -1,0 +1,416 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052706331258408960"
+      ],
+      "media_source_tweet_id": [
+        "2052706340238426449"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2052775863775883600",
+    "created_at": "2026-05-08T15:41:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T16:41:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052775863775883600"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 65,
+          "start": 57,
+          "tag": "cosplay"
+        },
+        {
+          "end": 72,
+          "start": 67,
+          "tag": "重音テト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1533787390728634368",
+          "start": 3,
+          "username": "RIN34985348"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7b3TOPxIf6",
+          "end": 96,
+          "expanded_url": "https://x.com/RIN34985348/status/2052706340238426449/photo/1",
+          "media_key": "3_2052706331258408960",
+          "start": 73,
+          "url": "https://t.co/7b3TOPxIf6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052775863775883600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052706340238426449",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RIN34985348: 【コスプレ/cosplay】\n重音テト  (SV)\n\n———————————\n\n#cosplay \n#重音テト https://t.co/7b3TOPxIf6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052706331258408960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHytiFbaUAAWVhd.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052706331258408960"
+          ],
+          "media_source_tweet_id": [
+            "2052706340238426449"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2052775863775883600",
+        "created_at": "2026-05-08T15:41:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T16:41:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052775863775883600"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 65,
+              "start": 57,
+              "tag": "cosplay"
+            },
+            {
+              "end": 72,
+              "start": 67,
+              "tag": "重音テト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1533787390728634368",
+              "start": 3,
+              "username": "RIN34985348"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7b3TOPxIf6",
+              "end": 96,
+              "expanded_url": "https://x.com/RIN34985348/status/2052706340238426449/photo/1",
+              "media_key": "3_2052706331258408960",
+              "start": 73,
+              "url": "https://t.co/7b3TOPxIf6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052775863775883600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052706340238426449",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RIN34985348: 【コスプレ/cosplay】\n重音テト  (SV)\n\n———————————\n\n#cosplay \n#重音テト https://t.co/7b3TOPxIf6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052706331258408960"
+          ]
+        },
+        "author_id": "1533787390728634368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2052706340238426449",
+        "created_at": "2026-05-08T11:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052706340238426449"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 40,
+              "tag": "cosplay"
+            },
+            {
+              "end": 55,
+              "start": 50,
+              "tag": "重音テト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7b3TOPxIf6",
+              "end": 79,
+              "expanded_url": "https://x.com/RIN34985348/status/2052706340238426449/photo/1",
+              "media_key": "3_2052706331258408960",
+              "start": 56,
+              "url": "https://t.co/7b3TOPxIf6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052706340238426449",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 1273,
+          "like_count": 246,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "【コスプレ/cosplay】\n重音テト  (SV)\n\n———————————\n\n#cosplay \n#重音テト https://t.co/7b3TOPxIf6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1487,
+          "following_count": 1521,
+          "like_count": 18724,
+          "listed_count": 7,
+          "media_count": 664,
+          "tweet_count": 5953
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-06T12:26:42.000Z",
+        "description": "🇨🇳✖️🇨🇳／中国語🉑 / 日本語勉強中（下手ですみません) 20 ↓/アイコンは代理\nボカロ（テト中心) /第五人格／スターレ\n🔰重加工しか勝たん！！！！！！！！\nイラスト垢／雑多垢: @LIN3178225804",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 94,
+                "username": "LIN3178225804"
+              }
+            ]
+          }
+        },
+        "id": "1533787390728634368",
+        "name": "RIN🐦7/25ボーマス",
+        "pinned_tweet_id": "2051884527061217705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943828531051737091/-8Uc0zwt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 64,
+          "like_count": 451,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 71
+        },
+        "username": "RIN34985348",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029083034092498944"
+      ],
+      "media_source_tweet_id": [
+        "2029083135170990165"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2029121894818230414",
+    "created_at": "2026-03-04T09:08:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T10:08:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029121894818230414"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "メカクレちゃん",
+          "probability": 0.7294,
+          "start": 21,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1276003551823540224",
+          "start": 3,
+          "username": "rT8ChfHbFiesRdN"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/euz7Jq4kwi",
+          "end": 58,
+          "expanded_url": "https://x.com/rT8ChfHbFiesRdN/status/2029083135170990165/photo/1",
+          "media_key": "3_2029083034092498944",
+          "start": 35,
+          "url": "https://t.co/euz7Jq4kwi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029121894818230414",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 585
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029083135170990165",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rT8ChfHbFiesRdN: メカクレちゃん設定＆表情集 https://t.co/euz7Jq4kwi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1586,
+        "media_key": "3_2029083034092498944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCjARNra8AAZ9Di.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029083034092498944"
+          ],
+          "media_source_tweet_id": [
+            "2029083135170990165"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2029121894818230414",
+        "created_at": "2026-03-04T09:08:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T10:08:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029121894818230414"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "メカクレちゃん",
+              "probability": 0.7294,
+              "start": 21,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1276003551823540224",
+              "start": 3,
+              "username": "rT8ChfHbFiesRdN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/euz7Jq4kwi",
+              "end": 58,
+              "expanded_url": "https://x.com/rT8ChfHbFiesRdN/status/2029083135170990165/photo/1",
+              "media_key": "3_2029083034092498944",
+              "start": 35,
+              "url": "https://t.co/euz7Jq4kwi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029121894818230414",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 585
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029083135170990165",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rT8ChfHbFiesRdN: メカクレちゃん設定＆表情集 https://t.co/euz7Jq4kwi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029083034092498944"
+          ]
+        },
+        "author_id": "1276003551823540224",
+        "conversation_id": "2029083135170990165",
+        "created_at": "2026-03-04T06:34:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T07:34:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029083135170990165"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "メカクレちゃん",
+              "probability": 0.6526,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/euz7Jq4kwi",
+              "end": 37,
+              "expanded_url": "https://x.com/rT8ChfHbFiesRdN/status/2029083135170990165/photo/1",
+              "media_key": "3_2029083034092498944",
+              "start": 14,
+              "url": "https://t.co/euz7Jq4kwi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029083135170990165",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1006,
+          "impression_count": 61993,
+          "like_count": 6539,
+          "quote_count": 14,
+          "reply_count": 7,
+          "retweet_count": 585
+        },
+        "reply_settings": "everyone",
+        "text": "メカクレちゃん設定＆表情集 https://t.co/euz7Jq4kwi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2028494705353527427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 1386,
+          "like_count": 14278,
+          "listed_count": 4,
+          "media_count": 473,
+          "tweet_count": 4364
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-25T04:06:15.000Z",
+        "description": "絵を描きます。ご依頼は✉まで\n✉ amonitto.workwork■https://t.co/FrbgPVKyal (■⇒@)\nFANBOX https://t.co/kSksvVDN41\nSkeb https://t.co/5sbJmT89E5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gmail.com",
+                "end": 58,
+                "expanded_url": "http://gmail.com",
+                "start": 35,
+                "url": "https://t.co/FrbgPVKyal"
+              },
+              {
+                "display_url": "amonitto.fanbox.cc",
+                "end": 95,
+                "expanded_url": "http://amonitto.fanbox.cc",
+                "start": 72,
+                "url": "https://t.co/kSksvVDN41"
+              },
+              {
+                "display_url": "skeb.jp/@rT8ChfHbFiesR…",
+                "end": 124,
+                "expanded_url": "https://skeb.jp/@rT8ChfHbFiesRdN",
+                "start": 101,
+                "url": "https://t.co/5sbJmT89E5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/1621147",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/1621147",
+                "start": 0,
+                "url": "https://t.co/YA6H6df2mE"
+              }
+            ]
+          }
+        },
+        "id": "1276003551823540224",
+        "name": "アモニット",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1559568078207209472/N7PHBnbj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94764,
+          "following_count": 77,
+          "like_count": 439,
+          "listed_count": 777,
+          "media_count": 543,
+          "tweet_count": 3797
+        },
+        "url": "https://t.co/YA6H6df2mE",
+        "username": "rT8ChfHbFiesRdN",
+        "verified": false
+      }
+    ]
+  }
+}

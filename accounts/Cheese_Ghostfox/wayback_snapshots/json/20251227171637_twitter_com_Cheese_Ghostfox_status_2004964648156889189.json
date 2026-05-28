@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2004462521080795137",
+    "created_at": "2025-12-27T17:16:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T18:16:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004964648156889189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1821011392813789185",
+          "start": 0,
+          "username": "ruri3126"
+        },
+        {
+          "end": 18,
+          "id": "1786255103802109952",
+          "start": 10,
+          "username": "ei_0113"
+        },
+        {
+          "end": 26,
+          "id": "1752964347746508800",
+          "start": 19,
+          "username": "52498b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004964648156889189",
+    "in_reply_to_user_id": "1821011392813789185",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004958328292798465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruri3126 @ei_0113 @52498b わぁ、あなたの成果、俺がSVProで出したやつよりめっちゃ良く聴こえるじゃん！ また一人天才が現れた！！\n🫡🫡🫡"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19133,
+        "height": 1280,
+        "media_key": "13_2004958266649182217",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2004958266649182217/img/P9PfcaIRcjKK5b-7.jpg",
+        "public_metrics": {
+          "view_count": 5
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004958266649182217/vid/avc1/320x690/PJA9-YqhDaYrrSid.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004958266649182217/vid/avc1/480x1036/qC5GEOHJ92kLEjIz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004958266649182217/vid/avc1/592x1280/ubZ0WOR7LkjFYT-x.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2004958266649182217/pl/zBtL-zoVg9A4TsHl.m3u8"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2004462521080795137",
+        "created_at": "2025-12-27T17:16:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T18:16:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004964648156889189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1821011392813789185",
+              "start": 0,
+              "username": "ruri3126"
+            },
+            {
+              "end": 18,
+              "id": "1786255103802109952",
+              "start": 10,
+              "username": "ei_0113"
+            },
+            {
+              "end": 26,
+              "id": "1752964347746508800",
+              "start": 19,
+              "username": "52498b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004964648156889189",
+        "in_reply_to_user_id": "1821011392813789185",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004958328292798465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruri3126 @ei_0113 @52498b わぁ、あなたの成果、俺がSVProで出したやつよりめっちゃ良く聴こえるじゃん！ また一人天才が現れた！！\n🫡🫡🫡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2004958266649182217"
+          ]
+        },
+        "author_id": "1821011392813789185",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2004462521080795137",
+        "created_at": "2025-12-27T16:51:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T17:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004958328292798465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1786255103802109952",
+              "start": 0,
+              "username": "ei_0113"
+            },
+            {
+              "end": 16,
+              "id": "1752964347746508800",
+              "start": 9,
+              "username": "52498b"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KvMATCXbg6",
+              "end": 102,
+              "expanded_url": "https://x.com/ruri3126/status/2004958328292798465/video/1",
+              "media_key": "13_2004958266649182217",
+              "start": 79,
+              "url": "https://t.co/KvMATCXbg6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004958328292798465",
+        "in_reply_to_user_id": "1786255103802109952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004545783291596971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ei_0113 @52498b 自分には歌唱力もVOCALOIDもないので勝手にずんだもんでやってみた\nリズムとか音程とか間違ってたら誰か教えてクレメンス https://t.co/KvMATCXbg6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨大道五十，天衍四九丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 129,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugHLJi"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬暗号通貨戦士霊狐🏳️‍⚧️",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003275522047168512/eHhAdruU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 1095,
+          "like_count": 10823,
+          "listed_count": 2,
+          "media_count": 343,
+          "tweet_count": 3203
+        },
+        "url": "https://t.co/COn8ugHLJi",
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T02:35:06.000Z",
+        "description": "こんな名前ですが、自己肯定感が高い訳では無いです。リポストは何とも言えないけどポストは比較的平和だと思う。たまにイラスト載せます。",
+        "id": "1821011392813789185",
+        "name": "るり様の降臨だあ！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821012407311069184/SZuXHCap_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 132,
+          "like_count": 67561,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 1916
+        },
+        "username": "ruri3126",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-03T04:43:28.000Z",
+        "description": "絡み、DM、大歓迎！ 主に音ゲーのリザルトとかスマホゲーのガチャなど やってるゲーム(大体)携帯端末系 スプラ3 プロセカ ユメステ 原神 崩壊スターレイル 鳴潮 とか 　　　　　　　　　 アイコン:@tukimi_tohma",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 100,
+                "username": "tukimi_tohma"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UChlI2…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UChlI2nKcdFv0u-r_0sMSLbQ?si=jNVY9HOSDMkg8A9q",
+                "start": 0,
+                "url": "https://t.co/c5jb7GOFJC"
+              }
+            ]
+          }
+        },
+        "id": "1786255103802109952",
+        "location": "教室のセカイ(行きたい)",
+        "name": "えいる",
+        "pinned_tweet_id": "1901200275677028362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853053186464186368/bY06Az5J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 1092,
+          "like_count": 2334,
+          "listed_count": 1,
+          "media_count": 221,
+          "tweet_count": 9182
+        },
+        "url": "https://t.co/c5jb7GOFJC",
+        "username": "ei_0113",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-01T07:57:31.000Z",
+        "description": "これ見てずっと笑えるような画像をDMで募集📩",
+        "id": "1752964347746508800",
+        "location": "ネタDMで募集中📩",
+        "name": "ネットの話題ツイ図鑑",
+        "pinned_tweet_id": "1899392669815865502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997948388608978946/NfOMtrLZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62078,
+          "following_count": 12,
+          "like_count": 372,
+          "listed_count": 86,
+          "media_count": 661,
+          "tweet_count": 1008
+        },
+        "username": "52498b",
+        "verified": false
+      }
+    ]
+  }
+}

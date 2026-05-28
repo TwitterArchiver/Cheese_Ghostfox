@@ -1,0 +1,516 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010955086361673728",
+        "3_2010955086361710592",
+        "3_2010955086336552960"
+      ],
+      "media_source_tweet_id": [
+        "2010985173622669581",
+        "2010985173622669581",
+        "2010985173622669581"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "description": "Skiing",
+          "id": "847902877347495936",
+          "name": "Skiing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Skiing",
+          "id": "847902877347495936",
+          "name": "Skiing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1260978608199266304",
+          "name": "Winter sports"
+        }
+      }
+    ],
+    "conversation_id": "2014090580402512324",
+    "created_at": "2026-01-21T21:39:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T22:39:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014090580402512324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1801517762130677763",
+          "start": 3,
+          "username": "kairakuryo129"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BdlaJMByCq",
+          "end": 85,
+          "expanded_url": "https://x.com/kairakuryo129/status/2010985173622669581/photo/1",
+          "media_key": "3_2010955086361673728",
+          "start": 62,
+          "url": "https://t.co/BdlaJMByCq"
+        },
+        {
+          "display_url": "pic.x.com/BdlaJMByCq",
+          "end": 85,
+          "expanded_url": "https://x.com/kairakuryo129/status/2010985173622669581/photo/1",
+          "media_key": "3_2010955086361710592",
+          "start": 62,
+          "url": "https://t.co/BdlaJMByCq"
+        },
+        {
+          "display_url": "pic.x.com/BdlaJMByCq",
+          "end": 85,
+          "expanded_url": "https://x.com/kairakuryo129/status/2010985173622669581/photo/1",
+          "media_key": "3_2010955086336552960",
+          "start": 62,
+          "url": "https://t.co/BdlaJMByCq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014090580402512324",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 68
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010985173622669581",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kairakuryo129: そりや雪玉投げ、スキー...競い合ったのはロボット？　ロボットの氷雪競技会 IN長春 https://t.co/BdlaJMByCq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 651,
+        "media_key": "3_2010955086361673728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-hY_x3aQAASht2.jpg",
+        "width": 900
+      },
+      {
+        "height": 646,
+        "media_key": "3_2010955086361710592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-hY_x3a0AA5ShH.jpg",
+        "width": 900
+      },
+      {
+        "height": 600,
+        "media_key": "3_2010955086336552960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-hY_xxa8AAcQwJ.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010955086361673728",
+            "3_2010955086361710592",
+            "3_2010955086336552960"
+          ],
+          "media_source_tweet_id": [
+            "2010985173622669581",
+            "2010985173622669581",
+            "2010985173622669581"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Skiing",
+              "id": "847902877347495936",
+              "name": "Skiing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Skiing",
+              "id": "847902877347495936",
+              "name": "Skiing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1260978608199266304",
+              "name": "Winter sports"
+            }
+          }
+        ],
+        "conversation_id": "2014090580402512324",
+        "created_at": "2026-01-21T21:39:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T22:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014090580402512324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1801517762130677763",
+              "start": 3,
+              "username": "kairakuryo129"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BdlaJMByCq",
+              "end": 85,
+              "expanded_url": "https://x.com/kairakuryo129/status/2010985173622669581/photo/1",
+              "media_key": "3_2010955086361673728",
+              "start": 62,
+              "url": "https://t.co/BdlaJMByCq"
+            },
+            {
+              "display_url": "pic.x.com/BdlaJMByCq",
+              "end": 85,
+              "expanded_url": "https://x.com/kairakuryo129/status/2010985173622669581/photo/1",
+              "media_key": "3_2010955086361710592",
+              "start": 62,
+              "url": "https://t.co/BdlaJMByCq"
+            },
+            {
+              "display_url": "pic.x.com/BdlaJMByCq",
+              "end": 85,
+              "expanded_url": "https://x.com/kairakuryo129/status/2010985173622669581/photo/1",
+              "media_key": "3_2010955086336552960",
+              "start": 62,
+              "url": "https://t.co/BdlaJMByCq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014090580402512324",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010985173622669581",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kairakuryo129: そりや雪玉投げ、スキー...競い合ったのはロボット？　ロボットの氷雪競技会 IN長春 https://t.co/BdlaJMByCq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010955086361673728",
+            "3_2010955086361710592",
+            "3_2010955086336552960"
+          ]
+        },
+        "author_id": "1801517762130677763",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Skiing",
+              "id": "847902877347495936",
+              "name": "Skiing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Skiing",
+              "id": "847902877347495936",
+              "name": "Skiing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1260978608199266304",
+              "name": "Winter sports"
+            }
+          }
+        ],
+        "conversation_id": "2010985173622669581",
+        "created_at": "2026-01-13T08:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T09:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010985173622669581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BdlaJMByCq",
+              "end": 66,
+              "expanded_url": "https://x.com/kairakuryo129/status/2010985173622669581/photo/1",
+              "media_key": "3_2010955086361673728",
+              "start": 43,
+              "url": "https://t.co/BdlaJMByCq"
+            },
+            {
+              "display_url": "pic.x.com/BdlaJMByCq",
+              "end": 66,
+              "expanded_url": "https://x.com/kairakuryo129/status/2010985173622669581/photo/1",
+              "media_key": "3_2010955086361710592",
+              "start": 43,
+              "url": "https://t.co/BdlaJMByCq"
+            },
+            {
+              "display_url": "pic.x.com/BdlaJMByCq",
+              "end": 66,
+              "expanded_url": "https://x.com/kairakuryo129/status/2010985173622669581/photo/1",
+              "media_key": "3_2010955086336552960",
+              "start": 43,
+              "url": "https://t.co/BdlaJMByCq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010985173622669581",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 138791,
+          "like_count": 1383,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "そりや雪玉投げ、スキー...競い合ったのはロボット？　ロボットの氷雪競技会 IN長春 https://t.co/BdlaJMByCq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨あなたの記憶で永遠に六番目になりたい!丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 139,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugHLJi"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013891416938725376/k5nuEEkn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 874,
+          "following_count": 1161,
+          "like_count": 11929,
+          "listed_count": 2,
+          "media_count": 390,
+          "tweet_count": 3609
+        },
+        "url": "https://t.co/COn8ugHLJi",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-14T07:31:33.000Z",
+        "description": "みなさん、こんにちは！「快楽寮」へようこそ！！！\n今日から配信させていただきます～ここは、寮の中で友達と日常を分かち合うように、毎日の新しい出来事や楽しいこと、しかも恥ずかしいことも気軽に共有できる場所ですよ（＾ω＾）\nぜひフォローしていただき、一緒に楽しみを見つけていきましょうね☆\nよろしくお願いいたします☆～",
+        "id": "1801517762130677763",
+        "location": "恵比寿",
+        "name": "快楽寮chitchat",
+        "pinned_tweet_id": "1962376872748012004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802620765986340864/QqgiMEfh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111540,
+          "following_count": 9,
+          "like_count": 5,
+          "listed_count": 16,
+          "media_count": 3548,
+          "tweet_count": 3572
+        },
+        "username": "kairakuryo129",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2032051479536943190",
+    "created_at": "2026-03-12T11:10:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T12:10:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032051479536943190"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2032051479536943190",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "grok.com/share/c2hhcmQt…",
+            "end": 172,
+            "expanded_url": "https://grok.com/share/c2hhcmQtMw_282e2ffb-02de-4bf0-a582-56c36eff1af4",
+            "start": 149,
+            "url": "https://t.co/NVh6zsUN3g"
+          }
+        ]
+      },
+      "text": "一种很奇怪但新颖的宇宙学理论(?)\n由狐与Grok共同推导完成，目前为止大概能和刚刚诞生那会儿的弦理论坐一桌罢，同样的扯淡猜想+零证据，但是的确够优雅\n狐计划写篇论文投《S.H.I.T》\n毕竟他们甚至会接收《155mm高爆弹对于癌细胞杀灭作用研究》这样的扯淡论文(x\n狐这理论的确有够SHIT的😂\nhttps://t.co/NVh6zsUN3g"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一种很奇怪但新颖的宇宙学理论(?)\n由狐与Grok共同推导完成，目前为止大概能和刚刚诞生那会儿的弦理论坐一桌罢，同样的扯淡猜想+零证据，但是的确够优雅\n狐计划写篇论文投《S.H.I.T》\n毕竟他们甚至会接收《155mm高爆弹对于癌细胞杀灭作用研究》这样的扯淡论文(x\n狐这理论的确有够SHIT的😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2032051479536943190",
+        "created_at": "2026-03-12T11:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T12:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032051479536943190"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032051479536943190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "grok.com/share/c2hhcmQt…",
+                "end": 172,
+                "expanded_url": "https://grok.com/share/c2hhcmQtMw_282e2ffb-02de-4bf0-a582-56c36eff1af4",
+                "start": 149,
+                "url": "https://t.co/NVh6zsUN3g"
+              }
+            ]
+          },
+          "text": "一种很奇怪但新颖的宇宙学理论(?)\n由狐与Grok共同推导完成，目前为止大概能和刚刚诞生那会儿的弦理论坐一桌罢，同样的扯淡猜想+零证据，但是的确够优雅\n狐计划写篇论文投《S.H.I.T》\n毕竟他们甚至会接收《155mm高爆弹对于癌细胞杀灭作用研究》这样的扯淡论文(x\n狐这理论的确有够SHIT的😂\nhttps://t.co/NVh6zsUN3g"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一种很奇怪但新颖的宇宙学理论(?)\n由狐与Grok共同推导完成，目前为止大概能和刚刚诞生那会儿的弦理论坐一桌罢，同样的扯淡猜想+零证据，但是的确够优雅\n狐计划写篇论文投《S.H.I.T》\n毕竟他们甚至会接收《155mm高爆弹对于癌细胞杀灭作用研究》这样的扯淡论文(x\n狐这理论的确有够SHIT的😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 1401,
+          "like_count": 14676,
+          "listed_count": 4,
+          "media_count": 497,
+          "tweet_count": 4528
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      }
+    ]
+  }
+}

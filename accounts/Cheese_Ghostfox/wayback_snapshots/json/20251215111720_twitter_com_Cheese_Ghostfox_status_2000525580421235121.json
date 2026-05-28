@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2000416311961411616",
+    "created_at": "2025-12-15T11:17:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T12:17:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000525580421235121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1597605170502062080",
+          "start": 0,
+          "username": "Ayanami_rin0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000525580421235121",
+    "in_reply_to_user_id": "1597605170502062080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000416311961411616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayanami_rin0 可以试试加番茄汁，没那么邪，味道也不错"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1795,
+        "media_key": "3_2000416303878963200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8LoB5ubAAAZR0Y.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2000416303874752512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8LoB5tawAA6Cxr.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2000416303874818048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8LoB5tbwAA3_EI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2000416311961411616",
+        "created_at": "2025-12-15T11:17:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T12:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000525580421235121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1597605170502062080",
+              "start": 0,
+              "username": "Ayanami_rin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000525580421235121",
+        "in_reply_to_user_id": "1597605170502062080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000416311961411616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanami_rin0 可以试试加番茄汁，没那么邪，味道也不错"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000416303878963200",
+            "3_2000416303874752512",
+            "3_2000416303874818048"
+          ]
+        },
+        "author_id": "1597605170502062080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2000416311961411616",
+        "created_at": "2025-12-15T04:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T05:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000416311961411616"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 76,
+              "start": 71,
+              "tag": "小绫饭店"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PqHswJeTHS",
+              "end": 100,
+              "expanded_url": "https://x.com/Ayanami_rin0/status/2000416311961411616/photo/1",
+              "media_key": "3_2000416303878963200",
+              "start": 77,
+              "url": "https://t.co/PqHswJeTHS"
+            },
+            {
+              "display_url": "pic.x.com/PqHswJeTHS",
+              "end": 100,
+              "expanded_url": "https://x.com/Ayanami_rin0/status/2000416311961411616/photo/1",
+              "media_key": "3_2000416303874752512",
+              "start": 77,
+              "url": "https://t.co/PqHswJeTHS"
+            },
+            {
+              "display_url": "pic.x.com/PqHswJeTHS",
+              "end": 100,
+              "expanded_url": "https://x.com/Ayanami_rin0/status/2000416311961411616/photo/1",
+              "media_key": "3_2000416303874818048",
+              "start": 77,
+              "url": "https://t.co/PqHswJeTHS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000416311961411616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 937,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起，东北的朋友们\n我知道锅包肉不能加番茄酱\n但是我喜欢吃，就放了一点点\n但是我还把葱丝切得很粗，还连刀了\n我还放了恒顺的白醋✌️😭✌️\n #小绫饭店 https://t.co/PqHswJeTHS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「白山 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨大道五十，天衍四九丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬暗号通貨戦士霊狐🏳️‍⚧️",
+        "pinned_tweet_id": "1999356338649104574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997128038925193217/9QJNS0sg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 803,
+          "following_count": 1083,
+          "like_count": 10496,
+          "listed_count": 2,
+          "media_count": 326,
+          "tweet_count": 3103
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T14:55:41.000Z",
+        "description": "只管开心,无需正常。水中寒月如雪，指尖轻点融解， 断桥是否下过雪🫖糊满腻子的垃圾场于美丽的新世界🍨喜欢吃杨梅冰粉雪绵豆沙和马桶盖子 世界上最幸福的人。长文糊涂话https://t.co/XI1iXwHXJ5\n#啊呀纳米相册  #小绫的诗歌日记本 #小绫饭店  #aynm吃什么 #aynm旅行日记",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 111,
+                "start": 104,
+                "tag": "啊呀纳米相册"
+              },
+              {
+                "end": 122,
+                "start": 113,
+                "tag": "小绫的诗歌日记本"
+              },
+              {
+                "end": 128,
+                "start": 123,
+                "tag": "小绫饭店"
+              },
+              {
+                "end": 138,
+                "start": 130,
+                "tag": "aynm吃什么"
+              },
+              {
+                "end": 148,
+                "start": 139,
+                "tag": "aynm旅行日记"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ayanamirin0.substack.com",
+                "end": 103,
+                "expanded_url": "http://ayanamirin0.substack.com",
+                "start": 80,
+                "url": "https://t.co/XI1iXwHXJ5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ayanami_rin",
+                "end": 23,
+                "expanded_url": "https://t.me/ayanami_rin",
+                "start": 0,
+                "url": "https://t.co/scHs3L2HGT"
+              }
+            ]
+          }
+        },
+        "id": "1597605170502062080",
+        "location": "美丽而纯洁无瑕的少女总有一些小秘密，不是吗？",
+        "name": "涟漪aynm💨♿️🍼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978177217856487424/_yDj4ynS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4489,
+          "following_count": 730,
+          "like_count": 14377,
+          "listed_count": 14,
+          "media_count": 1303,
+          "tweet_count": 8652
+        },
+        "url": "https://t.co/scHs3L2HGT",
+        "username": "Ayanami_rin0",
+        "verified": false
+      }
+    ]
+  }
+}

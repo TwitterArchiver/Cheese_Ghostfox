@@ -1,0 +1,630 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056876054980308992"
+      ],
+      "media_source_tweet_id": [
+        "2056876101226635692"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Nail Polish",
+          "id": "856605935296405504",
+          "name": "Nails"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Nail Polish",
+          "id": "856605935296405504",
+          "name": "Nails"
+        }
+      }
+    ],
+    "conversation_id": "2056913214026498239",
+    "created_at": "2026-05-20T01:41:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T02:41:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056913214026498239"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 78,
+          "start": 71,
+          "tag": "アコスタ池袋"
+        },
+        {
+          "end": 85,
+          "start": 80,
+          "tag": "重音テト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1533787390728634368",
+          "start": 3,
+          "username": "RIN34985348"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HXhpAMtBY7",
+          "end": 109,
+          "expanded_url": "https://x.com/RIN34985348/status/2056876101226635692/photo/1",
+          "media_key": "3_2056876054980308992",
+          "start": 86,
+          "url": "https://t.co/HXhpAMtBY7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056913214026498239",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056876101226635692",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RIN34985348: 【コスプレ/cosplay】\n重音テト  (SV)\n(アホ毛・ネイルなし⚠️)\n\n———————————\n\n#アコスタ池袋 \n#重音テト https://t.co/HXhpAMtBY7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_2056876054980308992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIt938wbsAAeJ3Y.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056876054980308992"
+          ],
+          "media_source_tweet_id": [
+            "2056876101226635692"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Nail Polish",
+              "id": "856605935296405504",
+              "name": "Nails"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nail Polish",
+              "id": "856605935296405504",
+              "name": "Nails"
+            }
+          }
+        ],
+        "conversation_id": "2056913214026498239",
+        "created_at": "2026-05-20T01:41:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T02:41:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056913214026498239"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 78,
+              "start": 71,
+              "tag": "アコスタ池袋"
+            },
+            {
+              "end": 85,
+              "start": 80,
+              "tag": "重音テト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1533787390728634368",
+              "start": 3,
+              "username": "RIN34985348"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HXhpAMtBY7",
+              "end": 109,
+              "expanded_url": "https://x.com/RIN34985348/status/2056876101226635692/photo/1",
+              "media_key": "3_2056876054980308992",
+              "start": 86,
+              "url": "https://t.co/HXhpAMtBY7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056913214026498239",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056876101226635692",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RIN34985348: 【コスプレ/cosplay】\n重音テト  (SV)\n(アホ毛・ネイルなし⚠️)\n\n———————————\n\n#アコスタ池袋 \n#重音テト https://t.co/HXhpAMtBY7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056876054980308992"
+          ]
+        },
+        "author_id": "1533787390728634368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Nail Polish",
+              "id": "856605935296405504",
+              "name": "Nails"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nail Polish",
+              "id": "856605935296405504",
+              "name": "Nails"
+            }
+          }
+        ],
+        "conversation_id": "2056876101226635692",
+        "created_at": "2026-05-19T23:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T00:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056876101226635692"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 61,
+              "start": 54,
+              "tag": "アコスタ池袋"
+            },
+            {
+              "end": 68,
+              "start": 63,
+              "tag": "重音テト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HXhpAMtBY7",
+              "end": 92,
+              "expanded_url": "https://x.com/RIN34985348/status/2056876101226635692/photo/1",
+              "media_key": "3_2056876054980308992",
+              "start": 69,
+              "url": "https://t.co/HXhpAMtBY7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056876101226635692",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 1158,
+          "like_count": 182,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "【コスプレ/cosplay】\n重音テト  (SV)\n(アホ毛・ネイルなし⚠️)\n\n———————————\n\n#アコスタ池袋 \n#重音テト https://t.co/HXhpAMtBY7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1514,
+          "following_count": 1519,
+          "like_count": 19389,
+          "listed_count": 7,
+          "media_count": 704,
+          "tweet_count": 6223
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-06T12:26:42.000Z",
+        "description": "🇨🇳✖️🇨🇳／中国語🉑 / 日本語勉強中（下手ですみません) 20 ↓/アイコンは代理\nボカロ（テト中心) /第五人格／スターレ\n🔰重加工しか勝たん！！！！！！！！\nイラスト垢／雑多垢: @LIN3178225804",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 94,
+                "username": "LIN3178225804"
+              }
+            ]
+          }
+        },
+        "id": "1533787390728634368",
+        "location": "二次元と三次元の間のどっかにいます💗",
+        "name": "RIN🐦6/20·21埼a！",
+        "pinned_tweet_id": "2051884527061217705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943828531051737091/-8Uc0zwt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 70,
+          "like_count": 682,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 92
+        },
+        "username": "RIN34985348",
+        "verified": false
+      }
+    ]
+  }
+}

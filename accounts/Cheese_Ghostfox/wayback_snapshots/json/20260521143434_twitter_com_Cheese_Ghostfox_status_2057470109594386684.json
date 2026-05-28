@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057421642910023680"
+      ],
+      "media_source_tweet_id": [
+        "2057421648027111784"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2057470109594386684",
+    "created_at": "2026-05-21T14:34:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T15:34:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057470109594386684"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 23,
+          "tag": "重音テト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2053799489304240128",
+          "start": 3,
+          "username": "miyako_385t"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/plXAFt4RjR",
+          "end": 52,
+          "expanded_url": "https://x.com/miyako_385t/status/2057421648027111784/photo/1",
+          "media_key": "3_2057421642910023680",
+          "start": 29,
+          "url": "https://t.co/plXAFt4RjR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057470109594386684",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 110
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057421648027111784",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miyako_385t: 最前列 \n\n#重音テト https://t.co/plXAFt4RjR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057421642910023680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1uFWLaQAA3NyO.jpg",
+        "width": 1518
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057421642910023680"
+          ],
+          "media_source_tweet_id": [
+            "2057421648027111784"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2057470109594386684",
+        "created_at": "2026-05-21T14:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T15:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057470109594386684"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "重音テト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2053799489304240128",
+              "start": 3,
+              "username": "miyako_385t"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/plXAFt4RjR",
+              "end": 52,
+              "expanded_url": "https://x.com/miyako_385t/status/2057421648027111784/photo/1",
+              "media_key": "3_2057421642910023680",
+              "start": 29,
+              "url": "https://t.co/plXAFt4RjR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057470109594386684",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 110
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057421648027111784",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miyako_385t: 最前列 \n\n#重音テト https://t.co/plXAFt4RjR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057421642910023680"
+          ]
+        },
+        "author_id": "2053799489304240128",
+        "conversation_id": "2057421648027111784",
+        "created_at": "2026-05-21T11:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057421648027111784"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "重音テト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/plXAFt4RjR",
+              "end": 35,
+              "expanded_url": "https://x.com/miyako_385t/status/2057421648027111784/photo/1",
+              "media_key": "3_2057421642910023680",
+              "start": 12,
+              "url": "https://t.co/plXAFt4RjR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057421648027111784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 6029,
+          "like_count": 1104,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 110
+        },
+        "reply_settings": "everyone",
+        "text": "最前列 \n\n#重音テト https://t.co/plXAFt4RjR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1516,
+          "following_count": 1520,
+          "like_count": 19456,
+          "listed_count": 7,
+          "media_count": 709,
+          "tweet_count": 6249
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-11T11:31:08.000Z",
+        "description": "Illustrator｜本垢/@nico_eggroll｜避難垢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "nico_eggroll"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nicoeggroll",
+                "end": 23,
+                "expanded_url": "https://lit.link/nicoeggroll",
+                "start": 0,
+                "url": "https://t.co/KRLq8ON31W"
+              }
+            ]
+          }
+        },
+        "id": "2053799489304240128",
+        "location": "依頼は本垢からお願いします。",
+        "name": "みやこ / eggroll☆",
+        "pinned_tweet_id": "2053823008285004274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053823220336463873/c4mYB0ih_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 7,
+          "like_count": 412,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 57
+        },
+        "url": "https://t.co/KRLq8ON31W",
+        "username": "miyako_385t",
+        "verified": false
+      }
+    ]
+  }
+}

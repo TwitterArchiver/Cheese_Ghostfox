@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2031999198850400400",
+    "created_at": "2026-03-12T10:27:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T11:27:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032040665379717601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "4223840896",
+          "start": 0,
+          "username": "dreamhawk_cn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032040665379717601",
+    "in_reply_to_user_id": "4223840896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031999198850400400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dreamhawk_cn 狐也会做类似的事(\n挎包是「物品栏+EDC」\n背包是「额外存储空间+防具」"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2031999198850400400",
+        "created_at": "2026-03-12T10:27:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T11:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032040665379717601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "4223840896",
+              "start": 0,
+              "username": "dreamhawk_cn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032040665379717601",
+        "in_reply_to_user_id": "4223840896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031999198850400400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dreamhawk_cn 狐也会做类似的事(\n挎包是「物品栏+EDC」\n背包是「额外存储空间+防具」"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4223840896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1697053249440731136",
+              "name": "Apple Event 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1717672666507730944",
+              "name": "Apple Event"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2031999198850400400",
+        "created_at": "2026-03-12T07:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T08:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031999198850400400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cheese_ghostfo…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/cheese_ghostfox/status/2031832893690167380",
+              "start": 78,
+              "url": "https://t.co/R9Hb9I2hjq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031999198850400400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031832893690167380",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我出门必定会带一个挎包…\n会塞进去我的iPad mini，充电宝，充电线，充电器，湿巾，纸巾，各种证件和卡，护手霜…\n不这样的话我会很焦虑，万一有急用呢？ https://t.co/R9Hb9I2hjq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 1403,
+          "like_count": 14676,
+          "listed_count": 4,
+          "media_count": 497,
+          "tweet_count": 4527
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2015-11-19T05:00:10.000Z",
+        "description": "Male/INFJ-T/Bi/自立、自强、自由/😘Never lament, stride forever./😑负能里:@dreamhawk_cn_in/✍️匿名提问：https://t.co/tCv3oXISZG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 60,
+                "username": "dreamhawk_cn_in"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/garnetstar_cn",
+                "end": 107,
+                "expanded_url": "https://ngl.link/garnetstar_cn",
+                "start": 84,
+                "url": "https://t.co/tCv3oXISZG"
+              }
+            ]
+          }
+        },
+        "id": "4223840896",
+        "location": "Henan/Canton, P.R.China",
+        "name": "DreamHawk🦅🍭",
+        "pinned_tweet_id": "1933387075707154766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999061516575035392/Ifxancax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 669,
+          "following_count": 993,
+          "like_count": 92987,
+          "listed_count": 6,
+          "media_count": 863,
+          "tweet_count": 11875
+        },
+        "username": "dreamhawk_cn",
+        "verified": false
+      }
+    ]
+  }
+}
