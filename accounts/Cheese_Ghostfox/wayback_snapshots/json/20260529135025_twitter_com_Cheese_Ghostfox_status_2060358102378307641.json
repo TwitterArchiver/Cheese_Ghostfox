@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2060308265549099128",
+    "created_at": "2026-05-29T13:50:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T14:50:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060358102378307641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1628054803741032449",
+          "start": 0,
+          "username": "nozomixlr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060358102378307641",
+    "in_reply_to_user_id": "1628054803741032449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060356883459026973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nozomixlr 社恐+没人脉TwT"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2060356883459026973].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2060356883459026973",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2060356883459026973"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2060308265549099128",
+        "created_at": "2026-05-29T13:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T14:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060358102378307641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1628054803741032449",
+              "start": 0,
+              "username": "nozomixlr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060358102378307641",
+        "in_reply_to_user_id": "1628054803741032449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060356883459026973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nozomixlr 社恐+没人脉TwT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1519,
+          "following_count": 1511,
+          "like_count": 19775,
+          "listed_count": 7,
+          "media_count": 735,
+          "tweet_count": 6366
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-21T15:31:38.000Z",
+        "description": "🏳️‍🌈！MtX ｜feel free to call me with any pronouns｜ボカロ 音ゲー CHUNITHM ｜持证含专のADHD&&ASD ｜無言フォロー失礼します ｜推文无时效性敬请谅解｜fake it till you make it",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ha.org.hk",
+                "end": 23,
+                "expanded_url": "http://www.ha.org.hk",
+                "start": 0,
+                "url": "https://t.co/WdsgLK1bMl"
+              }
+            ]
+          }
+        },
+        "id": "1628054803741032449",
+        "location": "MCQ",
+        "name": "のぞみnozomi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028442475342479360/ZktitjDJ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 123,
+          "like_count": 380,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 921
+        },
+        "url": "https://t.co/WdsgLK1bMl",
+        "username": "nozomixlr",
+        "verified": false
+      }
+    ]
+  }
+}
