@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061023588061474816"
+      ],
+      "media_source_tweet_id": [
+        "2061023590150254815"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2061118303746273482",
+    "created_at": "2026-05-31T16:11:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T17:11:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061118303746273482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1811384610749874176",
+          "start": 3,
+          "username": "wgddking"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kTKPCeTNiV",
+          "end": 52,
+          "expanded_url": "https://x.com/wgddking/status/2061023590150254815/photo/1",
+          "media_key": "3_2061023588061474816",
+          "start": 29,
+          "url": "https://t.co/kTKPCeTNiV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061118303746273482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061023590150254815",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wgddking: 我每天的精神状态...... https://t.co/kTKPCeTNiV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 976,
+        "media_key": "3_2061023588061474816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJo6CJga8AA3_2I.jpg",
+        "width": 675
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061023588061474816"
+          ],
+          "media_source_tweet_id": [
+            "2061023590150254815"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2061118303746273482",
+        "created_at": "2026-05-31T16:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T17:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061118303746273482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1811384610749874176",
+              "start": 3,
+              "username": "wgddking"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kTKPCeTNiV",
+              "end": 52,
+              "expanded_url": "https://x.com/wgddking/status/2061023590150254815/photo/1",
+              "media_key": "3_2061023588061474816",
+              "start": 29,
+              "url": "https://t.co/kTKPCeTNiV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061118303746273482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061023590150254815",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wgddking: 我每天的精神状态...... https://t.co/kTKPCeTNiV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061023588061474816"
+          ]
+        },
+        "author_id": "1811384610749874176",
+        "conversation_id": "2061023590150254815",
+        "created_at": "2026-05-31T09:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T10:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061023590150254815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kTKPCeTNiV",
+              "end": 38,
+              "expanded_url": "https://x.com/wgddking/status/2061023590150254815/photo/1",
+              "media_key": "3_2061023588061474816",
+              "start": 15,
+              "url": "https://t.co/kTKPCeTNiV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061023590150254815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1827,
+          "like_count": 86,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我每天的精神状态...... https://t.co/kTKPCeTNiV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1525,
+          "following_count": 1512,
+          "like_count": 19860,
+          "listed_count": 7,
+          "media_count": 735,
+          "tweet_count": 6384
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-11T12:58:52.000Z",
+        "description": "声明\n本人绝对支持中国特色社会主义\n本人绝对无条件支持中国共产党的领导\n本人绝对敬爱伟大的总书记习近平主席\n本人绝对坚持邓公的十个如果 支持改革开放\n本人绝对无条件支持中国共产党的任何决策\n绝对支持一个中国原则，坚决维护主权、安全、领土完整、国家统一。\n__所有键证内容均已删除__\n\n恩師@Cyberkanjousen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 145,
+                "username": "Cyberkanjousen"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://114514.com",
+                "start": 0,
+                "url": "https://t.co/CHVCxAFPQr"
+              }
+            ]
+          }
+        },
+        "id": "1811384610749874176",
+        "location": "Hitachi-shi, Ibaraki",
+        "name": "wgdd（代号：温指导）",
+        "pinned_tweet_id": "2061023590150254815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046320430001377280/xPc4v9yE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 87,
+          "like_count": 591,
+          "listed_count": 0,
+          "media_count": 226,
+          "tweet_count": 2474
+        },
+        "url": "https://t.co/CHVCxAFPQr",
+        "username": "wgddking",
+        "verified": false
+      }
+    ]
+  }
+}

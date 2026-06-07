@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062916771187986433"
+      ],
+      "media_source_tweet_id": [
+        "2062916777496162575"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2063086834423632093",
+    "created_at": "2026-06-06T02:33:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T03:33:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063086834423632093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1372133355945299981",
+          "start": 3,
+          "username": "narukami_numari"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SrIymwis3a",
+          "end": 48,
+          "expanded_url": "https://x.com/narukami_numari/status/2062916777496162575/photo/1",
+          "media_key": "3_2062916771187986433",
+          "start": 25,
+          "url": "https://t.co/SrIymwis3a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063086834423632093",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 192
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062916777496162575",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @narukami_numari: 曲線美 https://t.co/SrIymwis3a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062916771187986433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDz36PbEAEYUDc.jpg",
+        "width": 1460
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062916771187986433"
+          ],
+          "media_source_tweet_id": [
+            "2062916777496162575"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2063086834423632093",
+        "created_at": "2026-06-06T02:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T03:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063086834423632093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1372133355945299981",
+              "start": 3,
+              "username": "narukami_numari"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SrIymwis3a",
+              "end": 48,
+              "expanded_url": "https://x.com/narukami_numari/status/2062916777496162575/photo/1",
+              "media_key": "3_2062916771187986433",
+              "start": 25,
+              "url": "https://t.co/SrIymwis3a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063086834423632093",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 192
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062916777496162575",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @narukami_numari: 曲線美 https://t.co/SrIymwis3a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062916771187986433"
+          ]
+        },
+        "author_id": "1372133355945299981",
+        "conversation_id": "2062916777496162575",
+        "created_at": "2026-06-05T15:17:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T16:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062916777496162575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SrIymwis3a",
+              "end": 27,
+              "expanded_url": "https://x.com/narukami_numari/status/2062916777496162575/photo/1",
+              "media_key": "3_2062916771187986433",
+              "start": 4,
+              "url": "https://t.co/SrIymwis3a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062916777496162575",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 445,
+          "impression_count": 18617,
+          "like_count": 3207,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 192
+        },
+        "reply_settings": "everyone",
+        "text": "曲線美 https://t.co/SrIymwis3a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1523,
+          "following_count": 1507,
+          "like_count": 20190,
+          "listed_count": 7,
+          "media_count": 747,
+          "tweet_count": 6500
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-17T10:31:14.000Z",
+        "description": "合成音声が大好きなボイロ絵師、ボカロDJ です。イラストの加工、無断転載は禁止です。ファンボックス→ https://t.co/r4bYWPDKAr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yukayuka.fanbox.cc",
+                "end": 74,
+                "expanded_url": "https://yukayuka.fanbox.cc/",
+                "start": 51,
+                "url": "https://t.co/r4bYWPDKAr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/numari",
+                "end": 23,
+                "expanded_url": "https://lit.link/numari",
+                "start": 0,
+                "url": "https://t.co/kTsZa4U8fI"
+              }
+            ]
+          }
+        },
+        "id": "1372133355945299981",
+        "location": "花、ヰ、春組、V.I.P観測者",
+        "name": "鳴上ぬまり@声音の宴 A-19,20",
+        "pinned_tweet_id": "2059111176286642293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053848494738407424/0MFUrATr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26617,
+          "following_count": 1125,
+          "like_count": 58342,
+          "listed_count": 140,
+          "media_count": 979,
+          "tweet_count": 17771
+        },
+        "url": "https://t.co/kTsZa4U8fI",
+        "username": "narukami_numari",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061637230104649728",
+        "3_2061637230150713344"
+      ],
+      "media_source_tweet_id": [
+        "2061637233636204771",
+        "2061637233636204771"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2062028881725685930",
+    "created_at": "2026-06-03T04:29:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T05:29:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062028881725685930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1867596733884379136",
+          "start": 3,
+          "username": "VmikufansV"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OCYIRmdYab",
+          "end": 51,
+          "expanded_url": "https://x.com/VmikufansV/status/2061637233636204771/photo/1",
+          "media_key": "3_2061637230104649728",
+          "start": 28,
+          "url": "https://t.co/OCYIRmdYab"
+        },
+        {
+          "display_url": "pic.x.com/OCYIRmdYab",
+          "end": 51,
+          "expanded_url": "https://x.com/VmikufansV/status/2061637233636204771/photo/1",
+          "media_key": "3_2061637230150713344",
+          "start": 28,
+          "url": "https://t.co/OCYIRmdYab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062028881725685930",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061637233636204771",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @VmikufansV: 飞升类固醇星球的两种人 https://t.co/OCYIRmdYab"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "by:@mia28828",
+        "height": 1722,
+        "media_key": "3_2061637230104649728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJxoI0QboAAKa4S.jpg",
+        "width": 1800
+      },
+      {
+        "height": 1722,
+        "media_key": "3_2061637230150713344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJxoI0bagAAcg8B.jpg",
+        "width": 1800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061637230104649728",
+            "3_2061637230150713344"
+          ],
+          "media_source_tweet_id": [
+            "2061637233636204771",
+            "2061637233636204771"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2062028881725685930",
+        "created_at": "2026-06-03T04:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T05:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062028881725685930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1867596733884379136",
+              "start": 3,
+              "username": "VmikufansV"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OCYIRmdYab",
+              "end": 51,
+              "expanded_url": "https://x.com/VmikufansV/status/2061637233636204771/photo/1",
+              "media_key": "3_2061637230104649728",
+              "start": 28,
+              "url": "https://t.co/OCYIRmdYab"
+            },
+            {
+              "display_url": "pic.x.com/OCYIRmdYab",
+              "end": 51,
+              "expanded_url": "https://x.com/VmikufansV/status/2061637233636204771/photo/1",
+              "media_key": "3_2061637230150713344",
+              "start": 28,
+              "url": "https://t.co/OCYIRmdYab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062028881725685930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061637233636204771",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @VmikufansV: 飞升类固醇星球的两种人 https://t.co/OCYIRmdYab"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061637230104649728",
+            "3_2061637230150713344"
+          ]
+        },
+        "author_id": "1867596733884379136",
+        "conversation_id": "2061637233636204771",
+        "created_at": "2026-06-02T02:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T03:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061637233636204771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OCYIRmdYab",
+              "end": 35,
+              "expanded_url": "https://x.com/VmikufansV/status/2061637233636204771/photo/1",
+              "media_key": "3_2061637230104649728",
+              "start": 12,
+              "url": "https://t.co/OCYIRmdYab"
+            },
+            {
+              "display_url": "pic.x.com/OCYIRmdYab",
+              "end": 35,
+              "expanded_url": "https://x.com/VmikufansV/status/2061637233636204771/photo/1",
+              "media_key": "3_2061637230150713344",
+              "start": 12,
+              "url": "https://t.co/OCYIRmdYab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061637233636204771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 27239,
+          "like_count": 392,
+          "quote_count": 2,
+          "reply_count": 184,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "飞升类固醇星球的两种人 https://t.co/OCYIRmdYab"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1522,
+          "following_count": 1508,
+          "like_count": 19922,
+          "listed_count": 7,
+          "media_count": 737,
+          "tweet_count": 6415
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-13T15:46:06.000Z",
+        "description": "荆棘之路通往何处丨\n爱来自@N/A丨\n🍥09/02/2023",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/vmikufansv",
+                "end": 23,
+                "expanded_url": "https://t.me/vmikufansv",
+                "start": 0,
+                "url": "https://t.co/Y4FXp5SvZP"
+              }
+            ]
+          }
+        },
+        "id": "1867596733884379136",
+        "location": "若叶2丁目2-12",
+        "name": "共价键ovo",
+        "pinned_tweet_id": "1867600061368254576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867597015129178112/AjHYA7j9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1447,
+          "following_count": 230,
+          "like_count": 736,
+          "listed_count": 5,
+          "media_count": 950,
+          "tweet_count": 4965
+        },
+        "url": "https://t.co/Y4FXp5SvZP",
+        "username": "VmikufansV",
+        "verified": false
+      }
+    ]
+  }
+}

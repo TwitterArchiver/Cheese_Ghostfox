@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061763576050921473"
+      ],
+      "media_source_tweet_id": [
+        "2061763850631049497"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2062164740793839946",
+    "created_at": "2026-06-03T13:29:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T14:29:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062164740793839946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1693450364341948416",
+          "start": 3,
+          "username": "igeekbb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oMrhLZR0gv",
+          "end": 72,
+          "expanded_url": "https://x.com/igeekbb/status/2061763850631049497/photo/1",
+          "media_key": "3_2061763576050921473",
+          "start": 49,
+          "url": "https://t.co/oMrhLZR0gv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062164740793839946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 197
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061763850631049497",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @igeekbb: 三年后，有人拿着这张图说，哥们不是给你打明牌了吗，给你机会你不中用啊。 https://t.co/oMrhLZR0gv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1108,
+        "media_key": "3_2061763576050921473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJzbDHlasAEJKdW.jpg",
+        "width": 1418
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061763576050921473"
+          ],
+          "media_source_tweet_id": [
+            "2061763850631049497"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062164740793839946",
+        "created_at": "2026-06-03T13:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T14:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062164740793839946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1693450364341948416",
+              "start": 3,
+              "username": "igeekbb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oMrhLZR0gv",
+              "end": 72,
+              "expanded_url": "https://x.com/igeekbb/status/2061763850631049497/photo/1",
+              "media_key": "3_2061763576050921473",
+              "start": 49,
+              "url": "https://t.co/oMrhLZR0gv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062164740793839946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 197
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061763850631049497",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @igeekbb: 三年后，有人拿着这张图说，哥们不是给你打明牌了吗，给你机会你不中用啊。 https://t.co/oMrhLZR0gv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061763576050921473"
+          ]
+        },
+        "author_id": "1693450364341948416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061763850631049497",
+        "created_at": "2026-06-02T10:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T11:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061763850631049497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oMrhLZR0gv",
+              "end": 59,
+              "expanded_url": "https://x.com/igeekbb/status/2061763850631049497/photo/1",
+              "media_key": "3_2061763576050921473",
+              "start": 36,
+              "url": "https://t.co/oMrhLZR0gv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061763850631049497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 783,
+          "impression_count": 300926,
+          "like_count": 1426,
+          "quote_count": 10,
+          "reply_count": 229,
+          "retweet_count": 197
+        },
+        "reply_settings": "everyone",
+        "text": "三年后，有人拿着这张图说，哥们不是给你打明牌了吗，给你机会你不中用啊。 https://t.co/oMrhLZR0gv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1526,
+          "following_count": 1510,
+          "like_count": 19997,
+          "listed_count": 7,
+          "media_count": 740,
+          "tweet_count": 6448
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-21T02:30:22.000Z",
+        "description": "🕹️发一些碎碎念和有趣的东东，主打一个快分享。-私信开放欢迎投稿-",
+        "id": "1693450364341948416",
+        "name": "iGeekbb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799328738871750657/9Shu8NrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81155,
+          "following_count": 1,
+          "like_count": 15802,
+          "listed_count": 331,
+          "media_count": 8150,
+          "tweet_count": 12732
+        },
+        "username": "igeekbb",
+        "verified": true
+      }
+    ]
+  }
+}

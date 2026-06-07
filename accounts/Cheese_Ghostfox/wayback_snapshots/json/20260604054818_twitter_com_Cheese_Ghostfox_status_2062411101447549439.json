@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2062411101447549439",
+    "created_at": "2026-06-04T05:48:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T06:48:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062411101447549439"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SairaMizune/st…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/SairaMizune/status/2051330789632057857",
+          "start": 33,
+          "url": "https://t.co/bKhPXTc98b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062411101447549439",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051330789632057857",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "貴方えの目の中、吾辈は一体何なの？\n尝试把这句变得有文化一点(x https://t.co/bKhPXTc98b"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2062411101447549439",
+        "created_at": "2026-06-04T05:48:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T06:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062411101447549439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SairaMizune/st…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/SairaMizune/status/2051330789632057857",
+              "start": 33,
+              "url": "https://t.co/bKhPXTc98b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062411101447549439",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051330789632057857",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "貴方えの目の中、吾辈は一体何なの？\n尝试把这句变得有文化一点(x https://t.co/bKhPXTc98b"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915685161192349697",
+        "conversation_id": "2051330789632057857",
+        "created_at": "2026-05-04T15:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T16:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051330789632057857"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051330789632057857",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 0,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "おまえの目の中、おれは一体何なの？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1525,
+          "following_count": 1509,
+          "like_count": 20028,
+          "listed_count": 7,
+          "media_count": 741,
+          "tweet_count": 6456
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-25T08:32:32.000Z",
+        "description": "終將消散的一團霧。水音 咲い蘭/裡世界生物/♀/INFJ459/半本行走的DSM-5/重度社恐/有兩隻貓/人類神經科學研究不明白者/有機化學還沒入門/不是很能生存俱樂部榮譽會員/美圖秀秀資深使用者/這一欄到底應該寫什麼其實我也不知道因為我有記憶障礙都忘了等想起來再來補充",
+        "id": "1915685161192349697",
+        "location": "下水道",
+        "name": "裁紙刀",
+        "pinned_tweet_id": "2011655413092270084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015468036837568512/6vtw7Z79_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 9,
+          "like_count": 843,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 424
+        },
+        "username": "SairaMizune",
+        "verified": false
+      }
+    ]
+  }
+}

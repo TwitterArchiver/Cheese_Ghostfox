@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061093457691869184"
+      ],
+      "media_source_tweet_id": [
+        "2061093460552389054"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2061552691013411195",
+    "created_at": "2026-06-01T20:57:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T21:57:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061552691013411195"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 18,
+          "tag": "ピノキオピー_FA"
+        },
+        {
+          "end": 35,
+          "start": 30,
+          "tag": "重音テト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1515182545536643072",
+          "start": 3,
+          "username": "ICE_icede_su"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pppyskaLIA",
+          "end": 64,
+          "expanded_url": "https://x.com/ICE_icede_su/status/2061093460552389054/photo/1",
+          "media_key": "3_2061093457691869184",
+          "start": 41,
+          "url": "https://t.co/pppyskaLIA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061552691013411195",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 150
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061093460552389054",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ICE_icede_su: #ピノキオピー_FA \n#重音テト\nうぇーい https://t.co/pppyskaLIA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061093457691869184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJp5lGKbAAAarWB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061093457691869184"
+          ],
+          "media_source_tweet_id": [
+            "2061093460552389054"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2061552691013411195",
+        "created_at": "2026-06-01T20:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T21:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061552691013411195"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 18,
+              "tag": "ピノキオピー_FA"
+            },
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "重音テト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1515182545536643072",
+              "start": 3,
+              "username": "ICE_icede_su"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pppyskaLIA",
+              "end": 64,
+              "expanded_url": "https://x.com/ICE_icede_su/status/2061093460552389054/photo/1",
+              "media_key": "3_2061093457691869184",
+              "start": 41,
+              "url": "https://t.co/pppyskaLIA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061552691013411195",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 150
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061093460552389054",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ICE_icede_su: #ピノキオピー_FA \n#重音テト\nうぇーい https://t.co/pppyskaLIA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061093457691869184"
+          ]
+        },
+        "author_id": "1515182545536643072",
+        "conversation_id": "2061093460552389054",
+        "created_at": "2026-05-31T14:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T15:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061093460552389054"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "ピノキオピー_FA"
+            },
+            {
+              "end": 17,
+              "start": 12,
+              "tag": "重音テト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pppyskaLIA",
+              "end": 46,
+              "expanded_url": "https://x.com/ICE_icede_su/status/2061093460552389054/photo/1",
+              "media_key": "3_2061093457691869184",
+              "start": 23,
+              "url": "https://t.co/pppyskaLIA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061093460552389054",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 124,
+          "impression_count": 7946,
+          "like_count": 1550,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 150
+        },
+        "reply_settings": "everyone",
+        "text": "#ピノキオピー_FA \n#重音テト\nうぇーい https://t.co/pppyskaLIA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1524,
+          "following_count": 1510,
+          "like_count": 19913,
+          "listed_count": 7,
+          "media_count": 737,
+          "tweet_count": 6411
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-16T04:17:51.000Z",
+        "description": "15↓リトリン見てね→https://t.co/Cow4NDjIsA\n                     アンダーワールド大阪,マジミラ大阪8/15",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/Ice1114",
+                "end": 34,
+                "expanded_url": "https://lit.link/Ice1114",
+                "start": 11,
+                "url": "https://t.co/Cow4NDjIsA"
+              }
+            ]
+          }
+        },
+        "id": "1515182545536643072",
+        "location": "そのものさしじゃ測れない  測らせる気もない!!!!!!!!",
+        "name": "あいす",
+        "pinned_tweet_id": "2061093460552389054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973148733706739713/PrwkIYS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 222,
+          "like_count": 26556,
+          "listed_count": 1,
+          "media_count": 296,
+          "tweet_count": 4808
+        },
+        "username": "ICE_icede_su",
+        "verified": false
+      }
+    ]
+  }
+}

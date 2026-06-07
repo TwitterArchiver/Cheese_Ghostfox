@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2062058260216316363",
+    "created_at": "2026-06-03T06:53:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T07:53:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062065187361075577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1806993387285057537",
+          "start": 0,
+          "username": "CR_Rabbit_Li"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062065187361075577",
+    "in_reply_to_user_id": "1806993387285057537",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062064901573788004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CR_Rabbit_Li 开封菜又不是只有星期四营业XD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2062058260216316363",
+        "created_at": "2026-06-03T06:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T07:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062065187361075577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1806993387285057537",
+              "start": 0,
+              "username": "CR_Rabbit_Li"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062065187361075577",
+        "in_reply_to_user_id": "1806993387285057537",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062064901573788004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CR_Rabbit_Li 开封菜又不是只有星期四营业XD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806993387285057537",
+        "conversation_id": "2062058260216316363",
+        "created_at": "2026-06-03T06:52:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T07:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062064901573788004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062064901573788004",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062058260216316363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox 今天不是周三吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1522,
+          "following_count": 1508,
+          "like_count": 19929,
+          "listed_count": 7,
+          "media_count": 739,
+          "tweet_count": 6420
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-29T10:09:50.000Z",
+        "description": "男｜08｜高三在家自学｜168｜算是直男吧｜半马pb 201｜Minecraft｜文明6｜戴森球｜INT?｜欢迎来和我聊天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cr_rabbit_li",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cr_rabbit_li",
+                "start": 0,
+                "url": "https://t.co/FwWBta80u5"
+              }
+            ]
+          }
+        },
+        "id": "1806993387285057537",
+        "location": "白云山的某条土路上",
+        "name": "一只屑兔子🚴🏃",
+        "pinned_tweet_id": "2022495217518297116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056348193538060288/ssPV3M8j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 169,
+          "like_count": 29641,
+          "listed_count": 0,
+          "media_count": 457,
+          "tweet_count": 3440
+        },
+        "url": "https://t.co/FwWBta80u5",
+        "username": "CR_Rabbit_Li",
+        "verified": false
+      }
+    ]
+  }
+}

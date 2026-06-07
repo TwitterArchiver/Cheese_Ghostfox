@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062309444416106496"
+      ],
+      "media_source_tweet_id": [
+        "2062309729792315453"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2062917211032047945",
+    "created_at": "2026-06-05T15:19:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T16:19:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062917211032047945"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 17,
+          "tag": "重音テト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2052406955042615296",
+          "start": 3,
+          "username": "t_era_te_ra"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nAONDi0cpI",
+          "end": 68,
+          "expanded_url": "https://x.com/t_era_te_ra/status/2062309729792315453/photo/1",
+          "media_key": "3_2062309444416106496",
+          "start": 45,
+          "url": "https://t.co/nAONDi0cpI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062917211032047945",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1008
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062309729792315453",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @t_era_te_ra: #重音テト\n\nお久しぶりです。引っ越しで忙しかったです https://t.co/nAONDi0cpI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2071,
+        "media_key": "3_2062309444416106496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ7Lg1ta8AAL4kM.jpg",
+        "width": 1621
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062309444416106496"
+          ],
+          "media_source_tweet_id": [
+            "2062309729792315453"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062917211032047945",
+        "created_at": "2026-06-05T15:19:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T16:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062917211032047945"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "重音テト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2052406955042615296",
+              "start": 3,
+              "username": "t_era_te_ra"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nAONDi0cpI",
+              "end": 68,
+              "expanded_url": "https://x.com/t_era_te_ra/status/2062309729792315453/photo/1",
+              "media_key": "3_2062309444416106496",
+              "start": 45,
+              "url": "https://t.co/nAONDi0cpI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062917211032047945",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1008
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062309729792315453",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @t_era_te_ra: #重音テト\n\nお久しぶりです。引っ越しで忙しかったです https://t.co/nAONDi0cpI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062309444416106496"
+          ]
+        },
+        "author_id": "2052406955042615296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062309729792315453",
+        "created_at": "2026-06-03T23:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T00:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062309729792315453"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "重音テト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nAONDi0cpI",
+              "end": 51,
+              "expanded_url": "https://x.com/t_era_te_ra/status/2062309729792315453/photo/1",
+              "media_key": "3_2062309444416106496",
+              "start": 28,
+              "url": "https://t.co/nAONDi0cpI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062309729792315453",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2759,
+          "impression_count": 114117,
+          "like_count": 17272,
+          "quote_count": 9,
+          "reply_count": 18,
+          "retweet_count": 1008
+        },
+        "reply_settings": "everyone",
+        "text": "#重音テト\n\nお久しぶりです。引っ越しで忙しかったです https://t.co/nAONDi0cpI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1521,
+          "following_count": 1506,
+          "like_count": 20144,
+          "listed_count": 7,
+          "media_count": 746,
+          "tweet_count": 6494
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-07T15:15:30.000Z",
+        "description": "ゆるく絵描いてます",
+        "id": "2052406955042615296",
+        "location": "🚫AI",
+        "name": "TΞRΔテラ",
+        "pinned_tweet_id": "2053672595535589722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062310883750268929/u8nAVFRn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 10,
+          "like_count": 243,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 20
+        },
+        "username": "t_era_te_ra",
+        "verified": false
+      }
+    ]
+  }
+}
