@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063082731643486208"
+      ],
+      "media_source_tweet_id": [
+        "2063082738664747174"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2063492374786113781",
+    "created_at": "2026-06-07T05:24:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T06:24:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063492374786113781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2005048915914293248",
+          "start": 3,
+          "username": "comugi252"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rlOmoUBcfH",
+          "end": 45,
+          "expanded_url": "https://x.com/comugi252/status/2063082738664747174/photo/1",
+          "media_key": "3_2063082731643486208",
+          "start": 22,
+          "url": "https://t.co/rlOmoUBcfH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063492374786113781",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063082738664747174",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @comugi252: まなざし…… https://t.co/rlOmoUBcfH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1845,
+        "media_key": "3_2063082731643486208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKGK0FHaQAAhYuq.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063082731643486208"
+          ],
+          "media_source_tweet_id": [
+            "2063082738664747174"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2063492374786113781",
+        "created_at": "2026-06-07T05:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T06:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063492374786113781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2005048915914293248",
+              "start": 3,
+              "username": "comugi252"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rlOmoUBcfH",
+              "end": 45,
+              "expanded_url": "https://x.com/comugi252/status/2063082738664747174/photo/1",
+              "media_key": "3_2063082731643486208",
+              "start": 22,
+              "url": "https://t.co/rlOmoUBcfH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063492374786113781",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063082738664747174",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @comugi252: まなざし…… https://t.co/rlOmoUBcfH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063082731643486208"
+          ]
+        },
+        "author_id": "2005048915914293248",
+        "conversation_id": "2063082738664747174",
+        "created_at": "2026-06-06T02:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T03:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063082738664747174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rlOmoUBcfH",
+              "end": 30,
+              "expanded_url": "https://x.com/comugi252/status/2063082738664747174/photo/1",
+              "media_key": "3_2063082731643486208",
+              "start": 7,
+              "url": "https://t.co/rlOmoUBcfH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063082738664747174",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 105,
+          "impression_count": 9486,
+          "like_count": 1291,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "まなざし…… https://t.co/rlOmoUBcfH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1526,
+          "following_count": 1508,
+          "like_count": 20227,
+          "listed_count": 7,
+          "media_count": 747,
+          "tweet_count": 6509
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-27T22:53:16.000Z",
+        "description": "社会人 こむぎと申します、ほぼ加工です。投稿不定期",
+        "id": "2005048915914293248",
+        "name": "comugi🧸",
+        "pinned_tweet_id": "2061054445585334515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060918158824001537/En1rS9ga_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6206,
+          "following_count": 76,
+          "like_count": 2110,
+          "listed_count": 20,
+          "media_count": 125,
+          "tweet_count": 951
+        },
+        "username": "comugi252",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063789936906567680"
+      ],
+      "media_source_tweet_id": [
+        "2063789942052995418"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2063844694170423690",
+    "created_at": "2026-06-08T04:44:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T05:44:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063844694170423690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1539846090",
+          "start": 3,
+          "username": "theblitznuger"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wWtmHembmz",
+          "end": 65,
+          "expanded_url": "https://x.com/theblitznuger/status/2063789942052995418/photo/1",
+          "media_key": "3_2063789936906567680",
+          "start": 42,
+          "url": "https://t.co/wWtmHembmz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063844694170423690",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063789942052995418",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @theblitznuger: Rare Kazumin hours!!!⏰ https://t.co/wWtmHembmz"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2063844694170423690].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2063844694170423690",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2063844694170423690"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2063789936906567680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKQOA2BXgAAQjZe.jpg",
+        "width": 747
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063789936906567680"
+          ]
+        },
+        "author_id": "1539846090",
+        "conversation_id": "2063789942052995418",
+        "created_at": "2026-06-08T01:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T02:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063789942052995418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wWtmHembmz",
+              "end": 46,
+              "expanded_url": "https://x.com/theblitznuger/status/2063789942052995418/photo/1",
+              "media_key": "3_2063789936906567680",
+              "start": 23,
+              "url": "https://t.co/wWtmHembmz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063789942052995418",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 578,
+          "impression_count": 21670,
+          "like_count": 2371,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "Rare Kazumin hours!!!⏰ https://t.co/wWtmHembmz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1527,
+          "following_count": 1510,
+          "like_count": 20313,
+          "listed_count": 7,
+          "media_count": 748,
+          "tweet_count": 6522
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2013-06-23T01:32:44.000Z",
+        "description": "Loyal Meguminion. 🆘 Brigade. I want to hang out with Uzaki-chan. Praise Haruhi. Beware of Darkness",
+        "id": "1539846090",
+        "location": "Crimson Demon Village ",
+        "name": "Blitzy 💥",
+        "pinned_tweet_id": "2063655976301974003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005382064497971200/7SpqpWK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5793,
+          "following_count": 1272,
+          "like_count": 51594,
+          "listed_count": 9,
+          "media_count": 14533,
+          "tweet_count": 34978
+        },
+        "username": "theblitznuger",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063935836765466624"
+      ],
+      "media_source_tweet_id": [
+        "2063935872857436553"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2063958152798969932",
+    "created_at": "2026-06-08T12:15:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T13:15:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063958152798969932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1381842188292648965",
+          "start": 3,
+          "username": "CoCii0831"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XaYB6815ss",
+          "end": 40,
+          "expanded_url": "https://x.com/CoCii0831/status/2063935872857436553/photo/1",
+          "media_key": "3_2063935836765466624",
+          "start": 17,
+          "url": "https://t.co/XaYB6815ss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063958152798969932",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 110
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063935872857436553",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CoCii0831: 😈 https://t.co/XaYB6815ss"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1704,
+        "media_key": "3_2063935836765466624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSStVWasAAMJ3h.jpg",
+        "width": 1400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063935836765466624"
+          ],
+          "media_source_tweet_id": [
+            "2063935872857436553"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2063958152798969932",
+        "created_at": "2026-06-08T12:15:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063958152798969932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1381842188292648965",
+              "start": 3,
+              "username": "CoCii0831"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XaYB6815ss",
+              "end": 40,
+              "expanded_url": "https://x.com/CoCii0831/status/2063935872857436553/photo/1",
+              "media_key": "3_2063935836765466624",
+              "start": 17,
+              "url": "https://t.co/XaYB6815ss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063958152798969932",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 110
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063935872857436553",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CoCii0831: 😈 https://t.co/XaYB6815ss"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063935836765466624"
+          ]
+        },
+        "author_id": "1381842188292648965",
+        "conversation_id": "2063935872857436553",
+        "created_at": "2026-06-08T10:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063935872857436553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XaYB6815ss",
+              "end": 25,
+              "expanded_url": "https://x.com/CoCii0831/status/2063935872857436553/photo/1",
+              "media_key": "3_2063935836765466624",
+              "start": 2,
+              "url": "https://t.co/XaYB6815ss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063935872857436553",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 4824,
+          "like_count": 933,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 110
+        },
+        "reply_settings": "everyone",
+        "text": "😈 https://t.co/XaYB6815ss"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1528,
+          "following_count": 1511,
+          "like_count": 20347,
+          "listed_count": 7,
+          "media_count": 748,
+          "tweet_count": 6527
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-13T05:30:32.000Z",
+        "description": "contect: cocii0831@gmail.com\n\nAI🚫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/110338743",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/110338743",
+                "start": 0,
+                "url": "https://t.co/0pd2MPGFYy"
+              }
+            ]
+          }
+        },
+        "id": "1381842188292648965",
+        "location": "Please leave the source",
+        "name": "Danchoo._.",
+        "pinned_tweet_id": "2063935872857436553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004520010832859137/R38DOPKM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7379,
+          "following_count": 92,
+          "like_count": 8495,
+          "listed_count": 30,
+          "media_count": 50,
+          "tweet_count": 594
+        },
+        "url": "https://t.co/0pd2MPGFYy",
+        "username": "CoCii0831",
+        "verified": true
+      }
+    ]
+  }
+}
