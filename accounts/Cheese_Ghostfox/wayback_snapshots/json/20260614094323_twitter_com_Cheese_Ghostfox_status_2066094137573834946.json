@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065949415622479872"
+      ],
+      "media_source_tweet_id": [
+        "2065949489119318041"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2066094137573834946",
+    "created_at": "2026-06-14T09:43:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T10:43:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066094137573834946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1407282450393223169",
+          "start": 3,
+          "username": "uruti_2388"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1j7XhBubCF",
+          "end": 44,
+          "expanded_url": "https://x.com/uruti_2388/status/2065949489119318041/photo/1",
+          "media_key": "3_2065949415622479872",
+          "start": 21,
+          "url": "https://t.co/1j7XhBubCF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066094137573834946",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 155
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065949489119318041",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uruti_2388: いんしゅ https://t.co/1j7XhBubCF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3541,
+        "media_key": "3_2065949415622479872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKu6DDIakAAzFg2.jpg",
+        "width": 2508
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065949415622479872"
+          ],
+          "media_source_tweet_id": [
+            "2065949489119318041"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2066094137573834946",
+        "created_at": "2026-06-14T09:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T10:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066094137573834946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1407282450393223169",
+              "start": 3,
+              "username": "uruti_2388"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1j7XhBubCF",
+              "end": 44,
+              "expanded_url": "https://x.com/uruti_2388/status/2065949489119318041/photo/1",
+              "media_key": "3_2065949415622479872",
+              "start": 21,
+              "url": "https://t.co/1j7XhBubCF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066094137573834946",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 155
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065949489119318041",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uruti_2388: いんしゅ https://t.co/1j7XhBubCF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065949415622479872"
+          ]
+        },
+        "author_id": "1407282450393223169",
+        "conversation_id": "2065949489119318041",
+        "created_at": "2026-06-14T00:08:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T01:08:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065949489119318041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1j7XhBubCF",
+              "end": 28,
+              "expanded_url": "https://x.com/uruti_2388/status/2065949489119318041/photo/1",
+              "media_key": "3_2065949415622479872",
+              "start": 5,
+              "url": "https://t.co/1j7XhBubCF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065949489119318041",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 363,
+          "impression_count": 17485,
+          "like_count": 2697,
+          "quote_count": 4,
+          "reply_count": 6,
+          "retweet_count": 155
+        },
+        "reply_settings": "everyone",
+        "text": "いんしゅ https://t.co/1j7XhBubCF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1531,
+          "following_count": 1513,
+          "like_count": 20811,
+          "listed_count": 7,
+          "media_count": 765,
+          "tweet_count": 6651
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-22T10:22:15.000Z",
+        "description": "(うすい うるち)　AI学習、無断転載禁止　\nお仕事募集中｜\nskeb▶https://t.co/O2IExoSUY9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@uruti_2388",
+                "end": 59,
+                "expanded_url": "https://skeb.jp/@uruti_2388",
+                "start": 36,
+                "url": "https://t.co/O2IExoSUY9"
+              }
+            ]
+          }
+        },
+        "id": "1407282450393223169",
+        "name": "臼井うるち",
+        "pinned_tweet_id": "2064898901782712435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044425633661702144/uhhrBb6D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103750,
+          "following_count": 1010,
+          "like_count": 26453,
+          "listed_count": 572,
+          "media_count": 1102,
+          "tweet_count": 14062
+        },
+        "username": "uruti_2388",
+        "verified": true
+      }
+    ]
+  }
+}

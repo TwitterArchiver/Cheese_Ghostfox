@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2065265841130836419",
+    "created_at": "2026-06-13T09:52:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T10:52:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065734072073404437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1545898408858161154",
+          "start": 0,
+          "username": "D3XTR0M3TH_0w0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20188…",
+          "end": 110,
+          "expanded_url": "https://x.com/i/status/2018802821832020205",
+          "start": 87,
+          "url": "https://t.co/6QxO83FxPr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065734072073404437",
+    "in_reply_to_user_id": "1545898408858161154",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018802821832020205",
+        "type": "quoted"
+      },
+      {
+        "id": "2065629600298999895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@D3XTR0M3TH_0w0 或许狐的某些长文会特征显著一些(?)\n日常碎碎念的确会比较「模板化」与masking，狐会通过套模板有意修饰自身日常语言风格的易读性与宜人性\nhttps://t.co/6QxO83FxPr"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2065629600298999895].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2065629600298999895",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2065629600298999895"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2065265841130836419",
+        "created_at": "2026-06-13T09:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T10:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065734072073404437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1545898408858161154",
+              "start": 0,
+              "username": "D3XTR0M3TH_0w0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20188…",
+              "end": 110,
+              "expanded_url": "https://x.com/i/status/2018802821832020205",
+              "start": 87,
+              "url": "https://t.co/6QxO83FxPr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065734072073404437",
+        "in_reply_to_user_id": "1545898408858161154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018802821832020205",
+            "type": "quoted"
+          },
+          {
+            "id": "2065629600298999895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@D3XTR0M3TH_0w0 或许狐的某些长文会特征显著一些(?)\n日常碎碎念的确会比较「模板化」与masking，狐会通过套模板有意修饰自身日常语言风格的易读性与宜人性\nhttps://t.co/6QxO83FxPr"
+      },
+      {
+        "article": {
+          "title": "关于东北洗浴的哲学思考"
+        },
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2018802821832020205",
+        "created_at": "2026-02-03T21:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T22:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018802821832020205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2018…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2018793836932448256",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "http://x.com/i/article/2018793836932448256",
+              "url": "https://t.co/spP1IWBH7t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018802821832020205",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 774,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/spP1IWBH7t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1531,
+          "following_count": 1512,
+          "like_count": 20724,
+          "listed_count": 7,
+          "media_count": 764,
+          "tweet_count": 6633
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-09T22:31:24.000Z",
+        "description": "退役oder，锁推只是防止被推送出去！欢迎互fo\n🏳️‍🌈🏳️‍⚧️💛🤍💜🖤he/they/🐱/猫\n#drugtwt #shtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 50,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 65,
+                "start": 59,
+                "tag": "shtwt"
+              }
+            ]
+          }
+        },
+        "id": "1545898408858161154",
+        "name": "🐱",
+        "pinned_tweet_id": "2045977962999332890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051338286296387587/A6mOoIbE_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 1279,
+          "like_count": 6245,
+          "listed_count": 1,
+          "media_count": 579,
+          "tweet_count": 3914
+        },
+        "username": "D3XTR0M3TH_0w0",
+        "verified": false
+      }
+    ]
+  }
+}

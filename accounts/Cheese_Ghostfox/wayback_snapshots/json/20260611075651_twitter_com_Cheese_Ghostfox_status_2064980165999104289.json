@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064691887269974016"
+      ],
+      "media_source_tweet_id": [
+        "2064691896119869502"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2064980165999104289",
+    "created_at": "2026-06-11T07:56:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T08:56:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064980165999104289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1691056639804399616",
+          "start": 3,
+          "username": "XXY177"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OxgSIgqIL3",
+          "end": 45,
+          "expanded_url": "https://x.com/XXY177/status/2064691896119869502/photo/1",
+          "media_key": "3_2064691887269974016",
+          "start": 22,
+          "url": "https://t.co/OxgSIgqIL3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064980165999104289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064691896119869502",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XXY177: 😤官方说话毫不掩饰 https://t.co/OxgSIgqIL3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064691887269974016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdCVQ9bkAAnKkM.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064691887269974016"
+          ],
+          "media_source_tweet_id": [
+            "2064691896119869502"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2064980165999104289",
+        "created_at": "2026-06-11T07:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T08:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064980165999104289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1691056639804399616",
+              "start": 3,
+              "username": "XXY177"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OxgSIgqIL3",
+              "end": 45,
+              "expanded_url": "https://x.com/XXY177/status/2064691896119869502/photo/1",
+              "media_key": "3_2064691887269974016",
+              "start": 22,
+              "url": "https://t.co/OxgSIgqIL3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064980165999104289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064691896119869502",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XXY177: 😤官方说话毫不掩饰 https://t.co/OxgSIgqIL3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064691887269974016"
+          ]
+        },
+        "author_id": "1691056639804399616",
+        "conversation_id": "2064691896119869502",
+        "created_at": "2026-06-10T12:51:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T13:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064691896119869502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OxgSIgqIL3",
+              "end": 33,
+              "expanded_url": "https://x.com/XXY177/status/2064691896119869502/photo/1",
+              "media_key": "3_2064691887269974016",
+              "start": 10,
+              "url": "https://t.co/OxgSIgqIL3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064691896119869502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 51879,
+          "like_count": 441,
+          "quote_count": 0,
+          "reply_count": 79,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "😤官方说话毫不掩饰 https://t.co/OxgSIgqIL3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1531,
+          "following_count": 1512,
+          "like_count": 20507,
+          "listed_count": 7,
+          "media_count": 754,
+          "tweet_count": 6572
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-14T11:58:33.000Z",
+        "description": "2013老韭菜｜BTC矿工、矿场主｜推崇：价值投资、巴菲特、段永平、芒格 ｜研究：美女、美股、加密、AI、人性…OKX最高自动返佣注册⬇️微信：XiaXueyi177",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "okx.com/join/XXY77",
+                "end": 23,
+                "expanded_url": "http://okx.com/join/XXY77",
+                "start": 0,
+                "url": "https://t.co/9uq6yXmeZU"
+              }
+            ]
+          }
+        },
+        "id": "1691056639804399616",
+        "location": "Hong Kong",
+        "name": "夏雪宜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055578236248301568/raztneuM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93295,
+          "following_count": 85,
+          "like_count": 18692,
+          "listed_count": 338,
+          "media_count": 4096,
+          "tweet_count": 26143
+        },
+        "url": "https://t.co/9uq6yXmeZU",
+        "username": "XXY177",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064722079094878208"
+      ],
+      "media_source_tweet_id": [
+        "2064722081468792891"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2064978170370261104",
+    "created_at": "2026-06-11T07:48:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T08:48:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064978170370261104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1567266247171252224",
+          "start": 3,
+          "username": "tukemono6500"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mABo0zuS60",
+          "end": 64,
+          "expanded_url": "https://x.com/tukemono6500/status/2064722081468792891/photo/1",
+          "media_key": "3_2064722079094878208",
+          "start": 41,
+          "url": "https://t.co/mABo0zuS60"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064978170370261104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 364
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064722081468792891",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @tukemono6500: 何がとは言わんけどガラス越しでするヤツ好き。 https://t.co/mABo0zuS60"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064722079094878208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKddyqRbMAAjACl.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064722079094878208"
+          ],
+          "media_source_tweet_id": [
+            "2064722081468792891"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2064978170370261104",
+        "created_at": "2026-06-11T07:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T08:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064978170370261104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1567266247171252224",
+              "start": 3,
+              "username": "tukemono6500"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mABo0zuS60",
+              "end": 64,
+              "expanded_url": "https://x.com/tukemono6500/status/2064722081468792891/photo/1",
+              "media_key": "3_2064722079094878208",
+              "start": 41,
+              "url": "https://t.co/mABo0zuS60"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064978170370261104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 364
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064722081468792891",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @tukemono6500: 何がとは言わんけどガラス越しでするヤツ好き。 https://t.co/mABo0zuS60"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064722079094878208"
+          ]
+        },
+        "author_id": "1567266247171252224",
+        "conversation_id": "2064722081468792891",
+        "created_at": "2026-06-10T14:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064722081468792891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mABo0zuS60",
+              "end": 46,
+              "expanded_url": "https://x.com/tukemono6500/status/2064722081468792891/photo/1",
+              "media_key": "3_2064722079094878208",
+              "start": 23,
+              "url": "https://t.co/mABo0zuS60"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064722081468792891",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 939,
+          "impression_count": 39741,
+          "like_count": 8015,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 364
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "何がとは言わんけどガラス越しでするヤツ好き。 https://t.co/mABo0zuS60"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1530,
+          "following_count": 1511,
+          "like_count": 20490,
+          "listed_count": 7,
+          "media_count": 754,
+          "tweet_count": 6568
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-06T21:39:43.000Z",
+        "description": "もい。",
+        "id": "1567266247171252224",
+        "name": "ふももの",
+        "pinned_tweet_id": "2064722081468792891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064482116961013760/cj_qr0RD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83758,
+          "following_count": 3,
+          "like_count": 20491,
+          "listed_count": 237,
+          "media_count": 1288,
+          "tweet_count": 5702
+        },
+        "username": "tukemono6500",
+        "verified": false
+      }
+    ]
+  }
+}

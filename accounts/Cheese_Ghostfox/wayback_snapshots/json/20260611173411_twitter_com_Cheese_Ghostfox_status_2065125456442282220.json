@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2065001816073683420",
+    "created_at": "2026-06-11T17:34:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T18:34:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065125456442282220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1595756551699984384",
+          "start": 0,
+          "username": "Ateiriaror3562"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20650…",
+          "end": 98,
+          "expanded_url": "https://x.com/i/status/2065019452090118522",
+          "start": 75,
+          "url": "https://t.co/qUQ76BiQHS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065125456442282220",
+    "in_reply_to_user_id": "1595756551699984384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065019452090118522",
+        "type": "quoted"
+      },
+      {
+        "id": "2065116600387400095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ateiriaror3562 您当然没有w\n这是狐用来测试自己开发的浏览器扩展用的测试推文\n请在edge浏览器中安装下方扩展并使用网页版X体验喵!\nhttps://t.co/qUQ76BiQHS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1317,
+        "media_key": "3_2065116587678646272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKjEmFRaQAANUdF.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2065001816073683420",
+        "created_at": "2026-06-11T17:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T18:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065125456442282220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1595756551699984384",
+              "start": 0,
+              "username": "Ateiriaror3562"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20650…",
+              "end": 98,
+              "expanded_url": "https://x.com/i/status/2065019452090118522",
+              "start": 75,
+              "url": "https://t.co/qUQ76BiQHS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065125456442282220",
+        "in_reply_to_user_id": "1595756551699984384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065019452090118522",
+            "type": "quoted"
+          },
+          {
+            "id": "2065116600387400095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ateiriaror3562 您当然没有w\n这是狐用来测试自己开发的浏览器扩展用的测试推文\n请在edge浏览器中安装下方扩展并使用网页版X体验喵!\nhttps://t.co/qUQ76BiQHS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2065019452090118522",
+        "created_at": "2026-06-11T10:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T11:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065019452090118522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "一个使X.com支持全功能MarkDown渲染与受限的LaTeX混合渲染的富文本显示扩展. Contribute to CheeseGhostfox/Marked-X-Down development by creating an account on GitHub.",
+              "display_url": "github.com/CheeseGhostfox…",
+              "end": 23,
+              "expanded_url": "http://github.com/CheeseGhostfox/Marked-X-Down",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2065019455911178240/ruf7ygSE?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2065019455911178240/ruf7ygSE?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "GitHub - CheeseGhostfox/Marked-X-Down: 一个使X.com支持全功能MarkDown渲染与受限的LaTeX混合渲染的富文本显示扩展",
+              "unwound_url": "https://github.com/CheeseGhostfox/Marked-X-Down",
+              "url": "https://t.co/VpTYGKd7cl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065019452090118522",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/VpTYGKd7cl\nLet's go,mate!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065116587678646272"
+          ]
+        },
+        "author_id": "1595756551699984384",
+        "conversation_id": "2065001816073683420",
+        "created_at": "2026-06-11T16:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T17:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065116600387400095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lNEAJXAgGc",
+              "end": 48,
+              "expanded_url": "https://x.com/Ateiriaror3562/status/2065116600387400095/photo/1",
+              "media_key": "3_2065116587678646272",
+              "start": 25,
+              "url": "https://t.co/lNEAJXAgGc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065116600387400095",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065001816073683420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox 我这里竟然没有 https://t.co/lNEAJXAgGc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1534,
+          "following_count": 1513,
+          "like_count": 20593,
+          "listed_count": 7,
+          "media_count": 760,
+          "tweet_count": 6597
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-24T12:31:53.000Z",
+        "description": "❗️帖子内容均与本人无关┃爱看马娘和搞抽象┃主人：@JokerJoker6262",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 25,
+                "username": "JokerJoker6262"
+              }
+            ]
+          }
+        },
+        "id": "1595756551699984384",
+        "location": "伊甸园",
+        "name": "Ateiriaror",
+        "pinned_tweet_id": "1988646542912430571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043918410401394688/5ae2aF9v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1629,
+          "following_count": 381,
+          "like_count": 21582,
+          "listed_count": 5,
+          "media_count": 2342,
+          "tweet_count": 7610
+        },
+        "username": "Ateiriaror3562",
+        "verified": false
+      }
+    ]
+  }
+}

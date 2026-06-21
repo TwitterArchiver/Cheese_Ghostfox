@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065096410387845120"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2065096413277757615",
+    "created_at": "2026-06-11T15:38:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T16:38:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065096413277757615"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/L4WzQVyqpi",
+          "end": 34,
+          "expanded_url": "https://x.com/Cheese_Ghostfox/status/2065096413277757615/photo/1",
+          "media_key": "3_2065096410387845120",
+          "start": 11,
+          "url": "https://t.co/L4WzQVyqpi"
+        },
+        {
+          "display_url": "x.com/_ropu/status/2…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/_ropu/status/2064976652770357297",
+          "start": 35,
+          "url": "https://t.co/JxuB3TOuC9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065096413277757615",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064976652770357297",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看看推友眼中的狐(x https://t.co/L4WzQVyqpi https://t.co/JxuB3TOuC9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2065096410387845120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKiyPnAaEAAbh4L.jpg",
+        "width": 709
+      },
+      {
+        "height": 640,
+        "media_key": "3_2064976641810722816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKhFUKSbcAAE0x6.jpg",
+        "width": 709
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065096410387845120"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2065096413277757615",
+        "created_at": "2026-06-11T15:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T16:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065096413277757615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L4WzQVyqpi",
+              "end": 34,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2065096413277757615/photo/1",
+              "media_key": "3_2065096410387845120",
+              "start": 11,
+              "url": "https://t.co/L4WzQVyqpi"
+            },
+            {
+              "display_url": "x.com/_ropu/status/2…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/_ropu/status/2064976652770357297",
+              "start": 35,
+              "url": "https://t.co/JxuB3TOuC9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065096413277757615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064976652770357297",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看看推友眼中的狐(x https://t.co/L4WzQVyqpi https://t.co/JxuB3TOuC9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064976641810722816"
+          ]
+        },
+        "author_id": "758296624875446272",
+        "conversation_id": "2064976652770357297",
+        "created_at": "2026-06-11T07:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T08:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064976652770357297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/57VBgfKkQv",
+              "end": 28,
+              "expanded_url": "https://x.com/_ropu/status/2064976652770357297/photo/1",
+              "media_key": "3_2064976641810722816",
+              "start": 5,
+              "url": "https://t.co/57VBgfKkQv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064976652770357297",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1696,
+          "like_count": 55,
+          "quote_count": 2,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咪咪喵喵 https://t.co/57VBgfKkQv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1534,
+          "following_count": 1513,
+          "like_count": 20590,
+          "listed_count": 7,
+          "media_count": 760,
+          "tweet_count": 6596
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2016-07-27T13:42:58.000Z",
+        "description": "|| ロプ＝Rophlis || 病んでれ || きゅうけつ || お姉さん： @Cchang3243 || CN/JP/EN/KR ○ || 变得可爱是第一要义 || 另一个账号 @_roopuu || 是吗 Bot ||",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "Cchang3243"
+              },
+              {
+                "end": 99,
+                "start": 91,
+                "username": "_roopuu"
+              }
+            ]
+          }
+        },
+        "id": "758296624875446272",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "ロプ,,ᗜ - ᗜ,,",
+        "pinned_tweet_id": "2055435465881538633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052386249051422721/32J8Hjfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31212,
+          "following_count": 4404,
+          "like_count": 15717,
+          "listed_count": 32,
+          "media_count": 4746,
+          "tweet_count": 34977
+        },
+        "username": "_ropu",
+        "verified": true
+      }
+    ]
+  }
+}

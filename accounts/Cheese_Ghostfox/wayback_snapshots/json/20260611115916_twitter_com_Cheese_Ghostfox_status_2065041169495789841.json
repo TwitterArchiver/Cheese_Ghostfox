@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2065041169495789841",
+    "created_at": "2026-06-11T11:59:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T12:59:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065041169495789841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2497764032",
+          "start": 3,
+          "username": "TainiiMikan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065041169495789841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065020023564091576",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TainiiMikan: 今天意识到稍微年纪大一点的男性好多都有秃头问题。\n而且大多数人似乎完全没想采取任何措施。\n🍊老爸四十多岁以后也地中海了...而且这东西显然会遗传。\n🍊我宁可被cpa毒死也不要秃头啊呜呜呜😭（大雾）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2065041169495789841",
+        "created_at": "2026-06-11T11:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T12:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065041169495789841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2497764032",
+              "start": 3,
+              "username": "TainiiMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065041169495789841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065020023564091576",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TainiiMikan: 今天意识到稍微年纪大一点的男性好多都有秃头问题。\n而且大多数人似乎完全没想采取任何措施。\n🍊老爸四十多岁以后也地中海了...而且这东西显然会遗传。\n🍊我宁可被cpa毒死也不要秃头啊呜呜呜😭（大雾）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2497764032",
+        "conversation_id": "2065020023564091576",
+        "created_at": "2026-06-11T10:35:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T11:35:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065020023564091576"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065020023564091576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 462,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天意识到稍微年纪大一点的男性好多都有秃头问题。\n而且大多数人似乎完全没想采取任何措施。\n🍊老爸四十多岁以后也地中海了...而且这东西显然会遗传。\n🍊我宁可被cpa毒死也不要秃头啊呜呜呜😭（大雾）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1533,
+          "following_count": 1513,
+          "like_count": 20560,
+          "listed_count": 7,
+          "media_count": 757,
+          "tweet_count": 6590
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2014-05-16T05:06:00.000Z",
+        "description": "是一只，后面忘了，总之是杂鱼酱 || 女装号: @JanboMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "JanboMikan"
+              }
+            ]
+          }
+        },
+        "id": "2497764032",
+        "location": "鱼缸",
+        "name": "タイニー蜜柑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996230563334934528/UuZF-Uhr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 132,
+          "like_count": 1315,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 1111
+        },
+        "username": "TainiiMikan",
+        "verified": false
+      }
+    ]
+  }
+}

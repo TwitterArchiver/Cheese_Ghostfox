@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066171815698038784"
+      ],
+      "media_source_tweet_id": [
+        "2066171818323726728"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2066242733124296878",
+    "created_at": "2026-06-14T19:33:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T20:33:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066242733124296878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2061123020899655680",
+          "start": 3,
+          "username": "tsukimuro_chidu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/N4yfAIelH2",
+          "end": 49,
+          "expanded_url": "https://x.com/tsukimuro_chidu/status/2066171818323726728/photo/1",
+          "media_key": "3_2066171815698038784",
+          "start": 26,
+          "url": "https://t.co/N4yfAIelH2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066242733124296878",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 98
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066171818323726728",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tsukimuro_chidu: SVテト https://t.co/N4yfAIelH2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1244,
+        "media_key": "3_2066171815698038784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyEUb-bAAA7Swc.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066171815698038784"
+          ],
+          "media_source_tweet_id": [
+            "2066171818323726728"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2066242733124296878",
+        "created_at": "2026-06-14T19:33:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T20:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066242733124296878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2061123020899655680",
+              "start": 3,
+              "username": "tsukimuro_chidu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N4yfAIelH2",
+              "end": 49,
+              "expanded_url": "https://x.com/tsukimuro_chidu/status/2066171818323726728/photo/1",
+              "media_key": "3_2066171815698038784",
+              "start": 26,
+              "url": "https://t.co/N4yfAIelH2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066242733124296878",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 98
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066171818323726728",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tsukimuro_chidu: SVテト https://t.co/N4yfAIelH2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066171815698038784"
+          ]
+        },
+        "author_id": "2061123020899655680",
+        "conversation_id": "2066171818323726728",
+        "created_at": "2026-06-14T14:52:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066171818323726728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N4yfAIelH2",
+              "end": 28,
+              "expanded_url": "https://x.com/tsukimuro_chidu/status/2066171818323726728/photo/1",
+              "media_key": "3_2066171815698038784",
+              "start": 5,
+              "url": "https://t.co/N4yfAIelH2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066171818323726728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 3710,
+          "like_count": 935,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "SVテト https://t.co/N4yfAIelH2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1530,
+          "following_count": 1513,
+          "like_count": 20903,
+          "listed_count": 7,
+          "media_count": 768,
+          "tweet_count": 6665
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-31T16:31:51.000Z",
+        "description": "はじめまして。つきむろ ちづ です。1000年後にVTuberになります。会話▶@chidu_ura",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 40,
+                "username": "chidu_ura"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@tsukimuro_chi…",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@tsukimuro_chidu",
+                "start": 0,
+                "url": "https://t.co/BGNgxOBPw9"
+              }
+            ]
+          }
+        },
+        "id": "2061123020899655680",
+        "name": "月室ちづ",
+        "pinned_tweet_id": "2065126887337464040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064415429737799680/7G7wi_NL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1730,
+          "following_count": 0,
+          "like_count": 332,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 541
+        },
+        "url": "https://t.co/BGNgxOBPw9",
+        "username": "tsukimuro_chidu",
+        "verified": false
+      }
+    ]
+  }
+}

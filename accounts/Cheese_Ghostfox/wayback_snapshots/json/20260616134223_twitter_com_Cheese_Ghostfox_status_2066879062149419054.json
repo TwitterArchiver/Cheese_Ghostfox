@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2066810496230313984"
+      ],
+      "media_source_tweet_id": [
+        "2066823102299078785"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2066879062149419054",
+    "created_at": "2026-06-16T13:42:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T14:42:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066879062149419054"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 13,
+          "tag": "重音テト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "896981477006524416",
+          "start": 3,
+          "username": "OuRNn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TiKxK50ZhF",
+          "end": 42,
+          "expanded_url": "https://x.com/OuRNn/status/2066823102299078785/video/1",
+          "media_key": "13_2066810496230313984",
+          "start": 19,
+          "url": "https://t.co/TiKxK50ZhF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066879062149419054",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 226
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066823102299078785",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OuRNn: 🌀\n#重音テト https://t.co/TiKxK50ZhF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30041,
+        "height": 1920,
+        "media_key": "13_2066810496230313984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066810496230313984/img/BKrJ4G18nK6RMQZI.jpg",
+        "public_metrics": {
+          "view_count": 5556
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066810496230313984/vid/avc1/320x568/JvJgP7Bp69loVHeY.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066810496230313984/vid/avc1/480x852/t_xiyHDjmQdqIXHf.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066810496230313984/vid/avc1/720x1280/f3xl99Fkf7SlMQbP.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066810496230313984/pl/ve77eKCq2wvjILLh.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066810496230313984"
+          ],
+          "media_source_tweet_id": [
+            "2066823102299078785"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2066879062149419054",
+        "created_at": "2026-06-16T13:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T14:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066879062149419054"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "重音テト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "896981477006524416",
+              "start": 3,
+              "username": "OuRNn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TiKxK50ZhF",
+              "end": 42,
+              "expanded_url": "https://x.com/OuRNn/status/2066823102299078785/video/1",
+              "media_key": "13_2066810496230313984",
+              "start": 19,
+              "url": "https://t.co/TiKxK50ZhF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066879062149419054",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 226
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066823102299078785",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OuRNn: 🌀\n#重音テト https://t.co/TiKxK50ZhF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066810496230313984"
+          ]
+        },
+        "author_id": "896981477006524416",
+        "conversation_id": "2066823102299078785",
+        "created_at": "2026-06-16T10:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T11:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066823102299078785"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 2,
+              "tag": "重音テト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TiKxK50ZhF",
+              "end": 31,
+              "expanded_url": "https://x.com/OuRNn/status/2066823102299078785/video/1",
+              "media_key": "13_2066810496230313984",
+              "start": 8,
+              "url": "https://t.co/TiKxK50ZhF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066823102299078785",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 205,
+          "impression_count": 16115,
+          "like_count": 2039,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 226
+        },
+        "reply_settings": "everyone",
+        "text": "🌀\n#重音テト https://t.co/TiKxK50ZhF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1530,
+          "following_count": 1515,
+          "like_count": 21048,
+          "listed_count": 7,
+          "media_count": 769,
+          "tweet_count": 6681
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-14T06:27:04.000Z",
+        "description": "▼イラスト描きます！▼映像も作りたい▼ボカロ大好き",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/30253315",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/30253315",
+                "start": 0,
+                "url": "https://t.co/OKgdE2lGnl"
+              }
+            ]
+          }
+        },
+        "id": "896981477006524416",
+        "name": "owlin",
+        "pinned_tweet_id": "1777169499516702962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770541230323294208/lFXfW9CC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 311,
+          "like_count": 14308,
+          "listed_count": 3,
+          "media_count": 991,
+          "tweet_count": 5057
+        },
+        "url": "https://t.co/OKgdE2lGnl",
+        "username": "OuRNn",
+        "verified": false
+      }
+    ]
+  }
+}
