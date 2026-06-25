@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2068557313401851925",
+    "created_at": "2026-06-21T04:51:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T05:51:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068557313401851925"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/guangzhouxidu/…",
+          "end": 181,
+          "expanded_url": "https://twitter.com/guangzhouxidu/status/2068385994580340751",
+          "start": 158,
+          "url": "https://t.co/oKn8ZESjEp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068557313401851925",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068385994580340751",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在禁毒宣传中,似乎总在假设「毒品」或任何化学极乐物质的危害场景都是「某个幸福的良家子,踏上歧途,人生毁灭」\n然而,狐真正田野调查的结果是什么呢?\n这种Drug user反而少之又少,而真实情况只是一群可怜的年轻人试图用化学物质修复破碎的命运与人生...\n闹钟当代的Drug usage早已不是KTV和夜场的摇头丸了 https://t.co/oKn8ZESjEp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2068557313401851925",
+        "created_at": "2026-06-21T04:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T05:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068557313401851925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/guangzhouxidu/…",
+              "end": 181,
+              "expanded_url": "https://twitter.com/guangzhouxidu/status/2068385994580340751",
+              "start": 158,
+              "url": "https://t.co/oKn8ZESjEp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068557313401851925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068385994580340751",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在禁毒宣传中,似乎总在假设「毒品」或任何化学极乐物质的危害场景都是「某个幸福的良家子,踏上歧途,人生毁灭」\n然而,狐真正田野调查的结果是什么呢?\n这种Drug user反而少之又少,而真实情况只是一群可怜的年轻人试图用化学物质修复破碎的命运与人生...\n闹钟当代的Drug usage早已不是KTV和夜场的摇头丸了 https://t.co/oKn8ZESjEp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032802107745824768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2068356171703189681",
+        "created_at": "2026-06-20T17:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T18:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068385994580340751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2059149411007991808",
+              "start": 0,
+              "username": "wndsfefoumxlw6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068385994580340751",
+        "in_reply_to_user_id": "2059149411007991808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 160,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068356171703189681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wndsfefoumxlw6 有天然幸福感谁还要化学"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1528,
+          "following_count": 1514,
+          "like_count": 21231,
+          "listed_count": 7,
+          "media_count": 771,
+          "tweet_count": 6716
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-14T12:53:56.000Z",
+        "description": "广州市吸毒局吸毒支队官方推特号，药圈民办派出所，私信长期接投稿 报案，不出售任何产品，谨防骗子，反诈安全宣传一刻不容停息，关注局长 防范骗局",
+        "id": "2032802107745824768",
+        "name": "广州吸毒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032802565499637760/AQs27st5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 40,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 106
+        },
+        "url": "",
+        "username": "guangzhouxidu",
+        "verified": false
+      }
+    ]
+  }
+}

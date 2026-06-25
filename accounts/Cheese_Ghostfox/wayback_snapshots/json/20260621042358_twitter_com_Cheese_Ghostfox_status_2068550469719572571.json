@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068526357064372224"
+      ],
+      "media_source_tweet_id": [
+        "2068526359568404809"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2068550469719572571",
+    "created_at": "2026-06-21T04:23:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T05:23:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068550469719572571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1760587488740167680",
+          "start": 3,
+          "username": "PDamn231190"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wbxn2wOsoS",
+          "end": 49,
+          "expanded_url": "https://x.com/PDamn231190/status/2068526359568404809/photo/1",
+          "media_key": "3_2068526357064372224",
+          "start": 26,
+          "url": "https://t.co/wbxn2wOsoS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068550469719572571",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068526359568404809",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PDamn231190: 超级teto喵！ https://t.co/wbxn2wOsoS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068526357064372224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLThwyFa0AAbLB5.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068526357064372224"
+          ],
+          "media_source_tweet_id": [
+            "2068526359568404809"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2068550469719572571",
+        "created_at": "2026-06-21T04:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T05:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068550469719572571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1760587488740167680",
+              "start": 3,
+              "username": "PDamn231190"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wbxn2wOsoS",
+              "end": 49,
+              "expanded_url": "https://x.com/PDamn231190/status/2068526359568404809/photo/1",
+              "media_key": "3_2068526357064372224",
+              "start": 26,
+              "url": "https://t.co/wbxn2wOsoS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068550469719572571",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068526359568404809",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PDamn231190: 超级teto喵！ https://t.co/wbxn2wOsoS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068526357064372224"
+          ]
+        },
+        "author_id": "1760587488740167680",
+        "conversation_id": "2068526359568404809",
+        "created_at": "2026-06-21T02:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T03:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068526359568404809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wbxn2wOsoS",
+              "end": 32,
+              "expanded_url": "https://x.com/PDamn231190/status/2068526359568404809/photo/1",
+              "media_key": "3_2068526357064372224",
+              "start": 9,
+              "url": "https://t.co/wbxn2wOsoS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068526359568404809",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 352,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "超级teto喵！ https://t.co/wbxn2wOsoS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1528,
+          "following_count": 1514,
+          "like_count": 21220,
+          "listed_count": 7,
+          "media_count": 771,
+          "tweet_count": 6714
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-22T08:49:13.000Z",
+        "description": "女儿💙麦麦子💙/ 07年抽象画师喵喵喵~ /抖音号：牢man种子",
+        "id": "1760587488740167680",
+        "location": "China",
+        "name": "小麦不是种子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045542267541483520/RimgLVhP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6868,
+          "following_count": 34,
+          "like_count": 79,
+          "listed_count": 12,
+          "media_count": 32,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "PDamn231190",
+        "verified": false
+      }
+    ]
+  }
+}

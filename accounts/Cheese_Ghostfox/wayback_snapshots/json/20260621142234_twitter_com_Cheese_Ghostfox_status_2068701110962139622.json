@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2068698126207332643",
+    "created_at": "2026-06-21T14:22:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T15:22:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068701110962139622"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068701110962139622",
+    "in_reply_to_user_id": "1620506107306479617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068698126207332643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "描述这种咖啡导致的嗜睡就像是...去吃个120mg罗通定，给自己来一次锥体外系反应急性发作\n就那个感觉\n心率反而会降低而不是升高，喝得越多越低\n倒是不喝咖啡会偏高"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2068698126207332643",
+        "created_at": "2026-06-21T14:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T15:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068701110962139622"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068701110962139622",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068698126207332643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "描述这种咖啡导致的嗜睡就像是...去吃个120mg罗通定，给自己来一次锥体外系反应急性发作\n就那个感觉\n心率反而会降低而不是升高，喝得越多越低\n倒是不喝咖啡会偏高"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2068698126207332643",
+        "created_at": "2026-06-21T14:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T15:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068698126207332643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LolingVerse/st…",
+              "end": 150,
+              "expanded_url": "https://twitter.com/LolingVerse/status/2068391899745165686",
+              "start": 127,
+              "url": "https://t.co/li1WmGs5YA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068698126207332643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068391899745165686",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "狐一直以为这是狐「对咖啡过敏」😭\n饮用纯咖啡因(例如咖啡)真的会让狐头昏脑胀昏昏欲睡\n但是含牛磺酸的饮料的此效应则轻得多，甚至可以说它们在大多数情况下是有效的\n尽管这会导致一种「无法入睡但完全没有专注力与记忆力」的状态\n还是ipph和苯基好吃些(确信) https://t.co/li1WmGs5YA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1535,
+          "following_count": 1518,
+          "like_count": 21313,
+          "listed_count": 7,
+          "media_count": 771,
+          "tweet_count": 6731
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      }
+    ]
+  }
+}

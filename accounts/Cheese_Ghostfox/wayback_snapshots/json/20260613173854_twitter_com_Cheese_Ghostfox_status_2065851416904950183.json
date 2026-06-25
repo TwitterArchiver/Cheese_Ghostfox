@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065779800778969088",
+        "3_2065779800795660288",
+        "3_2065779800791461888",
+        "3_2065779800799875072"
+      ],
+      "media_source_tweet_id": [
+        "2065780214383436090",
+        "2065780214383436090",
+        "2065780214383436090",
+        "2065780214383436090"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2065851416904950183",
+    "created_at": "2026-06-13T17:38:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T18:38:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065851416904950183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1847253576365809664",
+          "start": 3,
+          "username": "kh0KM4Owii6325"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1nLcDgq60P",
+          "end": 52,
+          "expanded_url": "https://x.com/kh0KM4Owii6325/status/2065780214383436090/photo/1",
+          "media_key": "3_2065779800778969088",
+          "start": 29,
+          "url": "https://t.co/1nLcDgq60P"
+        },
+        {
+          "display_url": "pic.x.com/1nLcDgq60P",
+          "end": 52,
+          "expanded_url": "https://x.com/kh0KM4Owii6325/status/2065780214383436090/photo/1",
+          "media_key": "3_2065779800795660288",
+          "start": 29,
+          "url": "https://t.co/1nLcDgq60P"
+        },
+        {
+          "display_url": "pic.x.com/1nLcDgq60P",
+          "end": 52,
+          "expanded_url": "https://x.com/kh0KM4Owii6325/status/2065780214383436090/photo/1",
+          "media_key": "3_2065779800791461888",
+          "start": 29,
+          "url": "https://t.co/1nLcDgq60P"
+        },
+        {
+          "display_url": "pic.x.com/1nLcDgq60P",
+          "end": 52,
+          "expanded_url": "https://x.com/kh0KM4Owii6325/status/2065780214383436090/photo/1",
+          "media_key": "3_2065779800799875072",
+          "start": 29,
+          "url": "https://t.co/1nLcDgq60P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065851416904950183",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065780214383436090",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kh0KM4Owii6325: 顔が良すぎるかも https://t.co/1nLcDgq60P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 817,
+        "media_key": "3_2065779800778969088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsfyKmbkAAP1Fl.jpg",
+        "width": 807
+      },
+      {
+        "height": 778,
+        "media_key": "3_2065779800795660288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsfyKqaQAAcE03.jpg",
+        "width": 808
+      },
+      {
+        "height": 597,
+        "media_key": "3_2065779800791461888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsfyKpaMAAxZzJ.jpg",
+        "width": 728
+      },
+      {
+        "height": 1046,
+        "media_key": "3_2065779800799875072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsfyKrakAAEVes.jpg",
+        "width": 919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065779800778969088",
+            "3_2065779800795660288",
+            "3_2065779800791461888",
+            "3_2065779800799875072"
+          ],
+          "media_source_tweet_id": [
+            "2065780214383436090",
+            "2065780214383436090",
+            "2065780214383436090",
+            "2065780214383436090"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2065851416904950183",
+        "created_at": "2026-06-13T17:38:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T18:38:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065851416904950183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1847253576365809664",
+              "start": 3,
+              "username": "kh0KM4Owii6325"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1nLcDgq60P",
+              "end": 52,
+              "expanded_url": "https://x.com/kh0KM4Owii6325/status/2065780214383436090/photo/1",
+              "media_key": "3_2065779800778969088",
+              "start": 29,
+              "url": "https://t.co/1nLcDgq60P"
+            },
+            {
+              "display_url": "pic.x.com/1nLcDgq60P",
+              "end": 52,
+              "expanded_url": "https://x.com/kh0KM4Owii6325/status/2065780214383436090/photo/1",
+              "media_key": "3_2065779800795660288",
+              "start": 29,
+              "url": "https://t.co/1nLcDgq60P"
+            },
+            {
+              "display_url": "pic.x.com/1nLcDgq60P",
+              "end": 52,
+              "expanded_url": "https://x.com/kh0KM4Owii6325/status/2065780214383436090/photo/1",
+              "media_key": "3_2065779800791461888",
+              "start": 29,
+              "url": "https://t.co/1nLcDgq60P"
+            },
+            {
+              "display_url": "pic.x.com/1nLcDgq60P",
+              "end": 52,
+              "expanded_url": "https://x.com/kh0KM4Owii6325/status/2065780214383436090/photo/1",
+              "media_key": "3_2065779800799875072",
+              "start": 29,
+              "url": "https://t.co/1nLcDgq60P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065851416904950183",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065780214383436090",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kh0KM4Owii6325: 顔が良すぎるかも https://t.co/1nLcDgq60P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065779800778969088",
+            "3_2065779800795660288",
+            "3_2065779800791461888",
+            "3_2065779800799875072"
+          ]
+        },
+        "author_id": "1847253576365809664",
+        "conversation_id": "2065780214383436090",
+        "created_at": "2026-06-13T12:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T13:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065780214383436090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1nLcDgq60P",
+              "end": 32,
+              "expanded_url": "https://x.com/kh0KM4Owii6325/status/2065780214383436090/photo/1",
+              "media_key": "3_2065779800778969088",
+              "start": 9,
+              "url": "https://t.co/1nLcDgq60P"
+            },
+            {
+              "display_url": "pic.x.com/1nLcDgq60P",
+              "end": 32,
+              "expanded_url": "https://x.com/kh0KM4Owii6325/status/2065780214383436090/photo/1",
+              "media_key": "3_2065779800795660288",
+              "start": 9,
+              "url": "https://t.co/1nLcDgq60P"
+            },
+            {
+              "display_url": "pic.x.com/1nLcDgq60P",
+              "end": 32,
+              "expanded_url": "https://x.com/kh0KM4Owii6325/status/2065780214383436090/photo/1",
+              "media_key": "3_2065779800791461888",
+              "start": 9,
+              "url": "https://t.co/1nLcDgq60P"
+            },
+            {
+              "display_url": "pic.x.com/1nLcDgq60P",
+              "end": 32,
+              "expanded_url": "https://x.com/kh0KM4Owii6325/status/2065780214383436090/photo/1",
+              "media_key": "3_2065779800799875072",
+              "start": 9,
+              "url": "https://t.co/1nLcDgq60P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065780214383436090",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 5380,
+          "like_count": 828,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "顔が良すぎるかも https://t.co/1nLcDgq60P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1532,
+          "following_count": 1512,
+          "like_count": 20782,
+          "listed_count": 7,
+          "media_count": 765,
+          "tweet_count": 6646
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-18T12:29:21.000Z",
+        "description": "レイテト大好き人間❤️🧡\n反応とてもとても遅いです。落書き多め\n無断転載、AI学習禁止",
+        "id": "1847253576365809664",
+        "location": "妄想",
+        "name": "もちもち",
+        "pinned_tweet_id": "1942908677691981870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940039292547379200/d4L2LeK3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10225,
+          "following_count": 34,
+          "like_count": 3111,
+          "listed_count": 29,
+          "media_count": 238,
+          "tweet_count": 440
+        },
+        "username": "kh0KM4Owii6325",
+        "verified": false
+      }
+    ]
+  }
+}
