@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069867688990818304"
+      ],
+      "media_source_tweet_id": [
+        "2069867697597485367"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2070012375785410640",
+    "created_at": "2026-06-25T05:13:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T06:13:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070012375785410640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "957544663275028481",
+          "start": 3,
+          "username": "SuBanXia1120"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ymXPb484B1",
+          "end": 70,
+          "expanded_url": "https://x.com/SuBanXia1120/status/2069867697597485367/photo/1",
+          "media_key": "3_2069867688990818304",
+          "start": 47,
+          "url": "https://t.co/ymXPb484B1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070012375785410640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069867697597485367",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SuBanXia1120: 女性身体…异性恋\n读写笔记：这是伪娘\n我看到的时候笑死了 https://t.co/ymXPb484B1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069867688990818304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLmlsk5bQAAOGFt.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069867688990818304"
+          ],
+          "media_source_tweet_id": [
+            "2069867697597485367"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2070012375785410640",
+        "created_at": "2026-06-25T05:13:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T06:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070012375785410640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "957544663275028481",
+              "start": 3,
+              "username": "SuBanXia1120"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ymXPb484B1",
+              "end": 70,
+              "expanded_url": "https://x.com/SuBanXia1120/status/2069867697597485367/photo/1",
+              "media_key": "3_2069867688990818304",
+              "start": 47,
+              "url": "https://t.co/ymXPb484B1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070012375785410640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069867697597485367",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SuBanXia1120: 女性身体…异性恋\n读写笔记：这是伪娘\n我看到的时候笑死了 https://t.co/ymXPb484B1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069867688990818304"
+          ]
+        },
+        "author_id": "957544663275028481",
+        "conversation_id": "2069867697597485367",
+        "created_at": "2026-06-24T19:38:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T20:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069867697597485367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ymXPb484B1",
+              "end": 52,
+              "expanded_url": "https://x.com/SuBanXia1120/status/2069867697597485367/photo/1",
+              "media_key": "3_2069867688990818304",
+              "start": 29,
+              "url": "https://t.co/ymXPb484B1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069867697597485367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2202,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "女性身体…异性恋\n读写笔记：这是伪娘\n我看到的时候笑死了 https://t.co/ymXPb484B1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1532,
+          "following_count": 1516,
+          "like_count": 21435,
+          "listed_count": 7,
+          "media_count": 775,
+          "tweet_count": 6757
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2018-01-28T09:23:32.000Z",
+        "description": "我居然是苏半夏🦋丨“我觉得现在的人生，就很幸福了。接PAI —Charee中介的陪同，SRS手术陪同日记https://t.co/HLSHXOnt8E。陪同请直接联系tg@subanxia1120。聊天门槛🚪50",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/muranSRSinpai",
+                "end": 75,
+                "expanded_url": "https://t.me/muranSRSinpai",
+                "start": 52,
+                "url": "https://t.co/HLSHXOnt8E"
+              }
+            ]
+          }
+        },
+        "id": "957544663275028481",
+        "location": "Hong Kong",
+        "name": "苒🦊木狐（接PAI陪同）",
+        "pinned_tweet_id": "1924371810130518218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1433839553748430851/2UH9XRNO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17920,
+          "following_count": 890,
+          "like_count": 6130,
+          "listed_count": 55,
+          "media_count": 740,
+          "tweet_count": 4725
+        },
+        "url": "",
+        "username": "SuBanXia1120",
+        "verified": true
+      }
+    ]
+  }
+}

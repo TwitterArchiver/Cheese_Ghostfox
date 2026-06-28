@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069540623645065216"
+      ],
+      "media_source_tweet_id": [
+        "2069540649318384073"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2069825305326592441",
+    "created_at": "2026-06-24T16:49:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T17:49:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069825305326592441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1315579843807834112",
+          "start": 3,
+          "username": "qWeR1111_VRC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/apmstCcXNq",
+          "end": 46,
+          "expanded_url": "https://x.com/qWeR1111_VRC/status/2069540649318384073/photo/1",
+          "media_key": "3_2069540623645065216",
+          "start": 23,
+          "url": "https://t.co/apmstCcXNq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069825305326592441",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069540649318384073",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qWeR1111_VRC: teto https://t.co/apmstCcXNq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2069540623645065216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLh8O3iawAARANi.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069540623645065216"
+          ],
+          "media_source_tweet_id": [
+            "2069540649318384073"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069825305326592441",
+        "created_at": "2026-06-24T16:49:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069825305326592441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1315579843807834112",
+              "start": 3,
+              "username": "qWeR1111_VRC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/apmstCcXNq",
+              "end": 46,
+              "expanded_url": "https://x.com/qWeR1111_VRC/status/2069540649318384073/photo/1",
+              "media_key": "3_2069540623645065216",
+              "start": 23,
+              "url": "https://t.co/apmstCcXNq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069825305326592441",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069540649318384073",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qWeR1111_VRC: teto https://t.co/apmstCcXNq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069540623645065216"
+          ]
+        },
+        "author_id": "1315579843807834112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069540649318384073",
+        "created_at": "2026-06-23T21:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T22:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069540649318384073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/apmstCcXNq",
+              "end": 28,
+              "expanded_url": "https://x.com/qWeR1111_VRC/status/2069540649318384073/photo/1",
+              "media_key": "3_2069540623645065216",
+              "start": 5,
+              "url": "https://t.co/apmstCcXNq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069540649318384073",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 3777,
+          "like_count": 712,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "teto https://t.co/apmstCcXNq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1534,
+          "following_count": 1517,
+          "like_count": 21426,
+          "listed_count": 7,
+          "media_count": 775,
+          "tweet_count": 6754
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-12T09:07:39.000Z",
+        "description": "다가와주면 좋아해요 / 먼저 말 걸어주면 좋아해요\nVRC : qWeR1111\n디코 : qwer_1111 \nhttps://t.co/Ua5H7kFl0y\n@cfm_miku\n@qWachanvr\n@qWeR_Private\n\n♥@hayang_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "cfm_miku"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "qWachanvr"
+              },
+              {
+                "end": 117,
+                "start": 104,
+                "username": "qWeR_Private"
+              },
+              {
+                "end": 129,
+                "start": 120,
+                "username": "hayang_0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/4333124792/",
+                "end": 82,
+                "expanded_url": "https://pushoong.com/ask/4333124792/",
+                "start": 59,
+                "url": "https://t.co/Ua5H7kFl0y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "solo.to/qwer1111",
+                "end": 23,
+                "expanded_url": "https://solo.to/qwer1111",
+                "start": 0,
+                "url": "https://t.co/bkgqbpp272"
+              }
+            ]
+          }
+        },
+        "id": "1315579843807834112",
+        "location": ":|",
+        "name": "루키",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055381234893963264/EB2HFAGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1786,
+          "following_count": 1327,
+          "like_count": 27590,
+          "listed_count": 8,
+          "media_count": 691,
+          "tweet_count": 4975
+        },
+        "url": "https://t.co/bkgqbpp272",
+        "username": "qWeR1111_VRC",
+        "verified": false
+      }
+    ]
+  }
+}

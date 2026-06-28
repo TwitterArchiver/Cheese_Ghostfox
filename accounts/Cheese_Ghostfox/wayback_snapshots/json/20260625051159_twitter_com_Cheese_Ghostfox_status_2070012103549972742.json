@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069487562897358848"
+      ],
+      "media_source_tweet_id": [
+        "2069863881342865545"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2070012103549972742",
+    "created_at": "2026-06-25T05:11:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T06:11:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070012103549972742"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 17,
+          "tag": "重音テト"
+        },
+        {
+          "end": 34,
+          "start": 23,
+          "tag": "KasaneTeto"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1062840948542054401",
+          "start": 3,
+          "username": "Drowzzi_boi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/grzYRDZpM6",
+          "end": 58,
+          "expanded_url": "https://x.com/Drowzzi_boi/status/2069863881342865545/photo/1",
+          "media_key": "3_2069487562897358848",
+          "start": 35,
+          "url": "https://t.co/grzYRDZpM6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070012103549972742",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 375
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069863881342865545",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Drowzzi_boi: #重音テト #KasaneTeto https://t.co/grzYRDZpM6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2525,
+        "media_key": "3_2069487562897358848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLhL-U2WAAAQxD-.jpg",
+        "width": 1634
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069487562897358848"
+          ],
+          "media_source_tweet_id": [
+            "2069863881342865545"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2070012103549972742",
+        "created_at": "2026-06-25T05:11:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T06:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070012103549972742"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "重音テト"
+            },
+            {
+              "end": 34,
+              "start": 23,
+              "tag": "KasaneTeto"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1062840948542054401",
+              "start": 3,
+              "username": "Drowzzi_boi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/grzYRDZpM6",
+              "end": 58,
+              "expanded_url": "https://x.com/Drowzzi_boi/status/2069863881342865545/photo/1",
+              "media_key": "3_2069487562897358848",
+              "start": 35,
+              "url": "https://t.co/grzYRDZpM6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070012103549972742",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 375
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069863881342865545",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Drowzzi_boi: #重音テト #KasaneTeto https://t.co/grzYRDZpM6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069487562897358848"
+          ]
+        },
+        "author_id": "1062840948542054401",
+        "conversation_id": "2069863881342865545",
+        "created_at": "2026-06-24T19:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T20:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069863881342865545"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "重音テト"
+            },
+            {
+              "end": 17,
+              "start": 6,
+              "tag": "KasaneTeto"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/grzYRDZpM6",
+              "end": 41,
+              "expanded_url": "https://x.com/Drowzzi_boi/status/2069863881342865545/photo/1",
+              "media_key": "3_2069487562897358848",
+              "start": 18,
+              "url": "https://t.co/grzYRDZpM6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069863881342865545",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 292,
+          "impression_count": 18246,
+          "like_count": 3160,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 375
+        },
+        "reply_settings": "everyone",
+        "text": "#重音テト #KasaneTeto https://t.co/grzYRDZpM6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1532,
+          "following_count": 1516,
+          "like_count": 21433,
+          "listed_count": 7,
+          "media_count": 775,
+          "tweet_count": 6756
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2018-11-14T22:53:23.000Z",
+        "description": "Illustrator | \nsite: https://t.co/2eXVueIl3Z |\nIG:  https://t.co/dvSyQJCReb |\n✉  drowzzicontact@gmail.com |",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "drowzzi.wixsite.com/commission",
+                "end": 44,
+                "expanded_url": "https://drowzzi.wixsite.com/commission",
+                "start": 21,
+                "url": "https://t.co/2eXVueIl3Z"
+              },
+              {
+                "display_url": "instagram.com/drowzzi/",
+                "end": 75,
+                "expanded_url": "https://www.instagram.com/drowzzi/",
+                "start": 52,
+                "url": "https://t.co/dvSyQJCReb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Drowzzi",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/Drowzzi",
+                "start": 0,
+                "url": "https://t.co/MX7J25h5og"
+              }
+            ]
+          }
+        },
+        "id": "1062840948542054401",
+        "location": "🇬🇧🇨🇳",
+        "name": "Drowzzi",
+        "pinned_tweet_id": "2016237592472080505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015854082028609536/IZlGr7un_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19135,
+          "following_count": 1092,
+          "like_count": 79484,
+          "listed_count": 128,
+          "media_count": 327,
+          "tweet_count": 5004
+        },
+        "url": "https://t.co/MX7J25h5og",
+        "username": "Drowzzi_boi",
+        "verified": false
+      }
+    ]
+  }
+}
