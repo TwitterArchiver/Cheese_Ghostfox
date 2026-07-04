@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072240506801954816"
+      ],
+      "media_source_tweet_id": [
+        "2072240548015173979"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2072364903210578398",
+    "created_at": "2026-07-01T17:01:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T18:01:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072364903210578398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1974153598499237888",
+          "start": 3,
+          "username": "zunda_drop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/21RhhAqAQL",
+          "end": 39,
+          "expanded_url": "https://x.com/zunda_drop/status/2072240548015173979/photo/1",
+          "media_key": "3_2072240506801954816",
+          "start": 16,
+          "url": "https://t.co/21RhhAqAQL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072364903210578398",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 103
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072240548015173979",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zunda_drop: https://t.co/21RhhAqAQL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 961,
+        "media_key": "3_2072240506801954816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMITwwEbIAA1ycn.jpg",
+        "width": 760
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072240506801954816"
+          ],
+          "media_source_tweet_id": [
+            "2072240548015173979"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2072364903210578398",
+        "created_at": "2026-07-01T17:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T18:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072364903210578398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1974153598499237888",
+              "start": 3,
+              "username": "zunda_drop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/21RhhAqAQL",
+              "end": 39,
+              "expanded_url": "https://x.com/zunda_drop/status/2072240548015173979/photo/1",
+              "media_key": "3_2072240506801954816",
+              "start": 16,
+              "url": "https://t.co/21RhhAqAQL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072364903210578398",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 103
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072240548015173979",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zunda_drop: https://t.co/21RhhAqAQL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072240506801954816"
+          ]
+        },
+        "author_id": "1974153598499237888",
+        "conversation_id": "2072240548015173979",
+        "created_at": "2026-07-01T08:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T09:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072240548015173979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/21RhhAqAQL",
+              "end": 23,
+              "expanded_url": "https://x.com/zunda_drop/status/2072240548015173979/photo/1",
+              "media_key": "3_2072240506801954816",
+              "start": 0,
+              "url": "https://t.co/21RhhAqAQL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072240548015173979",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 7871,
+          "like_count": 1376,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 103
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/21RhhAqAQL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1540,
+          "following_count": 1520,
+          "like_count": 21756,
+          "listed_count": 7,
+          "media_count": 779,
+          "tweet_count": 6835
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-03T16:44:44.000Z",
+        "description": "YouTubeに動画を投稿しています\nhttps://t.co/BXwZ8Ao3OS\nhttps://t.co/ZhgfEwQJTL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@zunda_drop",
+                "end": 42,
+                "expanded_url": "https://www.youtube.com/@zunda_drop",
+                "start": 19,
+                "url": "https://t.co/BXwZ8Ao3OS"
+              },
+              {
+                "display_url": "nicovideo.jp/user/142074002",
+                "end": 66,
+                "expanded_url": "http://nicovideo.jp/user/142074002",
+                "start": 43,
+                "url": "https://t.co/ZhgfEwQJTL"
+              }
+            ]
+          }
+        },
+        "id": "1974153598499237888",
+        "name": "ずんだドロップ!",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974156106068000768/XnCs2Krj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5741,
+          "following_count": 11,
+          "like_count": 238,
+          "listed_count": 26,
+          "media_count": 120,
+          "tweet_count": 130
+        },
+        "url": "",
+        "username": "zunda_drop",
+        "verified": false
+      }
+    ]
+  }
+}

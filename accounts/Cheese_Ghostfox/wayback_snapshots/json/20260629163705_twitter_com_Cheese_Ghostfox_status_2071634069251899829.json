@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2071162866183622656"
+      ],
+      "media_source_tweet_id": [
+        "2071162931124027551"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2071634069251899829",
+    "created_at": "2026-06-29T16:37:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T17:37:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071634069251899829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1370299304707989512",
+          "start": 3,
+          "username": "8co28"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WmQ2AXfFY6",
+          "end": 45,
+          "expanded_url": "https://x.com/8co28/status/2071162931124027551/video/1",
+          "media_key": "13_2071162866183622656",
+          "start": 22,
+          "url": "https://t.co/WmQ2AXfFY6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071634069251899829",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 381
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071162931124027551",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @8co28: テト sv 2 さん https://t.co/WmQ2AXfFY6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15041,
+        "height": 1280,
+        "media_key": "13_2071162866183622656",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2071162866183622656/img/kZZharTqwzAT5UDN.jpg",
+        "public_metrics": {
+          "view_count": 19864
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071162866183622656/vid/avc1/320x568/JfRQJOs9xfda8lZD.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071162866183622656/vid/avc1/480x852/qEGtnp4kZ1n8axFr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071162866183622656/vid/avc1/720x1280/UKW_wQHN20So61rR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2071162866183622656/pl/RuoeC7ygZoL7O6T7.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071162866183622656"
+          ],
+          "media_source_tweet_id": [
+            "2071162931124027551"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071634069251899829",
+        "created_at": "2026-06-29T16:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T17:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071634069251899829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1370299304707989512",
+              "start": 3,
+              "username": "8co28"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WmQ2AXfFY6",
+              "end": 45,
+              "expanded_url": "https://x.com/8co28/status/2071162931124027551/video/1",
+              "media_key": "13_2071162866183622656",
+              "start": 22,
+              "url": "https://t.co/WmQ2AXfFY6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071634069251899829",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 381
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071162931124027551",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @8co28: テト sv 2 さん https://t.co/WmQ2AXfFY6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071162866183622656"
+          ]
+        },
+        "author_id": "1370299304707989512",
+        "conversation_id": "2071162931124027551",
+        "created_at": "2026-06-28T09:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T10:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071162931124027551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WmQ2AXfFY6",
+              "end": 34,
+              "expanded_url": "https://x.com/8co28/status/2071162931124027551/video/1",
+              "media_key": "13_2071162866183622656",
+              "start": 11,
+              "url": "https://t.co/WmQ2AXfFY6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071162931124027551",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 842,
+          "impression_count": 59191,
+          "like_count": 3883,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 381
+        },
+        "reply_settings": "everyone",
+        "text": "テト sv 2 さん https://t.co/WmQ2AXfFY6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1536,
+          "following_count": 1517,
+          "like_count": 21636,
+          "listed_count": 7,
+          "media_count": 778,
+          "tweet_count": 6802
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-12T09:03:18.000Z",
+        "description": "AndIdea株式会社 専務取締役 @AndIdea_jp\nお仕事の依頼はメール  info@andidea.jp へお願いします。\nAIをツールとして活用しています。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "AndIdea_jp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/8528",
+                "end": 23,
+                "expanded_url": "http://lit.link/8528",
+                "start": 0,
+                "url": "https://t.co/upytk33INI"
+              }
+            ]
+          }
+        },
+        "id": "1370299304707989512",
+        "location": "Tokyo, Japan / 大切な家族最優先",
+        "name": "852話(hakoniwa)",
+        "pinned_tweet_id": "2063636979242467826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061575531905323008/3PsFRhof_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433675,
+          "following_count": 219,
+          "like_count": 6566,
+          "listed_count": 2908,
+          "media_count": 6797,
+          "tweet_count": 12951
+        },
+        "url": "https://t.co/upytk33INI",
+        "username": "8co28",
+        "verified": true
+      }
+    ]
+  }
+}

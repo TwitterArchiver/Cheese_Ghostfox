@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070855514909732864"
+      ],
+      "media_source_tweet_id": [
+        "2070855526599320040"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2071297445108306180",
+    "created_at": "2026-06-28T18:19:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T19:19:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071297445108306180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1709285210721054720",
+          "start": 3,
+          "username": "dawa300"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DnO3hzrprN",
+          "end": 36,
+          "expanded_url": "https://x.com/dawa300/status/2070855526599320040/photo/1",
+          "media_key": "3_2070855514909732864",
+          "start": 13,
+          "url": "https://t.co/DnO3hzrprN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071297445108306180",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 746
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070855526599320040",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dawa300: https://t.co/DnO3hzrprN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2070855514909732864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0oHnNacAAlfzJ.jpg",
+        "width": 938
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070855514909732864"
+          ],
+          "media_source_tweet_id": [
+            "2070855526599320040"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2071297445108306180",
+        "created_at": "2026-06-28T18:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T19:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071297445108306180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1709285210721054720",
+              "start": 3,
+              "username": "dawa300"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DnO3hzrprN",
+              "end": 36,
+              "expanded_url": "https://x.com/dawa300/status/2070855526599320040/photo/1",
+              "media_key": "3_2070855514909732864",
+              "start": 13,
+              "url": "https://t.co/DnO3hzrprN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071297445108306180",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 746
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070855526599320040",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dawa300: https://t.co/DnO3hzrprN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070855514909732864"
+          ]
+        },
+        "author_id": "1709285210721054720",
+        "conversation_id": "2070855526599320040",
+        "created_at": "2026-06-27T13:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T14:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070855526599320040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DnO3hzrprN",
+              "end": 23,
+              "expanded_url": "https://x.com/dawa300/status/2070855526599320040/photo/1",
+              "media_key": "3_2070855514909732864",
+              "start": 0,
+              "url": "https://t.co/DnO3hzrprN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070855526599320040",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1672,
+          "impression_count": 85688,
+          "like_count": 13538,
+          "quote_count": 7,
+          "reply_count": 7,
+          "retweet_count": 746
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DnO3hzrprN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1537,
+          "following_count": 1517,
+          "like_count": 21573,
+          "listed_count": 7,
+          "media_count": 777,
+          "tweet_count": 6785
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-03T19:13:36.000Z",
+        "description": "おえかき",
+        "id": "1709285210721054720",
+        "name": "だわ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713395204328402944/DhB34Qpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13728,
+          "following_count": 684,
+          "like_count": 146,
+          "listed_count": 158,
+          "media_count": 141,
+          "tweet_count": 178
+        },
+        "url": "",
+        "username": "dawa300",
+        "verified": false
+      }
+    ]
+  }
+}

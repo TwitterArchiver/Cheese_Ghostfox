@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "2071894947083727200",
+    "created_at": "2026-06-30T09:53:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T10:53:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071894947083727200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "149103254",
+          "start": 3,
+          "username": "kadokawasneaker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071894947083727200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 723
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071881435515081030",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kadokawasneaker: ◆新規立ち絵公開◆\n\n囚人番号667：橘シェリー\n\n自称名探偵の少女。\nにこやかで、楽しい事に迷わず飛びつく奔放な性格。気になった事にはとことん好奇心を発揮する。\nただし、一切の道徳心を持たない。\n\n小説『魔法少女ノ魔女裁判』7/31発…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2065349701722148864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmYnGwbkAAXqh_.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2071894947083727200",
+        "created_at": "2026-06-30T09:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071894947083727200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "149103254",
+              "start": 3,
+              "username": "kadokawasneaker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071894947083727200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 723
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071881435515081030",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kadokawasneaker: ◆新規立ち絵公開◆\n\n囚人番号667：橘シェリー\n\n自称名探偵の少女。\nにこやかで、楽しい事に迷わず飛びつく奔放な性格。気になった事にはとことん好奇心を発揮する。\nただし、一切の道徳心を持たない。\n\n小説『魔法少女ノ魔女裁判』7/31発…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065349701722148864"
+          ]
+        },
+        "author_id": "149103254",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2071881435515081030",
+        "created_at": "2026-06-30T09:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071881435515081030"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 126,
+              "start": 121,
+              "tag": "まのさば"
+            },
+            {
+              "end": 134,
+              "start": 127,
+              "tag": "まのさば小説"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XiDiGeFZEn",
+              "end": 158,
+              "expanded_url": "https://x.com/kadokawasneaker/status/2071881435515081030/photo/1",
+              "media_key": "3_2065349701722148864",
+              "start": 135,
+              "url": "https://t.co/XiDiGeFZEn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071881435515081030",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 134,
+          "impression_count": 28019,
+          "like_count": 1943,
+          "quote_count": 82,
+          "reply_count": 5,
+          "retweet_count": 723
+        },
+        "reply_settings": "everyone",
+        "text": "◆新規立ち絵公開◆\n\n囚人番号667：橘シェリー\n\n自称名探偵の少女。\nにこやかで、楽しい事に迷わず飛びつく奔放な性格。気になった事にはとことん好奇心を発揮する。\nただし、一切の道徳心を持たない。\n\n小説『魔法少女ノ魔女裁判』7/31発売。\n#まのさば #まのさば小説 https://t.co/XiDiGeFZEn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1537,
+          "following_count": 1518,
+          "like_count": 21699,
+          "listed_count": 7,
+          "media_count": 778,
+          "tweet_count": 6817
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2010-05-28T12:27:11.000Z",
+        "description": "角川スニーカー文庫編集部の公式アカウントです。 新刊情報を中心にニュースをお届け！ ★LINE@はじめました《毎月の人気作品壁紙など、ここだけのスペシャルコンテンツを配信中!!》https://t.co/Rpd03zkYdB…",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "line.me/R/ti/p/%40kxm1",
+                "end": 112,
+                "expanded_url": "http://line.me/R/ti/p/%40kxm1",
+                "start": 89,
+                "url": "https://t.co/Rpd03zkYdB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sneakerbunko.jp",
+                "end": 23,
+                "expanded_url": "https://sneakerbunko.jp/",
+                "start": 0,
+                "url": "https://t.co/zoaDCSG9BC"
+              }
+            ]
+          }
+        },
+        "id": "149103254",
+        "location": "ザ・スニーカーＷＥＢ",
+        "name": "スニーカー文庫＠毎月1日発売!!",
+        "pinned_tweet_id": "2060195034704830623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1622827882803494912/6JN_Qu0T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164748,
+          "following_count": 2321,
+          "like_count": 9594,
+          "listed_count": 1553,
+          "media_count": 14208,
+          "tweet_count": 41332
+        },
+        "url": "https://t.co/zoaDCSG9BC",
+        "username": "kadokawasneaker",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072061289799757824"
+      ],
+      "media_source_tweet_id": [
+        "2072061294287675593"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2072661881194721369",
+    "created_at": "2026-07-02T12:41:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T13:41:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072661881194721369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2005329368261013504",
+          "start": 3,
+          "username": "butterscotch290"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A521R3QJBG",
+          "end": 54,
+          "expanded_url": "https://x.com/butterscotch290/status/2072061294287675593/photo/1",
+          "media_key": "3_2072061289799757824",
+          "start": 31,
+          "url": "https://t.co/A521R3QJBG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072661881194721369",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 169
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072061294287675593",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @butterscotch290: 테토 낙서였던 것 https://t.co/A521R3QJBG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2072061289799757824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMFww8taMAA89ky.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072061289799757824"
+          ],
+          "media_source_tweet_id": [
+            "2072061294287675593"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2072661881194721369",
+        "created_at": "2026-07-02T12:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072661881194721369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2005329368261013504",
+              "start": 3,
+              "username": "butterscotch290"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A521R3QJBG",
+              "end": 54,
+              "expanded_url": "https://x.com/butterscotch290/status/2072061294287675593/photo/1",
+              "media_key": "3_2072061289799757824",
+              "start": 31,
+              "url": "https://t.co/A521R3QJBG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072661881194721369",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 169
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072061294287675593",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @butterscotch290: 테토 낙서였던 것 https://t.co/A521R3QJBG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072061289799757824"
+          ]
+        },
+        "author_id": "2005329368261013504",
+        "conversation_id": "2072061294287675593",
+        "created_at": "2026-06-30T20:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T21:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072061294287675593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A521R3QJBG",
+              "end": 33,
+              "expanded_url": "https://x.com/butterscotch290/status/2072061294287675593/photo/1",
+              "media_key": "3_2072061289799757824",
+              "start": 10,
+              "url": "https://t.co/A521R3QJBG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072061294287675593",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 388,
+          "impression_count": 24846,
+          "like_count": 3709,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 169
+        },
+        "reply_settings": "everyone",
+        "text": "테토 낙서였던 것 https://t.co/A521R3QJBG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1540,
+          "following_count": 1519,
+          "like_count": 21804,
+          "listed_count": 7,
+          "media_count": 780,
+          "tweet_count": 6846
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-28T17:26:03.000Z",
+        "description": "방송 및 잡담~~! 방송은 여기서해여👉https://t.co/XmsHDHruGX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "chzzk.id/o2h2",
+                "end": 44,
+                "expanded_url": "https://chzzk.id/o2h2",
+                "start": 21,
+                "url": "https://t.co/XmsHDHruGX"
+              }
+            ]
+          }
+        },
+        "id": "2005329368261013504",
+        "name": "만물에 통달한 자 이계의 지배자 오튜",
+        "pinned_tweet_id": "2024816792695361603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052905944582180864/9z-Yczru_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7157,
+          "following_count": 23,
+          "like_count": 847,
+          "listed_count": 11,
+          "media_count": 192,
+          "tweet_count": 2556
+        },
+        "url": "",
+        "username": "butterscotch290",
+        "verified": false
+      }
+    ]
+  }
+}

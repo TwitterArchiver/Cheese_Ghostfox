@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072793865791442944"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2072793868391928088",
+    "created_at": "2026-07-02T21:25:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T22:25:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072793868391928088"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NiOrDH5UCc",
+          "end": 53,
+          "expanded_url": "https://x.com/Cheese_Ghostfox/status/2072793868391928088/photo/1",
+          "media_key": "3_2072793865791442944",
+          "start": 30,
+          "url": "https://t.co/NiOrDH5UCc"
+        },
+        {
+          "display_url": "x.com/bungeikuhakush…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/bungeikuhakushi/status/2072659916003979511",
+          "start": 54,
+          "url": "https://t.co/CEB5V7cTnO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072793868391928088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072659916003979511",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "邪恶Gemini(\n(实际上为狗写剧本原理，她很好，真的) https://t.co/NiOrDH5UCc https://t.co/CEB5V7cTnO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072793865791442944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMQLCe8bkAAi1d3.jpg",
+        "width": 748
+      },
+      {
+        "height": 1872,
+        "media_key": "3_2072659907086798848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMORND4aUAATYa9.jpg",
+        "width": 1258
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072793865791442944"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2072793868391928088",
+        "created_at": "2026-07-02T21:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T22:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072793868391928088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NiOrDH5UCc",
+              "end": 53,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2072793868391928088/photo/1",
+              "media_key": "3_2072793865791442944",
+              "start": 30,
+              "url": "https://t.co/NiOrDH5UCc"
+            },
+            {
+              "display_url": "x.com/bungeikuhakush…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/bungeikuhakushi/status/2072659916003979511",
+              "start": 54,
+              "url": "https://t.co/CEB5V7cTnO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072793868391928088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072659916003979511",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "邪恶Gemini(\n(实际上为狗写剧本原理，她很好，真的) https://t.co/NiOrDH5UCc https://t.co/CEB5V7cTnO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072659907086798848"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2072659916003979511",
+        "created_at": "2026-07-02T12:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072659916003979511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Om40gu0etB",
+              "end": 30,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2072659916003979511/photo/1",
+              "media_key": "3_2072659907086798848",
+              "start": 7,
+              "url": "https://t.co/Om40gu0etB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072659916003979511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 643,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "豆包開智了（ https://t.co/Om40gu0etB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 1518,
+          "like_count": 21816,
+          "listed_count": 7,
+          "media_count": 781,
+          "tweet_count": 6851
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜應該是個兩邊嫌棄的中間派 就事論事\n｜三民主義者❂｜ 08年文科生｜雙相\n｜Cantonese ｜​桜の咲く頃に  願榮光歸香港",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070963339703046145/4gAk-flP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2106,
+          "following_count": 358,
+          "like_count": 12773,
+          "listed_count": 3,
+          "media_count": 953,
+          "tweet_count": 4435
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

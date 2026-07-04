@@ -1,0 +1,430 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072559501279121408"
+      ],
+      "media_source_tweet_id": [
+        "2072559503841939955"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2072656565040234904",
+    "created_at": "2026-07-02T12:20:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T13:20:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072656565040234904"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 16,
+          "tag": "初音ミク"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2038360996146814976",
+          "start": 3,
+          "username": "zhu9279"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g9AFGpDi8S",
+          "end": 45,
+          "expanded_url": "https://x.com/zhu9279/status/2072559503841939955/photo/1",
+          "media_key": "3_2072559501279121408",
+          "start": 22,
+          "url": "https://t.co/g9AFGpDi8S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072656565040234904",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072559503841939955",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhu9279: 39 #初音ミク https://t.co/g9AFGpDi8S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 685,
+        "media_key": "3_2072559501279121408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMM14rGaUAAlZG_.jpg",
+        "width": 514
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072559501279121408"
+          ],
+          "media_source_tweet_id": [
+            "2072559503841939955"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2072656565040234904",
+        "created_at": "2026-07-02T12:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072656565040234904"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "初音ミク"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2038360996146814976",
+              "start": 3,
+              "username": "zhu9279"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g9AFGpDi8S",
+              "end": 45,
+              "expanded_url": "https://x.com/zhu9279/status/2072559503841939955/photo/1",
+              "media_key": "3_2072559501279121408",
+              "start": 22,
+              "url": "https://t.co/g9AFGpDi8S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072656565040234904",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072559503841939955",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhu9279: 39 #初音ミク https://t.co/g9AFGpDi8S"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072559501279121408"
+          ]
+        },
+        "author_id": "2038360996146814976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2072559503841939955",
+        "created_at": "2026-07-02T05:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T06:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072559503841939955"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 3,
+              "tag": "初音ミク"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g9AFGpDi8S",
+              "end": 32,
+              "expanded_url": "https://x.com/zhu9279/status/2072559503841939955/photo/1",
+              "media_key": "3_2072559501279121408",
+              "start": 9,
+              "url": "https://t.co/g9AFGpDi8S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072559503841939955",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 990,
+          "like_count": 182,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "39 #初音ミク https://t.co/g9AFGpDi8S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1540,
+          "following_count": 1519,
+          "like_count": 21798,
+          "listed_count": 7,
+          "media_count": 780,
+          "tweet_count": 6844
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-29T21:02:56.000Z",
+        "description": "趣味と絵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhu9.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://zhu9.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/BZSxhnh4AD"
+              }
+            ]
+          }
+        },
+        "id": "2038360996146814976",
+        "name": "紅シャケ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059392117710217216/2FSev9xd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 5,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 48
+        },
+        "url": "https://t.co/BZSxhnh4AD",
+        "username": "zhu9279",
+        "verified": false
+      }
+    ]
+  }
+}
