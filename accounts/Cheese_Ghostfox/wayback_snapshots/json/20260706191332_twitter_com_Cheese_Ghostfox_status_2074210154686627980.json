@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068336444306046976"
+      ],
+      "media_source_tweet_id": [
+        "2068336451067298296"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2074210154686627980",
+    "created_at": "2026-07-06T19:13:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T20:13:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074210154686627980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2039713861146914817",
+          "start": 3,
+          "username": "HJMMST_0402"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BDhhH2mDAq",
+          "end": 48,
+          "expanded_url": "https://x.com/HJMMST_0402/status/2068336451067298296/photo/1",
+          "media_key": "3_2068336444306046976",
+          "start": 25,
+          "url": "https://t.co/BDhhH2mDAq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074210154686627980",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068336451067298296",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HJMMST_0402: 表情をいろいろ https://t.co/BDhhH2mDAq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1754,
+        "media_key": "3_2068336444306046976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQ1CZ7bQAApJEe.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068336444306046976"
+          ],
+          "media_source_tweet_id": [
+            "2068336451067298296"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2074210154686627980",
+        "created_at": "2026-07-06T19:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T20:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074210154686627980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2039713861146914817",
+              "start": 3,
+              "username": "HJMMST_0402"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BDhhH2mDAq",
+              "end": 48,
+              "expanded_url": "https://x.com/HJMMST_0402/status/2068336451067298296/photo/1",
+              "media_key": "3_2068336444306046976",
+              "start": 25,
+              "url": "https://t.co/BDhhH2mDAq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074210154686627980",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068336451067298296",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HJMMST_0402: 表情をいろいろ https://t.co/BDhhH2mDAq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068336444306046976"
+          ]
+        },
+        "author_id": "2039713861146914817",
+        "conversation_id": "2068336451067298296",
+        "created_at": "2026-06-20T14:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068336451067298296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BDhhH2mDAq",
+              "end": 31,
+              "expanded_url": "https://x.com/HJMMST_0402/status/2068336451067298296/photo/1",
+              "media_key": "3_2068336444306046976",
+              "start": 8,
+              "url": "https://t.co/BDhhH2mDAq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068336451067298296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 5592,
+          "like_count": 312,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "表情をいろいろ https://t.co/BDhhH2mDAq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1553,
+          "following_count": 1518,
+          "like_count": 21942,
+          "listed_count": 7,
+          "media_count": 782,
+          "tweet_count": 6878
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-02T14:54:24.000Z",
+        "description": "デッケェ独り言を言うぜ\nテト姉ガチ恋ボカロファン／たまに落書きを投げる／成人済\n\nボカロ曲を作ってくれる人、ありがとう",
+        "id": "2039713861146914817",
+        "name": "HJMMST",
+        "pinned_tweet_id": "2048673192143978766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069463018409512960/MY6hj0Xs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 44,
+          "like_count": 297,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 245
+        },
+        "url": "",
+        "username": "HJMMST_0402",
+        "verified": false
+      }
+    ]
+  }
+}

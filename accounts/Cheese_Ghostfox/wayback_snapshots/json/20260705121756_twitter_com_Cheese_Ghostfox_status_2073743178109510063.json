@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073715933940752384"
+      ],
+      "media_source_tweet_id": [
+        "2073715981952979421"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2073743178109510063",
+    "created_at": "2026-07-05T12:17:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T13:17:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073743178109510063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1137416916660678656",
+          "start": 3,
+          "username": "Thinker2525"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p5g9Q971mb",
+          "end": 40,
+          "expanded_url": "https://x.com/Thinker2525/status/2073715981952979421/photo/1",
+          "media_key": "3_2073715933940752384",
+          "start": 17,
+          "url": "https://t.co/p5g9Q971mb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073743178109510063",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073715981952979421",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Thinker2525: https://t.co/p5g9Q971mb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2073715933940752384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdRp6ebIAA6nXE.jpg",
+        "width": 1301
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073715933940752384"
+          ],
+          "media_source_tweet_id": [
+            "2073715981952979421"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2073743178109510063",
+        "created_at": "2026-07-05T12:17:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T13:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073743178109510063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1137416916660678656",
+              "start": 3,
+              "username": "Thinker2525"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p5g9Q971mb",
+              "end": 40,
+              "expanded_url": "https://x.com/Thinker2525/status/2073715981952979421/photo/1",
+              "media_key": "3_2073715933940752384",
+              "start": 17,
+              "url": "https://t.co/p5g9Q971mb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073743178109510063",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073715981952979421",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Thinker2525: https://t.co/p5g9Q971mb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073715933940752384"
+          ]
+        },
+        "author_id": "1137416916660678656",
+        "conversation_id": "2073715981952979421",
+        "created_at": "2026-07-05T10:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T11:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073715981952979421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p5g9Q971mb",
+              "end": 23,
+              "expanded_url": "https://x.com/Thinker2525/status/2073715981952979421/photo/1",
+              "media_key": "3_2073715933940752384",
+              "start": 0,
+              "url": "https://t.co/p5g9Q971mb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073715981952979421",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 3372,
+          "like_count": 521,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/p5g9Q971mb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1549,
+          "following_count": 1518,
+          "like_count": 21904,
+          "listed_count": 7,
+          "media_count": 782,
+          "tweet_count": 6873
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2019-06-08T17:51:39.000Z",
+        "description": "ミクテトリン",
+        "id": "1137416916660678656",
+        "name": "MEGAシンカー/Thinker",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919824243560480770/7rQ7Xw43_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29890,
+          "following_count": 237,
+          "like_count": 2547,
+          "listed_count": 191,
+          "media_count": 397,
+          "tweet_count": 565
+        },
+        "url": "",
+        "username": "Thinker2525",
+        "verified": false
+      }
+    ]
+  }
+}

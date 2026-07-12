@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073213531437268992"
+      ],
+      "media_source_tweet_id": [
+        "2073213533937127461"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2073590057123135876",
+    "created_at": "2026-07-05T02:09:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T03:09:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073590057123135876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1567266247171252224",
+          "start": 3,
+          "username": "tukemono6500"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jGbyOChZtG",
+          "end": 55,
+          "expanded_url": "https://x.com/tukemono6500/status/2073213533937127461/photo/1",
+          "media_key": "3_2073213531437268992",
+          "start": 32,
+          "url": "https://t.co/jGbyOChZtG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073590057123135876",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 360
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073213533937127461",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @tukemono6500: でっっっっっっっっっ！！！ https://t.co/jGbyOChZtG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073213531437268992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMWIuPTaAAArrEk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073213531437268992"
+          ],
+          "media_source_tweet_id": [
+            "2073213533937127461"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2073590057123135876",
+        "created_at": "2026-07-05T02:09:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T03:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073590057123135876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1567266247171252224",
+              "start": 3,
+              "username": "tukemono6500"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jGbyOChZtG",
+              "end": 55,
+              "expanded_url": "https://x.com/tukemono6500/status/2073213533937127461/photo/1",
+              "media_key": "3_2073213531437268992",
+              "start": 32,
+              "url": "https://t.co/jGbyOChZtG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073590057123135876",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 360
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073213533937127461",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @tukemono6500: でっっっっっっっっっ！！！ https://t.co/jGbyOChZtG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073213531437268992"
+          ]
+        },
+        "author_id": "1567266247171252224",
+        "conversation_id": "2073213533937127461",
+        "created_at": "2026-07-04T01:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T02:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073213533937127461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jGbyOChZtG",
+              "end": 37,
+              "expanded_url": "https://x.com/tukemono6500/status/2073213533937127461/photo/1",
+              "media_key": "3_2073213531437268992",
+              "start": 14,
+              "url": "https://t.co/jGbyOChZtG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073213533937127461",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1480,
+          "impression_count": 72206,
+          "like_count": 10459,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 360
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "でっっっっっっっっっ！！！ https://t.co/jGbyOChZtG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1550,
+          "following_count": 1518,
+          "like_count": 21871,
+          "listed_count": 7,
+          "media_count": 781,
+          "tweet_count": 6866
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-06T21:39:43.000Z",
+        "description": "野菜不足。",
+        "id": "1567266247171252224",
+        "name": "ふももの",
+        "pinned_tweet_id": "2073486557038993574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072749438016356353/Dd_yyL-r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83463,
+          "following_count": 3,
+          "like_count": 20522,
+          "listed_count": 236,
+          "media_count": 1293,
+          "tweet_count": 5681
+        },
+        "url": "",
+        "username": "tukemono6500",
+        "verified": false
+      }
+    ]
+  }
+}

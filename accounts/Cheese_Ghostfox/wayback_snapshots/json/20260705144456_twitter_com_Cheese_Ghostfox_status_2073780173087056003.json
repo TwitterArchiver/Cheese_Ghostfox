@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2073712256144302336",
+    "created_at": "2026-07-05T14:44:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T15:44:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073780173087056003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1229249966222147585",
+          "start": 0,
+          "username": "qfy1001"
+        },
+        {
+          "end": 22,
+          "id": "1782932905419046912",
+          "start": 9,
+          "username": "ratshelprats"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073780173087056003",
+    "in_reply_to_user_id": "1229249966222147585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073724091409002799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qfy1001 @ratshelprats 提取公积金要有事由打申请!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2073712256144302336",
+        "created_at": "2026-07-05T14:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073780173087056003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1229249966222147585",
+              "start": 0,
+              "username": "qfy1001"
+            },
+            {
+              "end": 22,
+              "id": "1782932905419046912",
+              "start": 9,
+              "username": "ratshelprats"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073780173087056003",
+        "in_reply_to_user_id": "1229249966222147585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073724091409002799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qfy1001 @ratshelprats 提取公积金要有事由打申请!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1229249966222147585",
+        "conversation_id": "2073712256144302336",
+        "created_at": "2026-07-05T11:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073724091409002799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1782932905419046912",
+              "start": 0,
+              "username": "ratshelprats"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073724091409002799",
+        "in_reply_to_user_id": "1782932905419046912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 371,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073712256144302336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ratshelprats 马路的井盖自取 卖了换你想要的任何东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1550,
+          "following_count": 1518,
+          "like_count": 21926,
+          "listed_count": 7,
+          "media_count": 782,
+          "tweet_count": 6876
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-17T03:43:37.000Z",
+        "description": "simple",
+        "id": "1229249966222147585",
+        "location": "距离你5.20km",
+        "name": "Quentin ff",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910741284433928192/XRk4OO_8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 1080,
+          "like_count": 509,
+          "listed_count": 4,
+          "media_count": 2,
+          "tweet_count": 1182
+        },
+        "url": "",
+        "username": "qfy1001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T00:41:54.000Z",
+        "description": "大鼠王（老鼠国王）",
+        "id": "1782932905419046912",
+        "name": "老鼠帮助老鼠🐭☝️",
+        "pinned_tweet_id": "2071911800518709259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822487372774494208/h_lDDH_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110898,
+          "following_count": 481,
+          "like_count": 100379,
+          "listed_count": 165,
+          "media_count": 583,
+          "tweet_count": 1539
+        },
+        "url": "",
+        "username": "ratshelprats",
+        "verified": true
+      }
+    ]
+  }
+}

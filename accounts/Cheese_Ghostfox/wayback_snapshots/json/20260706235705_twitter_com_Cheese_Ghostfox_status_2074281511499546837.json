@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074088169709211648"
+      ],
+      "media_source_tweet_id": [
+        "2074088417785442637"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2074281511499546837",
+    "created_at": "2026-07-06T23:57:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T00:57:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074281511499546837"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 14,
+          "tag": "重音テト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1969215846599049216",
+          "start": 3,
+          "username": "gund_no9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/B5esVY8JDl",
+          "end": 60,
+          "expanded_url": "https://x.com/gund_no9/status/2074088417785442637/photo/1",
+          "media_key": "3_2074088169709211648",
+          "start": 37,
+          "url": "https://t.co/B5esVY8JDl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074281511499546837",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 185
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074088417785442637",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gund_no9: #重音テト\nおなか見ちゃダメって言ったでしょ https://t.co/B5esVY8JDl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2074088169709211648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMikM4xbkAAh-H1.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074088169709211648"
+          ],
+          "media_source_tweet_id": [
+            "2074088417785442637"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2074281511499546837",
+        "created_at": "2026-07-06T23:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T00:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074281511499546837"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "重音テト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1969215846599049216",
+              "start": 3,
+              "username": "gund_no9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B5esVY8JDl",
+              "end": 60,
+              "expanded_url": "https://x.com/gund_no9/status/2074088417785442637/photo/1",
+              "media_key": "3_2074088169709211648",
+              "start": 37,
+              "url": "https://t.co/B5esVY8JDl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074281511499546837",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 185
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074088417785442637",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gund_no9: #重音テト\nおなか見ちゃダメって言ったでしょ https://t.co/B5esVY8JDl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074088169709211648"
+          ]
+        },
+        "author_id": "1969215846599049216",
+        "conversation_id": "2074088417785442637",
+        "created_at": "2026-07-06T11:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T12:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074088417785442637"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "重音テト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B5esVY8JDl",
+              "end": 46,
+              "expanded_url": "https://x.com/gund_no9/status/2074088417785442637/photo/1",
+              "media_key": "3_2074088169709211648",
+              "start": 23,
+              "url": "https://t.co/B5esVY8JDl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074088417785442637",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 600,
+          "impression_count": 16346,
+          "like_count": 3198,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 185
+        },
+        "reply_settings": "everyone",
+        "text": "#重音テト\nおなか見ちゃダメって言ったでしょ https://t.co/B5esVY8JDl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1554,
+          "following_count": 1518,
+          "like_count": 21971,
+          "listed_count": 7,
+          "media_count": 782,
+          "tweet_count": 6883
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-20T01:43:54.000Z",
+        "description": "お絵かきとかアニメとか\n気が向いたらこっちもよろしく→@sdkfz161_1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "sdkfz161_1"
+              }
+            ]
+          }
+        },
+        "id": "1969215846599049216",
+        "name": "藻屑9号",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972590121435426816/yhTsVS2B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13196,
+          "following_count": 43,
+          "like_count": 939,
+          "listed_count": 83,
+          "media_count": 105,
+          "tweet_count": 955
+        },
+        "url": "",
+        "username": "gund_no9",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075016173788295168"
+      ],
+      "media_source_tweet_id": [
+        "2075016201009283492"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2075262723622101197",
+    "created_at": "2026-07-09T16:56:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T17:56:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075262723622101197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2055500983619158016",
+          "start": 3,
+          "username": "BearDesignX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WgTtxGK7xS",
+          "end": 56,
+          "expanded_url": "https://x.com/BearDesignX/status/2075016201009283492/photo/1",
+          "media_key": "3_2075016173788295168",
+          "start": 33,
+          "url": "https://t.co/WgTtxGK7xS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075262723622101197",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 177
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075016201009283492",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BearDesignX: fix the posture https://t.co/WgTtxGK7xS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 941,
+        "media_key": "3_2075016173788295168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMvwN1XXcAA4wxC.jpg",
+        "width": 939
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075016173788295168"
+          ],
+          "media_source_tweet_id": [
+            "2075016201009283492"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2075262723622101197",
+        "created_at": "2026-07-09T16:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T17:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075262723622101197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2055500983619158016",
+              "start": 3,
+              "username": "BearDesignX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WgTtxGK7xS",
+              "end": 56,
+              "expanded_url": "https://x.com/BearDesignX/status/2075016201009283492/photo/1",
+              "media_key": "3_2075016173788295168",
+              "start": 33,
+              "url": "https://t.co/WgTtxGK7xS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075262723622101197",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 177
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075016201009283492",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BearDesignX: fix the posture https://t.co/WgTtxGK7xS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075016173788295168"
+          ]
+        },
+        "author_id": "2055500983619158016",
+        "conversation_id": "2075016201009283492",
+        "created_at": "2026-07-09T00:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T01:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075016201009283492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WgTtxGK7xS",
+              "end": 39,
+              "expanded_url": "https://x.com/BearDesignX/status/2075016201009283492/photo/1",
+              "media_key": "3_2075016173788295168",
+              "start": 16,
+              "url": "https://t.co/WgTtxGK7xS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075016201009283492",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1214,
+          "impression_count": 164066,
+          "like_count": 5593,
+          "quote_count": 9,
+          "reply_count": 14,
+          "retweet_count": 177
+        },
+        "reply_settings": "everyone",
+        "text": "fix the posture https://t.co/WgTtxGK7xS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1554,
+          "following_count": 1517,
+          "like_count": 22079,
+          "listed_count": 7,
+          "media_count": 782,
+          "tweet_count": 6903
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-16T04:10:22.000Z",
+        "description": "Transforming ideas into visuals",
+        "id": "2055500983619158016",
+        "name": "Bear Design",
+        "pinned_tweet_id": "2060981275066794061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063326441752678400/cJDM0bSj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5668,
+          "following_count": 518,
+          "like_count": 847,
+          "listed_count": 43,
+          "media_count": 398,
+          "tweet_count": 407
+        },
+        "url": "",
+        "username": "BearDesignX",
+        "verified": true
+      }
+    ]
+  }
+}
