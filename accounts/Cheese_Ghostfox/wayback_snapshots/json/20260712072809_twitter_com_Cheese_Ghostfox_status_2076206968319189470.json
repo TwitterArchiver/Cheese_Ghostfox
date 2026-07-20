@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075791846996049920",
+        "3_2075791847000260608"
+      ],
+      "media_source_tweet_id": [
+        "2075792277990182981",
+        "2075792277990182981"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2076206968319189470",
+    "created_at": "2026-07-12T07:28:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T08:28:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076206968319189470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "953136385786982400",
+          "start": 3,
+          "username": "JinZe_72"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/N0h5kjvRp8",
+          "end": 68,
+          "expanded_url": "https://x.com/JinZe_72/status/2075792277990182981/photo/1",
+          "media_key": "3_2075791846996049920",
+          "start": 45,
+          "url": "https://t.co/N0h5kjvRp8"
+        },
+        {
+          "display_url": "pic.x.com/N0h5kjvRp8",
+          "end": 68,
+          "expanded_url": "https://x.com/JinZe_72/status/2075792277990182981/photo/1",
+          "media_key": "3_2075791847000260608",
+          "start": 45,
+          "url": "https://t.co/N0h5kjvRp8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076206968319189470",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 178
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075792277990182981",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JinZe_72: (试阅)「三项全能の柔情猫娘想要过上完美的幸福生活❤」1/3 https://t.co/N0h5kjvRp8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2142,
+        "media_key": "3_2075791846996049920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM6xr9PaAAA6akD.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1781,
+        "media_key": "3_2075791847000260608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM6xr9QaQAANOxN.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075791846996049920",
+            "3_2075791847000260608"
+          ],
+          "media_source_tweet_id": [
+            "2075792277990182981",
+            "2075792277990182981"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2076206968319189470",
+        "created_at": "2026-07-12T07:28:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T08:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076206968319189470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "953136385786982400",
+              "start": 3,
+              "username": "JinZe_72"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N0h5kjvRp8",
+              "end": 68,
+              "expanded_url": "https://x.com/JinZe_72/status/2075792277990182981/photo/1",
+              "media_key": "3_2075791846996049920",
+              "start": 45,
+              "url": "https://t.co/N0h5kjvRp8"
+            },
+            {
+              "display_url": "pic.x.com/N0h5kjvRp8",
+              "end": 68,
+              "expanded_url": "https://x.com/JinZe_72/status/2075792277990182981/photo/1",
+              "media_key": "3_2075791847000260608",
+              "start": 45,
+              "url": "https://t.co/N0h5kjvRp8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076206968319189470",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 178
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075792277990182981",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JinZe_72: (试阅)「三项全能の柔情猫娘想要过上完美的幸福生活❤」1/3 https://t.co/N0h5kjvRp8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075791846996049920",
+            "3_2075791847000260608"
+          ]
+        },
+        "author_id": "953136385786982400",
+        "conversation_id": "2075792277990182981",
+        "created_at": "2026-07-11T04:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T05:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075792277990182981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N0h5kjvRp8",
+              "end": 54,
+              "expanded_url": "https://x.com/JinZe_72/status/2075792277990182981/photo/1",
+              "media_key": "3_2075791846996049920",
+              "start": 31,
+              "url": "https://t.co/N0h5kjvRp8"
+            },
+            {
+              "display_url": "pic.x.com/N0h5kjvRp8",
+              "end": 54,
+              "expanded_url": "https://x.com/JinZe_72/status/2075792277990182981/photo/1",
+              "media_key": "3_2075791847000260608",
+              "start": 31,
+              "url": "https://t.co/N0h5kjvRp8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075792277990182981",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 980,
+          "impression_count": 125415,
+          "like_count": 3409,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 178
+        },
+        "reply_settings": "everyone",
+        "text": "(试阅)「三项全能の柔情猫娘想要过上完美的幸福生活❤」1/3 https://t.co/N0h5kjvRp8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555,
+          "following_count": 1516,
+          "like_count": 22235,
+          "listed_count": 7,
+          "media_count": 782,
+          "tweet_count": 6925
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2018-01-16T05:26:37.000Z",
+        "description": "一画画的\nFANBOX:https://t.co/2L2E4YDmLf\nUnifans:https://t.co/hQH6VUbiPf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "animarcat.fanbox.cc",
+                "end": 35,
+                "expanded_url": "https://animarcat.fanbox.cc",
+                "start": 12,
+                "url": "https://t.co/2L2E4YDmLf"
+              },
+              {
+                "display_url": "app.unifans.io/c/eliath",
+                "end": 67,
+                "expanded_url": "https://app.unifans.io/c/eliath",
+                "start": 44,
+                "url": "https://t.co/hQH6VUbiPf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=9322526",
+                "start": 0,
+                "url": "https://t.co/bvpXHcRZqg"
+              }
+            ]
+          }
+        },
+        "id": "953136385786982400",
+        "location": " Iceland",
+        "name": "今沢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/974309286946852864/l4Y4jlQ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27284,
+          "following_count": 33,
+          "like_count": 627,
+          "listed_count": 136,
+          "media_count": 574,
+          "tweet_count": 605
+        },
+        "url": "https://t.co/bvpXHcRZqg",
+        "username": "JinZe_72",
+        "verified": true
+      }
+    ]
+  }
+}

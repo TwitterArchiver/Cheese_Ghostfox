@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076702699719159808"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2076702703145935284",
+    "created_at": "2026-07-13T16:18:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T17:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076702703145935284"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qUxJRsybHY",
+          "end": 47,
+          "expanded_url": "https://x.com/Cheese_Ghostfox/status/2076702703145935284/photo/1",
+          "media_key": "3_2076702699719159808",
+          "start": 24,
+          "url": "https://t.co/qUxJRsybHY"
+        },
+        {
+          "display_url": "x.com/Cheese_Ghostfo…",
+          "end": 71,
+          "expanded_url": "https://twitter.com/Cheese_Ghostfox/status/2076700247804477571",
+          "start": 48,
+          "url": "https://t.co/7VkMqIjzt5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076702703145935284",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076700247804477571",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "目前填词部分的文字版本，方便各位推U咬文嚼字( https://t.co/qUxJRsybHY https://t.co/7VkMqIjzt5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2195,
+        "media_key": "3_2076702699719159808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHuGkDa8AAeWYk.jpg",
+        "width": 1080
+      },
+      {
+        "duration_ms": 68181,
+        "height": 1020,
+        "media_key": "13_2076700154577727488",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076700154577727488/img/KhjX0iUFo8_5paHH.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076700154577727488/vid/avc1/492x270/LGBzvlb1lInHzIGS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076700154577727488/vid/avc1/1312x720/AJadJKAwlu7WCNGy.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076700154577727488/vid/avc1/1860x1020/x0pRMP5QaDoJtOo4.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076700154577727488/vid/avc1/656x360/oVyKxPahN_ZoiRpu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076700154577727488/pl/XJ0Zy6EPDWAIdzRX.m3u8"
+          }
+        ],
+        "width": 1860
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076702699719159808"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076702703145935284",
+        "created_at": "2026-07-13T16:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076702703145935284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qUxJRsybHY",
+              "end": 47,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2076702703145935284/photo/1",
+              "media_key": "3_2076702699719159808",
+              "start": 24,
+              "url": "https://t.co/qUxJRsybHY"
+            },
+            {
+              "display_url": "x.com/Cheese_Ghostfo…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/Cheese_Ghostfox/status/2076700247804477571",
+              "start": 48,
+              "url": "https://t.co/7VkMqIjzt5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076702703145935284",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076700247804477571",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "目前填词部分的文字版本，方便各位推U咬文嚼字( https://t.co/qUxJRsybHY https://t.co/7VkMqIjzt5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076700154577727488"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2076700247804477571",
+        "created_at": "2026-07-13T16:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076700247804477571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AUWwHJDyOJ",
+              "end": 38,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2076700247804477571/video/1",
+              "media_key": "13_2076700154577727488",
+              "start": 15,
+              "url": "https://t.co/AUWwHJDyOJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076700247804477571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一些随手创作的中文填词((( https://t.co/AUWwHJDyOJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1570,
+          "following_count": 1518,
+          "like_count": 22324,
+          "listed_count": 7,
+          "media_count": 789,
+          "tweet_count": 6950
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2077028681764204593",
+    "created_at": "2026-07-14T15:29:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T16:29:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077052844381999489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2054099511279296512",
+          "start": 0,
+          "username": "666666666ZT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077052844381999489",
+    "in_reply_to_user_id": "2054099511279296512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077028681764204593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@666666666ZT 老师您这编得真有点假了喵(难视)\n有一种写洋柿子网文豪门晚宴外边停了一排比亚迪小鹏和蔚来的美www"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077028675221168128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMWk1bboAAaGNM.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077028675678347264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMWk3IboAA_hLE.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077028676785631232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMWk7QbcAATGMY.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2077028681764204593",
+        "created_at": "2026-07-14T15:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T16:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077052844381999489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2054099511279296512",
+              "start": 0,
+              "username": "666666666ZT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077052844381999489",
+        "in_reply_to_user_id": "2054099511279296512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077028681764204593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@666666666ZT 老师您这编得真有点假了喵(难视)\n有一种写洋柿子网文豪门晚宴外边停了一排比亚迪小鹏和蔚来的美www"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077028675221168128",
+            "3_2077028675678347264",
+            "3_2077028676785631232"
+          ]
+        },
+        "author_id": "2054099511279296512",
+        "conversation_id": "2077028681764204593",
+        "created_at": "2026-07-14T13:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T14:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077028681764204593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9swW1GxdjU",
+              "end": 44,
+              "expanded_url": "https://x.com/666666666ZT/status/2077028681764204593/photo/1",
+              "media_key": "3_2077028675221168128",
+              "start": 21,
+              "url": "https://t.co/9swW1GxdjU"
+            },
+            {
+              "display_url": "pic.x.com/9swW1GxdjU",
+              "end": 44,
+              "expanded_url": "https://x.com/666666666ZT/status/2077028681764204593/photo/1",
+              "media_key": "3_2077028675678347264",
+              "start": 21,
+              "url": "https://t.co/9swW1GxdjU"
+            },
+            {
+              "display_url": "pic.x.com/9swW1GxdjU",
+              "end": 44,
+              "expanded_url": "https://x.com/666666666ZT/status/2077028681764204593/photo/1",
+              "media_key": "3_2077028676785631232",
+              "start": 21,
+              "url": "https://t.co/9swW1GxdjU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077028681764204593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8713,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要完了，这种情况怎么办，我已汗流浃背😭 https://t.co/9swW1GxdjU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1563,
+          "following_count": 1519,
+          "like_count": 22340,
+          "listed_count": 7,
+          "media_count": 790,
+          "tweet_count": 6961
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-12T07:21:08.000Z",
+        "description": "我是清正，一名普通的MTF，生产日期2010年7月1日，生日是农历五月二十，身高1米8，体重61公斤，没有飞机账号，请注意！只和同类互关，闲鱼名称：许安清姐姐",
+        "id": "2054099511279296512",
+        "location": "湖北省",
+        "name": "电子爱好者清正🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076557615912636478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071809309730557952/Z9aQ2M1k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 293,
+          "like_count": 31,
+          "listed_count": 4,
+          "media_count": 241,
+          "tweet_count": 500
+        },
+        "url": "",
+        "username": "666666666ZT",
+        "verified": true
+      }
+    ]
+  }
+}

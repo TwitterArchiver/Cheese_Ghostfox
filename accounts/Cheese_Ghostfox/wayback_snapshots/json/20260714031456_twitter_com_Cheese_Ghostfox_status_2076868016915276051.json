@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "2076868016915276051",
+    "created_at": "2026-07-14T03:14:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T04:14:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076868016915276051"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Cheese_Ghostfo…",
+          "end": 183,
+          "expanded_url": "https://twitter.com/Cheese_Ghostfox/status/2076745012600307785",
+          "start": 160,
+          "url": "https://t.co/J2EYiuzEuW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076868016915276051",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "Full lyrics:\n\ndeadline只剩几个小时啦\n桌子上还扔着任务卡\n不出意外又被手机把动力给无情抹杀\n似乎最近状态又变很差\n我绝对是又忘记吃药\n虽然对这样的病人怎样都很难有疗效\n驼背又头前伸\n近视有几百度\n工作内容是翻墙去发推特\n下水道的老鼠\n网络是栖息地\n咱很可爱请过个门槛喵\n这地球online真的牢吧\n所以做个不同的笑话\n完犊子style 行吧 行吧 行吧\n你们再诋毁就死给你们看吧\n完犊子style 行吧 行吧 行吧\n谨以此致我拉完了的年华\n深夜emo又到了\n打开手机呕吐黑泥吧\n输入删去斟酌反复如履薄冰只得作罢\n如果人生有作弊器的话\n我也绝对会被立刻封杀\n因为啊这种废物身上有奇迹一眼是开了挂\n今天要吃什么\n看教程几小时\n结论为KFC因为星期四\n看自己的身材\n又坚定地放弃\n半夜上厕所低血压晕厥\n不如连自己也骗了吧\n那就做幸福的离群值吧\n完犊子style 行吧 行吧 行吧\n潦草的人生也过到这了对吧\n完犊子style 行吧 行吧 行吧\n那就尽量做个精彩的笑话\n如果社交会是唯一解药的话\n那我大抵是没救啦\n总不能拽外卖小哥进屋一起吃拼好饭吧\n如果孤独算是一种技术的话\n那我绝对是权威专家\n其实诀窍也只是要足够不正常而已呢\n堆积的代办事项已经有一车啦\n放过自己却会恶心啊\n最难过的果然是自己立过flag这一关吧\n啊啊最近状态真有够差\nplanB是时候去发挥啦\n救救孩子吧哈基米哦那美路豆阿西西噶\n完犊子style 行吧 行吧 行吧\n就算是蜉蝣至少也飞过不是吗？\n完犊子style 行吧 行吧 行吧\n人生的模式是沙盒不是线性对吧?\n完犊子style–\n只要有理想就会好哒\n摆大烂style–\n所以理想就交给明天吧!"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076745012600307785",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Full lyrics:\n\ndeadline只剩几个小时啦\n桌子上还扔着任务卡\n不出意外又被手机把动力给无情抹杀\n似乎最近状态又变很差\n我绝对是又忘记吃药\n虽然对这样的病人怎样都很难有疗效\n驼背又头前伸\n近视有几百度\n工作内容是翻墙去发推特\n下水道的老鼠\n网络是栖息地\n咱很可爱请过个门槛喵\n这地球online真的牢吧 https://t.co/J2EYiuzEuW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 195178,
+        "height": 1004,
+        "media_key": "13_2076744595891990528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076744595891990528/img/7wKhkAvgpXW7MeDS.jpg",
+        "public_metrics": {
+          "view_count": 34
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076744595891990528/vid/avc1/502x270/jb_RSpXaT1RrZe6Q.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076744595891990528/vid/avc1/1870x1004/QXx_IBiE2DLLdtco.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076744595891990528/vid/avc1/1340x720/JTUiRrTAfsKjbJgt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076744595891990528/pl/r8ep2bNSiHUIf2Pi.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076744595891990528/vid/avc1/670x360/MuATkp2gfElYCtfA.mp4"
+          }
+        ],
+        "width": 1870
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2076868016915276051",
+        "created_at": "2026-07-14T03:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T04:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076868016915276051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cheese_Ghostfo…",
+              "end": 183,
+              "expanded_url": "https://twitter.com/Cheese_Ghostfox/status/2076745012600307785",
+              "start": 160,
+              "url": "https://t.co/J2EYiuzEuW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076868016915276051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Full lyrics:\n\ndeadline只剩几个小时啦\n桌子上还扔着任务卡\n不出意外又被手机把动力给无情抹杀\n似乎最近状态又变很差\n我绝对是又忘记吃药\n虽然对这样的病人怎样都很难有疗效\n驼背又头前伸\n近视有几百度\n工作内容是翻墙去发推特\n下水道的老鼠\n网络是栖息地\n咱很可爱请过个门槛喵\n这地球online真的牢吧\n所以做个不同的笑话\n完犊子style 行吧 行吧 行吧\n你们再诋毁就死给你们看吧\n完犊子style 行吧 行吧 行吧\n谨以此致我拉完了的年华\n深夜emo又到了\n打开手机呕吐黑泥吧\n输入删去斟酌反复如履薄冰只得作罢\n如果人生有作弊器的话\n我也绝对会被立刻封杀\n因为啊这种废物身上有奇迹一眼是开了挂\n今天要吃什么\n看教程几小时\n结论为KFC因为星期四\n看自己的身材\n又坚定地放弃\n半夜上厕所低血压晕厥\n不如连自己也骗了吧\n那就做幸福的离群值吧\n完犊子style 行吧 行吧 行吧\n潦草的人生也过到这了对吧\n完犊子style 行吧 行吧 行吧\n那就尽量做个精彩的笑话\n如果社交会是唯一解药的话\n那我大抵是没救啦\n总不能拽外卖小哥进屋一起吃拼好饭吧\n如果孤独算是一种技术的话\n那我绝对是权威专家\n其实诀窍也只是要足够不正常而已呢\n堆积的代办事项已经有一车啦\n放过自己却会恶心啊\n最难过的果然是自己立过flag这一关吧\n啊啊最近状态真有够差\nplanB是时候去发挥啦\n救救孩子吧哈基米哦那美路豆阿西西噶\n完犊子style 行吧 行吧 行吧\n就算是蜉蝣至少也飞过不是吗？\n完犊子style 行吧 行吧 行吧\n人生的模式是沙盒不是线性对吧?\n完犊子style–\n只要有理想就会好哒\n摆大烂style–\n所以理想就交给明天吧!"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076745012600307785",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Full lyrics:\n\ndeadline只剩几个小时啦\n桌子上还扔着任务卡\n不出意外又被手机把动力给无情抹杀\n似乎最近状态又变很差\n我绝对是又忘记吃药\n虽然对这样的病人怎样都很难有疗效\n驼背又头前伸\n近视有几百度\n工作内容是翻墙去发推特\n下水道的老鼠\n网络是栖息地\n咱很可爱请过个门槛喵\n这地球online真的牢吧 https://t.co/J2EYiuzEuW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076744595891990528"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2076745012600307785",
+        "created_at": "2026-07-13T19:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T20:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076745012600307785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qu4DWLLqYv",
+              "end": 87,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2076745012600307785/video/1",
+              "media_key": "13_2076744595891990528",
+              "start": 64,
+              "url": "https://t.co/Qu4DWLLqYv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076745012600307785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "「随便~随便~」的中文填词完整版喵!\n狐会在不久的将来对它完成混音,加点视频背景和字幕啥的上传到视频网站的(\n总之推U先溜喵! https://t.co/Qu4DWLLqYv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1569,
+          "following_count": 1519,
+          "like_count": 22332,
+          "listed_count": 7,
+          "media_count": 790,
+          "tweet_count": 6956
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      }
+    ]
+  }
+}

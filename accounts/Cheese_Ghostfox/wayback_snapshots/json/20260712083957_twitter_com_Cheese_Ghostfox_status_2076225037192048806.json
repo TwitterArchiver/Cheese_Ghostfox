@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "WhatsApp Messenger, or simply WhatsApp, is an internationally available American freeware, cross-platform centralized instant messaging and voice-over-IP service owned by Meta Platforms.",
+          "id": "1502374025170882561",
+          "name": "WhatsApp"
+        }
+      }
+    ],
+    "conversation_id": "2076225037192048806",
+    "created_at": "2026-07-12T08:39:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T09:39:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076225037192048806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1069599820912910337",
+          "start": 3,
+          "username": "mubeitech"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076225037192048806",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 79
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075994067591221497",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mubeitech: 一个国家把互联网一封，Instagram、WhatsApp、新闻网站全都打不开，正常人的第一反应是找 VPN。\n\n但在伊朗、俄罗斯和另外十几个国家，已经有超过 56.6 万人在打开另一种浏览器：Ceno。\n\n它的思路很不一样。\n\n普通浏览器像一根水…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WhatsApp Messenger, or simply WhatsApp, is an internationally available American freeware, cross-platform centralized instant messaging and voice-over-IP service owned by Meta Platforms.",
+              "id": "1502374025170882561",
+              "name": "WhatsApp"
+            }
+          }
+        ],
+        "conversation_id": "2076225037192048806",
+        "created_at": "2026-07-12T08:39:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T09:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076225037192048806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1069599820912910337",
+              "start": 3,
+              "username": "mubeitech"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076225037192048806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075994067591221497",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mubeitech: 一个国家把互联网一封，Instagram、WhatsApp、新闻网站全都打不开，正常人的第一反应是找 VPN。\n\n但在伊朗、俄罗斯和另外十几个国家，已经有超过 56.6 万人在打开另一种浏览器：Ceno。\n\n它的思路很不一样。\n\n普通浏览器像一根水…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1069599820912910337",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WhatsApp Messenger, or simply WhatsApp, is an internationally available American freeware, cross-platform centralized instant messaging and voice-over-IP service owned by Meta Platforms.",
+              "id": "1502374025170882561",
+              "name": "WhatsApp"
+            }
+          }
+        ],
+        "conversation_id": "2075994067591221497",
+        "created_at": "2026-07-11T17:22:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T18:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075994067591221497"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075994067591221497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "一个国家把互联网一封，Instagram、WhatsApp、新闻网站全都打不开，正常人的第一反应是找 VPN。\n\n但在伊朗、俄罗斯和另外十几个国家，已经有超过 56.6 万人在打开另一种浏览器：Ceno。\n\n它的思路很不一样。\n\n普通浏览器像一根水管。\n你访问一个网站，本质上是你和那个网站之间建立连接。\n政府只要掐住这根管子，网站就从你的世界里消失了。\n\nVPN 的做法，是帮你把水管绕出去。\n所以很多人一遇到封网，就开始找节点、换线路、试密码。\n能用的时候很好用。\n但它仍然依赖少数入口。\n入口被识别、被限速、被封，普通人就又回到黑屏前。\n\nCeno 的增量在这里。\n它把浏览器从“单点访问工具”，变成了“信息分发网络”。\n\n一个人能拿到网页，其他人就可能通过他继续拿到。\n网站不再只从服务器流向用户，也可以在用户之间继续扩散。\n封锁者面对的，就不再是一条线，而是一片网。\n\n这才是封网时代最关键的变化。\n\n审查系统想控制信息，最喜欢的结构是中心化：几个入口、几条线路、几个平台。\n只要按住开关，整片人群就安静下来。\n\n抗审查技术真正要做的，是把“入口”拆散。\n让信息从一个中心，变成很多个节点。\n让浏览器不只是看网页的窗口，也变成别人继续看见世界的一块基础设施。\n\n所以这件事不能写成又一个翻墙工具。\n它更像一个信号：当权力把网络当闸门，技术就会把网络改造成地下水。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 582,
+          "impression_count": 196362,
+          "like_count": 587,
+          "quote_count": 8,
+          "reply_count": 105,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "一个国家把互联网一封，Instagram、WhatsApp、新闻网站全都打不开，正常人的第一反应是找 VPN。\n\n但在伊朗、俄罗斯和另外十几个国家，已经有超过 56.6 万人在打开另一种浏览器：Ceno。\n\n它的思路很不一样。\n\n普通浏览器像一根水管。\n你访问一个网站，本质上是你和那个网站之间建立连接。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1557,
+          "following_count": 1516,
+          "like_count": 22251,
+          "listed_count": 7,
+          "media_count": 782,
+          "tweet_count": 6929
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-03T14:30:44.000Z",
+        "description": "人类的金色通道：Crypto → AI → Space\n美国政治｜AI 科技｜国际博弈\n独立中文评论 · 原创解读\n观察西方，反思东方，理解文明\nCurated English-source commentary in Chinese",
+        "id": "1069599820912910337",
+        "name": "墓碑科技",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072589178802499584/nepXBaUH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68557,
+          "following_count": 4465,
+          "like_count": 11597,
+          "listed_count": 363,
+          "media_count": 13497,
+          "tweet_count": 78124
+        },
+        "url": "",
+        "username": "mubeitech",
+        "verified": true
+      }
+    ]
+  }
+}
