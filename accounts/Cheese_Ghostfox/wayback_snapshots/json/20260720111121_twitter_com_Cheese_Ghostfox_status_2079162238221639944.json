@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2079150627351924890",
+    "created_at": "2026-07-20T11:11:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T12:11:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079162238221639944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2267124525",
+          "start": 0,
+          "username": "ACzymay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079162238221639944",
+    "in_reply_to_user_id": "2267124525",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079150627351924890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ACzymay 写在前面:狐无意引起争端与辩论，只是分享一个可能的有趣洞察:\n在您近期批判(无贬义)的帖文中，狐的这一篇似乎是被扣的帽子比较小的(\n这是否意味着在您的度规中，狐的这一篇内容可以被姑且算为「小部分正确」呢?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2079150627351924890",
+        "created_at": "2026-07-20T11:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079162238221639944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2267124525",
+              "start": 0,
+              "username": "ACzymay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079162238221639944",
+        "in_reply_to_user_id": "2267124525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079150627351924890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ACzymay 写在前面:狐无意引起争端与辩论，只是分享一个可能的有趣洞察:\n在您近期批判(无贬义)的帖文中，狐的这一篇似乎是被扣的帽子比较小的(\n这是否意味着在您的度规中，狐的这一篇内容可以被姑且算为「小部分正确」呢?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2267124525",
+        "conversation_id": "2079150627351924890",
+        "created_at": "2026-07-20T10:25:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T11:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079150627351924890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cheese_Ghostfo…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/Cheese_Ghostfox/status/2078983545352274252",
+              "start": 56,
+              "url": "https://t.co/BpsTTkKpZC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079150627351924890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078983545352274252",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“对于自己持有饲养的活体资产享有无限控制权与处置权”\n这种狗屁言论，就是为私有制糊上一层墙纸，然后唱赞歌罢了。 https://t.co/BpsTTkKpZC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1565,
+          "following_count": 1518,
+          "like_count": 21550,
+          "listed_count": 7,
+          "media_count": 796,
+          "tweet_count": 7003
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2014-01-07T15:45:21.000Z",
+        "description": "全世界无产者，联合起来\n本人爱狗人士",
+        "id": "2267124525",
+        "name": "辩证唯物主义",
+        "pinned_tweet_id": "2071771187730899399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067643506965745664/M0qEsHNz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 27,
+          "like_count": 270,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 653
+        },
+        "url": "",
+        "username": "ACzymay",
+        "verified": false
+      }
+    ]
+  }
+}

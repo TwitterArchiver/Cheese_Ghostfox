@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078791984299569152"
+      ],
+      "media_source_tweet_id": [
+        "2078791997020926289"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2078923719213449611",
+    "created_at": "2026-07-19T19:23:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T20:23:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078923719213449611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1844926832967286785",
+          "start": 3,
+          "username": "ZX65535plus1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ig8jt6b7wF",
+          "end": 57,
+          "expanded_url": "https://x.com/ZX65535plus1/status/2078791997020926289/photo/1",
+          "media_key": "3_2078791984299569152",
+          "start": 34,
+          "url": "https://t.co/Ig8jt6b7wF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078923719213449611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078791997020926289",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZX65535plus1: 折筱祝各位小跨妹在新的一年里: https://t.co/Ig8jt6b7wF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2078791984299569152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlaS7oa8AAM7w7.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078791984299569152"
+          ]
+        },
+        "author_id": "1844926832967286785",
+        "conversation_id": "2078791997020926289",
+        "created_at": "2026-07-19T10:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T11:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078791997020926289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ig8jt6b7wF",
+              "end": 39,
+              "expanded_url": "https://x.com/ZX65535plus1/status/2078791997020926289/photo/1",
+              "media_key": "3_2078791984299569152",
+              "start": 16,
+              "url": "https://t.co/Ig8jt6b7wF"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "001b1f4d203740ea"
+        },
+        "id": "2078791997020926289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1028,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "折筱祝各位小跨妹在新的一年里: https://t.co/Ig8jt6b7wF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078791984299569152"
+          ],
+          "media_source_tweet_id": [
+            "2078791997020926289"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2078923719213449611",
+        "created_at": "2026-07-19T19:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T20:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078923719213449611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1844926832967286785",
+              "start": 3,
+              "username": "ZX65535plus1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ig8jt6b7wF",
+              "end": 57,
+              "expanded_url": "https://x.com/ZX65535plus1/status/2078791997020926289/photo/1",
+              "media_key": "3_2078791984299569152",
+              "start": 34,
+              "url": "https://t.co/Ig8jt6b7wF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078923719213449611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078791997020926289",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZX65535plus1: 折筱祝各位小跨妹在新的一年里: https://t.co/Ig8jt6b7wF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1564,
+          "following_count": 1518,
+          "like_count": 21533,
+          "listed_count": 7,
+          "media_count": 796,
+          "tweet_count": 6996
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "挨揍不如嘴贱 brat统治世界  |  \n只要不去就诊我就是健全B  |  \n一直试图在没有血缘关系的人身上找到家 | \n非计算机专业 | \n发现男的太傻逼但不太想否认自己历史，遂加入双性恋阵营",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g2043367970999832925/7jUBUlO2qh",
+                "start": 0,
+                "url": "https://t.co/pdJCzdgssh"
+              }
+            ]
+          }
+        },
+        "id": "1844926832967286785",
+        "location": "万达广场楼下",
+        "name": "小竹子一掰就断🏳️‍⚧️",
+        "pinned_tweet_id": "2078115273073426854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036702817168265216/LUEbpUzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4689,
+          "following_count": 1445,
+          "like_count": 82217,
+          "listed_count": 11,
+          "media_count": 1194,
+          "tweet_count": 24068
+        },
+        "url": "https://t.co/pdJCzdgssh",
+        "username": "ZX65535plus1",
+        "verified": false
+      }
+    ]
+  }
+}

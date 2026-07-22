@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2079071982881284399",
+    "created_at": "2026-07-20T05:12:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T06:12:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079071982881284399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1844926832967286785",
+          "start": 3,
+          "username": "ZX65535plus1"
+        },
+        {
+          "end": 31,
+          "id": "1937594393772589058",
+          "start": 18,
+          "username": "Private_plot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079071982881284399",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079053016804835411",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZX65535plus1: @Private_plot 但是我这样的激素没停也长不大啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2079071982881284399",
+        "created_at": "2026-07-20T05:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T06:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079071982881284399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1844926832967286785",
+              "start": 3,
+              "username": "ZX65535plus1"
+            },
+            {
+              "end": 31,
+              "id": "1937594393772589058",
+              "start": 18,
+              "username": "Private_plot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079071982881284399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079053016804835411",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZX65535plus1: @Private_plot 但是我这样的激素没停也长不大啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844926832967286785",
+        "conversation_id": "2079046321370194151",
+        "created_at": "2026-07-20T03:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T04:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079053016804835411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1937594393772589058",
+              "start": 0,
+              "username": "Private_plot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079053016804835411",
+        "in_reply_to_user_id": "1937594393772589058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079046321370194151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Private_plot 但是我这样的激素没停也长不大啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1565,
+          "following_count": 1518,
+          "like_count": 21547,
+          "listed_count": 7,
+          "media_count": 796,
+          "tweet_count": 7001
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "挨揍不如嘴贱 brat统治世界  |  \n只要不去就诊我就是健全B  |  \n一直试图在没有血缘关系的人身上找到家 | \n非计算机专业 | \n发现男的太傻逼但不太想否认自己历史，遂加入双性恋阵营",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g2043367970999832925/7jUBUlO2qh",
+                "start": 0,
+                "url": "https://t.co/pdJCzdgssh"
+              }
+            ]
+          }
+        },
+        "id": "1844926832967286785",
+        "location": "万达广场楼下",
+        "name": "小竹子一掰就断🏳️‍⚧️",
+        "pinned_tweet_id": "2078115273073426854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036702817168265216/LUEbpUzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4690,
+          "following_count": 1445,
+          "like_count": 82229,
+          "listed_count": 11,
+          "media_count": 1194,
+          "tweet_count": 24073
+        },
+        "url": "https://t.co/pdJCzdgssh",
+        "username": "ZX65535plus1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-24T19:32:41.000Z",
+        "description": "一切都是个人的，主观的，不媚女的，不媚男的，不厌男的，不厌女的，不崆峒的，不mtf的，不lgbtq的，但一定要born this way的。主人-@N0rthern_Land-",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "N0rthern_Land"
+              }
+            ]
+          }
+        },
+        "id": "1937594393772589058",
+        "name": "自留地",
+        "pinned_tweet_id": "2057715048764801135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947580324973875200/oEhjJur4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1600,
+          "following_count": 440,
+          "like_count": 13593,
+          "listed_count": 10,
+          "media_count": 357,
+          "tweet_count": 4651
+        },
+        "url": "",
+        "username": "Private_plot",
+        "verified": true
+      }
+    ]
+  }
+}
