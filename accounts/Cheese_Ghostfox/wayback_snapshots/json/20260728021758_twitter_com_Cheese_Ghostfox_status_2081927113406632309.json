@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2081927113406632309",
+    "created_at": "2026-07-28T02:17:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T03:17:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081927113406632309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1653612443774640129",
+          "start": 3,
+          "username": "SunGoudi"
+        },
+        {
+          "end": 23,
+          "id": "1080476780991963137",
+          "start": 14,
+          "username": "bitfool1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081927113406632309",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081782085149417516",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SunGoudi: @bitfool1 币圈真的可以改变人生。去年我看大家讨论怎么当小偷，今年讨论怎么抢劫了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2081927113406632309",
+        "created_at": "2026-07-28T02:17:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T03:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081927113406632309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1653612443774640129",
+              "start": 3,
+              "username": "SunGoudi"
+            },
+            {
+              "end": 23,
+              "id": "1080476780991963137",
+              "start": 14,
+              "username": "bitfool1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081927113406632309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081782085149417516",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SunGoudi: @bitfool1 币圈真的可以改变人生。去年我看大家讨论怎么当小偷，今年讨论怎么抢劫了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653612443774640129",
+        "conversation_id": "2081597847120875742",
+        "created_at": "2026-07-27T16:41:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T17:41:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081782085149417516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1080476780991963137",
+              "start": 0,
+              "username": "bitfool1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081782085149417516",
+        "in_reply_to_user_id": "1080476780991963137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1997,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081597847120875742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bitfool1 币圈真的可以改变人生。去年我看大家讨论怎么当小偷，今年讨论怎么抢劫了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1616,
+          "following_count": 1523,
+          "like_count": 21890,
+          "listed_count": 7,
+          "media_count": 805,
+          "tweet_count": 7086
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-03T04:08:40.000Z",
+        "description": "",
+        "id": "1653612443774640129",
+        "name": "sun goudi",
+        "pinned_tweet_id": "1713532686126755854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732464906732269569/LZJem3uG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 410,
+          "like_count": 9756,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 553
+        },
+        "url": "",
+        "username": "SunGoudi",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-02T14:51:53.000Z",
+        "description": "Crypto职业投资人、AI投研。 自诩为傻，独立观点。",
+        "id": "1080476780991963137",
+        "location": "全球走",
+        "name": "比特傻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934977318348578816/fVgEaK65_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128466,
+          "following_count": 1242,
+          "like_count": 238,
+          "listed_count": 1972,
+          "media_count": 3493,
+          "tweet_count": 16344
+        },
+        "url": "",
+        "username": "bitfool1",
+        "verified": true
+      }
+    ]
+  }
+}

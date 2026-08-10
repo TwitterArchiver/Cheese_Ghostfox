@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084189688882176000"
+      ],
+      "media_source_tweet_id": [
+        "2084189877080584660"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2084228172636463272",
+    "created_at": "2026-08-03T10:41:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T11:41:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084228172636463272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1937073350750466048",
+          "start": 3,
+          "username": "karo269640607"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZyiaxrE7mR",
+          "end": 56,
+          "expanded_url": "https://x.com/karo269640607/status/2084189877080584660/photo/1",
+          "media_key": "3_2084189688882176000",
+          "start": 33,
+          "url": "https://t.co/ZyiaxrE7mR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084228172636463272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084189877080584660",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @karo269640607: 我要让这张图赛博永生，，， https://t.co/ZyiaxrE7mR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 943,
+        "media_key": "3_2084189688882176000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOyHesJaoAAcZdN.jpg",
+        "width": 895
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084189688882176000"
+          ]
+        },
+        "author_id": "1937073350750466048",
+        "conversation_id": "2084189877080584660",
+        "created_at": "2026-08-03T08:09:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T09:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084189877080584660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZyiaxrE7mR",
+              "end": 37,
+              "expanded_url": "https://x.com/karo269640607/status/2084189877080584660/photo/1",
+              "media_key": "3_2084189688882176000",
+              "start": 14,
+              "url": "https://t.co/ZyiaxrE7mR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084189877080584660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 155,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我要让这张图赛博永生，，， https://t.co/ZyiaxrE7mR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084189688882176000"
+          ],
+          "media_source_tweet_id": [
+            "2084189877080584660"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2084228172636463272",
+        "created_at": "2026-08-03T10:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084228172636463272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1937073350750466048",
+              "start": 3,
+              "username": "karo269640607"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZyiaxrE7mR",
+              "end": 56,
+              "expanded_url": "https://x.com/karo269640607/status/2084189877080584660/photo/1",
+              "media_key": "3_2084189688882176000",
+              "start": 33,
+              "url": "https://t.co/ZyiaxrE7mR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084228172636463272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084189877080584660",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @karo269640607: 我要让这张图赛博永生，，， https://t.co/ZyiaxrE7mR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1658,
+          "following_count": 1531,
+          "like_count": 22360,
+          "listed_count": 7,
+          "media_count": 812,
+          "tweet_count": 7226
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-23T09:01:20.000Z",
+        "description": "o割餐券  I  ADHD、重焦中抑 |  虚无主义 | 顺女女同 | 生物化学药理板绘❤️ | 同类互fo | 混邪同人女 |恐游像素RPG爱好者|任何物种或性取向欢迎 | 化学极乐 |  言切 衛拓 黑红 狛日拒拆逆、生化里昂右向全肯定、all昴全肯定；尤昴莱昴奥昴⬆️艾昴蕾昴OK| 骂我的全家替挡灾",
+        "id": "1937073350750466048",
+        "name": "雨鈴",
+        "pinned_tweet_id": "2070341749247996152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028587877639045120/B1wypVK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 765,
+          "like_count": 42300,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 8735
+        },
+        "url": "",
+        "username": "karo269640607",
+        "verified": false
+      }
+    ]
+  }
+}

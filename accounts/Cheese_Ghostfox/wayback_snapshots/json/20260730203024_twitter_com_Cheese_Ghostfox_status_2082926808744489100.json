@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082668972856725504"
+      ],
+      "media_source_tweet_id": [
+        "2082669057346851068"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2082926808744489100",
+    "created_at": "2026-07-30T20:30:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T21:30:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082926808744489100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1203787163206389761",
+          "start": 3,
+          "username": "zuhtuselmani"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/P878NsVkdJ",
+          "end": 57,
+          "expanded_url": "https://x.com/zuhtuselmani/status/2082669057346851068/photo/1",
+          "media_key": "3_2082668972856725504",
+          "start": 34,
+          "url": "https://t.co/P878NsVkdJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082926808744489100",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 103
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082669057346851068",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zuhtuselmani: こういう体が1番好き（1/n） https://t.co/P878NsVkdJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2432,
+        "media_key": "3_2082668972856725504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOcgZXfaUAANd4x.png",
+        "width": 1877
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082668972856725504"
+          ]
+        },
+        "author_id": "1203787163206389761",
+        "conversation_id": "2082669057346851068",
+        "created_at": "2026-07-30T03:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T04:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082669057346851068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P878NsVkdJ",
+              "end": 39,
+              "expanded_url": "https://x.com/zuhtuselmani/status/2082669057346851068/photo/1",
+              "media_key": "3_2082668972856725504",
+              "start": 16,
+              "url": "https://t.co/P878NsVkdJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082669057346851068",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1664,
+          "impression_count": 558254,
+          "like_count": 3337,
+          "quote_count": 10,
+          "reply_count": 31,
+          "retweet_count": 103
+        },
+        "reply_settings": "everyone",
+        "text": "こういう体が1番好き（1/n） https://t.co/P878NsVkdJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082668972856725504"
+          ],
+          "media_source_tweet_id": [
+            "2082669057346851068"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2082926808744489100",
+        "created_at": "2026-07-30T20:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T21:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082926808744489100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1203787163206389761",
+              "start": 3,
+              "username": "zuhtuselmani"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P878NsVkdJ",
+              "end": 57,
+              "expanded_url": "https://x.com/zuhtuselmani/status/2082669057346851068/photo/1",
+              "media_key": "3_2082668972856725504",
+              "start": 34,
+              "url": "https://t.co/P878NsVkdJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082926808744489100",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 103
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082669057346851068",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zuhtuselmani: こういう体が1番好き（1/n） https://t.co/P878NsVkdJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1630,
+          "following_count": 1519,
+          "like_count": 22072,
+          "listed_count": 7,
+          "media_count": 806,
+          "tweet_count": 7136
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2019-12-08T21:23:51.000Z",
+        "description": "好きな漫画を紹介してます！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.gd/HGncc",
+                "end": 23,
+                "expanded_url": "http://x.gd/HGncc",
+                "start": 0,
+                "url": "https://t.co/idE1MVmVnx"
+              }
+            ]
+          }
+        },
+        "id": "1203787163206389761",
+        "location": "本編→",
+        "name": "あじさい",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081262408665014272/Ho2mcer7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 267,
+          "like_count": 860,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 126
+        },
+        "url": "https://t.co/idE1MVmVnx",
+        "username": "zuhtuselmani",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082661167969738752"
+      ],
+      "media_source_tweet_id": [
+        "2082661175829954780"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2082772472131412244",
+    "created_at": "2026-07-30T10:17:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T11:17:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082772472131412244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1696135768241000450",
+          "start": 3,
+          "username": "c_murilloalemon"
+        },
+        {
+          "end": 32,
+          "id": "3372278183",
+          "start": 21,
+          "username": "kedilikler"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LOabOBoAk8",
+          "end": 56,
+          "expanded_url": "https://x.com/c_murilloalemon/status/2082661175829954780/photo/1",
+          "media_key": "3_2082661167969738752",
+          "start": 33,
+          "url": "https://t.co/LOabOBoAk8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082772472131412244",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082661175829954780",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @c_murilloalemon: @kedilikler https://t.co/LOabOBoAk8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1248,
+        "media_key": "3_2082661167969738752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOcZTEBWIAAdxt8.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082661167969738752"
+          ]
+        },
+        "author_id": "1696135768241000450",
+        "conversation_id": "2082542362522268000",
+        "created_at": "2026-07-30T02:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T03:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082661175829954780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3372278183",
+              "start": 0,
+              "username": "kedilikler"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LOabOBoAk8",
+              "end": 35,
+              "expanded_url": "https://x.com/c_murilloalemon/status/2082661175829954780/photo/1",
+              "media_key": "3_2082661167969738752",
+              "start": 12,
+              "url": "https://t.co/LOabOBoAk8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082661175829954780",
+        "in_reply_to_user_id": "3372278183",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 25119,
+          "like_count": 436,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082542362522268000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kedilikler https://t.co/LOabOBoAk8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082661167969738752"
+          ],
+          "media_source_tweet_id": [
+            "2082661175829954780"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2082772472131412244",
+        "created_at": "2026-07-30T10:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T11:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082772472131412244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1696135768241000450",
+              "start": 3,
+              "username": "c_murilloalemon"
+            },
+            {
+              "end": 32,
+              "id": "3372278183",
+              "start": 21,
+              "username": "kedilikler"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LOabOBoAk8",
+              "end": 56,
+              "expanded_url": "https://x.com/c_murilloalemon/status/2082661175829954780/photo/1",
+              "media_key": "3_2082661167969738752",
+              "start": 33,
+              "url": "https://t.co/LOabOBoAk8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082772472131412244",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082661175829954780",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @c_murilloalemon: @kedilikler https://t.co/LOabOBoAk8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1620,
+          "following_count": 1516,
+          "like_count": 22024,
+          "listed_count": 7,
+          "media_count": 806,
+          "tweet_count": 7120
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-28T12:21:21.000Z",
+        "description": "",
+        "id": "1696135768241000450",
+        "name": "Carloston MA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912679831034040320/-mcYMqRA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 117,
+          "like_count": 1254,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 723
+        },
+        "url": "",
+        "username": "c_murilloalemon",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-12T13:24:27.000Z",
+        "description": "Sadece kedi ve kediler / We love cats so much 🐾😺\nkedilikler@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kedilikleroffi…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/kediliklerofficial?igsh=MXNrZ281Nm44YWpu",
+                "start": 0,
+                "url": "https://t.co/AlfiEQeOqr"
+              }
+            ]
+          }
+        },
+        "id": "3372278183",
+        "name": "Kedilikler / Funny Cat Moments",
+        "pinned_tweet_id": "2066080081097740655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1691783465971142659/MxyO05Tb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72754,
+          "following_count": 67712,
+          "like_count": 17000,
+          "listed_count": 95,
+          "media_count": 5969,
+          "tweet_count": 13299
+        },
+        "url": "https://t.co/AlfiEQeOqr",
+        "username": "kedilikler",
+        "verified": true
+      }
+    ]
+  }
+}

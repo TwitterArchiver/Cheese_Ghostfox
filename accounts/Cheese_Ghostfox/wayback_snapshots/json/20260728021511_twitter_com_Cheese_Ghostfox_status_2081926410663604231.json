@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081413697868902400"
+      ],
+      "media_source_tweet_id": [
+        "2081413703501853023"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2081926410663604231",
+    "created_at": "2026-07-28T02:15:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T03:15:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081926410663604231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1973058525858607104",
+          "start": 3,
+          "username": "y0g_lu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qcoJUnuY8i",
+          "end": 44,
+          "expanded_url": "https://x.com/y0g_lu/status/2081413703501853023/photo/1",
+          "media_key": "3_2081413697868902400",
+          "start": 21,
+          "url": "https://t.co/qcoJUnuY8i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081926410663604231",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 600
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081413703501853023",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @y0g_lu: キメラの舌は長い https://t.co/qcoJUnuY8i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2746,
+        "media_key": "3_2081413697868902400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOKquvwbsAAqPwA.jpg",
+        "width": 1620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081413697868902400"
+          ]
+        },
+        "author_id": "1973058525858607104",
+        "conversation_id": "2081413703501853023",
+        "created_at": "2026-07-26T16:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T17:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081413703501853023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qcoJUnuY8i",
+              "end": 32,
+              "expanded_url": "https://x.com/y0g_lu/status/2081413703501853023/photo/1",
+              "media_key": "3_2081413697868902400",
+              "start": 9,
+              "url": "https://t.co/qcoJUnuY8i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081413703501853023",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1275,
+          "impression_count": 111422,
+          "like_count": 11220,
+          "quote_count": 22,
+          "reply_count": 3,
+          "retweet_count": 600
+        },
+        "reply_settings": "everyone",
+        "text": "キメラの舌は長い https://t.co/qcoJUnuY8i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081413697868902400"
+          ],
+          "media_source_tweet_id": [
+            "2081413703501853023"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2081926410663604231",
+        "created_at": "2026-07-28T02:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T03:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081926410663604231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1973058525858607104",
+              "start": 3,
+              "username": "y0g_lu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qcoJUnuY8i",
+              "end": 44,
+              "expanded_url": "https://x.com/y0g_lu/status/2081413703501853023/photo/1",
+              "media_key": "3_2081413697868902400",
+              "start": 21,
+              "url": "https://t.co/qcoJUnuY8i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081926410663604231",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 600
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081413703501853023",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @y0g_lu: キメラの舌は長い https://t.co/qcoJUnuY8i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1616,
+          "following_count": 1523,
+          "like_count": 21887,
+          "listed_count": 7,
+          "media_count": 805,
+          "tweet_count": 7084
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-30T16:13:18.000Z",
+        "description": "TLが騒がしくなります。下ネタも言う注意\n今はテトミク中心！！\n重音テトの夢女┊︎リトリン必読お願いします♡\nhttps://t.co/inrooxF8T4\n※下ネタもなんでもありな夢垢のため1度出した既存派生の公式に関わる方はブロックしています。配慮のためです。いつも素晴らしい楽曲ありがとうございます。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/y0g_lu",
+                "end": 78,
+                "expanded_url": "https://lit.link/y0g_lu",
+                "start": 55,
+                "url": "https://t.co/inrooxF8T4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/x4q7rdwvlg6glrh",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/x4q7rdwvlg6glrh",
+                "start": 0,
+                "url": "https://t.co/xUgvneKWIa"
+              }
+            ]
+          }
+        },
+        "id": "1973058525858607104",
+        "location": "キメラ完全攻め固定。逆リバtttt地雷！男との絡みも地雷です",
+        "name": "鎮痛剤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974415729777926144/BbrALKyF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12913,
+          "following_count": 19,
+          "like_count": 3087,
+          "listed_count": 28,
+          "media_count": 661,
+          "tweet_count": 5535
+        },
+        "url": "https://t.co/xUgvneKWIa",
+        "username": "y0g_lu",
+        "verified": false
+      }
+    ]
+  }
+}

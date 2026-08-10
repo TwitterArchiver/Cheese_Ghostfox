@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083932000352911361"
+      ],
+      "media_source_tweet_id": [
+        "2083932017302114727"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2084072754496864487",
+    "created_at": "2026-08-03T00:23:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T01:23:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084072754496864487"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 18,
+          "tag": "重音テト"
+        },
+        {
+          "end": 37,
+          "start": 26,
+          "tag": "KasaneTeto"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1632348831412260865",
+          "start": 3,
+          "username": "OsugiAI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oz1PxEzqDi",
+          "end": 61,
+          "expanded_url": "https://x.com/OsugiAI/status/2083932017302114727/photo/1",
+          "media_key": "3_2083932000352911361",
+          "start": 38,
+          "url": "https://t.co/oz1PxEzqDi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084072754496864487",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083932017302114727",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OsugiAI: SFW \n#重音テト / #KasaneTeto https://t.co/oz1PxEzqDi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2083932000352911361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOudHPkawAElLX7.jpg",
+        "width": 1917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083932000352911361"
+          ]
+        },
+        "author_id": "1632348831412260865",
+        "conversation_id": "2083932017302114727",
+        "created_at": "2026-08-02T15:04:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083932017302114727"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 5,
+              "tag": "重音テト"
+            },
+            {
+              "end": 24,
+              "start": 13,
+              "tag": "KasaneTeto"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oz1PxEzqDi",
+              "end": 48,
+              "expanded_url": "https://x.com/OsugiAI/status/2083932017302114727/photo/1",
+              "media_key": "3_2083932000352911361",
+              "start": 25,
+              "url": "https://t.co/oz1PxEzqDi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083932017302114727",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 2780,
+          "like_count": 375,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "SFW \n#重音テト / #KasaneTeto https://t.co/oz1PxEzqDi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083932000352911361"
+          ],
+          "media_source_tweet_id": [
+            "2083932017302114727"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2084072754496864487",
+        "created_at": "2026-08-03T00:23:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T01:23:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084072754496864487"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "重音テト"
+            },
+            {
+              "end": 37,
+              "start": 26,
+              "tag": "KasaneTeto"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1632348831412260865",
+              "start": 3,
+              "username": "OsugiAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oz1PxEzqDi",
+              "end": 61,
+              "expanded_url": "https://x.com/OsugiAI/status/2083932017302114727/photo/1",
+              "media_key": "3_2083932000352911361",
+              "start": 38,
+              "url": "https://t.co/oz1PxEzqDi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084072754496864487",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083932017302114727",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OsugiAI: SFW \n#重音テト / #KasaneTeto https://t.co/oz1PxEzqDi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1659,
+          "following_count": 1531,
+          "like_count": 22320,
+          "listed_count": 7,
+          "media_count": 811,
+          "tweet_count": 7214
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-05T11:54:52.000Z",
+        "description": "AI Art / VOCALOID,Lovelive! etc..\nLet's follow meee!!\nFANZA🔞：https://t.co/xZvIADyx1U \nPatreon🔞：https://t.co/asOfcGsUyp\nOther Activities：https://t.co/EU8dnwyLHX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/VZsT5",
+                "end": 84,
+                "expanded_url": "https://x.gd/VZsT5",
+                "start": 61,
+                "url": "https://t.co/xZvIADyx1U"
+              },
+              {
+                "display_url": "x.gd/OyyuB",
+                "end": 118,
+                "expanded_url": "https://x.gd/OyyuB",
+                "start": 95,
+                "url": "https://t.co/asOfcGsUyp"
+              },
+              {
+                "display_url": "lit.link/osugiai",
+                "end": 159,
+                "expanded_url": "https://lit.link/osugiai",
+                "start": 136,
+                "url": "https://t.co/EU8dnwyLHX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/c/osugi79",
+                "end": 23,
+                "expanded_url": "https://www.patreon.com/c/osugi79",
+                "start": 0,
+                "url": "https://t.co/C8NWNHDJqU"
+              }
+            ]
+          }
+        },
+        "id": "1632348831412260865",
+        "name": "Osugi_AI",
+        "pinned_tweet_id": "1998730929741734324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059639747493163010/K723CMus_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15248,
+          "following_count": 1568,
+          "like_count": 16156,
+          "listed_count": 98,
+          "media_count": 4598,
+          "tweet_count": 10060
+        },
+        "url": "https://t.co/C8NWNHDJqU",
+        "username": "OsugiAI",
+        "verified": true
+      }
+    ]
+  }
+}

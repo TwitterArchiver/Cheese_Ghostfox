@@ -1,0 +1,429 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2084951788894167353",
+    "created_at": "2026-08-05T10:36:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T11:36:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084951788894167353"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 20,
+          "tag": "神田明神納涼祭り"
+        },
+        {
+          "end": 50,
+          "start": 39,
+          "tag": "FX戦士くるみちゃん"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1996438393098768386",
+          "start": 3,
+          "username": "fxkurumi_info"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084951788894167353",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 87
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084930903734882626",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fxkurumi_info: 📈#神田明神納涼祭り 📉\n\nTVアニメ「#FX戦士くるみちゃん」\nこれであなたもFX戦士！？\nリバーシブル特製うちわの配布が決定！\n\n🎆 神田明神納涼祭り\n🗓️ 8月7日（金）〜9日（日）\n📍 KADOKAWAテント\n\nこの機会にぜひ💵 h…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2084930122650714112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO8o5m4bgAA6p9_.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2084951788894167353",
+        "created_at": "2026-08-05T10:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T11:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084951788894167353"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 20,
+              "tag": "神田明神納涼祭り"
+            },
+            {
+              "end": 50,
+              "start": 39,
+              "tag": "FX戦士くるみちゃん"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1996438393098768386",
+              "start": 3,
+              "username": "fxkurumi_info"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084951788894167353",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084930903734882626",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fxkurumi_info: 📈#神田明神納涼祭り 📉\n\nTVアニメ「#FX戦士くるみちゃん」\nこれであなたもFX戦士！？\nリバーシブル特製うちわの配布が決定！\n\n🎆 神田明神納涼祭り\n🗓️ 8月7日（金）〜9日（日）\n📍 KADOKAWAテント\n\nこの機会にぜひ💵 h…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084930122650714112"
+          ]
+        },
+        "author_id": "1996438393098768386",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2084930903734882626",
+        "created_at": "2026-08-05T09:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T10:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084930903734882626"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 1,
+              "tag": "神田明神納涼祭り"
+            },
+            {
+              "end": 31,
+              "start": 20,
+              "tag": "FX戦士くるみちゃん"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k4voXMg2dm",
+              "end": 142,
+              "expanded_url": "https://x.com/fxkurumi_info/status/2084930903734882626/photo/1",
+              "media_key": "3_2084930122650714112",
+              "start": 119,
+              "url": "https://t.co/k4voXMg2dm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084930903734882626",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 17743,
+          "like_count": 334,
+          "quote_count": 8,
+          "reply_count": 1,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "📈#神田明神納涼祭り 📉\n\nTVアニメ「#FX戦士くるみちゃん」\nこれであなたもFX戦士！？\nリバーシブル特製うちわの配布が決定！\n\n🎆 神田明神納涼祭り\n🗓️ 8月7日（金）〜9日（日）\n📍 KADOKAWAテント\n\nこの機会にぜひ💵 https://t.co/k4voXMg2dm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1710,
+          "following_count": 1534,
+          "like_count": 22616,
+          "listed_count": 7,
+          "media_count": 819,
+          "tweet_count": 7274
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-04T04:36:36.000Z",
+        "description": "『これは私がFXを始める物語』\nTVアニメ「FX戦士くるみちゃん」2026年10月放送・配信開始！《原作：でむにゃん・作画：炭酸だいすき／月刊コミックフラッパー連載》《キャスト：#鈴木愛奈 》推奨タグ： #FX戦士くるみちゃん",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 94,
+                "start": 89,
+                "tag": "鈴木愛奈"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "tag": "FX戦士くるみちゃん"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fxkurumi-info.com",
+                "end": 23,
+                "expanded_url": "https://fxkurumi-info.com/",
+                "start": 0,
+                "url": "https://t.co/9B7CgEWAdm"
+              }
+            ]
+          }
+        },
+        "id": "1996438393098768386",
+        "name": "TVアニメ「FX戦士くるみちゃん」",
+        "pinned_tweet_id": "2083538244956745829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013174591112286208/LbbJiL2I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17176,
+          "following_count": 11,
+          "like_count": 18,
+          "listed_count": 88,
+          "media_count": 75,
+          "tweet_count": 127
+        },
+        "url": "https://t.co/9B7CgEWAdm",
+        "username": "fxkurumi_info",
+        "verified": false
+      }
+    ]
+  }
+}

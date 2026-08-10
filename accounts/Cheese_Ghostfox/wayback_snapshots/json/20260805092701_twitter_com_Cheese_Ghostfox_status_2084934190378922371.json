@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084811036058660864"
+      ],
+      "media_source_tweet_id": [
+        "2084811048087859640"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2084934190378922371",
+    "created_at": "2026-08-05T09:27:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T10:27:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084934190378922371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1857802986837172224",
+          "start": 3,
+          "username": "LingJiaXin233"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kNnhTdJiIU",
+          "end": 61,
+          "expanded_url": "https://x.com/LingJiaXin233/status/2084811048087859640/photo/1",
+          "media_key": "3_2084811036058660864",
+          "start": 38,
+          "url": "https://t.co/kNnhTdJiIU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084934190378922371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084811048087859640",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LingJiaXin233: 期权至少有到期日，而情又该在何处止？ https://t.co/kNnhTdJiIU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1995,
+        "media_key": "3_2084811036058660864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO68l2wXMAAJ21O.jpg",
+        "width": 1102
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084811036058660864"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2084811048087859640",
+        "created_at": "2026-08-05T01:17:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T02:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084811048087859640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kNnhTdJiIU",
+              "end": 42,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2084811048087859640/photo/1",
+              "media_key": "3_2084811036058660864",
+              "start": 19,
+              "url": "https://t.co/kNnhTdJiIU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084811048087859640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 705,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "期权至少有到期日，而情又该在何处止？ https://t.co/kNnhTdJiIU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084811036058660864"
+          ],
+          "media_source_tweet_id": [
+            "2084811048087859640"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2084934190378922371",
+        "created_at": "2026-08-05T09:27:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T10:27:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084934190378922371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1857802986837172224",
+              "start": 3,
+              "username": "LingJiaXin233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kNnhTdJiIU",
+              "end": 61,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2084811048087859640/photo/1",
+              "media_key": "3_2084811036058660864",
+              "start": 38,
+              "url": "https://t.co/kNnhTdJiIU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084934190378922371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084811048087859640",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LingJiaXin233: 期权至少有到期日，而情又该在何处止？ https://t.co/kNnhTdJiIU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1707,
+          "following_count": 1532,
+          "like_count": 22602,
+          "listed_count": 7,
+          "media_count": 818,
+          "tweet_count": 7270
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！//无证含糖，研究研究性别和哲学😋//发一些梗图，希望能给你带来快乐！🤗//素材收集于网络，侵删私DM我🤒//推广自辨不做担保//各位在X玩的开心！//接推广合作请私信🥸",
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "凌嘉欣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8688,
+          "following_count": 548,
+          "like_count": 20346,
+          "listed_count": 18,
+          "media_count": 2812,
+          "tweet_count": 6430
+        },
+        "url": "",
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

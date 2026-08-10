@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083198003310116864",
+        "3_2083198005654740992"
+      ],
+      "media_source_tweet_id": [
+        "2083198063280316728",
+        "2083198063280316728"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2083374366897967324",
+    "created_at": "2026-08-01T02:08:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T03:08:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083374366897967324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1792059333267562496",
+          "start": 3,
+          "username": "KWheeler73405"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ciDa0sAAsC",
+          "end": 49,
+          "expanded_url": "https://x.com/KWheeler73405/status/2083198063280316728/photo/1",
+          "media_key": "3_2083198003310116864",
+          "start": 26,
+          "url": "https://t.co/ciDa0sAAsC"
+        },
+        {
+          "display_url": "pic.x.com/ciDa0sAAsC",
+          "end": 49,
+          "expanded_url": "https://x.com/KWheeler73405/status/2083198063280316728/photo/1",
+          "media_key": "3_2083198005654740992",
+          "start": 26,
+          "url": "https://t.co/ciDa0sAAsC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083374366897967324",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 167
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083198063280316728",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KWheeler73405: おへそ好き？ https://t.co/ciDa0sAAsC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 334,
+        "media_key": "3_2083198003310116864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOkBi_gaQAA6Ozg.jpg",
+        "width": 360
+      },
+      {
+        "height": 274,
+        "media_key": "3_2083198005654740992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOkBjIPaYAAgnKt.jpg",
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083198003310116864",
+            "3_2083198005654740992"
+          ]
+        },
+        "author_id": "1792059333267562496",
+        "conversation_id": "2083198063280316728",
+        "created_at": "2026-07-31T14:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083198063280316728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ciDa0sAAsC",
+              "end": 30,
+              "expanded_url": "https://x.com/KWheeler73405/status/2083198063280316728/photo/1",
+              "media_key": "3_2083198003310116864",
+              "start": 7,
+              "url": "https://t.co/ciDa0sAAsC"
+            },
+            {
+              "display_url": "pic.x.com/ciDa0sAAsC",
+              "end": 30,
+              "expanded_url": "https://x.com/KWheeler73405/status/2083198063280316728/photo/1",
+              "media_key": "3_2083198005654740992",
+              "start": 7,
+              "url": "https://t.co/ciDa0sAAsC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083198063280316728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1534,
+          "impression_count": 470080,
+          "like_count": 7704,
+          "quote_count": 8,
+          "reply_count": 123,
+          "retweet_count": 167
+        },
+        "reply_settings": "everyone",
+        "text": "おへそ好き？ https://t.co/ciDa0sAAsC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083198003310116864",
+            "3_2083198005654740992"
+          ],
+          "media_source_tweet_id": [
+            "2083198063280316728",
+            "2083198063280316728"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2083374366897967324",
+        "created_at": "2026-08-01T02:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T03:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083374366897967324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1792059333267562496",
+              "start": 3,
+              "username": "KWheeler73405"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ciDa0sAAsC",
+              "end": 49,
+              "expanded_url": "https://x.com/KWheeler73405/status/2083198063280316728/photo/1",
+              "media_key": "3_2083198003310116864",
+              "start": 26,
+              "url": "https://t.co/ciDa0sAAsC"
+            },
+            {
+              "display_url": "pic.x.com/ciDa0sAAsC",
+              "end": 49,
+              "expanded_url": "https://x.com/KWheeler73405/status/2083198063280316728/photo/1",
+              "media_key": "3_2083198005654740992",
+              "start": 26,
+              "url": "https://t.co/ciDa0sAAsC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083374366897967324",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 167
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083198063280316728",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KWheeler73405: おへそ好き？ https://t.co/ciDa0sAAsC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1643,
+          "following_count": 1518,
+          "like_count": 22068,
+          "listed_count": 7,
+          "media_count": 807,
+          "tweet_count": 7157
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-19T05:06:55.000Z",
+        "description": "下品な大学生だニャン DMはフォロワーさんだけ",
+        "id": "1792059333267562496",
+        "name": "えま",
+        "pinned_tweet_id": "2004085242471370943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980673599607316480/dMNYcoj8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17854,
+          "following_count": 25,
+          "like_count": 3,
+          "listed_count": 9,
+          "media_count": 10,
+          "tweet_count": 172
+        },
+        "url": "",
+        "username": "KWheeler73405",
+        "verified": false
+      }
+    ]
+  }
+}

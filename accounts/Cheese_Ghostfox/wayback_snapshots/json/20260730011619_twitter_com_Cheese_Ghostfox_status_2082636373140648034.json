@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "1904105068691153200",
+    "created_at": "2026-07-30T01:16:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T02:16:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082636373140648034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1743637177630601216",
+          "start": 0,
+          "username": "zhngl180356"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082636373140648034",
+    "in_reply_to_user_id": "1743637177630601216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904105068691153200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhngl180356 美味("
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1904105056854798336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmy9dfja8AALB-n.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1904105068691153200",
+        "created_at": "2026-07-30T01:16:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T02:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082636373140648034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1743637177630601216",
+              "start": 0,
+              "username": "zhngl180356"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082636373140648034",
+        "in_reply_to_user_id": "1743637177630601216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904105068691153200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhngl180356 美味("
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904105056854798336"
+          ]
+        },
+        "author_id": "1743637177630601216",
+        "conversation_id": "1904105068691153200",
+        "created_at": "2025-03-24T09:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T10:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904105068691153200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/leyJ2rlAux",
+              "end": 33,
+              "expanded_url": "https://x.com/zhngl180356/status/1904105068691153200/photo/1",
+              "media_key": "3_1904105056854798336",
+              "start": 10,
+              "url": "https://t.co/leyJ2rlAux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904105068691153200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1387,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推友们都爱看点什么 https://t.co/leyJ2rlAux"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1619,
+          "following_count": 1516,
+          "like_count": 22005,
+          "listed_count": 7,
+          "media_count": 806,
+          "tweet_count": 7108
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-06T14:15:01.000Z",
+        "description": "肌肥大训练两年|体脂管理｜生物黑客｜合理使用药物｜互帮互助｜劳二次元｜性取向正常｜180cm/85kg",
+        "id": "1743637177630601216",
+        "location": "西伯利亚挖红薯",
+        "name": "☯️🧬大型神经元",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859532769594048512/bwdC5h00_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 72,
+          "like_count": 319,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 192
+        },
+        "url": "",
+        "username": "zhngl180356",
+        "verified": false
+      }
+    ]
+  }
+}

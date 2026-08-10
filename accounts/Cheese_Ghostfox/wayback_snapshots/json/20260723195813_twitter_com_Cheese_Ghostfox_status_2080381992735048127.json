@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080113402903687168"
+      ],
+      "media_source_tweet_id": [
+        "2080171049698603351"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2080381992735048127",
+    "created_at": "2026-07-23T19:58:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T20:58:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080381992735048127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "949316104144457729",
+          "start": 3,
+          "username": "wangchangfu88"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1MI2FefXFo",
+          "end": 51,
+          "expanded_url": "https://x.com/wangchangfu88/status/2080171049698603351/photo/1",
+          "media_key": "3_2080113402903687168",
+          "start": 28,
+          "url": "https://t.co/1MI2FefXFo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080381992735048127",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 95
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080171049698603351",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wangchangfu88: 这才是真相 ！！ https://t.co/1MI2FefXFo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1712,
+        "media_key": "3_2080113402903687168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN4MHniacAAksla.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080113402903687168"
+          ]
+        },
+        "author_id": "949316104144457729",
+        "conversation_id": "2080171049698603351",
+        "created_at": "2026-07-23T06:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T07:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080171049698603351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1MI2FefXFo",
+              "end": 32,
+              "expanded_url": "https://x.com/wangchangfu88/status/2080171049698603351/photo/1",
+              "media_key": "3_2080113402903687168",
+              "start": 9,
+              "url": "https://t.co/1MI2FefXFo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080171049698603351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 212,
+          "impression_count": 124010,
+          "like_count": 1164,
+          "quote_count": 7,
+          "reply_count": 239,
+          "retweet_count": 95
+        },
+        "reply_settings": "everyone",
+        "text": "这才是真相 ！！ https://t.co/1MI2FefXFo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080113402903687168"
+          ],
+          "media_source_tweet_id": [
+            "2080171049698603351"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2080381992735048127",
+        "created_at": "2026-07-23T19:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T20:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080381992735048127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "949316104144457729",
+              "start": 3,
+              "username": "wangchangfu88"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1MI2FefXFo",
+              "end": 51,
+              "expanded_url": "https://x.com/wangchangfu88/status/2080171049698603351/photo/1",
+              "media_key": "3_2080113402903687168",
+              "start": 28,
+              "url": "https://t.co/1MI2FefXFo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080381992735048127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 95
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080171049698603351",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wangchangfu88: 这才是真相 ！！ https://t.co/1MI2FefXFo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1586,
+          "following_count": 1525,
+          "like_count": 21667,
+          "listed_count": 7,
+          "media_count": 801,
+          "tweet_count": 7035
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2018-01-05T16:26:11.000Z",
+        "description": "AI + Crypto | 运营增长 | 投资理财 | 破局提升 | 互动多的我都会回关",
+        "id": "949316104144457729",
+        "name": "王长富",
+        "pinned_tweet_id": "2075060135941259352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038198296771248128/ra3vBm-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26830,
+          "following_count": 2966,
+          "like_count": 28326,
+          "listed_count": 98,
+          "media_count": 429,
+          "tweet_count": 38124
+        },
+        "url": "",
+        "username": "wangchangfu88",
+        "verified": true
+      }
+    ]
+  }
+}

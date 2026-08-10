@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084303133589803009"
+      ],
+      "media_source_tweet_id": [
+        "2084303138211963362"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2084617391234003000",
+    "created_at": "2026-08-04T12:28:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T13:28:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084617391234003000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1987196010616279040",
+          "start": 3,
+          "username": "Ni7NiA7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Hj6DXGacUH",
+          "end": 36,
+          "expanded_url": "https://x.com/Ni7NiA7/status/2084303138211963362/photo/1",
+          "media_key": "3_2084303133589803009",
+          "start": 13,
+          "url": "https://t.co/Hj6DXGacUH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084617391234003000",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 772
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084303138211963362",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ni7NiA7: https://t.co/Hj6DXGacUH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1108,
+        "media_key": "3_2084303133589803009",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzuqCnakAE2N4Z.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084303133589803009"
+          ]
+        },
+        "author_id": "1987196010616279040",
+        "conversation_id": "2084303138211963362",
+        "created_at": "2026-08-03T15:39:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T16:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084303138211963362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hj6DXGacUH",
+              "end": 23,
+              "expanded_url": "https://x.com/Ni7NiA7/status/2084303138211963362/photo/1",
+              "media_key": "3_2084303133589803009",
+              "start": 0,
+              "url": "https://t.co/Hj6DXGacUH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084303138211963362",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 809,
+          "impression_count": 82822,
+          "like_count": 13004,
+          "quote_count": 8,
+          "reply_count": 20,
+          "retweet_count": 772
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Hj6DXGacUH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084303133589803009"
+          ],
+          "media_source_tweet_id": [
+            "2084303138211963362"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2084617391234003000",
+        "created_at": "2026-08-04T12:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T13:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084617391234003000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987196010616279040",
+              "start": 3,
+              "username": "Ni7NiA7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hj6DXGacUH",
+              "end": 36,
+              "expanded_url": "https://x.com/Ni7NiA7/status/2084303138211963362/photo/1",
+              "media_key": "3_2084303133589803009",
+              "start": 13,
+              "url": "https://t.co/Hj6DXGacUH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084617391234003000",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 772
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084303138211963362",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ni7NiA7: https://t.co/Hj6DXGacUH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1658,
+          "following_count": 1532,
+          "like_count": 22486,
+          "listed_count": 7,
+          "media_count": 816,
+          "tweet_count": 7254
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-08T16:31:13.000Z",
+        "description": "-今から推(押)せば古参になれる-(Image : All rights reserved) skeb:https://t.co/AMRDT3XJaA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Ni7NiA7",
+                "end": 75,
+                "expanded_url": "https://skeb.jp/@Ni7NiA7",
+                "start": 52,
+                "url": "https://t.co/AMRDT3XJaA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@ni7nia7?_r=1&…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@ni7nia7?_r=1&_t=ZS-96AGd0PegM8",
+                "start": 0,
+                "url": "https://t.co/y34w2PRWQD"
+              }
+            ]
+          }
+        },
+        "id": "1987196010616279040",
+        "location": "無断転載 使用 模写 模倣 トレス AI 禁止",
+        "name": "Ni7@Skeb◎",
+        "pinned_tweet_id": "2080233370446160033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012636772094644225/DlcicNMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7480,
+          "following_count": 6,
+          "like_count": 2790,
+          "listed_count": 19,
+          "media_count": 557,
+          "tweet_count": 1179
+        },
+        "url": "https://t.co/y34w2PRWQD",
+        "username": "Ni7NiA7",
+        "verified": true
+      }
+    ]
+  }
+}

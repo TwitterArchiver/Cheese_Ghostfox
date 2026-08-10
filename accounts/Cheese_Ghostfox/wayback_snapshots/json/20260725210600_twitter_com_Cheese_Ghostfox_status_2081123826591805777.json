@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080900536317194240"
+      ],
+      "media_source_tweet_id": [
+        "2080900545884385518"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2081123826591805777",
+    "created_at": "2026-07-25T21:06:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T22:06:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081123826591805777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1964343116930174978",
+          "start": 3,
+          "username": "HagamiMotoyori"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dh6x67yGdn",
+          "end": 72,
+          "expanded_url": "https://x.com/HagamiMotoyori/status/2080900545884385518/photo/1",
+          "media_key": "3_2080900536317194240",
+          "start": 49,
+          "url": "https://t.co/dh6x67yGdn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081123826591805777",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080900545884385518",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HagamiMotoyori: 恭喜做自己，希望家人也能理解祝福\n银狐VPN能理解我喵😊 https://t.co/dh6x67yGdn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2362,
+        "media_key": "3_2080900536317194240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HODYA0AbMAAqd0k.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080900536317194240"
+          ]
+        },
+        "author_id": "1964343116930174978",
+        "conversation_id": "2080900545884385518",
+        "created_at": "2026-07-25T06:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T07:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080900545884385518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dh6x67yGdn",
+              "end": 52,
+              "expanded_url": "https://x.com/HagamiMotoyori/status/2080900545884385518/photo/1",
+              "media_key": "3_2080900536317194240",
+              "start": 29,
+              "url": "https://t.co/dh6x67yGdn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080900545884385518",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 328,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "恭喜做自己，希望家人也能理解祝福\n银狐VPN能理解我喵😊 https://t.co/dh6x67yGdn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080900536317194240"
+          ],
+          "media_source_tweet_id": [
+            "2080900545884385518"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2081123826591805777",
+        "created_at": "2026-07-25T21:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T22:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081123826591805777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1964343116930174978",
+              "start": 3,
+              "username": "HagamiMotoyori"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dh6x67yGdn",
+              "end": 72,
+              "expanded_url": "https://x.com/HagamiMotoyori/status/2080900545884385518/photo/1",
+              "media_key": "3_2080900536317194240",
+              "start": 49,
+              "url": "https://t.co/dh6x67yGdn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081123826591805777",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080900545884385518",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HagamiMotoyori: 恭喜做自己，希望家人也能理解祝福\n银狐VPN能理解我喵😊 https://t.co/dh6x67yGdn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1604,
+          "following_count": 1523,
+          "like_count": 21725,
+          "listed_count": 7,
+          "media_count": 803,
+          "tweet_count": 7049
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-06T15:01:27.000Z",
+        "description": "是人類？！或許是吧｜無證含糖｜生產日期2006｜\n中度抑鬱 重度焦慮 自閉｜無性戀｜生物在讀｜生命科學 ｜日常碎碎念（大部分是負面），非必要要不鍵政｜互fo喵｜提問箱https://t.co/TCPiEnLJQu|\n討口子https://t.co/cRvFeYmAzf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hagamimotoyori1",
+                "end": 106,
+                "expanded_url": "https://ngl.link/hagamimotoyori1",
+                "start": 83,
+                "url": "https://t.co/TCPiEnLJQu"
+              },
+              {
+                "display_url": "ko-fi.com/hagamimotoyori",
+                "end": 134,
+                "expanded_url": "https://ko-fi.com/hagamimotoyori",
+                "start": 111,
+                "url": "https://t.co/cRvFeYmAzf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HagamiMotoyori",
+                "end": 23,
+                "expanded_url": "http://t.me/HagamiMotoyori",
+                "start": 0,
+                "url": "https://t.co/IrwldmTp60"
+              }
+            ]
+          }
+        },
+        "id": "1964343116930174978",
+        "location": "虛無的盡頭",
+        "name": "⏚羽上元依⏚",
+        "pinned_tweet_id": "2079429027346174135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074950503411458048/hewMJ6aY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 376,
+          "like_count": 5290,
+          "listed_count": 0,
+          "media_count": 221,
+          "tweet_count": 751
+        },
+        "url": "https://t.co/IrwldmTp60",
+        "username": "HagamiMotoyori",
+        "verified": true
+      }
+    ]
+  }
+}

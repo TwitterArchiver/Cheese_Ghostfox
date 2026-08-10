@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084226868795015168"
+      ],
+      "media_source_tweet_id": [
+        "2084226874025328649"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2084451575691727101",
+    "created_at": "2026-08-04T01:29:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T02:29:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084451575691727101"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 25,
+          "tag": "重音テト"
+        },
+        {
+          "end": 43,
+          "start": 32,
+          "tag": "KasaneTeto"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1925153894902140928",
+          "start": 3,
+          "username": "Yui1102_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1ItraKyUty",
+          "end": 67,
+          "expanded_url": "https://x.com/Yui1102_/status/2084226874025328649/photo/1",
+          "media_key": "3_2084226868795015168",
+          "start": 44,
+          "url": "https://t.co/1ItraKyUty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084451575691727101",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 122
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084226874025328649",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yui1102_: 影で遊ぶ猫テトさん\n #重音テト  #KasaneTeto https://t.co/1ItraKyUty"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084226868795015168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOypS2HaAAAADg3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084226868795015168"
+          ]
+        },
+        "author_id": "1925153894902140928",
+        "conversation_id": "2084226874025328649",
+        "created_at": "2026-08-03T10:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084226874025328649"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 11,
+              "tag": "重音テト"
+            },
+            {
+              "end": 29,
+              "start": 18,
+              "tag": "KasaneTeto"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ItraKyUty",
+              "end": 53,
+              "expanded_url": "https://x.com/Yui1102_/status/2084226874025328649/photo/1",
+              "media_key": "3_2084226868795015168",
+              "start": 30,
+              "url": "https://t.co/1ItraKyUty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084226874025328649",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 116,
+          "impression_count": 7750,
+          "like_count": 1172,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 122
+        },
+        "reply_settings": "everyone",
+        "text": "影で遊ぶ猫テトさん\n #重音テト  #KasaneTeto https://t.co/1ItraKyUty"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084226868795015168"
+          ],
+          "media_source_tweet_id": [
+            "2084226874025328649"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2084451575691727101",
+        "created_at": "2026-08-04T01:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T02:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084451575691727101"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "重音テト"
+            },
+            {
+              "end": 43,
+              "start": 32,
+              "tag": "KasaneTeto"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1925153894902140928",
+              "start": 3,
+              "username": "Yui1102_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ItraKyUty",
+              "end": 67,
+              "expanded_url": "https://x.com/Yui1102_/status/2084226874025328649/photo/1",
+              "media_key": "3_2084226868795015168",
+              "start": 44,
+              "url": "https://t.co/1ItraKyUty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084451575691727101",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 122
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084226874025328649",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yui1102_: 影で遊ぶ猫テトさん\n #重音テト  #KasaneTeto https://t.co/1ItraKyUty"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1657,
+          "following_count": 1531,
+          "like_count": 22397,
+          "listed_count": 7,
+          "media_count": 812,
+          "tweet_count": 7234
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-21T11:38:15.000Z",
+        "description": "重音テトさんが好き🥖‖仲良くして下さると嬉しいです‖\n無断転載、使用・AI❌️‖ご依頼相談など気軽にDMへどうぞ！✉️‖\nサブ→（@yuineco1010）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 65,
+                "username": "yuineco1010"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/yui-11…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/yui-1102.bsky.social",
+                "start": 0,
+                "url": "https://t.co/wxxUAYB6aM"
+              }
+            ]
+          }
+        },
+        "id": "1925153894902140928",
+        "location": "🔻テトさん愛が原動力🔻",
+        "name": "▼こむぎゆい▼",
+        "pinned_tweet_id": "2038994757167579354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945084549299625986/5eXTD7g9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3694,
+          "following_count": 377,
+          "like_count": 23084,
+          "listed_count": 13,
+          "media_count": 194,
+          "tweet_count": 3634
+        },
+        "url": "https://t.co/wxxUAYB6aM",
+        "username": "Yui1102_",
+        "verified": false
+      }
+    ]
+  }
+}

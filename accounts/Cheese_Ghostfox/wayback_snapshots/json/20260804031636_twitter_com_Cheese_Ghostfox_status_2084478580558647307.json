@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084478573210210304"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2084478580558647307",
+    "created_at": "2026-08-04T03:16:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T04:16:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084478580558647307"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/J5qDCYqt9c",
+          "end": 23,
+          "expanded_url": "https://x.com/Cheese_Ghostfox/status/2084478580558647307/photo/1",
+          "media_key": "3_2084478573210210304",
+          "start": 0,
+          "url": "https://t.co/J5qDCYqt9c"
+        },
+        {
+          "display_url": "x.com/cici20120712/s…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/cici20120712/status/2084327402868744209",
+          "start": 24,
+          "url": "https://t.co/KI38uWgAtB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084478580558647307",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084327402868744209",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/J5qDCYqt9c https://t.co/KI38uWgAtB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1723,
+        "media_key": "3_2084478573210210304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO2ON-IbkAAROkC.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2084327400159219712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO0EuioakAAVoWL.jpg",
+        "width": 874
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084478573210210304"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2084478580558647307",
+        "created_at": "2026-08-04T03:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T04:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084478580558647307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J5qDCYqt9c",
+              "end": 23,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2084478580558647307/photo/1",
+              "media_key": "3_2084478573210210304",
+              "start": 0,
+              "url": "https://t.co/J5qDCYqt9c"
+            },
+            {
+              "display_url": "x.com/cici20120712/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/cici20120712/status/2084327402868744209",
+              "start": 24,
+              "url": "https://t.co/KI38uWgAtB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084478580558647307",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084327402868744209",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/J5qDCYqt9c https://t.co/KI38uWgAtB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084327400159219712"
+          ]
+        },
+        "author_id": "1808604308163940352",
+        "conversation_id": "2084327402868744209",
+        "created_at": "2026-08-03T17:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T18:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084327402868744209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YMRmeZDD4X",
+              "end": 52,
+              "expanded_url": "https://x.com/cici20120712/status/2084327402868744209/photo/1",
+              "media_key": "3_2084327400159219712",
+              "start": 29,
+              "url": "https://t.co/YMRmeZDD4X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084327402868744209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 5541,
+          "like_count": 51,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "玩了一下最近很火的测试\n什么叫100的色欲0的贞洁……？ https://t.co/YMRmeZDD4X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1656,
+          "following_count": 1532,
+          "like_count": 22404,
+          "listed_count": 7,
+          "media_count": 816,
+          "tweet_count": 7242
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-03T20:50:59.000Z",
+        "description": "底边coser，偶尔会配音或者画画，大部分时间在睡觉，小号@ci20120712",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "ci20120712"
+              }
+            ]
+          }
+        },
+        "id": "1808604308163940352",
+        "name": "魔法少女凛瓷瓷",
+        "pinned_tweet_id": "2064496772102373752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831679763368353792/JCLSUlMG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72072,
+          "following_count": 116,
+          "like_count": 1138,
+          "listed_count": 189,
+          "media_count": 822,
+          "tweet_count": 1516
+        },
+        "url": "",
+        "username": "cici20120712",
+        "verified": false
+      }
+    ]
+  }
+}
