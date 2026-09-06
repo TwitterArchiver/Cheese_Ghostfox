@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088932240881500160"
+      ],
+      "media_source_tweet_id": [
+        "2088932290936426979"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2089327818253725768",
+    "created_at": "2026-08-17T12:25:44.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T13:25:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089327818253725768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1446085940435320834",
+          "start": 3,
+          "username": "gruppeos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mpx8AE771T",
+          "end": 44,
+          "expanded_url": "https://x.com/gruppeos/status/2088932290936426979/photo/1",
+          "media_key": "3_2088932240881500160",
+          "start": 21,
+          "url": "https://t.co/mpx8AE771T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089327818253725768",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2088932240881500160"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1448
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088932290936426979",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gruppeos: Chrome https://t.co/mpx8AE771T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3528,
+        "media_key": "3_2088932240881500160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1gzjGaQAAawp_.jpg",
+        "width": 2508
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088932240881500160"
+          ],
+          "media_source_tweet_id": [
+            "2088932290936426979"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2089327818253725768",
+        "created_at": "2026-08-17T12:25:44.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T13:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089327818253725768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1446085940435320834",
+              "start": 3,
+              "username": "gruppeos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mpx8AE771T",
+              "end": 44,
+              "expanded_url": "https://x.com/gruppeos/status/2088932290936426979/photo/1",
+              "media_key": "3_2088932240881500160",
+              "start": 21,
+              "url": "https://t.co/mpx8AE771T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089327818253725768",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2088932240881500160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1448
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088932290936426979",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gruppeos: Chrome https://t.co/mpx8AE771T"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088932240881500160"
+          ]
+        },
+        "author_id": "1446085940435320834",
+        "conversation_id": "2088932290936426979",
+        "created_at": "2026-08-16T10:14:03.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T11:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088932290936426979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mpx8AE771T",
+              "end": 30,
+              "expanded_url": "https://x.com/gruppeos/status/2088932290936426979/photo/1",
+              "media_key": "3_2088932240881500160",
+              "start": 7,
+              "url": "https://t.co/mpx8AE771T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088932290936426979",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2088932240881500160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2960,
+          "impression_count": 143799,
+          "like_count": 16067,
+          "quote_count": 36,
+          "reply_count": 50,
+          "retweet_count": 1448
+        },
+        "reply_settings": "everyone",
+        "text": "Chrome https://t.co/mpx8AE771T"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2089327818253725768",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2087941448981413925",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1718,
+          "following_count": 1529,
+          "like_count": 23122,
+          "listed_count": 7,
+          "media_count": 830,
+          "tweet_count": 7448
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-07T12:12:24.000Z",
+        "description": "オリジナルとか | JPN/ENG | Estudio español 🇦🇷 | pixiv : https://t.co/u2b2pcFqBo | Skeb : https://t.co/4vXh0qtrww",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/78513929",
+                "end": 72,
+                "expanded_url": "https://pixiv.net/users/78513929",
+                "start": 49,
+                "url": "https://t.co/u2b2pcFqBo"
+              },
+              {
+                "display_url": "skeb.jp/@gruppeos",
+                "end": 105,
+                "expanded_url": "https://skeb.jp/@gruppeos",
+                "start": 82,
+                "url": "https://t.co/4vXh0qtrww"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/gruppeos?utm_m…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/gruppeos?utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/Lc9xOf4V9g"
+              }
+            ]
+          }
+        },
+        "id": "1446085940435320834",
+        "is_identity_verified": false,
+        "location": "Buenos Días, Argentina",
+        "most_recent_tweet_id": "2089182483401335186",
+        "name": "Gruppe",
+        "pinned_tweet_id": "2088273968776266163",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1446085940435320834/1753828196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078817864187101184/BoyJXSyZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13395,
+          "following_count": 414,
+          "like_count": 40162,
+          "listed_count": 82,
+          "media_count": 606,
+          "tweet_count": 14409
+        },
+        "url": "https://t.co/Lc9xOf4V9g",
+        "username": "gruppeos",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

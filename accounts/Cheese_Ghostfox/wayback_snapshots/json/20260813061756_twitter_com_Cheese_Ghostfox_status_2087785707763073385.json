@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2087548484249681920"
+      ],
+      "media_source_tweet_id": [
+        "2087548497310765068"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2087785707763073385",
+    "created_at": "2026-08-13T06:17:56.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T07:17:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087785707763073385"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 14,
+          "tag": "重音テト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2033021104810504194",
+          "start": 3,
+          "username": "busya098"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NttVzDUCc3",
+          "end": 43,
+          "expanded_url": "https://x.com/busya098/status/2087548497310765068/photo/1",
+          "media_key": "16_2087548484249681920",
+          "start": 20,
+          "url": "https://t.co/NttVzDUCc3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087785707763073385",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "16_2087548484249681920"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 73
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087548497310765068",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @busya098: #重音テト https://t.co/NttVzDUCc3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1668,
+        "media_key": "16_2087548484249681920",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HPh2ST8bgAAm1TA.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HPh2ST8bgAAm1TA.mp4"
+          }
+        ],
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2087548484249681920"
+          ]
+        },
+        "author_id": "2033021104810504194",
+        "conversation_id": "2087548497310765068",
+        "created_at": "2026-08-12T14:35:21.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T15:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087548497310765068"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "重音テト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NttVzDUCc3",
+              "end": 29,
+              "expanded_url": "https://x.com/busya098/status/2087548497310765068/photo/1",
+              "media_key": "16_2087548484249681920",
+              "start": 6,
+              "url": "https://t.co/NttVzDUCc3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087548497310765068",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "16_2087548484249681920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 149,
+          "impression_count": 9413,
+          "like_count": 973,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "#重音テト https://t.co/NttVzDUCc3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2087548484249681920"
+          ],
+          "media_source_tweet_id": [
+            "2087548497310765068"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2087785707763073385",
+        "created_at": "2026-08-13T06:17:56.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T07:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087785707763073385"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "重音テト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2033021104810504194",
+              "start": 3,
+              "username": "busya098"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NttVzDUCc3",
+              "end": 43,
+              "expanded_url": "https://x.com/busya098/status/2087548497310765068/photo/1",
+              "media_key": "16_2087548484249681920",
+              "start": 20,
+              "url": "https://t.co/NttVzDUCc3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087785707763073385",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "16_2087548484249681920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 73
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087548497310765068",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @busya098: #重音テト https://t.co/NttVzDUCc3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2087785707763073385",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1711,
+          "following_count": 1531,
+          "like_count": 22939,
+          "listed_count": 7,
+          "media_count": 824,
+          "tweet_count": 7355
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-15T03:23:48.000Z",
+        "description": "커미션(commsion) https://t.co/lMMm3hphbQ\npixiv https://t.co/1CjNXoo1jf\ninstagram https://t.co/xKuC3bHMf2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kre.pe/dSJO",
+                "end": 37,
+                "expanded_url": "https://kre.pe/dSJO",
+                "start": 14,
+                "url": "https://t.co/lMMm3hphbQ"
+              },
+              {
+                "display_url": "pixiv.net/users/128127171",
+                "end": 67,
+                "expanded_url": "https://www.pixiv.net/users/128127171",
+                "start": 44,
+                "url": "https://t.co/1CjNXoo1jf"
+              },
+              {
+                "display_url": "instagram.com/busya0980?igsh…",
+                "end": 101,
+                "expanded_url": "https://www.instagram.com/busya0980?igsh=NjFpbmxkN21tbmIw",
+                "start": 78,
+                "url": "https://t.co/xKuC3bHMf2"
+              }
+            ]
+          }
+        },
+        "id": "2033021104810504194",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087548497310765068",
+        "name": "부샤(busya)/7서코 통판중",
+        "pinned_tweet_id": "2080293448255721761",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2033021104810504194/1780032020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060227654939492352/IOy4B5cp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 72,
+          "like_count": 4050,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 456
+        },
+        "url": "",
+        "username": "busya098",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091074803432398848"
+      ],
+      "media_source_tweet_id": [
+        "2091074807853093233"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2091265477855297672",
+    "created_at": "2026-08-22T20:45:18.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T21:45:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091265477855297672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "820942341443899392",
+          "start": 3,
+          "username": "nazarich33rusru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RElRL1Js0I",
+          "end": 59,
+          "expanded_url": "https://x.com/nazarich33rusru/status/2091074807853093233/photo/1",
+          "media_key": "3_2091074803432398848",
+          "start": 36,
+          "url": "https://t.co/RElRL1Js0I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091265477855297672",
+    "lang": "ru",
+    "media_metadata": [
+      {
+        "media_key": "3_2091074803432398848"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 70
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091074807853093233",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nazarich33rusru: Ой, как хорошо https://t.co/RElRL1Js0I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2091074803432398848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQT9dGlboAArMtr.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091074803432398848"
+          ],
+          "media_source_tweet_id": [
+            "2091074807853093233"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2091265477855297672",
+        "created_at": "2026-08-22T20:45:18.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T21:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091265477855297672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "820942341443899392",
+              "start": 3,
+              "username": "nazarich33rusru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RElRL1Js0I",
+              "end": 59,
+              "expanded_url": "https://x.com/nazarich33rusru/status/2091074807853093233/photo/1",
+              "media_key": "3_2091074803432398848",
+              "start": 36,
+              "url": "https://t.co/RElRL1Js0I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091265477855297672",
+        "lang": "ru",
+        "media_metadata": [
+          {
+            "media_key": "3_2091074803432398848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 70
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091074807853093233",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nazarich33rusru: Ой, как хорошо https://t.co/RElRL1Js0I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091074803432398848"
+          ]
+        },
+        "author_id": "820942341443899392",
+        "conversation_id": "2091074807853093233",
+        "created_at": "2026-08-22T08:07:39.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T09:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091074807853093233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RElRL1Js0I",
+              "end": 38,
+              "expanded_url": "https://x.com/nazarich33rusru/status/2091074807853093233/photo/1",
+              "media_key": "3_2091074803432398848",
+              "start": 15,
+              "url": "https://t.co/RElRL1Js0I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091074807853093233",
+        "lang": "ru",
+        "media_metadata": [
+          {
+            "media_key": "3_2091074803432398848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 4771,
+          "like_count": 918,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "Ой, как хорошо https://t.co/RElRL1Js0I"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2091265477855297672",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2087941448981413925",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1769,
+          "following_count": 1528,
+          "like_count": 23523,
+          "listed_count": 7,
+          "media_count": 842,
+          "tweet_count": 7582
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-01-16T10:34:41.000Z",
+        "description": "Здесь должна быть смешная шутка про бесполезность государства. Не художник, просто люблю красивые арты. Комфортик + вайбик, в реплаях свобода, всем рад. DM +",
+        "id": "820942341443899392",
+        "is_identity_verified": false,
+        "location": "愛知県知多市長浦",
+        "most_recent_tweet_id": "2091256811043340556",
+        "name": "🍞🥖🥐 кусок гнилого хлеба по ГОСТу 🏳️‍🌈🏳️‍⚧️",
+        "pinned_tweet_id": "2091050620891603237",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/820942341443899392/1630883314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454048170635264/gcz0DmgK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1892,
+          "following_count": 303,
+          "like_count": 33733,
+          "listed_count": 48,
+          "media_count": 3199,
+          "tweet_count": 20777
+        },
+        "url": "",
+        "username": "nazarich33rusru",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

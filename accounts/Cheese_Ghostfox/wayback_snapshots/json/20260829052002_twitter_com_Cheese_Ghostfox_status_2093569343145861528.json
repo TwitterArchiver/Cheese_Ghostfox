@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093517666673917952"
+      ],
+      "media_source_tweet_id": [
+        "2093517986921611333"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2093569343145861528",
+    "created_at": "2026-08-29T05:20:02.000Z",
+    "display_text_range": [
+      0,
+      122
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T06:20:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093569343145861528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1181206086772088833",
+          "start": 3,
+          "username": "alt_dirty"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3Yw0EzDsV5",
+          "end": 122,
+          "expanded_url": "https://x.com/alt_dirty/status/2093517986921611333/photo/1",
+          "media_key": "3_2093517666673917952",
+          "start": 99,
+          "url": "https://t.co/3Yw0EzDsV5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093569343145861528",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2093517666673917952"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5835
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093517986921611333",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @alt_dirty: 今中国でINMU KING関連動画を哔哩哔哩にうｐしようとすると、”互联网宗教信息服务管理办法”に基づいて検閲が入るとのこと\n\n【速報】中国当局、淫夢を宗教として認定 https://t.co/3Yw0EzDsV5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 789,
+        "media_key": "3_2093517666673917952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ2rOdUagAAFsaY.jpg",
+        "width": 969
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093517666673917952"
+          ],
+          "media_source_tweet_id": [
+            "2093517986921611333"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2093569343145861528",
+        "created_at": "2026-08-29T05:20:02.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T06:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093569343145861528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1181206086772088833",
+              "start": 3,
+              "username": "alt_dirty"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Yw0EzDsV5",
+              "end": 122,
+              "expanded_url": "https://x.com/alt_dirty/status/2093517986921611333/photo/1",
+              "media_key": "3_2093517666673917952",
+              "start": 99,
+              "url": "https://t.co/3Yw0EzDsV5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093569343145861528",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093517666673917952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5835
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093517986921611333",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @alt_dirty: 今中国でINMU KING関連動画を哔哩哔哩にうｐしようとすると、”互联网宗教信息服务管理办法”に基づいて検閲が入るとのこと\n\n【速報】中国当局、淫夢を宗教として認定 https://t.co/3Yw0EzDsV5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093517666673917952"
+          ]
+        },
+        "author_id": "1181206086772088833",
+        "conversation_id": "2093517986921611333",
+        "created_at": "2026-08-29T01:55:58.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T02:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093517986921611333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Yw0EzDsV5",
+              "end": 107,
+              "expanded_url": "https://x.com/alt_dirty/status/2093517986921611333/photo/1",
+              "media_key": "3_2093517666673917952",
+              "start": 84,
+              "url": "https://t.co/3Yw0EzDsV5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093517986921611333",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093517666673917952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2385,
+          "impression_count": 1112440,
+          "like_count": 22596,
+          "quote_count": 583,
+          "reply_count": 214,
+          "retweet_count": 5835
+        },
+        "reply_settings": "everyone",
+        "text": "今中国でINMU KING関連動画を哔哩哔哩にうｐしようとすると、”互联网宗教信息服务管理办法”に基づいて検閲が入るとのこと\n\n【速報】中国当局、淫夢を宗教として認定 https://t.co/3Yw0EzDsV5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2093569343145861528",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2087941448981413925",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1796,
+          "following_count": 1527,
+          "like_count": 23987,
+          "listed_count": 7,
+          "media_count": 860,
+          "tweet_count": 7695
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-10-07T13:54:23.000Z",
+        "description": "英検1級取得済みジェネリック英国紳士系YouTuber / Multilingual-wannabe YouTuber || Languages I'm learning: 🇯🇵🇬🇧🇰🇷🇨🇳 || Shareholder of ▶️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@DirtyALT",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@DirtyALT",
+                "start": 0,
+                "url": "https://t.co/Lxq8sGy7TJ"
+              }
+            ]
+          }
+        },
+        "id": "1181206086772088833",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2093535064344903996",
+        "name": "DALT",
+        "pinned_tweet_id": "2091156664611434704",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1181206086772088833/1698211713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1591958343068819456/loDMSP8a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51510,
+          "following_count": 245,
+          "like_count": 6389,
+          "listed_count": 131,
+          "media_count": 4677,
+          "tweet_count": 12412
+        },
+        "url": "https://t.co/Lxq8sGy7TJ",
+        "username": "alt_dirty",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

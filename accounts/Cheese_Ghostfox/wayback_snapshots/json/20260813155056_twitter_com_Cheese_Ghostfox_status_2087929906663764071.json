@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      }
+    ],
+    "conversation_id": "2087929906663764071",
+    "created_at": "2026-08-13T15:50:56.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T16:50:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087929906663764071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1751235517860196352",
+          "start": 3,
+          "username": "CynunVIIV_e5m2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087929906663764071",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087928684498104709",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CynunVIIV_e5m2: 交谐谱是一个支持6~8个单槽，pcie4.0(~5.0)x8计算卡的PCIE扩展柜。\n具体一点，这8个PCIEx8都在一张PEX卡下，配合着一个1200W的独立电源。\n设计制作它的最初目的是运行llm实现一些任务的简单自动化，接受一些3d…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "2087929906663764071",
+        "created_at": "2026-08-13T15:50:56.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T16:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087929906663764071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1751235517860196352",
+              "start": 3,
+              "username": "CynunVIIV_e5m2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087929906663764071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087928684498104709",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CynunVIIV_e5m2: 交谐谱是一个支持6~8个单槽，pcie4.0(~5.0)x8计算卡的PCIE扩展柜。\n具体一点，这8个PCIEx8都在一张PEX卡下，配合着一个1200W的独立电源。\n设计制作它的最初目的是运行llm实现一些任务的简单自动化，接受一些3d…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751235517860196352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          }
+        ],
+        "conversation_id": "2087928684498104709",
+        "created_at": "2026-08-13T15:46:04.000Z",
+        "display_text_range": [
+          0,
+          165
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T16:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087928684498104709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CynunVIIV_e5m2…",
+              "end": 189,
+              "expanded_url": "https://twitter.com/CynunVIIV_e5m2/status/2087726232838541822",
+              "start": 166,
+              "url": "https://t.co/JVeQ9KEmvl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087928684498104709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087726232838541822",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "交谐谱是一个支持6~8个单槽，pcie4.0(~5.0)x8计算卡的PCIE扩展柜。\n具体一点，这8个PCIEx8都在一张PEX卡下，配合着一个1200W的独立电源。\n设计制作它的最初目的是运行llm实现一些任务的简单自动化，接受一些3dcg渲染负载，使用vgpu来为虚拟机提供图形加速，以及进行通用计算，如交互组合器，混淆电路。 https://t.co/JVeQ9KEmvl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2087929906663764071",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1715,
+          "following_count": 1531,
+          "like_count": 22985,
+          "listed_count": 7,
+          "media_count": 825,
+          "tweet_count": 7369
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-27T13:27:55.000Z",
+        "description": "鱼 | La Creationa es PurE",
+        "id": "1751235517860196352",
+        "is_identity_verified": false,
+        "location": "鱼网",
+        "most_recent_tweet_id": "2087928687278907620",
+        "name": "Cynun IVI_int8_w4a8",
+        "pinned_tweet_id": "2015018532111806922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1751235517860196352/1715384753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016711729737281536/ZBLrzn6D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1313,
+          "following_count": 1310,
+          "like_count": 30351,
+          "listed_count": 10,
+          "media_count": 312,
+          "tweet_count": 5874
+        },
+        "url": "",
+        "username": "CynunVIIV_e5m2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

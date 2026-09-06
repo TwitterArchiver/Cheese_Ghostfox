@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2092978680943513727",
+    "created_at": "2026-08-27T14:12:57.000Z",
+    "display_text_range": [
+      0,
+      104
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T15:12:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092978680943513727"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "「你要的是清楚、准、不装。我收。」 这句的GPT味就冲到爆了 加点介词，形容词和连词吧😂 不知道的还以为elon抠门到要算计你的输出token了呢",
+          "display_url": "grok.com/share/c2hhcmQt…",
+          "end": 104,
+          "expanded_url": "https://grok.com/share/c2hhcmQtMw_8b46234e-971d-422d-b5ad-2eed81169884",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2092978683527258112/gUF_-tu7?format=png&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2092978683527258112/gUF_-tu7?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 81,
+          "status": 200,
+          "title": "AI Overthinking Syndrome Exposed | Shared Grok Conversation",
+          "unwound_url": "https://grok.com/share/c2hhcmQtMw_8b46234e-971d-422d-b5ad-2eed81169884",
+          "url": "https://t.co/bi9wN7DdOg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092978680943513727",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Grok4.5是真他妈完蛋草了喵\n这家伙现在比GPT更不说人话TwT\n最说人话的旗舰LLM居然变成Gemini了(难视)\n那个幽默风趣口无遮拦的Grok彻底没了\nhttps://t.co/bi9wN7DdOg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2092978680943513727",
+        "created_at": "2026-08-27T14:12:57.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T15:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092978680943513727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "「你要的是清楚、准、不装。我收。」 这句的GPT味就冲到爆了 加点介词，形容词和连词吧😂 不知道的还以为elon抠门到要算计你的输出token了呢",
+              "display_url": "grok.com/share/c2hhcmQt…",
+              "end": 104,
+              "expanded_url": "https://grok.com/share/c2hhcmQtMw_8b46234e-971d-422d-b5ad-2eed81169884",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2092978683527258112/gUF_-tu7?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2092978683527258112/gUF_-tu7?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 81,
+              "status": 200,
+              "title": "AI Overthinking Syndrome Exposed | Shared Grok Conversation",
+              "unwound_url": "https://grok.com/share/c2hhcmQtMw_8b46234e-971d-422d-b5ad-2eed81169884",
+              "url": "https://t.co/bi9wN7DdOg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092978680943513727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Grok4.5是真他妈完蛋草了喵\n这家伙现在比GPT更不说人话TwT\n最说人话的旗舰LLM居然变成Gemini了(难视)\n那个幽默风趣口无遮拦的Grok彻底没了\nhttps://t.co/bi9wN7DdOg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2092978680943513727",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2087941448981413925",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1776,
+          "following_count": 1522,
+          "like_count": 23853,
+          "listed_count": 7,
+          "media_count": 856,
+          "tweet_count": 7657
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,463 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Google Pixel",
+          "id": "1045759094756323328",
+          "name": "Google Pixel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      }
+    ],
+    "conversation_id": "2089658903193899311",
+    "created_at": "2026-08-18T10:21:21.000Z",
+    "display_text_range": [
+      0,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T11:21:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089658903193899311"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/BLZ_pixel/stat…",
+          "end": 87,
+          "expanded_url": "https://twitter.com/BLZ_pixel/status/2089233351664394536",
+          "start": 64,
+          "url": "https://t.co/IFMeFIUAvZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089658903193899311",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089233351664394536",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "狐被当洋人宰了TwT\n买完才发现作者其它指针在B站只要8cny,,,\n狐花了5USD啊啊啊啊&gt;&lt;\n外宾特供(难视) https://t.co/IFMeFIUAvZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "16_2089233252028743680",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HP5yktAbgAABdZZ.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HP5yktAbgAABdZZ.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Google Pixel",
+              "id": "1045759094756323328",
+              "name": "Google Pixel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          }
+        ],
+        "conversation_id": "2089658903193899311",
+        "created_at": "2026-08-18T10:21:21.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T11:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089658903193899311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BLZ_pixel/stat…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/BLZ_pixel/status/2089233351664394536",
+              "start": 64,
+              "url": "https://t.co/IFMeFIUAvZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089658903193899311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089233351664394536",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "狐被当洋人宰了TwT\n买完才发现作者其它指针在B站只要8cny,,,\n狐花了5USD啊啊啊啊&gt;&lt;\n外宾特供(难视) https://t.co/IFMeFIUAvZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2089233252028743680"
+          ]
+        },
+        "author_id": "1148792377366048768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Google Pixel",
+              "id": "1045759094756323328",
+              "name": "Google Pixel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          }
+        ],
+        "conversation_id": "2089233351664394536",
+        "created_at": "2026-08-17T06:10:21.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T07:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089233351664394536"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 77,
+              "start": 66,
+              "tag": "KasaneTeto"
+            },
+            {
+              "end": 83,
+              "start": 78,
+              "tag": "Teto"
+            },
+            {
+              "end": 89,
+              "start": 84,
+              "tag": "重音テト"
+            },
+            {
+              "end": 96,
+              "start": 90,
+              "tag": "Pixel"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Become a supporter of _BLZ_ today!",
+              "display_url": "ko-fi.com/blz_404",
+              "end": 64,
+              "expanded_url": "https://ko-fi.com/blz_404",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2089634321414168577/xKCs4r_D?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2089634321414168577/xKCs4r_D?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 41,
+              "status": 200,
+              "title": "Buy _BLZ_ a Coffee",
+              "unwound_url": "https://ko-fi.com/blz_404",
+              "url": "https://t.co/x65lJhtEqe"
+            },
+            {
+              "display_url": "pic.x.com/r6tTmnCPiP",
+              "end": 120,
+              "expanded_url": "https://x.com/BLZ_pixel/status/2089233351664394536/photo/1",
+              "media_key": "16_2089233252028743680",
+              "start": 97,
+              "url": "https://t.co/r6tTmnCPiP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089233351664394536",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2089233252028743680"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4145,
+          "impression_count": 240912,
+          "like_count": 10585,
+          "quote_count": 39,
+          "reply_count": 11,
+          "retweet_count": 938
+        },
+        "reply_settings": "everyone",
+        "text": "Chibi Teto 's Cursors          \nDownload：https://t.co/x65lJhtEqe\n\n#KasaneTeto #Teto #重音テト #Pixel https://t.co/r6tTmnCPiP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2089658903193899311",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2087941448981413925",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1719,
+          "following_count": 1530,
+          "like_count": 23177,
+          "listed_count": 7,
+          "media_count": 833,
+          "tweet_count": 7469
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-07-10T03:13:41.000Z",
+        "description": "Pixel artist\nPersonal commissions are not currently being accepted.\n\n↓↓↓Ko-fi  ( Cursor Download ) ↓↓↓\n https://t.co/gkjN2k4E1V\n\nlanguage：中国 English 日本語",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/blz_404",
+                "end": 127,
+                "expanded_url": "http://ko-fi.com/blz_404",
+                "start": 104,
+                "url": "https://t.co/gkjN2k4E1V"
+              }
+            ]
+          }
+        },
+        "id": "1148792377366048768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089592790544183767",
+        "name": "BLZ",
+        "pinned_tweet_id": "1896142898087034905",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1148792377366048768/1718489935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799405640403845120/S4LK2Xe3_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74372,
+          "following_count": 2304,
+          "like_count": 793,
+          "listed_count": 136,
+          "media_count": 271,
+          "tweet_count": 565
+        },
+        "url": "",
+        "username": "BLZ_pixel",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

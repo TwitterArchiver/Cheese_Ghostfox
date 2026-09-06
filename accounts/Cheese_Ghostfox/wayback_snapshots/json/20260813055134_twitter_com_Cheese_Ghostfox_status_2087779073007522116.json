@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2087394266876407809"
+      ],
+      "media_source_tweet_id": [
+        "2087394346102575331"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2087779073007522116",
+    "created_at": "2026-08-13T05:51:34.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T06:51:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087779073007522116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2000506252540116992",
+          "start": 3,
+          "username": "8964XJPCCPSB"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HsvC4uTR9X",
+          "end": 45,
+          "expanded_url": "https://x.com/8964XJPCCPSB/status/2087394346102575331/video/1",
+          "media_key": "13_2087394266876407809",
+          "start": 22,
+          "url": "https://t.co/HsvC4uTR9X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087779073007522116",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2087394266876407809"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087394346102575331",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @8964XJPCCPSB: 朕能飛 https://t.co/HsvC4uTR9X"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35710,
+        "height": 576,
+        "media_key": "13_2087394266876407809",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087394266876407809/img/vNNhMDoCWzivroRy.jpg",
+        "public_metrics": {
+          "view_count": 25986
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087394266876407809/vid/avc1/500x270/lvd3Xg2qwgm1xlgY.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087394266876407809/vid/avc1/666x360/DlfIzsNYUJVz7fSL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087394266876407809/vid/avc1/1068x576/9D4dCnlfrN93stG5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087394266876407809/pl/GE9NdSXUztR2JSIh.m3u8?v=cfc"
+          }
+        ],
+        "width": 1068
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087394266876407809"
+          ]
+        },
+        "author_id": "2000506252540116992",
+        "conversation_id": "2087394346102575331",
+        "created_at": "2026-08-12T04:22:48.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T05:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087394346102575331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HsvC4uTR9X",
+              "end": 27,
+              "expanded_url": "https://x.com/8964XJPCCPSB/status/2087394346102575331/video/1",
+              "media_key": "13_2087394266876407809",
+              "start": 4,
+              "url": "https://t.co/HsvC4uTR9X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087394346102575331",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2087394266876407809"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 143,
+          "impression_count": 45629,
+          "like_count": 485,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "朕能飛 https://t.co/HsvC4uTR9X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087394266876407809"
+          ],
+          "media_source_tweet_id": [
+            "2087394346102575331"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087779073007522116",
+        "created_at": "2026-08-13T05:51:34.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T06:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087779073007522116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2000506252540116992",
+              "start": 3,
+              "username": "8964XJPCCPSB"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HsvC4uTR9X",
+              "end": 45,
+              "expanded_url": "https://x.com/8964XJPCCPSB/status/2087394346102575331/video/1",
+              "media_key": "13_2087394266876407809",
+              "start": 22,
+              "url": "https://t.co/HsvC4uTR9X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087779073007522116",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2087394266876407809"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087394346102575331",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @8964XJPCCPSB: 朕能飛 https://t.co/HsvC4uTR9X"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2087779073007522116",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1714,
+          "following_count": 1531,
+          "like_count": 22924,
+          "listed_count": 7,
+          "media_count": 824,
+          "tweet_count": 7349
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-15T10:01:21.000Z",
+        "description": "凡光所及 皆頌薩格爾王 凡夜所籠 仍頌薩格爾王",
+        "id": "2000506252540116992",
+        "is_identity_verified": false,
+        "location": "北京 中南海",
+        "most_recent_tweet_id": "2087765419096670684",
+        "name": "習近平",
+        "pinned_tweet_id": "2086557327487066486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2000506252540116992/1785582741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077731521277177856/6a2_g0jG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 258,
+          "like_count": 4901,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 677
+        },
+        "url": "",
+        "username": "8964XJPCCPSB",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,423 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095185531244273665",
+        "3_2095185543797846016"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2095185557819388227",
+    "created_at": "2026-09-02T16:22:18.000Z",
+    "display_text_range": [
+      0,
+      112
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T17:22:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095185557819388227"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KMLvRl6sDW",
+          "end": 136,
+          "expanded_url": "https://x.com/Cheese_Ghostfox/status/2095185557819388227/photo/1",
+          "media_key": "3_2095185531244273665",
+          "start": 113,
+          "url": "https://t.co/KMLvRl6sDW"
+        },
+        {
+          "display_url": "pic.x.com/KMLvRl6sDW",
+          "end": 136,
+          "expanded_url": "https://x.com/Cheese_Ghostfox/status/2095185557819388227/photo/1",
+          "media_key": "3_2095185543797846016",
+          "start": 113,
+          "url": "https://t.co/KMLvRl6sDW"
+        },
+        {
+          "display_url": "x.com/proselyte31/st…",
+          "end": 160,
+          "expanded_url": "https://twitter.com/proselyte31/status/2093941773903299003",
+          "start": 137,
+          "url": "https://t.co/uTwqY0hb4h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095185557819388227",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095185531244273665"
+      },
+      {
+        "media_key": "3_2095185543797846016"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093941773903299003",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "呃...狐恰好有其中一件被宣称为「运药工具」的物品原件喵\n狐的检查结论是无明显拆装藏匿痕迹，结构缝线均完好无损，填充均匀无空腔\n综上，狐认为对于她玩偶藏药运输的指控不成立喵\n(此物品在至少一月前就已经被她作为礼物赠送给狐了) https://t.co/KMLvRl6sDW https://t.co/uTwqY0hb4h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1843,
+        "media_key": "3_2095185531244273665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HROYI9BaYAEDA_5.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2095185543797846016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HROYJryasAAZUGZ.jpg",
+        "width": 1843
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2093941767255273472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ8s8XGasAAx68g.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2093941767242711040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ8s8XDbAAAYRqk.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095185531244273665",
+            "3_2095185543797846016"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2095185557819388227",
+        "created_at": "2026-09-02T16:22:18.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T17:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095185557819388227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KMLvRl6sDW",
+              "end": 136,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2095185557819388227/photo/1",
+              "media_key": "3_2095185531244273665",
+              "start": 113,
+              "url": "https://t.co/KMLvRl6sDW"
+            },
+            {
+              "display_url": "pic.x.com/KMLvRl6sDW",
+              "end": 136,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2095185557819388227/photo/1",
+              "media_key": "3_2095185543797846016",
+              "start": 113,
+              "url": "https://t.co/KMLvRl6sDW"
+            },
+            {
+              "display_url": "x.com/proselyte31/st…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/proselyte31/status/2093941773903299003",
+              "start": 137,
+              "url": "https://t.co/uTwqY0hb4h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095185557819388227",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095185531244273665"
+          },
+          {
+            "media_key": "3_2095185543797846016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093941773903299003",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呃...狐恰好有其中一件被宣称为「运药工具」的物品原件喵\n狐的检查结论是无明显拆装藏匿痕迹，结构缝线均完好无损，填充均匀无空腔\n综上，狐认为对于她玩偶藏药运输的指控不成立喵\n(此物品在至少一月前就已经被她作为礼物赠送给狐了) https://t.co/KMLvRl6sDW https://t.co/uTwqY0hb4h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093941767255273472",
+            "3_2093941767242711040"
+          ]
+        },
+        "author_id": "1815289776402206720",
+        "conversation_id": "2093782421166760047",
+        "created_at": "2026-08-30T05:59:57.000Z",
+        "display_text_range": [
+          28,
+          172
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T06:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093941773903299003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1531288166296080384",
+              "start": 0,
+              "username": "guanhe62892723"
+            },
+            {
+              "end": 27,
+              "id": "962241386870325248",
+              "start": 16,
+              "username": "Moucky2333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9905SthMGD",
+              "end": 196,
+              "expanded_url": "https://x.com/proselyte31/status/2093941773903299003/photo/1",
+              "media_key": "3_2093941767255273472",
+              "start": 173,
+              "url": "https://t.co/9905SthMGD"
+            },
+            {
+              "display_url": "pic.x.com/9905SthMGD",
+              "end": 196,
+              "expanded_url": "https://x.com/proselyte31/status/2093941773903299003/photo/1",
+              "media_key": "3_2093941767242711040",
+              "start": 173,
+              "url": "https://t.co/9905SthMGD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093941773903299003",
+        "in_reply_to_user_id": "1531288166296080384",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093941767255273472"
+          },
+          {
+            "media_key": "3_2093941767242711040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093863936764596693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guanhe62892723 @Moucky2333 别信他的鬼话，拿个玩偶盒的图片就说里面都是药片，1.我记得你们不是说我22年就开始了吗，怎么现在又变成24年了2.moucky，你为什么回避在23年2月和EPMP服务器成员私聊围攻我的事情？3.先骚扰我和我朋友的是你，moucky，我只是讨回自己的公道和为自己辩解，还有，你拿yuni当初 https://t.co/9905SthMGD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2095185557819388227",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2087941448981413925",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1829,
+          "following_count": 1531,
+          "like_count": 24334,
+          "listed_count": 7,
+          "media_count": 871,
+          "tweet_count": 7770
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-22T07:36:37.000Z",
+        "description": "",
+        "id": "1815289776402206720",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095183984011759620",
+        "name": "frac",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040725906805895168/ZVxw_PJx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 432,
+          "like_count": 2238,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 592
+        },
+        "url": "",
+        "username": "proselyte31",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-30T14:55:52.000Z",
+        "description": "你好，这里是恋花。\n不要因为任何原因关注我，这里只是我的情绪发泄地。",
+        "id": "1531288166296080384",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095051158339633253",
+        "name": "恋花",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651828252363616256/XNF2i71W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 50,
+          "like_count": 5425,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 2133
+        },
+        "url": "",
+        "username": "guanhe62892723",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

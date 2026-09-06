@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092624784681304064"
+      ],
+      "media_source_tweet_id": [
+        "2092624788753928590"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2092756957467992286",
+    "created_at": "2026-08-26T23:31:54.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T00:31:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092756957467992286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1771970150922895360",
+          "start": 3,
+          "username": "owaridayo_404"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sS4eaUHJRV",
+          "end": 42,
+          "expanded_url": "https://x.com/owaridayo_404/status/2092624788753928590/photo/1",
+          "media_key": "3_2092624784681304064",
+          "start": 19,
+          "url": "https://t.co/sS4eaUHJRV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092756957467992286",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2092624784681304064"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 284
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092624788753928590",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @owaridayo_404: https://t.co/sS4eaUHJRV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 706,
+        "media_key": "3_2092624784681304064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQp_J4sbgAAjw3Y.jpg",
+        "width": 699
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092624784681304064"
+          ],
+          "media_source_tweet_id": [
+            "2092624788753928590"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2092756957467992286",
+        "created_at": "2026-08-26T23:31:54.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T00:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092756957467992286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1771970150922895360",
+              "start": 3,
+              "username": "owaridayo_404"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sS4eaUHJRV",
+              "end": 42,
+              "expanded_url": "https://x.com/owaridayo_404/status/2092624788753928590/photo/1",
+              "media_key": "3_2092624784681304064",
+              "start": 19,
+              "url": "https://t.co/sS4eaUHJRV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092756957467992286",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2092624784681304064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 284
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092624788753928590",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @owaridayo_404: https://t.co/sS4eaUHJRV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092624784681304064"
+          ]
+        },
+        "author_id": "1771970150922895360",
+        "conversation_id": "2092624788753928590",
+        "created_at": "2026-08-26T14:46:43.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T15:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092624788753928590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sS4eaUHJRV",
+              "end": 23,
+              "expanded_url": "https://x.com/owaridayo_404/status/2092624788753928590/photo/1",
+              "media_key": "3_2092624784681304064",
+              "start": 0,
+              "url": "https://t.co/sS4eaUHJRV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092624788753928590",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2092624784681304064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 338,
+          "impression_count": 23475,
+          "like_count": 3872,
+          "quote_count": 5,
+          "reply_count": 6,
+          "retweet_count": 284
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/sS4eaUHJRV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2092756957467992286",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2087941448981413925",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 1521,
+          "like_count": 23791,
+          "listed_count": 7,
+          "media_count": 854,
+          "tweet_count": 7648
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-24T18:40:13.000Z",
+        "description": "趣味/二次創作/Don't re-upload. Don't use of images. /お題箱→【https://t.co/cmj5dtN0oA】/絵→【】",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "odaibako.net/u/owaridayo_404",
+                "end": 75,
+                "expanded_url": "https://odaibako.net/u/owaridayo_404",
+                "start": 52,
+                "url": "https://t.co/cmj5dtN0oA"
+              }
+            ]
+          }
+        },
+        "id": "1771970150922895360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092625230061764896",
+        "name": "鳩に餌を与えないで",
+        "pinned_tweet_id": "1799031986541166948",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1771970150922895360/1747577326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773654574504747008/8TraW3Gh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16919,
+          "following_count": 34,
+          "like_count": 9573,
+          "listed_count": 55,
+          "media_count": 106,
+          "tweet_count": 4128
+        },
+        "url": "",
+        "username": "owaridayo_404",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089624647876870144"
+      ],
+      "media_source_tweet_id": [
+        "2089638436131226035"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2090084577012543993",
+    "created_at": "2026-08-19T14:32:49.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T15:32:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090084577012543993"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 19,
+          "tag": "重音テト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1899087422346145792",
+          "start": 3,
+          "username": "yusuraume1211"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1kdIQJeTGm",
+          "end": 48,
+          "expanded_url": "https://x.com/yusuraume1211/status/2089638436131226035/photo/1",
+          "media_key": "3_2089624647876870144",
+          "start": 25,
+          "url": "https://t.co/1kdIQJeTGm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090084577012543993",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2089624647876870144"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 166
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089638436131226035",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yusuraume1211: #重音テト https://t.co/1kdIQJeTGm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2339,
+        "media_key": "3_2089624647876870144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP_Wi8KaAAAl8e0.jpg",
+        "width": 1940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089624647876870144"
+          ],
+          "media_source_tweet_id": [
+            "2089638436131226035"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2090084577012543993",
+        "created_at": "2026-08-19T14:32:49.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T15:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090084577012543993"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "重音テト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1899087422346145792",
+              "start": 3,
+              "username": "yusuraume1211"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1kdIQJeTGm",
+              "end": 48,
+              "expanded_url": "https://x.com/yusuraume1211/status/2089638436131226035/photo/1",
+              "media_key": "3_2089624647876870144",
+              "start": 25,
+              "url": "https://t.co/1kdIQJeTGm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090084577012543993",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2089624647876870144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 166
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089638436131226035",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yusuraume1211: #重音テト https://t.co/1kdIQJeTGm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089624647876870144"
+          ]
+        },
+        "author_id": "1899087422346145792",
+        "conversation_id": "2089638436131226035",
+        "created_at": "2026-08-18T09:00:01.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T10:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089638436131226035"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "重音テト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1kdIQJeTGm",
+              "end": 29,
+              "expanded_url": "https://x.com/yusuraume1211/status/2089638436131226035/photo/1",
+              "media_key": "3_2089624647876870144",
+              "start": 6,
+              "url": "https://t.co/1kdIQJeTGm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089638436131226035",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2089624647876870144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 154,
+          "impression_count": 9708,
+          "like_count": 1842,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 166
+        },
+        "reply_settings": "everyone",
+        "text": "#重音テト https://t.co/1kdIQJeTGm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2090084577012543993",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2087941448981413925",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1725,
+          "following_count": 1529,
+          "like_count": 23327,
+          "listed_count": 7,
+          "media_count": 838,
+          "tweet_count": 7523
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-10T13:18:28.000Z",
+        "description": "絵を描きます。\n🚫無断使用・AI学習🚫",
+        "id": "1899087422346145792",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089638436131226035",
+        "name": "ゆすらうめ",
+        "pinned_tweet_id": "2089638436131226035",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1899087422346145792/1787066941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067684818511622144/yltFvDBE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 246,
+          "like_count": 1,
+          "listed_count": 3,
+          "media_count": 13,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "yusuraume1211",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

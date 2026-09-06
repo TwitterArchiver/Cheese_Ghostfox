@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094682789589422080"
+      ],
+      "media_source_tweet_id": [
+        "2094682816848200105"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2094831314432327787",
+    "created_at": "2026-09-01T16:54:40.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T17:54:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094831314432327787"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 17,
+          "tag": "重音テト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1614851449980321792",
+          "start": 3,
+          "username": "oonn877"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r43nvrJX60",
+          "end": 46,
+          "expanded_url": "https://x.com/oonn877/status/2094682816848200105/photo/1",
+          "media_key": "3_2094682789589422080",
+          "start": 23,
+          "url": "https://t.co/r43nvrJX60"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094831314432327787",
+    "lang": "ko",
+    "media_metadata": [
+      {
+        "media_key": "3_2094682789589422080"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094682816848200105",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oonn877: 테토~\n#重音テト https://t.co/r43nvrJX60"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2094682789589422080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRHO5iaaEAARnEi.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094682789589422080"
+          ],
+          "media_source_tweet_id": [
+            "2094682816848200105"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2094831314432327787",
+        "created_at": "2026-09-01T16:54:40.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T17:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094831314432327787"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "重音テト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1614851449980321792",
+              "start": 3,
+              "username": "oonn877"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r43nvrJX60",
+              "end": 46,
+              "expanded_url": "https://x.com/oonn877/status/2094682816848200105/photo/1",
+              "media_key": "3_2094682789589422080",
+              "start": 23,
+              "url": "https://t.co/r43nvrJX60"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094831314432327787",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2094682789589422080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094682816848200105",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oonn877: 테토~\n#重音テト https://t.co/r43nvrJX60"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094682789589422080"
+          ]
+        },
+        "author_id": "1614851449980321792",
+        "conversation_id": "2094682816848200105",
+        "created_at": "2026-09-01T07:04:35.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T08:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094682816848200105"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 4,
+              "tag": "重音テト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r43nvrJX60",
+              "end": 33,
+              "expanded_url": "https://x.com/oonn877/status/2094682816848200105/photo/1",
+              "media_key": "3_2094682789589422080",
+              "start": 10,
+              "url": "https://t.co/r43nvrJX60"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094682816848200105",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2094682789589422080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 2796,
+          "like_count": 407,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "테토~\n#重音テト https://t.co/r43nvrJX60"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2094831314432327787",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2087941448981413925",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1828,
+          "following_count": 1530,
+          "like_count": 24291,
+          "listed_count": 7,
+          "media_count": 867,
+          "tweet_count": 7759
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-16T05:06:40.000Z",
+        "description": "오투 \n커미션 ⭕️ | 연교 ⭕️\n리퀘/질문: https://t.co/D899olQv4h",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/7392324206",
+                "end": 49,
+                "expanded_url": "https://pushoong.com/ask/7392324206",
+                "start": 26,
+                "url": "https://t.co/D899olQv4h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mysterious-ant-de4.notion.site/o2-30fba692d73…",
+                "end": 23,
+                "expanded_url": "https://mysterious-ant-de4.notion.site/o2-30fba692d73180ed95eafae52b850e88?pvs=143",
+                "start": 0,
+                "url": "https://t.co/V1yQH42mAy"
+              }
+            ]
+          }
+        },
+        "id": "1614851449980321792",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094818833077030984",
+        "name": "o2",
+        "pinned_tweet_id": "2089282454947553504",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1614851449980321792/1784616755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061294797953040384/vgQie85S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 193,
+          "like_count": 1045,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 305
+        },
+        "url": "https://t.co/V1yQH42mAy",
+        "username": "oonn877",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086803877119344640"
+      ],
+      "media_source_tweet_id": [
+        "2087365959111565417"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2087451686751416361",
+    "created_at": "2026-08-12T08:10:39.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T09:10:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087451686751416361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1967305010989121536",
+          "start": 3,
+          "username": "Animex_twts"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jSCyXfLj0K",
+          "end": 40,
+          "expanded_url": "https://x.com/Animex_twts/status/2087365959111565417/photo/1",
+          "media_key": "3_2086803877119344640",
+          "start": 17,
+          "url": "https://t.co/jSCyXfLj0K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087451686751416361",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "alt_text": "Credit: @bongftah",
+        "media_key": "3_2086803877119344640"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 619
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087365959111565417",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Animex_twts: https://t.co/jSCyXfLj0K"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "Credit: @bongftah",
+        "height": 1200,
+        "media_key": "3_2086803877119344640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPXREeObQAA5oU1.jpg",
+        "width": 904
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086803877119344640"
+          ]
+        },
+        "author_id": "1967305010989121536",
+        "conversation_id": "2087365959111565417",
+        "created_at": "2026-08-12T02:30:00.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T03:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087365959111565417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jSCyXfLj0K",
+              "end": 23,
+              "expanded_url": "https://x.com/Animex_twts/status/2087365959111565417/photo/1",
+              "media_key": "3_2086803877119344640",
+              "start": 0,
+              "url": "https://t.co/jSCyXfLj0K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087365959111565417",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "alt_text": "Credit: @bongftah",
+            "media_key": "3_2086803877119344640"
+          }
+        ],
+        "note_request_suggestions": [
+          {
+            "source_link": "https://x.com/i/status/1987152653231767677",
+            "suggestion": "Stole a drawing",
+            "suggestion_id": "2087431544403345447"
+          },
+          {
+            "suggestion": "It is the theft of someone else's post.",
+            "suggestion_id": "2087444642765906351"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 819,
+          "impression_count": 184556,
+          "like_count": 15840,
+          "quote_count": 6,
+          "reply_count": 2,
+          "retweet_count": 619
+        },
+        "reply_settings": "everyone",
+        "suggested_source_links_with_counts": [
+          {
+            "count": "1",
+            "url": "https://x.com/i/status/1987152653231767677"
+          }
+        ],
+        "text": "https://t.co/jSCyXfLj0K"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086803877119344640"
+          ],
+          "media_source_tweet_id": [
+            "2087365959111565417"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2087451686751416361",
+        "created_at": "2026-08-12T08:10:39.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T09:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087451686751416361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1967305010989121536",
+              "start": 3,
+              "username": "Animex_twts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jSCyXfLj0K",
+              "end": 40,
+              "expanded_url": "https://x.com/Animex_twts/status/2087365959111565417/photo/1",
+              "media_key": "3_2086803877119344640",
+              "start": 17,
+              "url": "https://t.co/jSCyXfLj0K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087451686751416361",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "alt_text": "Credit: @bongftah",
+            "media_key": "3_2086803877119344640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 619
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087365959111565417",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Animex_twts: https://t.co/jSCyXfLj0K"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2087451686751416361",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1715,
+          "following_count": 1528,
+          "like_count": 22846,
+          "listed_count": 7,
+          "media_count": 823,
+          "tweet_count": 7324
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-14T19:11:01.000Z",
+        "description": "Anime,Arts",
+        "id": "1967305010989121536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087426355063386268",
+        "name": "Akira",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1967305010989121536/1767513091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007721530353168389/YUuUcYmb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15192,
+          "following_count": 85,
+          "like_count": 9882,
+          "listed_count": 26,
+          "media_count": 602,
+          "tweet_count": 673
+        },
+        "url": "",
+        "username": "Animex_twts",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

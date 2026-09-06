@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088884087121702912"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2088875000396652782",
+    "created_at": "2026-08-16T07:02:32.000Z",
+    "display_text_range": [
+      12,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T08:02:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088884093375422962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2012843367982628864",
+          "start": 0,
+          "username": "XiaoJi0403"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1bNuqPfug4",
+          "end": 37,
+          "expanded_url": "https://x.com/Cheese_Ghostfox/status/2088884093375422962/photo/1",
+          "media_key": "3_2088884087121702912",
+          "start": 14,
+          "url": "https://t.co/1bNuqPfug4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088884093375422962",
+    "in_reply_to_user_id": "2012843367982628864",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2088884087121702912"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088880939950903318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoJi0403 🥺 https://t.co/1bNuqPfug4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 320,
+        "media_key": "3_2088884087121702912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP01AoXa8AAXzxr.jpg",
+        "width": 1073
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088884087121702912"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2088875000396652782",
+        "created_at": "2026-08-16T07:02:32.000Z",
+        "display_text_range": [
+          12,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T08:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088884093375422962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2012843367982628864",
+              "start": 0,
+              "username": "XiaoJi0403"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1bNuqPfug4",
+              "end": 37,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2088884093375422962/photo/1",
+              "media_key": "3_2088884087121702912",
+              "start": 14,
+              "url": "https://t.co/1bNuqPfug4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088884093375422962",
+        "in_reply_to_user_id": "2012843367982628864",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2088884087121702912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088880939950903318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoJi0403 🥺 https://t.co/1bNuqPfug4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012843367982628864",
+        "conversation_id": "2088875000396652782",
+        "created_at": "2026-08-16T06:50:00.000Z",
+        "display_text_range": [
+          17,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T07:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088880939950903318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088880939950903318",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088875000396652782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox 啊？你是女生啊？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2088884093375422962",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2087941448981413925",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1717,
+          "following_count": 1529,
+          "like_count": 23035,
+          "listed_count": 7,
+          "media_count": 830,
+          "tweet_count": 7415
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-18T11:04:05.000Z",
+        "description": "杂谈观察｜热点拆解｜人性观察与社会真相\n用自己的话讲有意思的事，偶尔毒舌，尽量理性",
+        "id": "2012843367982628864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088882137223323872",
+        "name": "老季",
+        "pinned_tweet_id": "2057366163508650237",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2012843367982628864/1770874396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044687987460485120/NTtGh8Vq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17666,
+          "following_count": 1063,
+          "like_count": 15375,
+          "listed_count": 37,
+          "media_count": 1228,
+          "tweet_count": 8769
+        },
+        "url": "",
+        "username": "XiaoJi0403",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

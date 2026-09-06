@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088058725948866561",
+        "3_2088058725965721601"
+      ],
+      "media_source_tweet_id": [
+        "2088058737588154526",
+        "2088058737588154526"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2088169064518840745",
+    "created_at": "2026-08-14T07:41:15.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T08:41:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088169064518840745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1124790071314587648",
+          "start": 3,
+          "username": "LanwujiDrink"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vxwveSfnL9",
+          "end": 59,
+          "expanded_url": "https://x.com/LanwujiDrink/status/2088058737588154526/photo/1",
+          "media_key": "3_2088058725948866561",
+          "start": 36,
+          "url": "https://t.co/vxwveSfnL9"
+        },
+        {
+          "display_url": "pic.x.com/vxwveSfnL9",
+          "end": 59,
+          "expanded_url": "https://x.com/LanwujiDrink/status/2088058737588154526/photo/1",
+          "media_key": "3_2088058725965721601",
+          "start": 36,
+          "url": "https://t.co/vxwveSfnL9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088169064518840745",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088058725948866561"
+      },
+      {
+        "media_key": "3_2088058725965721601"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088058737588154526",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LanwujiDrink: 该产品已上线 以下是我助理写的报告 https://t.co/vxwveSfnL9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088058725948866561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPpGWSZWQAECfY8.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088058725965721601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPpGWSdXcAEz9Nf.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088058725948866561",
+            "3_2088058725965721601"
+          ]
+        },
+        "author_id": "1124790071314587648",
+        "conversation_id": "2088058737588154526",
+        "created_at": "2026-08-14T00:22:51.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T01:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088058737588154526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vxwveSfnL9",
+              "end": 41,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2088058737588154526/photo/1",
+              "media_key": "3_2088058725948866561",
+              "start": 18,
+              "url": "https://t.co/vxwveSfnL9"
+            },
+            {
+              "display_url": "pic.x.com/vxwveSfnL9",
+              "end": 41,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2088058737588154526/photo/1",
+              "media_key": "3_2088058725965721601",
+              "start": 18,
+              "url": "https://t.co/vxwveSfnL9"
+            },
+            {
+              "display_url": "x.com/lanwujidrink/s…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/lanwujidrink/status/2083538550117867677",
+              "start": 42,
+              "url": "https://t.co/CWOE4XuDa3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088058737588154526",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088058725948866561"
+          },
+          {
+            "media_key": "3_2088058725965721601"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1124,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083538550117867677",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "该产品已上线 以下是我助理写的报告 https://t.co/vxwveSfnL9 https://t.co/CWOE4XuDa3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088058725948866561",
+            "3_2088058725965721601"
+          ],
+          "media_source_tweet_id": [
+            "2088058737588154526",
+            "2088058737588154526"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2088169064518840745",
+        "created_at": "2026-08-14T07:41:15.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T08:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088169064518840745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1124790071314587648",
+              "start": 3,
+              "username": "LanwujiDrink"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vxwveSfnL9",
+              "end": 59,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2088058737588154526/photo/1",
+              "media_key": "3_2088058725948866561",
+              "start": 36,
+              "url": "https://t.co/vxwveSfnL9"
+            },
+            {
+              "display_url": "pic.x.com/vxwveSfnL9",
+              "end": 59,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2088058737588154526/photo/1",
+              "media_key": "3_2088058725965721601",
+              "start": 36,
+              "url": "https://t.co/vxwveSfnL9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088169064518840745",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088058725948866561"
+          },
+          {
+            "media_key": "3_2088058725965721601"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088058737588154526",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LanwujiDrink: 该产品已上线 以下是我助理写的报告 https://t.co/vxwveSfnL9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2088169064518840745",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2087941448981413925",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1708,
+          "following_count": 1528,
+          "like_count": 23022,
+          "listed_count": 7,
+          "media_count": 828,
+          "tweet_count": 7380
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "以雷霆手段，顯菩薩心腸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlfzT9"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "和田地区",
+        "most_recent_tweet_id": "2088166656375988301",
+        "name": "☯️🧬無極生物科技 葉經理",
+        "pinned_tweet_id": "2080943910223040583",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1785074464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1072,
+          "following_count": 112,
+          "like_count": 3266,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1543
+        },
+        "url": "https://t.co/7eJAqlfzT9",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

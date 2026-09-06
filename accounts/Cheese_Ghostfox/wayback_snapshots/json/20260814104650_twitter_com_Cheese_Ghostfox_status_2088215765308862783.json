@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2088168136981778580",
+    "created_at": "2026-08-14T10:46:50.000Z",
+    "display_text_range": [
+      40,
+      89
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T11:46:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088215765308862783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1894375325934784517",
+          "start": 0,
+          "username": "sword_1003"
+        },
+        {
+          "end": 26,
+          "id": "1754494415152766976",
+          "start": 12,
+          "username": "IchinichiNagi"
+        },
+        {
+          "end": 39,
+          "id": "1472147307730817025",
+          "start": 27,
+          "username": "20080522dqc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088215765308862783",
+    "in_reply_to_user_id": "1894375325934784517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088214861428003159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sword_1003 @IchinichiNagi @20080522dqc 所以说狐认可她的观察能力了喵www\n这雷霆观察能力和「指着一个苹果说\"这不是苹果嘛!\"」有得一拼🧐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2088168136981778580",
+        "created_at": "2026-08-14T10:46:50.000Z",
+        "display_text_range": [
+          40,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T11:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088215765308862783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1894375325934784517",
+              "start": 0,
+              "username": "sword_1003"
+            },
+            {
+              "end": 26,
+              "id": "1754494415152766976",
+              "start": 12,
+              "username": "IchinichiNagi"
+            },
+            {
+              "end": 39,
+              "id": "1472147307730817025",
+              "start": 27,
+              "username": "20080522dqc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088215765308862783",
+        "in_reply_to_user_id": "1894375325934784517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088214861428003159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sword_1003 @IchinichiNagi @20080522dqc 所以说狐认可她的观察能力了喵www\n这雷霆观察能力和「指着一个苹果说\"这不是苹果嘛!\"」有得一拼🧐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894375325934784517",
+        "conversation_id": "2088168136981778580",
+        "created_at": "2026-08-14T10:43:14.000Z",
+        "display_text_range": [
+          45,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T11:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088214861428003159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "IchinichiNagi"
+            },
+            {
+              "end": 31,
+              "id": "1620506107306479617",
+              "start": 15,
+              "username": "Cheese_Ghostfox"
+            },
+            {
+              "end": 44,
+              "id": "1472147307730817025",
+              "start": 32,
+              "username": "20080522dqc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088214861428003159",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088200101516956125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IchinichiNagi @Cheese_Ghostfox @20080522dqc xyn大多都像0吧🤔"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2088215765308862783",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2087941448981413925",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1710,
+          "following_count": 1528,
+          "like_count": 23060,
+          "listed_count": 7,
+          "media_count": 828,
+          "tweet_count": 7390
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T13:14:24.000Z",
+        "description": "姓名：夜鸟 | 个人特征：MTX/BPD/ADHD/双相 | 主要关注：公共交通/垂直交通/建筑文化/美学 | 品牌偏好：麦当劳/Apple/徕卡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "haizi.huhaitai.com/03/121",
+                "end": 23,
+                "expanded_url": "https://haizi.huhaitai.com/03/121",
+                "start": 0,
+                "url": "https://t.co/Y9Zk1gE80d"
+              }
+            ]
+          }
+        },
+        "id": "1894375325934784517",
+        "is_identity_verified": false,
+        "location": "公元前",
+        "most_recent_tweet_id": "2088215264420884633",
+        "name": "HongSword",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894375325934784517/1786584787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087440179388878848/4l-vZiII_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 482,
+          "like_count": 37090,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 8347
+        },
+        "url": "https://t.co/Y9Zk1gE80d",
+        "username": "sword_1003",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "对于Nagi来说\n他们是一日男友\n\n那对于他们来说\n我是不是一日Nagi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/jub…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/jubilee/",
+                "start": 0,
+                "url": "https://t.co/nRq8LhSw2y"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "is_identity_verified": false,
+        "location": "朝天门",
+        "most_recent_tweet_id": "2088215703438716957",
+        "name": "这是一日Nagi吗？",
+        "pinned_tweet_id": "2085614541539586140",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1754494415152766976/1782808002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081044089487941632/4n6xQeCv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6102,
+          "following_count": 2372,
+          "like_count": 32742,
+          "listed_count": 9,
+          "media_count": 3035,
+          "tweet_count": 28251
+        },
+        "url": "https://t.co/nRq8LhSw2y",
+        "username": "IchinichiNagi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-18T10:10:54.000Z",
+        "description": "坐标:老家在辽宁 大学在南京\n18岁 叫我辰辰或者chen就好\n| 阴阳师 | 明日方舟 | Omori |一堆PC单机|音游入门",
+        "id": "1472147307730817025",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088179711096836425",
+        "name": "绮辰Chen",
+        "pinned_tweet_id": "2084926788883652977",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1472147307730817025/1754053387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087948978684096512/it601LDW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1856,
+          "following_count": 1950,
+          "like_count": 11583,
+          "listed_count": 4,
+          "media_count": 331,
+          "tweet_count": 2158
+        },
+        "url": "",
+        "username": "20080522dqc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

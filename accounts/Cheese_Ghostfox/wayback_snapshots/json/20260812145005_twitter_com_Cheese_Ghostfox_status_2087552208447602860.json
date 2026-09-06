@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2087552208447602860",
+    "created_at": "2026-08-12T14:50:05.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T15:50:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087552208447602860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1271512602145730560",
+          "start": 3,
+          "username": "Akino_QwQ"
+        },
+        {
+          "end": 27,
+          "id": "2086703565448564736",
+          "start": 15,
+          "username": "You_Takashi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087552208447602860",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087410292015902956",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Akino_QwQ: @You_Takashi 所以比自切安全比黑切便宜是不是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2087552208447602860",
+        "created_at": "2026-08-12T14:50:05.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T15:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087552208447602860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1271512602145730560",
+              "start": 3,
+              "username": "Akino_QwQ"
+            },
+            {
+              "end": 27,
+              "id": "2086703565448564736",
+              "start": 15,
+              "username": "You_Takashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087552208447602860",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087410292015902956",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Akino_QwQ: @You_Takashi 所以比自切安全比黑切便宜是不是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1271512602145730560",
+        "conversation_id": "2087091927644561905",
+        "created_at": "2026-08-12T05:26:10.000Z",
+        "display_text_range": [
+          13,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T06:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087410292015902956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2086703565448564736",
+              "start": 0,
+              "username": "You_Takashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087410292015902956",
+        "in_reply_to_user_id": "2086703565448564736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 230,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087091927644561905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@You_Takashi 所以比自切安全比黑切便宜是不是"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2087552208447602860",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1715,
+          "following_count": 1528,
+          "like_count": 22864,
+          "listed_count": 7,
+          "media_count": 823,
+          "tweet_count": 7330
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-06-12T18:40:10.000Z",
+        "description": "这里是银离子/银喵！🚪（？）/持证含糖友跨顺猫/想变可爱/收破烂的/Maimai/摄影器材/想拍小姐姐/软件工程/一点网络工程/修电脑/二轮车/魔改硬件/SSD/医疗电子/拆机/LLer/火车迷/mc原版/化学已/ADHD/想od/想要5HT2A激动剂/不键政!/对象(不混圈)/主人@HoshinoMako0131",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 142,
+                "username": "HoshinoMako0131"
+              }
+            ]
+          }
+        },
+        "id": "1271512602145730560",
+        "is_identity_verified": false,
+        "location": "华立科技展厅",
+        "most_recent_tweet_id": "2087488659847340244",
+        "name": "一定不是银喵",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1271512602145730560/1674706633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011153409378754560/HMEgRHqo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4150,
+          "following_count": 953,
+          "like_count": 18806,
+          "listed_count": 12,
+          "media_count": 681,
+          "tweet_count": 4020
+        },
+        "url": "",
+        "username": "Akino_QwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-10T06:39:06.000Z",
+        "description": "MtX🍥🏳️‍⚧️｜Queer(he/she/they) 你想怎么称呼都可以｜泛性恋｜HRT 2026.07.28｜无证含糖｜双相｜精神病院住院停药中｜想切蛋｜想去北海道｜护照被晶哥扣押中😡",
+        "id": "2086703565448564736",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087527499450515565",
+        "name": "杨崇志 You Takashi🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086703565448564736/1786344797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086704024263471104/N-YZsC4T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 23,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "You_Takashi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

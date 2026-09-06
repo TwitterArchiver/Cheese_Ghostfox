@@ -1,0 +1,502 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091117807065075712",
+        "3_2091117807069229056",
+        "3_2091117807111172096",
+        "3_2091117807052468225"
+      ],
+      "media_source_tweet_id": [
+        "2091117812668596668",
+        "2091117812668596668",
+        "2091117812668596668",
+        "2091117812668596668"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2091426171280056692",
+    "created_at": "2026-08-23T07:23:50.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T08:23:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091426171280056692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2039287631562043392",
+          "start": 3,
+          "username": "Nanaenonvy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5ITWnyfQE5",
+          "end": 49,
+          "expanded_url": "https://x.com/Nanaenonvy/status/2091117812668596668/photo/1",
+          "media_key": "3_2091117807065075712",
+          "start": 26,
+          "url": "https://t.co/5ITWnyfQE5"
+        },
+        {
+          "display_url": "pic.x.com/5ITWnyfQE5",
+          "end": 49,
+          "expanded_url": "https://x.com/Nanaenonvy/status/2091117812668596668/photo/1",
+          "media_key": "3_2091117807069229056",
+          "start": 26,
+          "url": "https://t.co/5ITWnyfQE5"
+        },
+        {
+          "display_url": "pic.x.com/5ITWnyfQE5",
+          "end": 49,
+          "expanded_url": "https://x.com/Nanaenonvy/status/2091117812668596668/photo/1",
+          "media_key": "3_2091117807111172096",
+          "start": 26,
+          "url": "https://t.co/5ITWnyfQE5"
+        },
+        {
+          "display_url": "pic.x.com/5ITWnyfQE5",
+          "end": 49,
+          "expanded_url": "https://x.com/Nanaenonvy/status/2091117812668596668/photo/1",
+          "media_key": "3_2091117807052468225",
+          "start": 26,
+          "url": "https://t.co/5ITWnyfQE5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091426171280056692",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2091117807065075712"
+      },
+      {
+        "media_key": "3_2091117807069229056"
+      },
+      {
+        "media_key": "3_2091117807111172096"
+      },
+      {
+        "media_key": "3_2091117807052468225"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091117812668596668",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nanaenonvy: お気に入りのお顔！ https://t.co/5ITWnyfQE5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1694,
+        "media_key": "3_2091117807065075712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQUkkPmbkAArDdw.jpg",
+        "width": 928
+      },
+      {
+        "height": 1779,
+        "media_key": "3_2091117807069229056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQUkkPna8AAfNHB.jpg",
+        "width": 1219
+      },
+      {
+        "height": 1460,
+        "media_key": "3_2091117807111172096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQUkkPxa8AAUDiq.jpg",
+        "width": 1020
+      },
+      {
+        "height": 1612,
+        "media_key": "3_2091117807052468225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQUkkPjbMAE5p5t.jpg",
+        "width": 978
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091117807065075712",
+            "3_2091117807069229056",
+            "3_2091117807111172096",
+            "3_2091117807052468225"
+          ],
+          "media_source_tweet_id": [
+            "2091117812668596668",
+            "2091117812668596668",
+            "2091117812668596668",
+            "2091117812668596668"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091426171280056692",
+        "created_at": "2026-08-23T07:23:50.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T08:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091426171280056692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2039287631562043392",
+              "start": 3,
+              "username": "Nanaenonvy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5ITWnyfQE5",
+              "end": 49,
+              "expanded_url": "https://x.com/Nanaenonvy/status/2091117812668596668/photo/1",
+              "media_key": "3_2091117807065075712",
+              "start": 26,
+              "url": "https://t.co/5ITWnyfQE5"
+            },
+            {
+              "display_url": "pic.x.com/5ITWnyfQE5",
+              "end": 49,
+              "expanded_url": "https://x.com/Nanaenonvy/status/2091117812668596668/photo/1",
+              "media_key": "3_2091117807069229056",
+              "start": 26,
+              "url": "https://t.co/5ITWnyfQE5"
+            },
+            {
+              "display_url": "pic.x.com/5ITWnyfQE5",
+              "end": 49,
+              "expanded_url": "https://x.com/Nanaenonvy/status/2091117812668596668/photo/1",
+              "media_key": "3_2091117807111172096",
+              "start": 26,
+              "url": "https://t.co/5ITWnyfQE5"
+            },
+            {
+              "display_url": "pic.x.com/5ITWnyfQE5",
+              "end": 49,
+              "expanded_url": "https://x.com/Nanaenonvy/status/2091117812668596668/photo/1",
+              "media_key": "3_2091117807052468225",
+              "start": 26,
+              "url": "https://t.co/5ITWnyfQE5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091426171280056692",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091117807065075712"
+          },
+          {
+            "media_key": "3_2091117807069229056"
+          },
+          {
+            "media_key": "3_2091117807111172096"
+          },
+          {
+            "media_key": "3_2091117807052468225"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091117812668596668",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nanaenonvy: お気に入りのお顔！ https://t.co/5ITWnyfQE5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091117807065075712",
+            "3_2091117807069229056",
+            "3_2091117807111172096",
+            "3_2091117807052468225"
+          ]
+        },
+        "author_id": "2039287631562043392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091117812668596668",
+        "created_at": "2026-08-22T10:58:32.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T11:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091117812668596668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5ITWnyfQE5",
+              "end": 33,
+              "expanded_url": "https://x.com/Nanaenonvy/status/2091117812668596668/photo/1",
+              "media_key": "3_2091117807065075712",
+              "start": 10,
+              "url": "https://t.co/5ITWnyfQE5"
+            },
+            {
+              "display_url": "pic.x.com/5ITWnyfQE5",
+              "end": 33,
+              "expanded_url": "https://x.com/Nanaenonvy/status/2091117812668596668/photo/1",
+              "media_key": "3_2091117807069229056",
+              "start": 10,
+              "url": "https://t.co/5ITWnyfQE5"
+            },
+            {
+              "display_url": "pic.x.com/5ITWnyfQE5",
+              "end": 33,
+              "expanded_url": "https://x.com/Nanaenonvy/status/2091117812668596668/photo/1",
+              "media_key": "3_2091117807111172096",
+              "start": 10,
+              "url": "https://t.co/5ITWnyfQE5"
+            },
+            {
+              "display_url": "pic.x.com/5ITWnyfQE5",
+              "end": 33,
+              "expanded_url": "https://x.com/Nanaenonvy/status/2091117812668596668/photo/1",
+              "media_key": "3_2091117807052468225",
+              "start": 10,
+              "url": "https://t.co/5ITWnyfQE5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091117812668596668",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091117807065075712"
+          },
+          {
+            "media_key": "3_2091117807069229056"
+          },
+          {
+            "media_key": "3_2091117807111172096"
+          },
+          {
+            "media_key": "3_2091117807052468225"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 4096,
+          "like_count": 772,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "お気に入りのお顔！ https://t.co/5ITWnyfQE5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2091426171280056692",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2087941448981413925",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1769,
+          "following_count": 1527,
+          "like_count": 23579,
+          "listed_count": 7,
+          "media_count": 846,
+          "tweet_count": 7594
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-01T10:24:46.000Z",
+        "description": "絵描いてます！\nサブ垢 @sabunmikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "sabunmikan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/o53suqipx4oezl…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/o53suqipx4oezlt?t=YBR8wl&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/3DFp9HoyfN"
+              }
+            ]
+          }
+        },
+        "id": "2039287631562043392",
+        "is_identity_verified": false,
+        "location": "テスト期間は低浮上なります！",
+        "most_recent_tweet_id": "2091419395696603147",
+        "name": "れいとうみかん",
+        "pinned_tweet_id": "2084118502923969006",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2039287631562043392/1787315171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080801014219948032/S4RDc74U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1235,
+          "following_count": 639,
+          "like_count": 20495,
+          "listed_count": 5,
+          "media_count": 185,
+          "tweet_count": 2478
+        },
+        "url": "https://t.co/3DFp9HoyfN",
+        "username": "Nanaenonvy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

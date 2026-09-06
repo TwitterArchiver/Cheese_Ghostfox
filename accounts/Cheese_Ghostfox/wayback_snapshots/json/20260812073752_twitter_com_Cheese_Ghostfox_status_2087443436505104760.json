@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087176955313717248"
+      ],
+      "media_source_tweet_id": [
+        "2087176965954658334"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2087443436505104760",
+    "created_at": "2026-08-12T07:37:52.000Z",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T08:37:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087443436505104760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1962718306521276416",
+          "start": 3,
+          "username": "htLen12"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WGpsiwAoZF",
+          "end": 36,
+          "expanded_url": "https://x.com/htLen12/status/2087176965954658334/photo/1",
+          "media_key": "3_2087176955313717248",
+          "start": 13,
+          "url": "https://t.co/WGpsiwAoZF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087443436505104760",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2087176955313717248"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3351
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087176965954658334",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @htLen12: https://t.co/WGpsiwAoZF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087176955313717248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPckYezbAAAe-3y.jpg",
+        "width": 1566
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087176955313717248"
+          ]
+        },
+        "author_id": "1962718306521276416",
+        "conversation_id": "2087176965954658334",
+        "created_at": "2026-08-11T13:59:01.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T14:59:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087176965954658334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WGpsiwAoZF",
+              "end": 23,
+              "expanded_url": "https://x.com/htLen12/status/2087176965954658334/photo/1",
+              "media_key": "3_2087176955313717248",
+              "start": 0,
+              "url": "https://t.co/WGpsiwAoZF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087176965954658334",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2087176955313717248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5128,
+          "impression_count": 977099,
+          "like_count": 32319,
+          "quote_count": 552,
+          "reply_count": 26,
+          "retweet_count": 3351
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WGpsiwAoZF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087176955313717248"
+          ],
+          "media_source_tweet_id": [
+            "2087176965954658334"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2087443436505104760",
+        "created_at": "2026-08-12T07:37:52.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T08:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087443436505104760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1962718306521276416",
+              "start": 3,
+              "username": "htLen12"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WGpsiwAoZF",
+              "end": 36,
+              "expanded_url": "https://x.com/htLen12/status/2087176965954658334/photo/1",
+              "media_key": "3_2087176955313717248",
+              "start": 13,
+              "url": "https://t.co/WGpsiwAoZF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087443436505104760",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2087176955313717248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3351
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087176965954658334",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @htLen12: https://t.co/WGpsiwAoZF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2087443436505104760",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1715,
+          "following_count": 1528,
+          "like_count": 22836,
+          "listed_count": 7,
+          "media_count": 823,
+          "tweet_count": 7321
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-02T03:26:16.000Z",
+        "description": "VOCALOIDを応援するんだな",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/skwtplbpojnz8r…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/skwtplbpojnz8r3?t=BaxiqX&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/bMzgxrn2m1"
+              }
+            ]
+          }
+        },
+        "id": "1962718306521276416",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087409628242223385",
+        "name": "フトてん",
+        "pinned_tweet_id": "2014951930972565551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1962718306521276416/1785349026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086993171054256128/lUVIq6fn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2741,
+          "following_count": 63,
+          "like_count": 1490,
+          "listed_count": 3,
+          "media_count": 26,
+          "tweet_count": 270
+        },
+        "url": "https://t.co/bMzgxrn2m1",
+        "username": "htLen12",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

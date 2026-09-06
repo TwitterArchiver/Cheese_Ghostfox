@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2092746668492136448"
+      ],
+      "media_source_tweet_id": [
+        "2092746708979794037"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2092755645359608202",
+    "created_at": "2026-08-26T23:26:42.000Z",
+    "display_text_range": [
+      0,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T00:26:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092755645359608202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1882678524596867072",
+          "start": 3,
+          "username": "gdioiui"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JYspjvwI12",
+          "end": 72,
+          "expanded_url": "https://x.com/gdioiui/status/2092746708979794037/video/1",
+          "media_key": "13_2092746668492136448",
+          "start": 49,
+          "url": "https://t.co/JYspjvwI12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092755645359608202",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2092746668492136448"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092746708979794037",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gdioiui: 一千万以内最好的反乌托邦pt2\n（搬运自b站（不要针对我窝不是作者）） https://t.co/JYspjvwI12"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 134467,
+        "height": 720,
+        "media_key": "13_2092746668492136448",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092746668492136448/img/q4pNhzNf21kEFj8G.jpg",
+        "public_metrics": {
+          "view_count": 11
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092746668492136448/vid/avc1/474x270/FP1fMkpNP5o3o9D8.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092746668492136448/vid/avc1/634x360/01jMeGVwjTAbkQxT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092746668492136448/vid/avc1/1268x720/1LRc5bccDVMSICxh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092746668492136448/pl/Y2hYcJBuu090jQhM.m3u8"
+          }
+        ],
+        "width": 1268
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092746668492136448"
+          ],
+          "media_source_tweet_id": [
+            "2092746708979794037"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2092755645359608202",
+        "created_at": "2026-08-26T23:26:42.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T00:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092755645359608202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1882678524596867072",
+              "start": 3,
+              "username": "gdioiui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JYspjvwI12",
+              "end": 72,
+              "expanded_url": "https://x.com/gdioiui/status/2092746708979794037/video/1",
+              "media_key": "13_2092746668492136448",
+              "start": 49,
+              "url": "https://t.co/JYspjvwI12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092755645359608202",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2092746668492136448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092746708979794037",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gdioiui: 一千万以内最好的反乌托邦pt2\n（搬运自b站（不要针对我窝不是作者）） https://t.co/JYspjvwI12"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092746668492136448"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2092746708979794037",
+        "created_at": "2026-08-26T22:51:11.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T23:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092746708979794037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JYspjvwI12",
+              "end": 59,
+              "expanded_url": "https://x.com/gdioiui/status/2092746708979794037/video/1",
+              "media_key": "13_2092746668492136448",
+              "start": 36,
+              "url": "https://t.co/JYspjvwI12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092746708979794037",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2092746668492136448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一千万以内最好的反乌托邦pt2\n（搬运自b站（不要针对我窝不是作者）） https://t.co/JYspjvwI12"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2092755645359608202",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2087941448981413925",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 1521,
+          "like_count": 23787,
+          "listed_count": 7,
+          "media_count": 854,
+          "tweet_count": 7647
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n\n来自异空间（原住民）\n纯血神人_三代遗传神经病_八年对抗防火长城\n_noodwiki_异常神经电受益者\n\n喜欢研究 喜欢计算机 网络\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n僚舰@kurazawanaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 129,
+                "username": "kurazawanaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "is_identity_verified": true,
+        "location": "地下室to太平间",
+        "most_recent_tweet_id": "2092746708979794037",
+        "name": "​圣三一第一步枪 🍥☣️⚢",
+        "pinned_tweet_id": "2090732255757107234",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882678524596867072/1762015699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3127,
+          "following_count": 478,
+          "like_count": 5178,
+          "listed_count": 5,
+          "media_count": 1848,
+          "tweet_count": 9099
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

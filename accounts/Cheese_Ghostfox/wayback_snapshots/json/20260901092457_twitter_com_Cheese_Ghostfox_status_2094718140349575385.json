@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094692580844072960"
+      ],
+      "media_source_tweet_id": [
+        "2094692734770778234"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2094718140349575385",
+    "created_at": "2026-09-01T09:24:57.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T10:24:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094718140349575385"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 17,
+          "tag": "重音テト"
+        },
+        {
+          "end": 28,
+          "start": 23,
+          "tag": "teto"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1283740749163401216",
+          "start": 3,
+          "username": "Cleaner_EGh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oiDaooX3Zm",
+          "end": 52,
+          "expanded_url": "https://x.com/Cleaner_EGh/status/2094692734770778234/photo/1",
+          "media_key": "3_2094692580844072960",
+          "start": 29,
+          "url": "https://t.co/oiDaooX3Zm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094718140349575385",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2094692580844072960"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094692734770778234",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cleaner_EGh: #重音テト #teto https://t.co/oiDaooX3Zm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1754,
+        "media_key": "3_2094692580844072960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRHXzdrbcAAgSF3.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094692580844072960"
+          ],
+          "media_source_tweet_id": [
+            "2094692734770778234"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2094718140349575385",
+        "created_at": "2026-09-01T09:24:57.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T10:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094718140349575385"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "重音テト"
+            },
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "teto"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1283740749163401216",
+              "start": 3,
+              "username": "Cleaner_EGh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oiDaooX3Zm",
+              "end": 52,
+              "expanded_url": "https://x.com/Cleaner_EGh/status/2094692734770778234/photo/1",
+              "media_key": "3_2094692580844072960",
+              "start": 29,
+              "url": "https://t.co/oiDaooX3Zm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094718140349575385",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2094692580844072960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094692734770778234",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cleaner_EGh: #重音テト #teto https://t.co/oiDaooX3Zm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094692580844072960"
+          ]
+        },
+        "author_id": "1283740749163401216",
+        "conversation_id": "2094692734770778234",
+        "created_at": "2026-09-01T07:44:00.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T08:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094692734770778234"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "重音テト"
+            },
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "teto"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oiDaooX3Zm",
+              "end": 35,
+              "expanded_url": "https://x.com/Cleaner_EGh/status/2094692734770778234/photo/1",
+              "media_key": "3_2094692580844072960",
+              "start": 12,
+              "url": "https://t.co/oiDaooX3Zm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094692734770778234",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2094692580844072960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 1066,
+          "like_count": 238,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "#重音テト #teto https://t.co/oiDaooX3Zm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2094718140349575385",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2087941448981413925",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1826,
+          "following_count": 1528,
+          "like_count": 24252,
+          "listed_count": 7,
+          "media_count": 867,
+          "tweet_count": 7751
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-07-16T12:30:35.000Z",
+        "description": "禁止AI\nspecialized illustrator and figurine prototype artist\nPixiv:4274407\nhttps://t.co/0dQnHy376S",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vgen.co/Cleaner_EGh/ch…",
+                "end": 96,
+                "expanded_url": "https://vgen.co/Cleaner_EGh/characters",
+                "start": 73,
+                "url": "https://t.co/0dQnHy376S"
+              }
+            ]
+          }
+        },
+        "id": "1283740749163401216",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094692734770778234",
+        "name": "Cleaner_EGh",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1283740749163401216/1763556644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991126981329694720/SzFOUB_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 8,
+          "like_count": 7,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 35
+        },
+        "url": "",
+        "username": "Cleaner_EGh",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

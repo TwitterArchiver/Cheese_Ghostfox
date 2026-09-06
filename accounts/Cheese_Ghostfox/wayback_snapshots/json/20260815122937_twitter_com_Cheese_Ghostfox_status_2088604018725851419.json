@@ -1,0 +1,595 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088289802718527488"
+      ],
+      "media_source_tweet_id": [
+        "2088289806971506900"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1509249584186343426",
+          "name": "UTAU"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1509257234663952386",
+          "name": "Vocal synthesizers"
+        }
+      }
+    ],
+    "conversation_id": "2088604018725851419",
+    "created_at": "2026-08-15T12:29:37.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T13:29:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088604018725851419"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 24,
+          "tag": "重音テト"
+        },
+        {
+          "end": 39,
+          "start": 30,
+          "tag": "VOCALOID"
+        },
+        {
+          "end": 45,
+          "start": 40,
+          "tag": "UTAU"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1932037794895101953",
+          "start": 3,
+          "username": "marimo1593"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SAnOKWO1Yz",
+          "end": 69,
+          "expanded_url": "https://x.com/marimo1593/status/2088289806971506900/photo/1",
+          "media_key": "3_2088289802718527488",
+          "start": 46,
+          "url": "https://t.co/SAnOKWO1Yz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088604018725851419",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2088289802718527488"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 408
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088289806971506900",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @marimo1593: 僕を食べて❣️\n#重音テト #VOCALOID #UTAU https://t.co/SAnOKWO1Yz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088289802718527488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsYgucbwAA6v_m.jpg",
+        "width": 1449
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088289802718527488"
+          ],
+          "media_source_tweet_id": [
+            "2088289806971506900"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1509249584186343426",
+              "name": "UTAU"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1509257234663952386",
+              "name": "Vocal synthesizers"
+            }
+          }
+        ],
+        "conversation_id": "2088604018725851419",
+        "created_at": "2026-08-15T12:29:37.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T13:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088604018725851419"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 24,
+              "tag": "重音テト"
+            },
+            {
+              "end": 39,
+              "start": 30,
+              "tag": "VOCALOID"
+            },
+            {
+              "end": 45,
+              "start": 40,
+              "tag": "UTAU"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1932037794895101953",
+              "start": 3,
+              "username": "marimo1593"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SAnOKWO1Yz",
+              "end": 69,
+              "expanded_url": "https://x.com/marimo1593/status/2088289806971506900/photo/1",
+              "media_key": "3_2088289802718527488",
+              "start": 46,
+              "url": "https://t.co/SAnOKWO1Yz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088604018725851419",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088289802718527488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 408
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088289806971506900",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @marimo1593: 僕を食べて❣️\n#重音テト #VOCALOID #UTAU https://t.co/SAnOKWO1Yz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088289802718527488"
+          ]
+        },
+        "author_id": "1932037794895101953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1509249584186343426",
+              "name": "UTAU"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1509257234663952386",
+              "name": "Vocal synthesizers"
+            }
+          }
+        ],
+        "conversation_id": "2088289806971506900",
+        "created_at": "2026-08-14T15:41:03.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T16:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088289806971506900"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 8,
+              "tag": "重音テト"
+            },
+            {
+              "end": 23,
+              "start": 14,
+              "tag": "VOCALOID"
+            },
+            {
+              "end": 29,
+              "start": 24,
+              "tag": "UTAU"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SAnOKWO1Yz",
+              "end": 53,
+              "expanded_url": "https://x.com/marimo1593/status/2088289806971506900/photo/1",
+              "media_key": "3_2088289802718527488",
+              "start": 30,
+              "url": "https://t.co/SAnOKWO1Yz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088289806971506900",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088289802718527488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 518,
+          "impression_count": 32280,
+          "like_count": 5549,
+          "quote_count": 4,
+          "reply_count": 7,
+          "retweet_count": 408
+        },
+        "reply_settings": "everyone",
+        "text": "僕を食べて❣️\n#重音テト #VOCALOID #UTAU https://t.co/SAnOKWO1Yz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2088604018725851419",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2087941448981413925",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1713,
+          "following_count": 1528,
+          "like_count": 22986,
+          "listed_count": 7,
+          "media_count": 828,
+          "tweet_count": 7403
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-09T11:31:34.000Z",
+        "description": "こんにちは。marimoです\n色々お絵描きしてます。",
+        "id": "1932037794895101953",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088515910856478917",
+        "name": "marimo",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932037794895101953/1749955230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934078483581558784/t9t9TPmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 221,
+          "like_count": 20474,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "marimo1593",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

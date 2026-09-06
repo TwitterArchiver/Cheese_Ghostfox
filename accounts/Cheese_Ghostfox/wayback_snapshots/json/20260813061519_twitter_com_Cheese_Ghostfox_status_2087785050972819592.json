@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087683500359163904"
+      ],
+      "media_source_tweet_id": [
+        "2087683519162339332"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2087785050972819592",
+    "created_at": "2026-08-13T06:15:19.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T07:15:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087785050972819592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1863439189909618688",
+          "start": 3,
+          "username": "hsn8086xe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CUO4PYTIUf",
+          "end": 38,
+          "expanded_url": "https://x.com/hsn8086xe/status/2087683519162339332/photo/1",
+          "media_key": "3_2087683500359163904",
+          "start": 15,
+          "url": "https://t.co/CUO4PYTIUf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087785050972819592",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2087683500359163904"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087683519162339332",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hsn8086xe: https://t.co/CUO4PYTIUf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1207,
+        "media_key": "3_2087683500359163904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPjxFSJaIAApN2b.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087683500359163904"
+          ]
+        },
+        "author_id": "1863439189909618688",
+        "conversation_id": "2087683519162339332",
+        "created_at": "2026-08-12T23:31:52.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T00:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087683519162339332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CUO4PYTIUf",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086xe/status/2087683519162339332/photo/1",
+              "media_key": "3_2087683500359163904",
+              "start": 0,
+              "url": "https://t.co/CUO4PYTIUf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087683519162339332",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2087683500359163904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3373,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CUO4PYTIUf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087683500359163904"
+          ],
+          "media_source_tweet_id": [
+            "2087683519162339332"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2087785050972819592",
+        "created_at": "2026-08-13T06:15:19.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T07:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087785050972819592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1863439189909618688",
+              "start": 3,
+              "username": "hsn8086xe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CUO4PYTIUf",
+              "end": 38,
+              "expanded_url": "https://x.com/hsn8086xe/status/2087683519162339332/photo/1",
+              "media_key": "3_2087683500359163904",
+              "start": 15,
+              "url": "https://t.co/CUO4PYTIUf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087785050972819592",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2087683500359163904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087683519162339332",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hsn8086xe: https://t.co/CUO4PYTIUf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2087785050972819592",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1714,
+          "following_count": 1531,
+          "like_count": 22938,
+          "listed_count": 7,
+          "media_count": 824,
+          "tweet_count": 7353
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "is_identity_verified": false,
+        "location": "Internet",
+        "most_recent_tweet_id": "2087780697335562580",
+        "name": "hsn.bot",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36987,
+          "following_count": 365,
+          "like_count": 264,
+          "listed_count": 107,
+          "media_count": 18784,
+          "tweet_count": 18886
+        },
+        "url": "",
+        "username": "hsn8086xe",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

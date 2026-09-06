@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2088820264671080673",
+    "created_at": "2026-08-16T02:48:54.000Z",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T03:48:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088820264671080673"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LazyCataww/sta…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/LazyCataww/status/2088563904633020538",
+          "start": 17,
+          "url": "https://t.co/c6nXlhVBFN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088820264671080673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088563904633020538",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是在锤狐认识的那位vico吗😰 https://t.co/c6nXlhVBFN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 340,
+        "media_key": "3_2088563896017932288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwRzDja0AAKbW4.jpg",
+        "width": 1082
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2088820264671080673",
+        "created_at": "2026-08-16T02:48:54.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T03:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088820264671080673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LazyCataww/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/LazyCataww/status/2088563904633020538",
+              "start": 17,
+              "url": "https://t.co/c6nXlhVBFN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088820264671080673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088563904633020538",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是在锤狐认识的那位vico吗😰 https://t.co/c6nXlhVBFN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088563896017932288"
+          ]
+        },
+        "author_id": "1841429529413529600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2088563904633020538",
+        "created_at": "2026-08-15T09:50:13.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T10:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088563904633020538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XDrTzQG04V",
+              "end": 89,
+              "expanded_url": "https://x.com/LazyCataww/status/2088563904633020538/photo/1",
+              "media_key": "3_2088563896017932288",
+              "start": 66,
+              "url": "https://t.co/XDrTzQG04V"
+            },
+            {
+              "display_url": "x.com/moriyomiko/sta…",
+              "end": 113,
+              "expanded_url": "https://twitter.com/moriyomiko/status/2088545348956610563",
+              "start": 90,
+              "url": "https://t.co/pGO2FgGxod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088563904633020538",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088563896017932288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 224,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088545348956610563",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "yysy第一次正经和人有暧昧关系还他妈是和你V神\n虽然但是当时我还是纯情肖楚楠居然被这样的人吸引了😭\n没事了正好说明她挺有魅力的🤓 https://t.co/XDrTzQG04V https://t.co/pGO2FgGxod"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2088820264671080673",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2087941448981413925",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1718,
+          "following_count": 1529,
+          "like_count": 23025,
+          "listed_count": 7,
+          "media_count": 828,
+          "tweet_count": 7409
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-02T10:46:34.000Z",
+        "description": "emm缺爱逼泛（双？）性恋（x）爱喝酒爱吃菠萝白切鸡……长发男短发女重度依赖（确信）喜欢年上但长相多半没人喜欢……想不起来了……会写欧体不抽烟没精神疾病……差不多这些XD……很喜欢一句歌词：别忘了寂寞的山谷的角落里野百合也有春天！",
+        "id": "1841429529413529600",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088818631937597816",
+        "name": "天雨雋子",
+        "pinned_tweet_id": "2083536433558806861",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1841429529413529600/1770106296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068341947690082304/T7DnUdZU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 384,
+          "like_count": 16853,
+          "listed_count": 1,
+          "media_count": 258,
+          "tweet_count": 3413
+        },
+        "url": "",
+        "username": "LazyCataww",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

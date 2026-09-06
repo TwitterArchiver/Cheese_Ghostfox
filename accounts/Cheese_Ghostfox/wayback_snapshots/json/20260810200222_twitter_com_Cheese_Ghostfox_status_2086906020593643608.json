@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086800012076621824"
+      ],
+      "media_source_tweet_id": [
+        "2086800238715773406"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2086906020593643608",
+    "created_at": "2026-08-10T20:02:22.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T21:02:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086906020593643608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1847253576365809664",
+          "start": 3,
+          "username": "kh0KM4Owii6325"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MRqlL8oq4m",
+          "end": 49,
+          "expanded_url": "https://x.com/kh0KM4Owii6325/status/2086800238715773406/photo/1",
+          "media_key": "3_2086800012076621824",
+          "start": 26,
+          "url": "https://t.co/MRqlL8oq4m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086906020593643608",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2086800012076621824"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 505
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086800238715773406",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kh0KM4Owii6325: 猫なキメラ https://t.co/MRqlL8oq4m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2086800012076621824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPXNjf0boAAYHWk.jpg",
+        "width": 1319
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086800012076621824"
+          ]
+        },
+        "author_id": "1847253576365809664",
+        "conversation_id": "2086800238715773406",
+        "created_at": "2026-08-10T13:02:02.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T14:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086800238715773406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MRqlL8oq4m",
+              "end": 29,
+              "expanded_url": "https://x.com/kh0KM4Owii6325/status/2086800238715773406/photo/1",
+              "media_key": "3_2086800012076621824",
+              "start": 6,
+              "url": "https://t.co/MRqlL8oq4m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086800238715773406",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086800012076621824"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 955,
+          "impression_count": 87307,
+          "like_count": 12803,
+          "quote_count": 6,
+          "reply_count": 10,
+          "retweet_count": 505
+        },
+        "reply_settings": "everyone",
+        "text": "猫なキメラ https://t.co/MRqlL8oq4m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086800012076621824"
+          ],
+          "media_source_tweet_id": [
+            "2086800238715773406"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2086906020593643608",
+        "created_at": "2026-08-10T20:02:22.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T21:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086906020593643608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1847253576365809664",
+              "start": 3,
+              "username": "kh0KM4Owii6325"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MRqlL8oq4m",
+              "end": 49,
+              "expanded_url": "https://x.com/kh0KM4Owii6325/status/2086800238715773406/photo/1",
+              "media_key": "3_2086800012076621824",
+              "start": 26,
+              "url": "https://t.co/MRqlL8oq4m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086906020593643608",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086800012076621824"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 505
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086800238715773406",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kh0KM4Owii6325: 猫なキメラ https://t.co/MRqlL8oq4m"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2086906020593643608",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1718,
+          "following_count": 1532,
+          "like_count": 22791,
+          "listed_count": 7,
+          "media_count": 821,
+          "tweet_count": 7314
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-18T12:29:21.000Z",
+        "description": "レイテト大好き人間❤️🧡\n反応とてもとても遅いです。落書き多め\n無断転載、AI学習禁止",
+        "id": "1847253576365809664",
+        "is_identity_verified": false,
+        "location": "妄想",
+        "most_recent_tweet_id": "2086804735173296412",
+        "name": "もちもち",
+        "pinned_tweet_id": "2076288409157665237",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1847253576365809664/1752984091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940039292547379200/d4L2LeK3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14176,
+          "following_count": 35,
+          "like_count": 3223,
+          "listed_count": 37,
+          "media_count": 318,
+          "tweet_count": 614
+        },
+        "url": "",
+        "username": "kh0KM4Owii6325",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

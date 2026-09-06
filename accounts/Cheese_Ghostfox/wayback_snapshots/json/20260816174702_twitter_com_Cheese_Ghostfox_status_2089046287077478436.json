@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073828438100819968"
+      ],
+      "media_source_tweet_id": [
+        "2073828472766828853"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2089046287077478436",
+    "created_at": "2026-08-16T17:47:02.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T18:47:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089046287077478436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1815787009069498368",
+          "start": 3,
+          "username": "mossacannibali3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/amMQ4G5DqM",
+          "end": 44,
+          "expanded_url": "https://x.com/mossacannibali3/status/2073828472766828853/photo/1",
+          "media_key": "3_2073828438100819968",
+          "start": 21,
+          "url": "https://t.co/amMQ4G5DqM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089046287077478436",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2073828438100819968"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 424
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073828472766828853",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mossacannibali3: https://t.co/amMQ4G5DqM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1627,
+        "media_key": "3_2073828438100819968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMe3-hIaQAA7Vdj.jpg",
+        "width": 1063
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073828438100819968"
+          ],
+          "media_source_tweet_id": [
+            "2073828472766828853"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2089046287077478436",
+        "created_at": "2026-08-16T17:47:02.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T18:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089046287077478436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1815787009069498368",
+              "start": 3,
+              "username": "mossacannibali3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/amMQ4G5DqM",
+              "end": 44,
+              "expanded_url": "https://x.com/mossacannibali3/status/2073828472766828853/photo/1",
+              "media_key": "3_2073828438100819968",
+              "start": 21,
+              "url": "https://t.co/amMQ4G5DqM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089046287077478436",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2073828438100819968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 424
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073828472766828853",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mossacannibali3: https://t.co/amMQ4G5DqM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073828438100819968"
+          ]
+        },
+        "author_id": "1815787009069498368",
+        "conversation_id": "2073828472766828853",
+        "created_at": "2026-07-05T17:56:52.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:56:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073828472766828853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/amMQ4G5DqM",
+              "end": 23,
+              "expanded_url": "https://x.com/mossacannibali3/status/2073828472766828853/photo/1",
+              "media_key": "3_2073828438100819968",
+              "start": 0,
+              "url": "https://t.co/amMQ4G5DqM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073828472766828853",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2073828438100819968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 743,
+          "impression_count": 66662,
+          "like_count": 5069,
+          "quote_count": 1,
+          "reply_count": 26,
+          "retweet_count": 424
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/amMQ4G5DqM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2089046287077478436",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2087941448981413925",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1716,
+          "following_count": 1529,
+          "like_count": 23077,
+          "listed_count": 7,
+          "media_count": 830,
+          "tweet_count": 7431
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-23T16:32:29.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/mossacannibalis",
+                "end": 23,
+                "expanded_url": "https://x.com/mossacannibalis",
+                "start": 0,
+                "url": "https://t.co/hLhrFKvhWu"
+              }
+            ]
+          }
+        },
+        "id": "1815787009069498368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088858879866351949",
+        "name": "🔞6220M",
+        "pinned_tweet_id": "1815793633838379440",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1815787009069498368/1785904872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084864028833447936/Ag6pCzvw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72922,
+          "following_count": 1551,
+          "like_count": 23209,
+          "listed_count": 248,
+          "media_count": 568,
+          "tweet_count": 20878
+        },
+        "url": "https://t.co/hLhrFKvhWu",
+        "username": "mossacannibali3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

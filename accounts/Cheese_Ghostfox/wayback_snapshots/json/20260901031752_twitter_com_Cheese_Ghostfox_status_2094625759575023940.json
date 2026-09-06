@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094499682953371648"
+      ],
+      "media_source_tweet_id": [
+        "2094499745503031585"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2094625759575023940",
+    "created_at": "2026-09-01T03:17:52.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T04:17:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094625759575023940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1980612332754739200",
+          "start": 3,
+          "username": "CNt8Az2Qlx86395"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/No3WHgpXTM",
+          "end": 49,
+          "expanded_url": "https://x.com/CNt8Az2Qlx86395/status/2094499745503031585/photo/1",
+          "media_key": "3_2094499682953371648",
+          "start": 26,
+          "url": "https://t.co/No3WHgpXTM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094625759575023940",
+    "lang": "es",
+    "media_metadata": [
+      {
+        "media_key": "3_2094499682953371648"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 287
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094499745503031585",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CNt8Az2Qlx86395: Teto https://t.co/No3WHgpXTM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_2094499682953371648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HREoXVCaoAAEn5F.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094499682953371648"
+          ],
+          "media_source_tweet_id": [
+            "2094499745503031585"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2094625759575023940",
+        "created_at": "2026-09-01T03:17:52.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T04:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094625759575023940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1980612332754739200",
+              "start": 3,
+              "username": "CNt8Az2Qlx86395"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/No3WHgpXTM",
+              "end": 49,
+              "expanded_url": "https://x.com/CNt8Az2Qlx86395/status/2094499745503031585/photo/1",
+              "media_key": "3_2094499682953371648",
+              "start": 26,
+              "url": "https://t.co/No3WHgpXTM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094625759575023940",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2094499682953371648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 287
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094499745503031585",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CNt8Az2Qlx86395: Teto https://t.co/No3WHgpXTM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094499682953371648"
+          ]
+        },
+        "author_id": "1980612332754739200",
+        "conversation_id": "2094499745503031585",
+        "created_at": "2026-08-31T18:57:07.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T19:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094499745503031585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/No3WHgpXTM",
+              "end": 28,
+              "expanded_url": "https://x.com/CNt8Az2Qlx86395/status/2094499745503031585/photo/1",
+              "media_key": "3_2094499682953371648",
+              "start": 5,
+              "url": "https://t.co/No3WHgpXTM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094499745503031585",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2094499682953371648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1482,
+          "impression_count": 46890,
+          "like_count": 8464,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 287
+        },
+        "reply_settings": "everyone",
+        "text": "Teto https://t.co/No3WHgpXTM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2094625759575023940",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2087941448981413925",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1819,
+          "following_count": 1527,
+          "like_count": 24222,
+          "listed_count": 8,
+          "media_count": 867,
+          "tweet_count": 7750
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:29:43.000Z",
+        "description": "AI generated",
+        "id": "1980612332754739200",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094499745503031585",
+        "name": "keep senpai",
+        "pinned_tweet_id": "1983403987291521148",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612332754739200/1788189522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094444774451556352/72pNkdZ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 0,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "CNt8Az2Qlx86395",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

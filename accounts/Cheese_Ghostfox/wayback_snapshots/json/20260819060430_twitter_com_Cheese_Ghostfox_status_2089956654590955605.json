@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2089956654590955605",
+    "created_at": "2026-08-19T06:04:30.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T07:04:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089956654590955605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "631662638",
+          "start": 3,
+          "username": "Meytrullers17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089956654590955605",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33456
+    },
+    "referenced_tweets": [
+      {
+        "id": "254231749758943233",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Meytrullers17: Stop chat gpt!!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2089956654590955605",
+        "created_at": "2026-08-19T06:04:30.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089956654590955605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "631662638",
+              "start": 3,
+              "username": "Meytrullers17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089956654590955605",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33456
+        },
+        "referenced_tweets": [
+          {
+            "id": "254231749758943233",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Meytrullers17: Stop chat gpt!!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "631662638",
+        "conversation_id": "254231749758943233",
+        "created_at": "2012-10-05T14:49:07.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2012-10-05T15:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "254231749758943233"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "254231749758943233",
+        "lang": "en",
+        "note_request_suggestions": [
+          {
+            "suggestion": "this is a tried technique that accounts use to farm engagement by shouting random things on private accounts and then un-privating them",
+            "suggestion_id": "2089203647771021554"
+          },
+          {
+            "suggestion": "engagement bait",
+            "suggestion_id": "2089283683198914986"
+          },
+          {
+            "source_link": "https://x.com/i/status/2089267848472588543",
+            "suggestion": "It's an abbreviation for useless",
+            "suggestion_id": "2089288152619921410"
+          },
+          {
+            "suggestion": "This user is known for using abbreviations. In this context, 'gpt' can stand for 'ga penting' (not important).",
+            "suggestion_id": "2089299728169414922"
+          },
+          {
+            "suggestion": "Grok explains that this is actually a phrase in Indonesia that means 'stop pointless texting'",
+            "suggestion_id": "2089367689106002168"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30409,
+          "impression_count": 0,
+          "like_count": 190407,
+          "quote_count": 5733,
+          "reply_count": 2966,
+          "retweet_count": 33456
+        },
+        "reply_settings": "everyone",
+        "suggested_source_links": [
+          "https://x.com/i/status/2089267848472588543",
+          "https://x.com/bakul_pinguin/status/2089143886870634862"
+        ],
+        "suggested_source_links_with_counts": [
+          {
+            "count": "2",
+            "url": "https://x.com/bakul_pinguin/status/2089143886870634862"
+          },
+          {
+            "count": "3",
+            "url": "https://x.com/i/status/2089267848472588543"
+          }
+        ],
+        "text": "Stop chat gpt!!"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2089956654590955605",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2087941448981413925",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1727,
+          "following_count": 1533,
+          "like_count": 23241,
+          "listed_count": 7,
+          "media_count": 834,
+          "tweet_count": 7493
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-07-10T04:04:47.000Z",
+        "description": "Let your dreams be bigger than your fears and your actions louder than your words.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/Meytrullers17",
+                "end": 22,
+                "expanded_url": "https://twitter.com/Meytrullers17",
+                "start": 0,
+                "url": "http://t.co/UKW3vPqJeP"
+              }
+            ]
+          }
+        },
+        "id": "631662638",
+        "is_identity_verified": false,
+        "location": "america, USA",
+        "most_recent_tweet_id": "359308270952906753",
+        "name": "Marieanne",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/631662638/1371221622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/344513261577836547/afaca7e393e96d15ec74d15474f48a86_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2068,
+          "following_count": 66,
+          "like_count": 223,
+          "listed_count": 5,
+          "media_count": 143,
+          "tweet_count": 46970
+        },
+        "url": "http://t.co/UKW3vPqJeP",
+        "username": "Meytrullers17",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

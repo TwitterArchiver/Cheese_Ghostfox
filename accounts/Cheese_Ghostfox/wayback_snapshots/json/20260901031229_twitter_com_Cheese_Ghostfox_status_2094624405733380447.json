@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094383258729652224"
+      ],
+      "media_source_tweet_id": [
+        "2094383264626803039"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2094624405733380447",
+    "created_at": "2026-09-01T03:12:29.000Z",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T04:12:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094624405733380447"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 36,
+          "tag": "重音テト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1596503034523066370",
+          "start": 3,
+          "username": "killergangAI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iZxeHPLlqH",
+          "end": 65,
+          "expanded_url": "https://x.com/killergangAI/status/2094383264626803039/photo/1",
+          "media_key": "3_2094383258729652224",
+          "start": 42,
+          "url": "https://t.co/iZxeHPLlqH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094624405733380447",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2094383258729652224"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 96
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094383264626803039",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @killergangAI: 今日はミクばっかりで不機嫌なテト\n #重音テト https://t.co/iZxeHPLlqH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1456,
+        "media_key": "3_2094383258729652224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRC-ejAbIAAKwfV.jpg",
+        "width": 816
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094383258729652224"
+          ],
+          "media_source_tweet_id": [
+            "2094383264626803039"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2094624405733380447",
+        "created_at": "2026-09-01T03:12:29.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T04:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094624405733380447"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 36,
+              "tag": "重音テト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596503034523066370",
+              "start": 3,
+              "username": "killergangAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iZxeHPLlqH",
+              "end": 65,
+              "expanded_url": "https://x.com/killergangAI/status/2094383264626803039/photo/1",
+              "media_key": "3_2094383258729652224",
+              "start": 42,
+              "url": "https://t.co/iZxeHPLlqH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094624405733380447",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094383258729652224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 96
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094383264626803039",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @killergangAI: 今日はミクばっかりで不機嫌なテト\n #重音テト https://t.co/iZxeHPLlqH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094383258729652224"
+          ]
+        },
+        "author_id": "1596503034523066370",
+        "conversation_id": "2094383264626803039",
+        "created_at": "2026-08-31T11:14:16.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T12:14:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094383264626803039"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "重音テト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iZxeHPLlqH",
+              "end": 47,
+              "expanded_url": "https://x.com/killergangAI/status/2094383264626803039/photo/1",
+              "media_key": "3_2094383258729652224",
+              "start": 24,
+              "url": "https://t.co/iZxeHPLlqH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094383264626803039",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094383258729652224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 100,
+          "impression_count": 6595,
+          "like_count": 1176,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 96
+        },
+        "reply_settings": "everyone",
+        "text": "今日はミクばっかりで不機嫌なテト\n #重音テト https://t.co/iZxeHPLlqH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2094624405733380447",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2087941448981413925",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1819,
+          "following_count": 1527,
+          "like_count": 24216,
+          "listed_count": 7,
+          "media_count": 867,
+          "tweet_count": 7749
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-26T13:56:10.000Z",
+        "description": "こちらのイラストはAI生成です。AI生成否定派の方はそっとブロックしてください。\nサブ垢→@a_killer_sub作り直しました。こちらがシャドウバン等になった時はサブ垢でイラスト上げて行きます\n\n無断転載禁止❌許可なく使用禁止❌個人使用は許可しますが一言お願いします",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "a_killer_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/killergangai",
+                "end": 23,
+                "expanded_url": "http://pixiv.me/killergangai",
+                "start": 0,
+                "url": "https://t.co/u0aXbJKyCY"
+              }
+            ]
+          }
+        },
+        "id": "1596503034523066370",
+        "is_identity_verified": false,
+        "location": "関西",
+        "most_recent_tweet_id": "2094604207815053511",
+        "name": "暁(ｱｷﾗ)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596503034523066370/1692178626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041438989618733056/8uLcCG3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6835,
+          "following_count": 1378,
+          "like_count": 21028,
+          "listed_count": 31,
+          "media_count": 3895,
+          "tweet_count": 6202
+        },
+        "url": "https://t.co/u0aXbJKyCY",
+        "username": "killergangAI",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

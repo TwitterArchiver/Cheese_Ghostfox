@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090094545858150400"
+      ],
+      "media_source_tweet_id": [
+        "2090100004602142792"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2090462108437913854",
+    "created_at": "2026-08-20T15:33:00.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T16:33:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090462108437913854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2025704374186688512",
+          "start": 3,
+          "username": "MANTAray_tag"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MBRr1KkMnp",
+          "end": 53,
+          "expanded_url": "https://x.com/MANTAray_tag/status/2090100004602142792/photo/1",
+          "media_key": "3_2090094545858150400",
+          "start": 30,
+          "url": "https://t.co/MBRr1KkMnp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090462108437913854",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "alt_text": "海よりも、エイよりも、テトが一番輝いている",
+        "media_key": "3_2090094545858150400"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 74
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090100004602142792",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MANTAray_tag: テトさんと水族館デート https://t.co/MBRr1KkMnp"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "海よりも、エイよりも、テトが一番輝いている",
+        "height": 1079,
+        "media_key": "3_2090094545858150400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQGB6mjbQAA2pGz.jpg",
+        "width": 773
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090094545858150400"
+          ],
+          "media_source_tweet_id": [
+            "2090100004602142792"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2090462108437913854",
+        "created_at": "2026-08-20T15:33:00.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T16:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090462108437913854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2025704374186688512",
+              "start": 3,
+              "username": "MANTAray_tag"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MBRr1KkMnp",
+              "end": 53,
+              "expanded_url": "https://x.com/MANTAray_tag/status/2090100004602142792/photo/1",
+              "media_key": "3_2090094545858150400",
+              "start": 30,
+              "url": "https://t.co/MBRr1KkMnp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090462108437913854",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "alt_text": "海よりも、エイよりも、テトが一番輝いている",
+            "media_key": "3_2090094545858150400"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090100004602142792",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MANTAray_tag: テトさんと水族館デート https://t.co/MBRr1KkMnp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090094545858150400"
+          ]
+        },
+        "author_id": "2025704374186688512",
+        "conversation_id": "2090100004602142792",
+        "created_at": "2026-08-19T15:34:07.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T16:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090100004602142792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MBRr1KkMnp",
+              "end": 35,
+              "expanded_url": "https://x.com/MANTAray_tag/status/2090100004602142792/photo/1",
+              "media_key": "3_2090094545858150400",
+              "start": 12,
+              "url": "https://t.co/MBRr1KkMnp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090100004602142792",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "alt_text": "海よりも、エイよりも、テトが一番輝いている",
+            "media_key": "3_2090094545858150400"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 3481,
+          "like_count": 733,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "テトさんと水族館デート https://t.co/MBRr1KkMnp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2090462108437913854",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2087941448981413925",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1735,
+          "following_count": 1531,
+          "like_count": 23390,
+          "listed_count": 7,
+          "media_count": 839,
+          "tweet_count": 7536
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-22T22:49:02.000Z",
+        "description": "그림 그립니다 3개 국어 가능! ( K,J,E\n重音テト❤️",
+        "id": "2025704374186688512",
+        "is_identity_verified": false,
+        "location": "ai❌",
+        "most_recent_tweet_id": "2090100004602142792",
+        "name": "tag",
+        "pinned_tweet_id": "2083263083536110021",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025704374186688512/1786132928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088908921809539072/S6icD4u5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 11,
+          "like_count": 651,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "MANTAray_tag",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2083400058461208586",
+    "created_at": "2026-08-01T03:50:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T04:50:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083400058461208586"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DustSwallo1580…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/DustSwallo15805/status/2083232115907584471",
+          "start": 21,
+          "url": "https://t.co/mm43uBIJas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083400058461208586",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083232115907584471",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "咱对对象依赖度好高，没有她就活不下去了🥹 https://t.co/mm43uBIJas"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2083400058461208586",
+        "created_at": "2026-08-01T03:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T04:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083400058461208586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DustSwallo1580…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/DustSwallo15805/status/2083232115907584471",
+              "start": 21,
+              "url": "https://t.co/mm43uBIJas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083400058461208586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083232115907584471",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "咱对对象依赖度好高，没有她就活不下去了🥹 https://t.co/mm43uBIJas"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "2083232115907584471",
+        "created_at": "2026-07-31T16:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T17:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083232115907584471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/senzhiwu/statu…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/senzhiwu/status/2083206197935804833",
+              "start": 21,
+              "url": "https://t.co/84mvLNClJm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083232115907584471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 480,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083206197935804833",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "咱对对象依赖度好高，没有她就活不下去了🥹 https://t.co/84mvLNClJm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1644,
+          "following_count": 1520,
+          "like_count": 22104,
+          "listed_count": 7,
+          "media_count": 808,
+          "tweet_count": 7174
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "沙／莱｜コイビト： @EimeiLait ｜萊萊重度依賴｜重要的人：@Kuroneko450430｜顺直男｜铁道、集邮、摄影、卡迷｜尼康大法好｜HRT：11.05.2025｜CN EN RU｜黄河入海，各回各家｜可爱xyn： @Murong_WangKezi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Kuroneko450430"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "Murong_WangKezi"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段  沙老师翻车委员会   莱莱贴贴管理局",
+        "name": "Cassiopeia🍥 等待萊萊時期",
+        "pinned_tweet_id": "2076947210789695824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082426031697453056/fExfShIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 903,
+          "following_count": 915,
+          "like_count": 91371,
+          "listed_count": 5,
+          "media_count": 758,
+          "tweet_count": 4605
+        },
+        "url": "",
+        "username": "DustSwallo15805",
+        "verified": true
+      }
+    ]
+  }
+}

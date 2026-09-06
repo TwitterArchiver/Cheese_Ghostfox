@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2092555054062416248",
+    "created_at": "2026-08-26T10:09:37.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T11:09:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092555054062416248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1957509667787325440",
+          "start": 3,
+          "username": "_yuki_owo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092555054062416248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092347419015200927",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_yuki_owo: 我感觉我好像喜欢上了一个人。我不知道我该不该表白。好怕表白了连朋友都做不成。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2092555054062416248",
+        "created_at": "2026-08-26T10:09:37.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T11:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092555054062416248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1957509667787325440",
+              "start": 3,
+              "username": "_yuki_owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092555054062416248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092347419015200927",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_yuki_owo: 我感觉我好像喜欢上了一个人。我不知道我该不该表白。好怕表白了连朋友都做不成。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "conversation_id": "2092347419015200927",
+        "created_at": "2026-08-25T20:24:33.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T21:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092347419015200927"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092347419015200927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1680,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉我好像喜欢上了一个人。我不知道我该不该表白。好怕表白了连朋友都做不成。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2092555054062416248",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2087941448981413925",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1774,
+          "following_count": 1523,
+          "like_count": 23751,
+          "listed_count": 7,
+          "media_count": 852,
+          "tweet_count": 7635
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "我叫七七/互fo/漏fo可以私我\n穿孔/od/自伤会标预警\n脑子烂掉了的神人一个\n不收门槛/不线下/不卖/随缘交友",
+        "id": "1957509667787325440",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2092348012555333910",
+        "name": "下水道",
+        "pinned_tweet_id": "2090385958864859579",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1957509667787325440/1784001153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092177123457040384/c-tznVV8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1011,
+          "following_count": 755,
+          "like_count": 3877,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 2135
+        },
+        "url": "",
+        "username": "_yuki_owo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

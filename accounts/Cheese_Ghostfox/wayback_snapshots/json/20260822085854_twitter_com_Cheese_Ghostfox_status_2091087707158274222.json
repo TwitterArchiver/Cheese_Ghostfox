@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090649149868032000"
+      ],
+      "media_source_tweet_id": [
+        "2090649155400302837"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2091087707158274222",
+    "created_at": "2026-08-22T08:58:54.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T09:58:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091087707158274222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1542543808163749891",
+          "start": 3,
+          "username": "rirurima"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aoNADKVaSG",
+          "end": 42,
+          "expanded_url": "https://x.com/rirurima/status/2090649155400302837/photo/1",
+          "media_key": "3_2090649149868032000",
+          "start": 19,
+          "url": "https://t.co/aoNADKVaSG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091087707158274222",
+    "lang": "und",
+    "media_metadata": [
+      {
+        "media_key": "3_2090649149868032000"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 138
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090649155400302837",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rirurima: pppp https://t.co/aoNADKVaSG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1162,
+        "media_key": "3_2090649149868032000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQN6UzfbQAA5qEH.jpg",
+        "width": 836
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090649149868032000"
+          ],
+          "media_source_tweet_id": [
+            "2090649155400302837"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2091087707158274222",
+        "created_at": "2026-08-22T08:58:54.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T09:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091087707158274222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1542543808163749891",
+              "start": 3,
+              "username": "rirurima"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aoNADKVaSG",
+              "end": 42,
+              "expanded_url": "https://x.com/rirurima/status/2090649155400302837/photo/1",
+              "media_key": "3_2090649149868032000",
+              "start": 19,
+              "url": "https://t.co/aoNADKVaSG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091087707158274222",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2090649149868032000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 138
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090649155400302837",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rirurima: pppp https://t.co/aoNADKVaSG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090649149868032000"
+          ]
+        },
+        "author_id": "1542543808163749891",
+        "conversation_id": "2090649155400302837",
+        "created_at": "2026-08-21T03:56:15.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T04:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090649155400302837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aoNADKVaSG",
+              "end": 28,
+              "expanded_url": "https://x.com/rirurima/status/2090649155400302837/photo/1",
+              "media_key": "3_2090649149868032000",
+              "start": 5,
+              "url": "https://t.co/aoNADKVaSG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090649155400302837",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2090649149868032000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 142,
+          "impression_count": 8699,
+          "like_count": 1984,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 138
+        },
+        "reply_settings": "everyone",
+        "text": "pppp https://t.co/aoNADKVaSG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2091087707158274222",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2087941448981413925",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1769,
+          "following_count": 1530,
+          "like_count": 23470,
+          "listed_count": 7,
+          "media_count": 841,
+          "tweet_count": 7572
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-30T16:21:32.000Z",
+        "description": "?襟足の付いたトカゲちゃん\n※その時ハマってる者を出現させます\nskeb▶︎ https://t.co/VWYrDVFwGR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/rirurima/statu…",
+                "end": 62,
+                "expanded_url": "https://x.com/rirurima/status/2036485521799786822?s=46&t=YhNlXzpPdhIWeU0DwqovJA",
+                "start": 39,
+                "url": "https://t.co/VWYrDVFwGR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@rirurima",
+                "end": 23,
+                "expanded_url": "http://www.tiktok.com/@rirurima",
+                "start": 0,
+                "url": "https://t.co/jahYQXiYu4"
+              }
+            ]
+          }
+        },
+        "id": "1542543808163749891",
+        "is_identity_verified": false,
+        "location": "ちぇりお",
+        "most_recent_tweet_id": "2090649155400302837",
+        "name": "りるりま",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1542543808163749891/1764790880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036511794429304835/cejNYQnq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6019,
+          "following_count": 79,
+          "like_count": 5470,
+          "listed_count": 40,
+          "media_count": 224,
+          "tweet_count": 718
+        },
+        "url": "https://t.co/jahYQXiYu4",
+        "username": "rirurima",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

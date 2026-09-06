@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094131744262029312"
+      ],
+      "media_source_tweet_id": [
+        "2094131751920799973"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "2094179594731712615",
+    "created_at": "2026-08-30T21:44:58.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T22:44:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094179594731712615"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 18,
+          "tag": "ENVtuber"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1953175319244095492",
+          "start": 3,
+          "username": "Momochiii_vt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3Nvp97rMmA",
+          "end": 51,
+          "expanded_url": "https://x.com/Momochiii_vt/status/2094131751920799973/photo/1",
+          "media_key": "3_2094131744262029312",
+          "start": 28,
+          "url": "https://t.co/3Nvp97rMmA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094179594731712615",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2094131744262029312"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094131751920799973",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Momochiii_vt: #ENVtuber https://t.co/3Nvp97rMmA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1479,
+        "media_key": "3_2094131744262029312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ_ZuembgAAnJGI.jpg",
+        "width": 704
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094131744262029312"
+          ],
+          "media_source_tweet_id": [
+            "2094131751920799973"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2094179594731712615",
+        "created_at": "2026-08-30T21:44:58.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T22:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094179594731712615"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 18,
+              "tag": "ENVtuber"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1953175319244095492",
+              "start": 3,
+              "username": "Momochiii_vt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Nvp97rMmA",
+              "end": 51,
+              "expanded_url": "https://x.com/Momochiii_vt/status/2094131751920799973/photo/1",
+              "media_key": "3_2094131744262029312",
+              "start": 28,
+              "url": "https://t.co/3Nvp97rMmA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094179594731712615",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2094131744262029312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094131751920799973",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Momochiii_vt: #ENVtuber https://t.co/3Nvp97rMmA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094131744262029312"
+          ]
+        },
+        "author_id": "1953175319244095492",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2094131751920799973",
+        "created_at": "2026-08-30T18:34:51.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T19:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094131751920799973"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "ENVtuber"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Nvp97rMmA",
+              "end": 33,
+              "expanded_url": "https://x.com/Momochiii_vt/status/2094131751920799973/photo/1",
+              "media_key": "3_2094131744262029312",
+              "start": 10,
+              "url": "https://t.co/3Nvp97rMmA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094131751920799973",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2094131744262029312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 2646,
+          "like_count": 473,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "#ENVtuber https://t.co/3Nvp97rMmA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2094179594731712615",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2087941448981413925",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1802,
+          "following_count": 1525,
+          "like_count": 24107,
+          "listed_count": 7,
+          "media_count": 865,
+          "tweet_count": 7723
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-06T19:25:02.000Z",
+        "description": "Making Good Vibes And Having Good Times\n❗I like To Play Games 🎮\n❗Pre-Debut #Vtuber\n❗New Model : (WIP)\n❗She/Her",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 75,
+                "tag": "Vtuber"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/momochiii_vt",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/momochiii_vt",
+                "start": 0,
+                "url": "https://t.co/ERhAahNg44"
+              }
+            ]
+          }
+        },
+        "id": "1953175319244095492",
+        "is_identity_verified": false,
+        "location": "USA",
+        "most_recent_tweet_id": "2094131751920799973",
+        "name": "Momochiii ‼️PRE-DEBUT VTUBER‼️",
+        "pinned_tweet_id": "2086583244200542595",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1953175319244095492/1788113986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094125492668596224/GCGimbtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1441,
+          "following_count": 102,
+          "like_count": 11112,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 221
+        },
+        "url": "https://t.co/ERhAahNg44",
+        "username": "Momochiii_vt",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

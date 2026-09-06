@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087461268773093377"
+      ],
+      "media_source_tweet_id": [
+        "2087461275848900815"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2087720085263925692",
+    "created_at": "2026-08-13T01:57:10.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T02:57:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087720085263925692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2022799747749380096",
+          "start": 3,
+          "username": "yungun0E30"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PfHycalMro",
+          "end": 44,
+          "expanded_url": "https://x.com/yungun0E30/status/2087461275848900815/photo/1",
+          "media_key": "3_2087461268773093377",
+          "start": 21,
+          "url": "https://t.co/PfHycalMro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087720085263925692",
+    "lang": "es",
+    "media_metadata": [
+      {
+        "media_key": "3_2087461268773093377"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 973
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087461275848900815",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yungun0E30: teto https://t.co/PfHycalMro"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2087461268773093377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPgm9s-bQAEHPlO.jpg",
+        "width": 2570
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087461268773093377"
+          ]
+        },
+        "author_id": "2022799747749380096",
+        "conversation_id": "2087461275848900815",
+        "created_at": "2026-08-12T08:48:45.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T09:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087461275848900815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PfHycalMro",
+              "end": 28,
+              "expanded_url": "https://x.com/yungun0E30/status/2087461275848900815/photo/1",
+              "media_key": "3_2087461268773093377",
+              "start": 5,
+              "url": "https://t.co/PfHycalMro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087461275848900815",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2087461268773093377"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2949,
+          "impression_count": 115208,
+          "like_count": 19584,
+          "quote_count": 10,
+          "reply_count": 34,
+          "retweet_count": 973
+        },
+        "reply_settings": "everyone",
+        "text": "teto https://t.co/PfHycalMro"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087461268773093377"
+          ],
+          "media_source_tweet_id": [
+            "2087461275848900815"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2087720085263925692",
+        "created_at": "2026-08-13T01:57:10.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T02:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087720085263925692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2022799747749380096",
+              "start": 3,
+              "username": "yungun0E30"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PfHycalMro",
+              "end": 44,
+              "expanded_url": "https://x.com/yungun0E30/status/2087461275848900815/photo/1",
+              "media_key": "3_2087461268773093377",
+              "start": 21,
+              "url": "https://t.co/PfHycalMro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087720085263925692",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2087461268773093377"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 973
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087461275848900815",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yungun0E30: teto https://t.co/PfHycalMro"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2087720085263925692",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1713,
+          "following_count": 1529,
+          "like_count": 22888,
+          "listed_count": 7,
+          "media_count": 823,
+          "tweet_count": 7337
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-14T22:27:14.000Z",
+        "description": "🎨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/46972487",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/46972487",
+                "start": 0,
+                "url": "https://t.co/R1FKE7FbJG"
+              }
+            ]
+          }
+        },
+        "id": "2022799747749380096",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087523862124863845",
+        "name": "YunGun",
+        "pinned_tweet_id": "2087461275848900815",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2022799747749380096/1775076151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084067286168862720/UoSkpq8D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15193,
+          "following_count": 664,
+          "like_count": 4454,
+          "listed_count": 68,
+          "media_count": 80,
+          "tweet_count": 1103
+        },
+        "url": "https://t.co/R1FKE7FbJG",
+        "username": "yungun0E30",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

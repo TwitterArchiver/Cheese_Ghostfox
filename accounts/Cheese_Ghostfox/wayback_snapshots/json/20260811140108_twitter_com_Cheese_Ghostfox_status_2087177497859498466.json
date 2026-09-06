@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086890102962499584"
+      ],
+      "media_source_tweet_id": [
+        "2086890116430418275"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2087177497859498466",
+    "created_at": "2026-08-11T14:01:08.000Z",
+    "display_text_range": [
+      0,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T15:01:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087177497859498466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1699797396589588480",
+          "start": 3,
+          "username": "MaxForAI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gIIXG9X4pT",
+          "end": 63,
+          "expanded_url": "https://x.com/MaxForAI/status/2086890116430418275/photo/1",
+          "media_key": "3_2086890102962499584",
+          "start": 40,
+          "url": "https://t.co/gIIXG9X4pT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087177497859498466",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086890102962499584"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086890116430418275",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MaxForAI: 不是，为什么有人能画DeepSeek的本子啊？？？ https://t.co/gIIXG9X4pT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2086890102962499584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPYffehbsAAYUie.jpg",
+        "width": 977
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086890102962499584"
+          ]
+        },
+        "author_id": "1699797396589588480",
+        "conversation_id": "2086890116430418275",
+        "created_at": "2026-08-10T18:59:10.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T19:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086890116430418275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gIIXG9X4pT",
+              "end": 49,
+              "expanded_url": "https://x.com/MaxForAI/status/2086890116430418275/photo/1",
+              "media_key": "3_2086890102962499584",
+              "start": 26,
+              "url": "https://t.co/gIIXG9X4pT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086890116430418275",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086890102962499584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 18325,
+          "like_count": 334,
+          "quote_count": 2,
+          "reply_count": 57,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "不是，为什么有人能画DeepSeek的本子啊？？？ https://t.co/gIIXG9X4pT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086890102962499584"
+          ],
+          "media_source_tweet_id": [
+            "2086890116430418275"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2087177497859498466",
+        "created_at": "2026-08-11T14:01:08.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T15:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087177497859498466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1699797396589588480",
+              "start": 3,
+              "username": "MaxForAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gIIXG9X4pT",
+              "end": 63,
+              "expanded_url": "https://x.com/MaxForAI/status/2086890116430418275/photo/1",
+              "media_key": "3_2086890102962499584",
+              "start": 40,
+              "url": "https://t.co/gIIXG9X4pT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087177497859498466",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086890102962499584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086890116430418275",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MaxForAI: 不是，为什么有人能画DeepSeek的本子啊？？？ https://t.co/gIIXG9X4pT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2087177497859498466",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1717,
+          "following_count": 1529,
+          "like_count": 22799,
+          "listed_count": 7,
+          "media_count": 821,
+          "tweet_count": 7315
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2038488993130848256/PyVXwans_bigger.jpg",
+          "description": "LobeHub",
+          "url": "https://twitter.com/lobehub",
+          "user_id": [
+            "1707003452700930048"
+          ]
+        },
+        "created_at": "2023-09-07T14:51:17.000Z",
+        "description": "本科辍学创业，没啥好看的，也就发点AI相关的内容🫡\nHead of growth @lobehub（81K🌟）\nPrev @listenhub @Sapient_Int \n同名小红书4万粉丝，公众号01Founder（长文首发）\n观点仅代表个人\n更多请访问网站⬇️（欢迎商务、合作",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "lobehub"
+              },
+              {
+                "end": 71,
+                "start": 61,
+                "username": "listenhub"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Sapient_Int"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maxforai.com",
+                "end": 23,
+                "expanded_url": "http://maxforai.com",
+                "start": 0,
+                "url": "https://t.co/Sl0Wv6feey"
+              }
+            ]
+          }
+        },
+        "id": "1699797396589588480",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2087125664575209764",
+        "name": "Max For AI",
+        "pinned_tweet_id": "2086799688666382808",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1699797396589588480/1777493285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885611457376903171/zWWnahYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26399,
+          "following_count": 2651,
+          "like_count": 19683,
+          "listed_count": 240,
+          "media_count": 1228,
+          "tweet_count": 8919
+        },
+        "url": "https://t.co/Sl0Wv6feey",
+        "username": "MaxForAI",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

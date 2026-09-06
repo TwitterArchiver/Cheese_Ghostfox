@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2094377259067126219",
+    "created_at": "2026-08-31T10:50:24.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T11:50:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094377259067126219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "62821796",
+          "start": 3,
+          "username": "WinRAR_RARLAB"
+        },
+        {
+          "end": 30,
+          "id": "1643176362537279489",
+          "start": 19,
+          "username": "yashmp2004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094377259067126219",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094352481945866733",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WinRAR_RARLAB: @yashmp2004 We sell licenses..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2094377259067126219",
+        "created_at": "2026-08-31T10:50:24.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T11:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094377259067126219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "62821796",
+              "start": 3,
+              "username": "WinRAR_RARLAB"
+            },
+            {
+              "end": 30,
+              "id": "1643176362537279489",
+              "start": 19,
+              "username": "yashmp2004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094377259067126219",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094352481945866733",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WinRAR_RARLAB: @yashmp2004 We sell licenses..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "62821796",
+        "conversation_id": "2094126584425021766",
+        "created_at": "2026-08-31T09:11:57.000Z",
+        "display_text_range": [
+          12,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T10:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094352481945866733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1643176362537279489",
+              "start": 0,
+              "username": "yashmp2004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094352481945866733",
+        "in_reply_to_user_id": "1643176362537279489",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 999,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094126584425021766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yashmp2004 We sell licenses..."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2094377259067126219",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2087941448981413925",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1812,
+          "following_count": 1527,
+          "like_count": 24178,
+          "listed_count": 7,
+          "media_count": 867,
+          "tweet_count": 7740
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-08-04T13:47:19.000Z",
+        "description": "Official Account for WinRAR (blue tick!)\nPowerful, Fast, Secure and Stable Compression Software! \nPublisher of RAR and WinRAR",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "win-rar.com",
+                "end": 23,
+                "expanded_url": "http://www.win-rar.com",
+                "start": 0,
+                "url": "https://t.co/Tb8kO7RZVL"
+              }
+            ]
+          }
+        },
+        "id": "62821796",
+        "is_identity_verified": false,
+        "location": "Berlin, Germany",
+        "most_recent_tweet_id": "2094369095546257515",
+        "name": "WinRAR",
+        "pinned_tweet_id": "1888182682720354470",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/62821796/1635246681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1452954428240273411/kCjHOffW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134863,
+          "following_count": 458,
+          "like_count": 32642,
+          "listed_count": 111,
+          "media_count": 433,
+          "tweet_count": 7033
+        },
+        "url": "https://t.co/Tb8kO7RZVL",
+        "username": "WinRAR_RARLAB",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-04T08:59:24.000Z",
+        "description": "breaking down tech & web dev into simple language learning in public🚀\nDM for collabs📩",
+        "id": "1643176362537279489",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094377164888059982",
+        "name": "yash.jsx",
+        "pinned_tweet_id": "2094276528498712946",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1643176362537279489/1772468444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029410134892658690/085_8CxP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3721,
+          "following_count": 1046,
+          "like_count": 37609,
+          "listed_count": 12,
+          "media_count": 1135,
+          "tweet_count": 53205
+        },
+        "url": "",
+        "username": "yashmp2004",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

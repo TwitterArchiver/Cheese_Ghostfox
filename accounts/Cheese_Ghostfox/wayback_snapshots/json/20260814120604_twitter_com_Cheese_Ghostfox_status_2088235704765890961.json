@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088170785659887617",
+        "3_2088170813988241408"
+      ],
+      "media_source_tweet_id": [
+        "2088170851380465905",
+        "2088170851380465905"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2088235704765890961",
+    "created_at": "2026-08-14T12:06:04.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T13:06:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088235704765890961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3018975387",
+          "start": 3,
+          "username": "hanawa_hinata"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1CdsxPTSpw",
+          "end": 42,
+          "expanded_url": "https://x.com/hanawa_hinata/status/2088170851380465905/photo/1",
+          "media_key": "3_2088170785659887617",
+          "start": 19,
+          "url": "https://t.co/1CdsxPTSpw"
+        },
+        {
+          "display_url": "pic.x.com/1CdsxPTSpw",
+          "end": 42,
+          "expanded_url": "https://x.com/hanawa_hinata/status/2088170851380465905/photo/1",
+          "media_key": "3_2088170813988241408",
+          "start": 19,
+          "url": "https://t.co/1CdsxPTSpw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088235704765890961",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2088170785659887617"
+      },
+      {
+        "media_key": "3_2088170813988241408"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088170851380465905",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @hanawa_hinata: https://t.co/1CdsxPTSpw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1284,
+        "media_key": "3_2088170785659887617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqsRBWbIAE40uB.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2088170813988241408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqsSq4bgAAxPRB.jpg",
+        "width": 609
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088170785659887617",
+            "3_2088170813988241408"
+          ]
+        },
+        "author_id": "3018975387",
+        "conversation_id": "2088170851380465905",
+        "created_at": "2026-08-14T07:48:21.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T08:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088170851380465905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1CdsxPTSpw",
+              "end": 23,
+              "expanded_url": "https://x.com/hanawa_hinata/status/2088170851380465905/photo/1",
+              "media_key": "3_2088170785659887617",
+              "start": 0,
+              "url": "https://t.co/1CdsxPTSpw"
+            },
+            {
+              "display_url": "pic.x.com/1CdsxPTSpw",
+              "end": 23,
+              "expanded_url": "https://x.com/hanawa_hinata/status/2088170851380465905/photo/1",
+              "media_key": "3_2088170813988241408",
+              "start": 0,
+              "url": "https://t.co/1CdsxPTSpw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088170851380465905",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2088170785659887617"
+          },
+          {
+            "media_key": "3_2088170813988241408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 498,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "other",
+        "text": "https://t.co/1CdsxPTSpw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088170785659887617",
+            "3_2088170813988241408"
+          ],
+          "media_source_tweet_id": [
+            "2088170851380465905",
+            "2088170851380465905"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2088235704765890961",
+        "created_at": "2026-08-14T12:06:04.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T13:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088235704765890961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3018975387",
+              "start": 3,
+              "username": "hanawa_hinata"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1CdsxPTSpw",
+              "end": 42,
+              "expanded_url": "https://x.com/hanawa_hinata/status/2088170851380465905/photo/1",
+              "media_key": "3_2088170785659887617",
+              "start": 19,
+              "url": "https://t.co/1CdsxPTSpw"
+            },
+            {
+              "display_url": "pic.x.com/1CdsxPTSpw",
+              "end": 42,
+              "expanded_url": "https://x.com/hanawa_hinata/status/2088170851380465905/photo/1",
+              "media_key": "3_2088170813988241408",
+              "start": 19,
+              "url": "https://t.co/1CdsxPTSpw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088235704765890961",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2088170785659887617"
+          },
+          {
+            "media_key": "3_2088170813988241408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088170851380465905",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @hanawa_hinata: https://t.co/1CdsxPTSpw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2088235704765890961",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2087941448981413925",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1710,
+          "following_count": 1529,
+          "like_count": 23074,
+          "listed_count": 7,
+          "media_count": 828,
+          "tweet_count": 7393
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2015-02-04T23:58:21.000Z",
+        "description": "心弦之音，余韵寥寥。The founder of @nebula_soft",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "nebula_soft"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hanawa.me",
+                "end": 23,
+                "expanded_url": "https://hanawa.me",
+                "start": 0,
+                "url": "https://t.co/wz4zjqKiRT"
+              }
+            ]
+          }
+        },
+        "id": "3018975387",
+        "is_identity_verified": false,
+        "location": "万达广场",
+        "most_recent_tweet_id": "2088171749682925767",
+        "name": "日向花和 Hanawa Hinata",
+        "pinned_tweet_id": "1967131247333044249",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3018975387/1781081489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004354883609415681/o7a20K81_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13479,
+          "following_count": 2078,
+          "like_count": 135096,
+          "listed_count": 48,
+          "media_count": 6937,
+          "tweet_count": 44619
+        },
+        "url": "https://t.co/wz4zjqKiRT",
+        "username": "hanawa_hinata",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

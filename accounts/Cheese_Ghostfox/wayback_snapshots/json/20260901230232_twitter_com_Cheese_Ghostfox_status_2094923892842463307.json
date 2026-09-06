@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2094923892842463307",
+    "created_at": "2026-09-01T23:02:32.000Z",
+    "display_text_range": [
+      0,
+      77
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T00:02:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094923892842463307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1590594080878174208",
+          "start": 3,
+          "username": "Sw90492530"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094923892842463307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 111
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094780856829350181",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sw90492530: 当你怀疑一个人喜不喜欢你的时候，其实他比你想象中的更不喜欢你\n换句话说\n如果你感受到爱的话，其实那个人远比你想象中的更爱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2094923892842463307",
+        "created_at": "2026-09-01T23:02:32.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T00:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094923892842463307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1590594080878174208",
+              "start": 3,
+              "username": "Sw90492530"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094923892842463307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 111
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094780856829350181",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sw90492530: 当你怀疑一个人喜不喜欢你的时候，其实他比你想象中的更不喜欢你\n换句话说\n如果你感受到爱的话，其实那个人远比你想象中的更爱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1590594080878174208",
+        "conversation_id": "2094780856829350181",
+        "created_at": "2026-09-01T13:34:10.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T14:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094780856829350181"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094780856829350181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 31009,
+          "like_count": 1112,
+          "quote_count": 15,
+          "reply_count": 52,
+          "retweet_count": 111
+        },
+        "reply_settings": "everyone",
+        "text": "当你怀疑一个人喜不喜欢你的时候，其实他比你想象中的更不喜欢你\n换句话说\n如果你感受到爱的话，其实那个人远比你想象中的更爱你"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2094923892842463307",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2087941448981413925",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1829,
+          "following_count": 1530,
+          "like_count": 24293,
+          "listed_count": 7,
+          "media_count": 867,
+          "tweet_count": 7761
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-10T06:36:05.000Z",
+        "description": "许多人和事只适合活在回忆里\n☀️/INFJ-A/Furry\n扩列请私信\n@lingbai1190665",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 36,
+                "username": "lingbai1190665"
+              }
+            ]
+          }
+        },
+        "id": "1590594080878174208",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094780856829350181",
+        "name": "澪白",
+        "pinned_tweet_id": "1748710906752835600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1590594080878174208/1719931818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934142339209211904/hLIXFlR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 614,
+          "like_count": 1618,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 614
+        },
+        "url": "",
+        "username": "Sw90492530",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

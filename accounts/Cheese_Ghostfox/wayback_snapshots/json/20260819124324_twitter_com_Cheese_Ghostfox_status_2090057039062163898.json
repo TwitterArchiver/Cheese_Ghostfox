@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089763716757848064"
+      ],
+      "media_source_tweet_id": [
+        "2089763813335916858"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2090057039062163898",
+    "created_at": "2026-08-19T12:43:24.000Z",
+    "display_text_range": [
+      0,
+      73
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T13:43:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090057039062163898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1613826141441363973",
+          "start": 3,
+          "username": "machi_mile00"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6cTonGhqNM",
+          "end": 73,
+          "expanded_url": "https://x.com/machi_mile00/status/2089763813335916858/photo/1",
+          "media_key": "3_2089763716757848064",
+          "start": 50,
+          "url": "https://t.co/6cTonGhqNM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090057039062163898",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2089763716757848064"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 153
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089763813335916858",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @machi_mile00: gore of your favorite character https://t.co/6cTonGhqNM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2089763716757848064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQBVB0HaAAAkk8w.jpg",
+        "width": 2896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089763716757848064"
+          ],
+          "media_source_tweet_id": [
+            "2089763813335916858"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090057039062163898",
+        "created_at": "2026-08-19T12:43:24.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T13:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090057039062163898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1613826141441363973",
+              "start": 3,
+              "username": "machi_mile00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6cTonGhqNM",
+              "end": 73,
+              "expanded_url": "https://x.com/machi_mile00/status/2089763813335916858/photo/1",
+              "media_key": "3_2089763716757848064",
+              "start": 50,
+              "url": "https://t.co/6cTonGhqNM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090057039062163898",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2089763716757848064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 153
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089763813335916858",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @machi_mile00: gore of your favorite character https://t.co/6cTonGhqNM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089763716757848064"
+          ]
+        },
+        "author_id": "1613826141441363973",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2089763813335916858",
+        "created_at": "2026-08-18T17:18:13.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T18:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089763813335916858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6cTonGhqNM",
+              "end": 55,
+              "expanded_url": "https://x.com/machi_mile00/status/2089763813335916858/photo/1",
+              "media_key": "3_2089763716757848064",
+              "start": 32,
+              "url": "https://t.co/6cTonGhqNM"
+            },
+            {
+              "display_url": "x.com/Cybrid101/stat…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/Cybrid101/status/2087634679545389398",
+              "start": 56,
+              "url": "https://t.co/Yv8LbJvCy5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089763813335916858",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2089763716757848064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 343,
+          "impression_count": 24224,
+          "like_count": 2960,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 153
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087634679545389398",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "gore of your favorite character https://t.co/6cTonGhqNM https://t.co/Yv8LbJvCy5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2090057039062163898",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2087941448981413925",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1725,
+          "following_count": 1529,
+          "like_count": 23307,
+          "listed_count": 7,
+          "media_count": 837,
+          "tweet_count": 7514
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-13T09:12:01.000Z",
+        "description": "Illustrator | Graphic Designer | EN/VIE https://t.co/RovGyvCuYM\nwork inquiry 📧 kimeimile.work@gmail.com \nalt: @kimeimile",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 110,
+                "username": "kimeimile"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pixiv.net/en/users/18314…",
+                "end": 63,
+                "expanded_url": "https://www.pixiv.net/en/users/18314902",
+                "start": 40,
+                "url": "https://t.co/RovGyvCuYM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "machimile.carrd.co",
+                "end": 23,
+                "expanded_url": "https://machimile.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/iuj46dZYkt"
+              }
+            ]
+          }
+        },
+        "id": "1613826141441363973",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089763813335916858",
+        "name": "Mile @ SMASH! 4.D.13",
+        "pinned_tweet_id": "2070774102038872429",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1613826141441363973/1760067968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058894425049477120/G1H3ZbKj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21414,
+          "following_count": 390,
+          "like_count": 8019,
+          "listed_count": 99,
+          "media_count": 186,
+          "tweet_count": 876
+        },
+        "url": "https://t.co/iuj46dZYkt",
+        "username": "machi_mile00",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
