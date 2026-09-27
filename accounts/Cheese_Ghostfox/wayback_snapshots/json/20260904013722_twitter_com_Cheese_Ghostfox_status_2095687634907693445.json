@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095542608705748992"
+      ],
+      "media_source_tweet_id": [
+        "2095542614556852525"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2095687634907693445",
+    "created_at": "2026-09-04T01:37:22.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T02:37:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095687634907693445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1598298486327644160",
+          "start": 3,
+          "username": "kwsk_8765"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/48s9LCSYpH",
+          "end": 42,
+          "expanded_url": "https://x.com/kwsk_8765/status/2095542614556852525/photo/1",
+          "media_key": "3_2095542608705748992",
+          "start": 19,
+          "url": "https://t.co/48s9LCSYpH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095687634907693445",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2095542608705748992"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 310
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095542614556852525",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kwsk_8765: テト🔻 https://t.co/48s9LCSYpH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095542608705748992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRTc5mOaAAAe0iC.jpg",
+        "width": 1418
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095542608705748992"
+          ],
+          "media_source_tweet_id": [
+            "2095542614556852525"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2095687634907693445",
+        "created_at": "2026-09-04T01:37:22.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T02:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095687634907693445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1598298486327644160",
+              "start": 3,
+              "username": "kwsk_8765"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/48s9LCSYpH",
+              "end": 42,
+              "expanded_url": "https://x.com/kwsk_8765/status/2095542614556852525/photo/1",
+              "media_key": "3_2095542608705748992",
+              "start": 19,
+              "url": "https://t.co/48s9LCSYpH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095687634907693445",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095542608705748992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 310
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095542614556852525",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kwsk_8765: テト🔻 https://t.co/48s9LCSYpH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095542608705748992"
+          ]
+        },
+        "author_id": "1598298486327644160",
+        "conversation_id": "2095542614556852525",
+        "created_at": "2026-09-03T16:01:07.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T17:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095542614556852525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/48s9LCSYpH",
+              "end": 27,
+              "expanded_url": "https://x.com/kwsk_8765/status/2095542614556852525/photo/1",
+              "media_key": "3_2095542608705748992",
+              "start": 4,
+              "url": "https://t.co/48s9LCSYpH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095542614556852525",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095542608705748992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 248,
+          "impression_count": 19289,
+          "like_count": 2843,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 310
+        },
+        "reply_settings": "everyone",
+        "text": "テト🔻 https://t.co/48s9LCSYpH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2095687634907693445",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2087941448981413925",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1843,
+          "following_count": 1529,
+          "like_count": 24408,
+          "listed_count": 7,
+          "media_count": 871,
+          "tweet_count": 7791
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-01T12:50:40.000Z",
+        "description": "20↑ 趣味絵。サブ垢→ @t_38rr◾️🦋→https://t.co/QxuGjqjXsh◾️無断転載・改変、AI学習禁止🚫No reuploading 🚫No AI training",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 13,
+                "username": "t_38rr"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/kwwwsk…",
+                "end": 47,
+                "expanded_url": "https://bsky.app/profile/kwwwsk.bsky.social",
+                "start": 24,
+                "url": "https://t.co/QxuGjqjXsh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xfolio.jp/portfolio/kwsk…",
+                "end": 23,
+                "expanded_url": "https://xfolio.jp/portfolio/kwsk_8765",
+                "start": 0,
+                "url": "https://t.co/8xuUWqPBsb"
+              }
+            ]
+          }
+        },
+        "id": "1598298486327644160",
+        "is_identity_verified": false,
+        "location": "ジャンル雑多・FF外通知🔕",
+        "most_recent_tweet_id": "2095666334453686729",
+        "name": "川咲",
+        "pinned_tweet_id": "2090969307438297571",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1598298486327644160/1772503582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797202312332759040/rJPrbjph_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58307,
+          "following_count": 175,
+          "like_count": 37539,
+          "listed_count": 384,
+          "media_count": 1536,
+          "tweet_count": 14180
+        },
+        "url": "https://t.co/8xuUWqPBsb",
+        "username": "kwsk_8765",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

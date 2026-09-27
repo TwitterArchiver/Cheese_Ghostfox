@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2096641644464615424"
+      ],
+      "media_source_tweet_id": [
+        "2096641658427519355"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2096646290444783759",
+    "created_at": "2026-09-06T17:06:44.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T18:06:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096646290444783759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1103830967163117568",
+          "start": 3,
+          "username": "anblk984"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Jf9tjNTHo8",
+          "end": 45,
+          "expanded_url": "https://x.com/anblk984/status/2096641658427519355/video/1",
+          "media_key": "13_2096641644464615424",
+          "start": 22,
+          "url": "https://t.co/Jf9tjNTHo8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096646290444783759",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2096641644464615424"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096641658427519355",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anblk984: 窝试过了是真的 https://t.co/Jf9tjNTHo8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3691,
+        "height": 1280,
+        "media_key": "13_2096641644464615424",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096641644464615424/img/WNlFKT9tDFGtvuXZ.jpg",
+        "public_metrics": {
+          "view_count": 57
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096641644464615424/vid/avc1/320x568/w1jheyh6ViDo136Q.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096641644464615424/vid/avc1/480x852/o26rBsEntVMru9mN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096641644464615424/vid/avc1/720x1280/aJMU-nH62LqnP9L8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096641644464615424/pl/fkpQ8OOSy5csqBNf.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096641644464615424"
+          ],
+          "media_source_tweet_id": [
+            "2096641658427519355"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2096646290444783759",
+        "created_at": "2026-09-06T17:06:44.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T18:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096646290444783759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1103830967163117568",
+              "start": 3,
+              "username": "anblk984"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jf9tjNTHo8",
+              "end": 45,
+              "expanded_url": "https://x.com/anblk984/status/2096641658427519355/video/1",
+              "media_key": "13_2096641644464615424",
+              "start": 22,
+              "url": "https://t.co/Jf9tjNTHo8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096646290444783759",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2096641644464615424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096641658427519355",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anblk984: 窝试过了是真的 https://t.co/Jf9tjNTHo8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096641644464615424"
+          ]
+        },
+        "author_id": "1103830967163117568",
+        "conversation_id": "2096641658427519355",
+        "created_at": "2026-09-06T16:48:19.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T17:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096641658427519355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jf9tjNTHo8",
+              "end": 31,
+              "expanded_url": "https://x.com/anblk984/status/2096641658427519355/video/1",
+              "media_key": "13_2096641644464615424",
+              "start": 8,
+              "url": "https://t.co/Jf9tjNTHo8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096641658427519355",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2096641644464615424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "窝试过了是真的 https://t.co/Jf9tjNTHo8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2096646290444783759",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2087941448981413925",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1856,
+          "following_count": 1529,
+          "like_count": 24661,
+          "listed_count": 7,
+          "media_count": 875,
+          "tweet_count": 7829
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/17岁美少蛆/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真  /数学家教接单中私信窝即可 /最后感谢大爹画窝头像@data_syuxchu\n小游戏网站https://t.co/B8UuvKnzYf…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 64,
+                "username": "data_syuxchu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "biwabokubo1996.github.io/pugna2232.gith",
+                "end": 106,
+                "expanded_url": "http://biwabokubo1996.github.io/pugna2232.gith",
+                "start": 83,
+                "url": "https://t.co/B8UuvKnzYf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 23,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 0,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "is_identity_verified": false,
+        "location": "梁家河冲浪里          下面是tg频道",
+        "most_recent_tweet_id": "2096641658427519355",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "2094787999112568989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1103830967163117568/1782207138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091015106889166848/J7fbT7o7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17671,
+          "following_count": 1079,
+          "like_count": 133761,
+          "listed_count": 80,
+          "media_count": 3701,
+          "tweet_count": 32214
+        },
+        "url": "https://t.co/H2pejl6igE",
+        "username": "anblk984",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

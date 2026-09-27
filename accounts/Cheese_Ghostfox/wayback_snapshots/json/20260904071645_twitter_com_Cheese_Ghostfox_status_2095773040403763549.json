@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095405927117840384",
+        "3_2095405933820297216"
+      ],
+      "media_source_tweet_id": [
+        "2095405937117000015",
+        "2095405937117000015"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2095773040403763549",
+    "created_at": "2026-09-04T07:16:45.000Z",
+    "display_text_range": [
+      0,
+      108
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T08:16:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095773040403763549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1988674513517834244",
+          "start": 3,
+          "username": "mikanmkx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hS8ZdqqGEg",
+          "end": 108,
+          "expanded_url": "https://x.com/mikanmkx/status/2095405937117000015/photo/1",
+          "media_key": "3_2095405927117840384",
+          "start": 85,
+          "url": "https://t.co/hS8ZdqqGEg"
+        },
+        {
+          "display_url": "pic.x.com/hS8ZdqqGEg",
+          "end": 108,
+          "expanded_url": "https://x.com/mikanmkx/status/2095405937117000015/photo/1",
+          "media_key": "3_2095405933820297216",
+          "start": 85,
+          "url": "https://t.co/hS8ZdqqGEg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095773040403763549",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095405927117840384"
+      },
+      {
+        "media_key": "3_2095405933820297216"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095405937117000015",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mikanmkx: 设计了一个铝合金cnc的凝胶尺喵，在保证尺寸一致的情况下把槽改成了圆弧形这样就不会有凝胶卡在槽里了，而且可以在铨洲白嫖，工程文件放评论区了喵 https://t.co/hS8ZdqqGEg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2095405927117840384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRRglrobYAAoehp.jpg",
+        "width": 4000
+      },
+      {
+        "height": 1444,
+        "media_key": "3_2095405933820297216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRRgmEmawAA2yyx.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095405927117840384",
+            "3_2095405933820297216"
+          ],
+          "media_source_tweet_id": [
+            "2095405937117000015",
+            "2095405937117000015"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2095773040403763549",
+        "created_at": "2026-09-04T07:16:45.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T08:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095773040403763549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1988674513517834244",
+              "start": 3,
+              "username": "mikanmkx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hS8ZdqqGEg",
+              "end": 108,
+              "expanded_url": "https://x.com/mikanmkx/status/2095405937117000015/photo/1",
+              "media_key": "3_2095405927117840384",
+              "start": 85,
+              "url": "https://t.co/hS8ZdqqGEg"
+            },
+            {
+              "display_url": "pic.x.com/hS8ZdqqGEg",
+              "end": 108,
+              "expanded_url": "https://x.com/mikanmkx/status/2095405937117000015/photo/1",
+              "media_key": "3_2095405933820297216",
+              "start": 85,
+              "url": "https://t.co/hS8ZdqqGEg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095773040403763549",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095405927117840384"
+          },
+          {
+            "media_key": "3_2095405933820297216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095405937117000015",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mikanmkx: 设计了一个铝合金cnc的凝胶尺喵，在保证尺寸一致的情况下把槽改成了圆弧形这样就不会有凝胶卡在槽里了，而且可以在铨洲白嫖，工程文件放评论区了喵 https://t.co/hS8ZdqqGEg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095405927117840384",
+            "3_2095405933820297216"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2095405937117000015",
+        "created_at": "2026-09-03T06:58:00.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T07:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095405937117000015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hS8ZdqqGEg",
+              "end": 94,
+              "expanded_url": "https://x.com/mikanmkx/status/2095405937117000015/photo/1",
+              "media_key": "3_2095405927117840384",
+              "start": 71,
+              "url": "https://t.co/hS8ZdqqGEg"
+            },
+            {
+              "display_url": "pic.x.com/hS8ZdqqGEg",
+              "end": 94,
+              "expanded_url": "https://x.com/mikanmkx/status/2095405937117000015/photo/1",
+              "media_key": "3_2095405933820297216",
+              "start": 71,
+              "url": "https://t.co/hS8ZdqqGEg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095405937117000015",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095405927117840384"
+          },
+          {
+            "media_key": "3_2095405933820297216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 8832,
+          "like_count": 113,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "设计了一个铝合金cnc的凝胶尺喵，在保证尺寸一致的情况下把槽改成了圆弧形这样就不会有凝胶卡在槽里了，而且可以在铨洲白嫖，工程文件放评论区了喵 https://t.co/hS8ZdqqGEg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2095773040403763549",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2087941448981413925",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1846,
+          "following_count": 1528,
+          "like_count": 24455,
+          "listed_count": 7,
+          "media_count": 872,
+          "tweet_count": 7796
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2095769789780402575",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1176,
+          "following_count": 946,
+          "like_count": 6271,
+          "listed_count": 3,
+          "media_count": 303,
+          "tweet_count": 1555
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

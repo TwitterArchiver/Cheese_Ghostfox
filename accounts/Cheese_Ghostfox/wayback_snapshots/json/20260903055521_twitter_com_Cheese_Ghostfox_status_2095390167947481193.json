@@ -1,0 +1,565 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095353283879845888",
+        "3_2095353283909128192",
+        "3_2095353283934322688",
+        "3_2095353283913322496"
+      ],
+      "media_source_tweet_id": [
+        "2095353301764297038",
+        "2095353301764297038",
+        "2095353301764297038",
+        "2095353301764297038"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1542048294309810177",
+          "name": "Back to School 2022"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1691509476719783947",
+          "name": "Back to School"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1643667777444622336",
+          "name": "Back to School"
+        }
+      }
+    ],
+    "conversation_id": "2095390167947481193",
+    "created_at": "2026-09-03T05:55:21.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T06:55:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095390167947481193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1220188222916984833",
+          "start": 3,
+          "username": "almn_sk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/n6fA3gFqbk",
+          "end": 70,
+          "expanded_url": "https://x.com/almn_sk/status/2095353301764297038/photo/1",
+          "media_key": "3_2095353283879845888",
+          "start": 47,
+          "url": "https://t.co/n6fA3gFqbk"
+        },
+        {
+          "display_url": "pic.x.com/n6fA3gFqbk",
+          "end": 70,
+          "expanded_url": "https://x.com/almn_sk/status/2095353301764297038/photo/1",
+          "media_key": "3_2095353283909128192",
+          "start": 47,
+          "url": "https://t.co/n6fA3gFqbk"
+        },
+        {
+          "display_url": "pic.x.com/n6fA3gFqbk",
+          "end": 70,
+          "expanded_url": "https://x.com/almn_sk/status/2095353301764297038/photo/1",
+          "media_key": "3_2095353283934322688",
+          "start": 47,
+          "url": "https://t.co/n6fA3gFqbk"
+        },
+        {
+          "display_url": "pic.x.com/n6fA3gFqbk",
+          "end": 70,
+          "expanded_url": "https://x.com/almn_sk/status/2095353301764297038/photo/1",
+          "media_key": "3_2095353283913322496",
+          "start": 47,
+          "url": "https://t.co/n6fA3gFqbk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095390167947481193",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2095353283879845888"
+      },
+      {
+        "media_key": "3_2095353283909128192"
+      },
+      {
+        "media_key": "3_2095353283934322688"
+      },
+      {
+        "media_key": "3_2095353283913322496"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 138
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095353301764297038",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @almn_sk: ⤷ ‘‘ ✏️ 𝘽𝙖𝙘𝙠 𝙩𝙤 𝙎𝙘𝙝𝙤𝙤𝙡 .ᐟ.ᐟ ★ ˎˊ˗ https://t.co/n6fA3gFqbk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095353283879845888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRQwtcSbQAAcba_.jpg",
+        "width": 797
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095353283909128192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRQwtcZaEAAHbSE.jpg",
+        "width": 797
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095353283934322688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRQwtcfagAAbJoJ.jpg",
+        "width": 797
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095353283913322496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRQwtcaaEAA6H86.jpg",
+        "width": 797
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095353283879845888",
+            "3_2095353283909128192",
+            "3_2095353283934322688",
+            "3_2095353283913322496"
+          ],
+          "media_source_tweet_id": [
+            "2095353301764297038",
+            "2095353301764297038",
+            "2095353301764297038",
+            "2095353301764297038"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1542048294309810177",
+              "name": "Back to School 2022"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1691509476719783947",
+              "name": "Back to School"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1643667777444622336",
+              "name": "Back to School"
+            }
+          }
+        ],
+        "conversation_id": "2095390167947481193",
+        "created_at": "2026-09-03T05:55:21.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T06:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095390167947481193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1220188222916984833",
+              "start": 3,
+              "username": "almn_sk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n6fA3gFqbk",
+              "end": 70,
+              "expanded_url": "https://x.com/almn_sk/status/2095353301764297038/photo/1",
+              "media_key": "3_2095353283879845888",
+              "start": 47,
+              "url": "https://t.co/n6fA3gFqbk"
+            },
+            {
+              "display_url": "pic.x.com/n6fA3gFqbk",
+              "end": 70,
+              "expanded_url": "https://x.com/almn_sk/status/2095353301764297038/photo/1",
+              "media_key": "3_2095353283909128192",
+              "start": 47,
+              "url": "https://t.co/n6fA3gFqbk"
+            },
+            {
+              "display_url": "pic.x.com/n6fA3gFqbk",
+              "end": 70,
+              "expanded_url": "https://x.com/almn_sk/status/2095353301764297038/photo/1",
+              "media_key": "3_2095353283934322688",
+              "start": 47,
+              "url": "https://t.co/n6fA3gFqbk"
+            },
+            {
+              "display_url": "pic.x.com/n6fA3gFqbk",
+              "end": 70,
+              "expanded_url": "https://x.com/almn_sk/status/2095353301764297038/photo/1",
+              "media_key": "3_2095353283913322496",
+              "start": 47,
+              "url": "https://t.co/n6fA3gFqbk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095390167947481193",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2095353283879845888"
+          },
+          {
+            "media_key": "3_2095353283909128192"
+          },
+          {
+            "media_key": "3_2095353283934322688"
+          },
+          {
+            "media_key": "3_2095353283913322496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 138
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095353301764297038",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @almn_sk: ⤷ ‘‘ ✏️ 𝘽𝙖𝙘𝙠 𝙩𝙤 𝙎𝙘𝙝𝙤𝙤𝙡 .ᐟ.ᐟ ★ ˎˊ˗ https://t.co/n6fA3gFqbk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095353283879845888",
+            "3_2095353283909128192",
+            "3_2095353283934322688",
+            "3_2095353283913322496"
+          ]
+        },
+        "author_id": "1220188222916984833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1542048294309810177",
+              "name": "Back to School 2022"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1691509476719783947",
+              "name": "Back to School"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1643667777444622336",
+              "name": "Back to School"
+            }
+          }
+        ],
+        "conversation_id": "2095353301764297038",
+        "created_at": "2026-09-03T03:28:51.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T04:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095353301764297038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n6fA3gFqbk",
+              "end": 57,
+              "expanded_url": "https://x.com/almn_sk/status/2095353301764297038/photo/1",
+              "media_key": "3_2095353283879845888",
+              "start": 34,
+              "url": "https://t.co/n6fA3gFqbk"
+            },
+            {
+              "display_url": "pic.x.com/n6fA3gFqbk",
+              "end": 57,
+              "expanded_url": "https://x.com/almn_sk/status/2095353301764297038/photo/1",
+              "media_key": "3_2095353283909128192",
+              "start": 34,
+              "url": "https://t.co/n6fA3gFqbk"
+            },
+            {
+              "display_url": "pic.x.com/n6fA3gFqbk",
+              "end": 57,
+              "expanded_url": "https://x.com/almn_sk/status/2095353301764297038/photo/1",
+              "media_key": "3_2095353283934322688",
+              "start": 34,
+              "url": "https://t.co/n6fA3gFqbk"
+            },
+            {
+              "display_url": "pic.x.com/n6fA3gFqbk",
+              "end": 57,
+              "expanded_url": "https://x.com/almn_sk/status/2095353301764297038/photo/1",
+              "media_key": "3_2095353283913322496",
+              "start": 34,
+              "url": "https://t.co/n6fA3gFqbk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095353301764297038",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2095353283879845888"
+          },
+          {
+            "media_key": "3_2095353283909128192"
+          },
+          {
+            "media_key": "3_2095353283934322688"
+          },
+          {
+            "media_key": "3_2095353283913322496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 118,
+          "impression_count": 7037,
+          "like_count": 970,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 138
+        },
+        "reply_settings": "everyone",
+        "text": "⤷ ‘‘ ✏️ 𝘽𝙖𝙘𝙠 𝙩𝙤 𝙎𝙘𝙝𝙤𝙤𝙡 .ᐟ.ᐟ ★ ˎˊ˗ https://t.co/n6fA3gFqbk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2095390167947481193",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2087941448981413925",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1835,
+          "following_count": 1532,
+          "like_count": 24384,
+          "listed_count": 7,
+          "media_count": 870,
+          "tweet_count": 7778
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-01-23T03:35:27.000Z",
+        "description": "Illustration・Design ‖ 初音ミク多め ‖ 同人サークル『田中水草』 ‖ お仕事✉️ seki.almnsk@gmail.com ‖ Vtuber🧪@mohara629",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 83,
+                "username": "mohara629"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "card.almn.sk/ja",
+                "end": 23,
+                "expanded_url": "https://card.almn.sk/ja",
+                "start": 0,
+                "url": "https://t.co/r3HR15dTg4"
+              }
+            ]
+          }
+        },
+        "id": "1220188222916984833",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2095353301764297038",
+        "name": "世希 SEKI@FF47(五・日)U27,28田中水草",
+        "pinned_tweet_id": "2005826899168100678",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1220188222916984833/1756645518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1220188408821108736/eFGRtWR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5357,
+          "following_count": 909,
+          "like_count": 26805,
+          "listed_count": 42,
+          "media_count": 350,
+          "tweet_count": 3743
+        },
+        "url": "https://t.co/r3HR15dTg4",
+        "username": "almn_sk",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
