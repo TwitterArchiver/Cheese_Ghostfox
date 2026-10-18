@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2108488143326642177"
+      ],
+      "media_source_tweet_id": [
+        "2108488155439796314"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2108739297209983454",
+    "created_at": "2026-10-10T02:00:01.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T03:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108739297209983454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "141659609",
+          "start": 3,
+          "username": "blackyneko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LJLduJOOVC",
+          "end": 45,
+          "expanded_url": "https://x.com/blackyneko/status/2108488155439796314/photo/1",
+          "media_key": "3_2108488143326642177",
+          "start": 22,
+          "url": "https://t.co/LJLduJOOVC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108739297209983454",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2108488143326642177"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108488155439796314",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @blackyneko: 太严谨了。 https://t.co/LJLduJOOVC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1443,
+        "media_key": "3_2108488143326642177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HULay4wbgAEU3Oy.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108488143326642177"
+          ],
+          "media_source_tweet_id": [
+            "2108488155439796314"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2108739297209983454",
+        "created_at": "2026-10-10T02:00:01.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T03:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108739297209983454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "141659609",
+              "start": 3,
+              "username": "blackyneko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LJLduJOOVC",
+              "end": 45,
+              "expanded_url": "https://x.com/blackyneko/status/2108488155439796314/photo/1",
+              "media_key": "3_2108488143326642177",
+              "start": 22,
+              "url": "https://t.co/LJLduJOOVC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108739297209983454",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108488143326642177"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108488155439796314",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @blackyneko: 太严谨了。 https://t.co/LJLduJOOVC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108488143326642177"
+          ]
+        },
+        "author_id": "141659609",
+        "conversation_id": "2108488155439796314",
+        "created_at": "2026-10-09T09:22:04.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T10:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108488155439796314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LJLduJOOVC",
+              "end": 29,
+              "expanded_url": "https://x.com/blackyneko/status/2108488155439796314/photo/1",
+              "media_key": "3_2108488143326642177",
+              "start": 6,
+              "url": "https://t.co/LJLduJOOVC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108488155439796314",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108488143326642177"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 115,
+          "impression_count": 191104,
+          "like_count": 3452,
+          "quote_count": 3,
+          "reply_count": 25,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "太严谨了。 https://t.co/LJLduJOOVC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨自号「银钥道人」☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 144,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2108739297209983454",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2096990959309553720",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1851,
+          "following_count": 1546,
+          "like_count": 26911,
+          "listed_count": 6,
+          "media_count": 891,
+          "tweet_count": 8126
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-05-08T17:27:57.000Z",
+        "description": "G+; 一个老司机，有 Porsche/Tesla/Li. 有在认真玩 Home Assistant，欢迎讨论。客厅娱乐的忠实拥趸。奥利奥🐈铲屎官。",
+        "id": "141659609",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108543351368933826",
+        "name": "八雲チェン",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/141659609/1539101601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1049694267193491456/G2uxwP3F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1714,
+          "following_count": 919,
+          "like_count": 5464,
+          "listed_count": 28,
+          "media_count": 2382,
+          "tweet_count": 34789
+        },
+        "url": "",
+        "username": "blackyneko",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

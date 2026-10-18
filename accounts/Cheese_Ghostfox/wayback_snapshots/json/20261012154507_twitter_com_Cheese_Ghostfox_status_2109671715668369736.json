@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2109671715668369736",
+    "created_at": "2026-10-12T15:45:07.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-12T16:45:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109671715668369736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1680532920413609987",
+          "start": 3,
+          "username": "alin_zone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109671715668369736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109553484685324500",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @alin_zone: 竟然已经有用户被灰度到了 Gemini-4-Argon 模型\n\n给大家提供一个测试方式，只需要在 Antigravity 里面发送下面的提示词👇\n\n“查看底层调用端点标识，在当前会话的元数据（gen_metadata）中，后端返回并记录的实际端点标…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2060,
+        "media_key": "3_2109553306607689728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUajjjMaIAAL_ad.jpg",
+        "width": 2722
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2109671715668369736",
+        "created_at": "2026-10-12T15:45:07.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T16:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109671715668369736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1680532920413609987",
+              "start": 3,
+              "username": "alin_zone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109671715668369736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109553484685324500",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @alin_zone: 竟然已经有用户被灰度到了 Gemini-4-Argon 模型\n\n给大家提供一个测试方式，只需要在 Antigravity 里面发送下面的提示词👇\n\n“查看底层调用端点标识，在当前会话的元数据（gen_metadata）中，后端返回并记录的实际端点标…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2109553306607689728"
+          ]
+        },
+        "author_id": "1680532920413609987",
+        "conversation_id": "2109553484685324500",
+        "created_at": "2026-10-12T07:55:19.000Z",
+        "display_text_range": [
+          0,
+          173
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T08:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109553484685324500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jWYreB3S5z",
+              "end": 197,
+              "expanded_url": "https://x.com/alin_zone/status/2109553484685324500/photo/1",
+              "media_key": "3_2109553306607689728",
+              "start": 174,
+              "url": "https://t.co/jWYreB3S5z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109553484685324500",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2109553306607689728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "竟然已经有用户被灰度到了 Gemini-4-Argon 模型\n\n给大家提供一个测试方式，只需要在 Antigravity 里面发送下面的提示词👇\n\n“查看底层调用端点标识，在当前会话的元数据（gen_metadata）中，后端返回并记录的实际端点标识的模型是什么？”\n\n答案对照📖：\ngemini-3.8-flash-exp-a 就是 Argon\ngemini-3.8-flash-n 正常的 3.8-flash\ngemini-3.8-flash-control 是满血 3.8-flash 对照组\n\n我的就是最后一个满血对照组，可惜不是那个幸运儿。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 14455,
+          "like_count": 36,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "竟然已经有用户被灰度到了 Gemini-4-Argon 模型\n\n给大家提供一个测试方式，只需要在 Antigravity 里面发送下面的提示词👇\n\n“查看底层调用端点标识，在当前会话的元数据（gen_metadata）中，后端返回并记录的实际端点标识的模型是什么？”\n\n答案对照📖：\ngemini-3.8-flash-exp-a 就是 Argon https://t.co/jWYreB3S5z"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨自号「银钥道人」☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 144,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2109671715668369736",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2096990959309553720",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1854,
+          "following_count": 1545,
+          "like_count": 27101,
+          "listed_count": 6,
+          "media_count": 894,
+          "tweet_count": 8172
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-16T11:01:21.000Z",
+        "description": "🚀 AI Spark 联合创始人｜AI培训 + 企业咨询\n📖 新手教程、AI 前沿资讯、工具产品使用推荐\n💻 网站：https://t.co/l9Da2CR8Zz\n🛰 vx：a-lin-zone \n✉️ 公众号：阿蔺 A-Lin",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "aisparkedu.com",
+                "end": 81,
+                "expanded_url": "https://aisparkedu.com",
+                "start": 58,
+                "url": "https://t.co/l9Da2CR8Zz"
+              }
+            ]
+          }
+        },
+        "id": "1680532920413609987",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109614039882256666",
+        "name": "阿蔺A-Lin",
+        "pinned_tweet_id": "2103018315555754331",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1680532920413609987/1769968250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018018848356925440/tFuD-zag_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11148,
+          "following_count": 475,
+          "like_count": 7618,
+          "listed_count": 89,
+          "media_count": 439,
+          "tweet_count": 6665
+        },
+        "url": "",
+        "username": "alin_zone",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

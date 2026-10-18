@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2109161033856385024"
+      ],
+      "media_source_tweet_id": [
+        "2109161039392841788"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2109464760538615970",
+    "created_at": "2026-10-12T02:02:45.000Z",
+    "display_text_range": [
+      0,
+      126
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-12T03:02:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109464760538615970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2021393118390779904",
+          "start": 3,
+          "username": "zengying1107"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KnwLz8DI2J",
+          "end": 126,
+          "expanded_url": "https://x.com/zengying1107/status/2109161039392841788/photo/1",
+          "media_key": "3_2109161033856385024",
+          "start": 103,
+          "url": "https://t.co/KnwLz8DI2J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109464760538615970",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2109161033856385024"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 111
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109161039392841788",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zengying1107: 孙哥参加别人的访谈，大谈薄肌大水理论。\n劝别人买大水，喝大水。\n\n呵。\n\n殊不知，每天买一杯大水，需要中国青年为此付出10块钱。\n而孙哥自己，只买大壶，从来不买大水。… https://t.co/KnwLz8DI2J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 653,
+        "media_key": "3_2109161033856385024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUU-yRUbAAAFl2g.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2109161033856385024"
+          ],
+          "media_source_tweet_id": [
+            "2109161039392841788"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2109464760538615970",
+        "created_at": "2026-10-12T02:02:45.000Z",
+        "display_text_range": [
+          0,
+          126
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T03:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109464760538615970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2021393118390779904",
+              "start": 3,
+              "username": "zengying1107"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KnwLz8DI2J",
+              "end": 126,
+              "expanded_url": "https://x.com/zengying1107/status/2109161039392841788/photo/1",
+              "media_key": "3_2109161033856385024",
+              "start": 103,
+              "url": "https://t.co/KnwLz8DI2J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109464760538615970",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2109161033856385024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 111
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109161039392841788",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zengying1107: 孙哥参加别人的访谈，大谈薄肌大水理论。\n劝别人买大水，喝大水。\n\n呵。\n\n殊不知，每天买一杯大水，需要中国青年为此付出10块钱。\n而孙哥自己，只买大壶，从来不买大水。… https://t.co/KnwLz8DI2J"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2109161033856385024"
+          ]
+        },
+        "author_id": "2021393118390779904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2109161039392841788",
+        "created_at": "2026-10-11T05:55:52.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T06:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109161039392841788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KnwLz8DI2J",
+              "end": 107,
+              "expanded_url": "https://x.com/zengying1107/status/2109161039392841788/photo/1",
+              "media_key": "3_2109161033856385024",
+              "start": 84,
+              "url": "https://t.co/KnwLz8DI2J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109161039392841788",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2109161033856385024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 514,
+                "start": 511,
+                "tag": "颖学"
+              },
+              {
+                "end": 520,
+                "start": 515,
+                "tag": "薄肌大壶"
+              },
+              {
+                "end": 526,
+                "start": 521,
+                "tag": "理财专家"
+              }
+            ]
+          },
+          "text": "孙哥参加别人的访谈，大谈薄肌大水理论。\n劝别人买大水，喝大水。\n\n呵。\n\n殊不知，每天买一杯大水，需要中国青年为此付出10块钱。\n而孙哥自己，只买大壶，从来不买大水。\n大壶，是每一个00后年轻人，能接触到的最容易入手的稳健投资，拥有大壶，从此拥有富人思维，开拓富人眼界，开启全球水资源套利模式。\n\n孙哥就从来都不买大水，他花10块钱买个大壶，在公共区域接水，到朋友家接水，到活动场地接水，到饭店接水。\n他每天省下10块买水钱，定投特斯拉和比特币。\n\n从2010年3月开始，如果一个人，每天花10块钱定投比特币，并一直持有到2026年10月，他可以攒到96356枚比特币。\n按照今天的价格，是544亿人民币。\n\n大水理论，是消费主义陷阱，是资本家的做局，是落后过时的理论。\n真正的强者，只买促销的大壶，接免费的大水。\n\n中国18到40岁的适龄青年，有4亿。\n只要4亿年轻人都能放下大水，拿起大壶，实践薄肌大壶理论！\n中国年轻人每天可省40亿元，一年就是1.46万亿元。\n\n这不是“薄肌大水论”，\n这是大壶兴国论！\n\n少年强，则中国强。\n放下大水，立地成壶。\n\n每天省下10块钱，做金融产品定投。\n10年后，我们巅峰相见。\n\n#颖学\n#薄肌大壶\n#理财专家\n\n（图中，是孙哥的大壶）"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 302,
+          "impression_count": 332260,
+          "like_count": 2434,
+          "quote_count": 96,
+          "reply_count": 678,
+          "retweet_count": 111
+        },
+        "reply_settings": "everyone",
+        "text": "孙哥参加别人的访谈，大谈薄肌大水理论。\n劝别人买大水，喝大水。\n\n呵。\n\n殊不知，每天买一杯大水，需要中国青年为此付出10块钱。\n而孙哥自己，只买大壶，从来不买大水。 https://t.co/KnwLz8DI2J"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨自号「银钥道人」☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 144,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2109464760538615970",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2096990959309553720",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1849,
+          "following_count": 1544,
+          "like_count": 27031,
+          "listed_count": 6,
+          "media_count": 891,
+          "tweet_count": 8156
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-11T01:17:42.000Z",
+        "description": "早稻田金融毕业｜TEDx演讲嘉宾｜币圈OG｜fobers u30 china｜34岁退休环游世界｜padel｜网球｜实弹射击｜潜水｜赛车｜摩托｜开船｜冰攀｜科技金融博主｜人生是场体验｜本人只有这一个x账号其他都是假号 contact➡️https://t.co/q5lg22MpzT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/realzengying",
+                "end": 141,
+                "expanded_url": "https://t.me/realzengying",
+                "start": 118,
+                "url": "https://t.co/q5lg22MpzT"
+              }
+            ]
+          }
+        },
+        "id": "2021393118390779904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109287799140872213",
+        "name": "曾颖",
+        "pinned_tweet_id": "2030821835550716261",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2021393118390779904/1784606021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036400185690169349/9HTtvl-U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173311,
+          "following_count": 186,
+          "like_count": 1312,
+          "listed_count": 152,
+          "media_count": 534,
+          "tweet_count": 1845
+        },
+        "url": "",
+        "username": "zengying1107",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

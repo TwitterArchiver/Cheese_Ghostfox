@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2108661477884497920"
+      ],
+      "media_source_tweet_id": [
+        "2108661484477911047"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2108920600999960804",
+    "created_at": "2026-10-10T14:00:27.000Z",
+    "display_text_range": [
+      0,
+      129
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T15:00:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108920600999960804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1779691567546269696",
+          "start": 3,
+          "username": "realchendahuang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Bkmjvnrhks",
+          "end": 129,
+          "expanded_url": "https://x.com/realchendahuang/status/2108661484477911047/photo/1",
+          "media_key": "3_2108661477884497920",
+          "start": 106,
+          "url": "https://t.co/Bkmjvnrhks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108920600999960804",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2108661477884497920"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108661484477911047",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @realchendahuang: 丁胖子金牌讲师接到新活了：美国克劳德实卡过 k，本地机房部署，一人一台机器，绝不共享，杜绝封号哈哈哈哈\n\n网友的建议他是真的听进去了，你别说，他是个聪明人并且执行力超强 https://t.co/Bkmjvnrhks"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1055,
+        "media_key": "3_2108661477884497920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUN4cSTbEAAzWEH.jpg",
+        "width": 1077
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108661477884497920"
+          ],
+          "media_source_tweet_id": [
+            "2108661484477911047"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2108920600999960804",
+        "created_at": "2026-10-10T14:00:27.000Z",
+        "display_text_range": [
+          0,
+          129
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T15:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108920600999960804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1779691567546269696",
+              "start": 3,
+              "username": "realchendahuang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bkmjvnrhks",
+              "end": 129,
+              "expanded_url": "https://x.com/realchendahuang/status/2108661484477911047/photo/1",
+              "media_key": "3_2108661477884497920",
+              "start": 106,
+              "url": "https://t.co/Bkmjvnrhks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108920600999960804",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108661477884497920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108661484477911047",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @realchendahuang: 丁胖子金牌讲师接到新活了：美国克劳德实卡过 k，本地机房部署，一人一台机器，绝不共享，杜绝封号哈哈哈哈\n\n网友的建议他是真的听进去了，你别说，他是个聪明人并且执行力超强 https://t.co/Bkmjvnrhks"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108661477884497920"
+          ]
+        },
+        "author_id": "1779691567546269696",
+        "conversation_id": "2108661484477911047",
+        "created_at": "2026-10-09T20:50:49.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T21:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108661484477911047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bkmjvnrhks",
+              "end": 108,
+              "expanded_url": "https://x.com/realchendahuang/status/2108661484477911047/photo/1",
+              "media_key": "3_2108661477884497920",
+              "start": 85,
+              "url": "https://t.co/Bkmjvnrhks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108661484477911047",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108661477884497920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 198,
+          "impression_count": 209042,
+          "like_count": 654,
+          "quote_count": 7,
+          "reply_count": 84,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "丁胖子金牌讲师接到新活了：美国克劳德实卡过 k，本地机房部署，一人一台机器，绝不共享，杜绝封号哈哈哈哈\n\n网友的建议他是真的听进去了，你别说，他是个聪明人并且执行力超强 https://t.co/Bkmjvnrhks"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨自号「银钥道人」☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 144,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2108920600999960804",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2096990959309553720",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1850,
+          "following_count": 1546,
+          "like_count": 26966,
+          "listed_count": 6,
+          "media_count": 891,
+          "tweet_count": 8139
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-15T02:01:58.000Z",
+        "description": "现在｜KOSX @kosxai 华东创业与独立开发负责人｜AI 科技公司合伙人\n赛道｜Indie Hacker｜前 AI 产品经理｜产品洞察/段子手\n在做｜FlareMo 笔记｜Cherina Pod 双语播客",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 8,
+                "username": "kosxai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chendahuang.com",
+                "end": 23,
+                "expanded_url": "https://chendahuang.com",
+                "start": 0,
+                "url": "https://t.co/orkMrZCnrr"
+              }
+            ]
+          }
+        },
+        "id": "1779691567546269696",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108872914389143655",
+        "name": "陈大黄",
+        "pinned_tweet_id": "2099324051105952148",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1779691567546269696/1788271867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066350826617282560/9WSzwx4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9512,
+          "following_count": 2823,
+          "like_count": 13899,
+          "listed_count": 32,
+          "media_count": 593,
+          "tweet_count": 8813
+        },
+        "url": "https://t.co/orkMrZCnrr",
+        "username": "realchendahuang",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

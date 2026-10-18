@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2108026372488913284",
+    "created_at": "2026-10-08T02:47:07.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T03:47:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108026372488913284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1842712527723253760",
+          "start": 3,
+          "username": "DAIWA7777777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108026372488913284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108021601161859461",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DAIWA7777777: 研究：局部使用溶于二甲亚砜（DMSO）的维生素C，8周内清除了86.7%的基底细胞癌（最常见皮肤癌）。\n一项随机试验报告，30%抗坏血酸的DMSO外用制剂使几乎全部基底细胞癌病灶完全消退。另一项研究发现，鳞状细胞原位癌病灶经同样治疗12周后，…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 51433,
+        "height": 2160,
+        "media_key": "13_2107920410813599744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2107920410813599744/img/y-xAOunl32QikqAS.jpg",
+        "public_metrics": {
+          "view_count": 48097
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107920410813599744/vid/avc1/1080x1080/2ZTc2oHIENXpAipJ.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107920410813599744/vid/avc1/720x720/8lTKWmzUuXLSuPla.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2107920410813599744/pl/kksBvBcG3swR9lZ1.m3u8?v=6d5"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107920410813599744/vid/avc1/2160x2160/GK3yzhgDIXbGXTNh.mp4"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107920410813599744/vid/avc1/320x320/pfbMXBOlii5Kxh05.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107920410813599744/vid/avc1/540x540/PAAAX_XWOBw1nqWN.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2108026372488913284",
+        "created_at": "2026-10-08T02:47:07.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T03:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108026372488913284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1842712527723253760",
+              "start": 3,
+              "username": "DAIWA7777777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108026372488913284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108021601161859461",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DAIWA7777777: 研究：局部使用溶于二甲亚砜（DMSO）的维生素C，8周内清除了86.7%的基底细胞癌（最常见皮肤癌）。\n一项随机试验报告，30%抗坏血酸的DMSO外用制剂使几乎全部基底细胞癌病灶完全消退。另一项研究发现，鳞状细胞原位癌病灶经同样治疗12周后，…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2107920410813599744"
+          ],
+          "media_source_tweet_id": [
+            "2107920676749554120"
+          ]
+        },
+        "author_id": "1842712527723253760",
+        "conversation_id": "2108021601161859461",
+        "created_at": "2026-10-08T02:28:09.000Z",
+        "display_text_range": [
+          0,
+          148
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T03:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108021601161859461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I4Cm3O41FV",
+              "end": 174,
+              "expanded_url": "https://x.com/NicHulscher/status/2107920676749554120/video/1",
+              "media_key": "13_2107920410813599744",
+              "start": 151,
+              "url": "https://t.co/I4Cm3O41FV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108021601161859461",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2107920410813599744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "x.com/NicHulscher/st…",
+                "end": 174,
+                "expanded_url": "https://x.com/NicHulscher/status/2107920676749554120/video/1",
+                "start": 151,
+                "url": "https://t.co/I4Cm3O41FV"
+              }
+            ]
+          },
+          "text": "研究：局部使用溶于二甲亚砜（DMSO）的维生素C，8周内清除了86.7%的基底细胞癌（最常见皮肤癌）。\n一项随机试验报告，30%抗坏血酸的DMSO外用制剂使几乎全部基底细胞癌病灶完全消退。另一项研究发现，鳞状细胞原位癌病灶经同样治疗12周后，56%被清除。两项研究耐受性均良好，无人因不良反应停药\n\n https://t.co/I4Cm3O41FV"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 82,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "研究：局部使用溶于二甲亚砜（DMSO）的维生素C，8周内清除了86.7%的基底细胞癌（最常见皮肤癌）。\n一项随机试验报告，30%抗坏血酸的DMSO外用制剂使几乎全部基底细胞癌病灶完全消退。另一项研究发现，鳞状细胞原位癌病灶经同样治疗12周后，56%被清除。两项研究耐受性均良好，无人因不良反应停药"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨自号「银钥道人」☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 144,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2108026372488913284",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2096990959309553720",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1856,
+          "following_count": 1547,
+          "like_count": 26771,
+          "listed_count": 6,
+          "media_count": 890,
+          "tweet_count": 8098
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T23:44:59.000Z",
+        "description": "日本大和農場是灭共行动的最前沿阵地，汇聚了无数日本战友的力量与希望。在这里，我们团结一心，充满友爱，互相扶持，共同前行。我们诚挚邀请全球志同道合的灭共人士加入，共同为自由而奋斗，携手迎接光明的未来！https://t.co/XrzMaQ5QbS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/3vawJKqn",
+                "end": 122,
+                "expanded_url": "https://discord.gg/3vawJKqn",
+                "start": 99,
+                "url": "https://t.co/XrzMaQ5QbS"
+              }
+            ]
+          }
+        },
+        "id": "1842712527723253760",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2108021601161859461",
+        "name": "日本大和農場（筹建申请中）",
+        "pinned_tweet_id": "2082662130038579434",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1842712527723253760/1731335827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912807261745053696/Eq81COSG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14588,
+          "following_count": 566,
+          "like_count": 133384,
+          "listed_count": 49,
+          "media_count": 29226,
+          "tweet_count": 52959
+        },
+        "url": "",
+        "username": "DAIWA7777777",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107820677269241857"
+      ],
+      "media_source_tweet_id": [
+        "2107820704423137432"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2108691814954017115",
+    "created_at": "2026-10-09T22:51:20.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T23:51:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108691814954017115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1593931894965796864",
+          "start": 3,
+          "username": "GlennHarte1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A4waWjKBYb",
+          "end": 40,
+          "expanded_url": "https://x.com/GlennHarte1/status/2107820704423137432/photo/1",
+          "media_key": "3_2107820677269241857",
+          "start": 17,
+          "url": "https://t.co/A4waWjKBYb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108691814954017115",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2107820677269241857"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1333
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107820704423137432",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GlennHarte1: https://t.co/A4waWjKBYb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2046,
+        "media_key": "3_2107820677269241857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUB7vP7bQAE23Gp.jpg",
+        "width": 1447
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107820677269241857"
+          ],
+          "media_source_tweet_id": [
+            "2107820704423137432"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2108691814954017115",
+        "created_at": "2026-10-09T22:51:20.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T23:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108691814954017115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1593931894965796864",
+              "start": 3,
+              "username": "GlennHarte1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A4waWjKBYb",
+              "end": 40,
+              "expanded_url": "https://x.com/GlennHarte1/status/2107820704423137432/photo/1",
+              "media_key": "3_2107820677269241857",
+              "start": 17,
+              "url": "https://t.co/A4waWjKBYb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108691814954017115",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2107820677269241857"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1333
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107820704423137432",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GlennHarte1: https://t.co/A4waWjKBYb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107820677269241857"
+          ]
+        },
+        "author_id": "1593931894965796864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2107820704423137432",
+        "created_at": "2026-10-07T13:09:52.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T14:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107820704423137432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A4waWjKBYb",
+              "end": 23,
+              "expanded_url": "https://x.com/GlennHarte1/status/2107820704423137432/photo/1",
+              "media_key": "3_2107820677269241857",
+              "start": 0,
+              "url": "https://t.co/A4waWjKBYb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107820704423137432",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2107820677269241857"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1429,
+          "impression_count": 99534,
+          "like_count": 16981,
+          "quote_count": 5,
+          "reply_count": 17,
+          "retweet_count": 1333
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/A4waWjKBYb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨自号「银钥道人」☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 144,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2108691814954017115",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2096990959309553720",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1851,
+          "following_count": 1545,
+          "like_count": 26904,
+          "listed_count": 6,
+          "media_count": 891,
+          "tweet_count": 8122
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-19T11:39:13.000Z",
+        "description": "♥MIKU♥/♥ユグドラ&ミラノを永遠に愛している♥",
+        "id": "1593931894965796864",
+        "is_identity_verified": false,
+        "location": "無断使用•転載•AI学習禁止",
+        "most_recent_tweet_id": "2107820704423137432",
+        "name": "Shuno",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1593931894965796864/1683855201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714210716260192256/fYaOOBqQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44795,
+          "following_count": 404,
+          "like_count": 13,
+          "listed_count": 290,
+          "media_count": 106,
+          "tweet_count": 182
+        },
+        "url": "",
+        "username": "GlennHarte1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

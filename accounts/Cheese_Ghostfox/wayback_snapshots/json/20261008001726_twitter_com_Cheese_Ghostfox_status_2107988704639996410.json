@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2107988704639996410",
+    "created_at": "2026-10-08T00:17:26.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T01:17:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107988704639996410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1766722039795294208",
+          "start": 3,
+          "username": "zhoujunhong2024"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/ZT7riFv",
+          "end": 139,
+          "start": 119,
+          "url": "https://t.co/ZT7riFv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107988704639996410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107905394228301843",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhoujunhong2024: 当秦始皇在甘肃天水起兵，横扫六国、一统江湖之时，你的祖国就没有了，因为你的先人大概率是齐、楚、燕、韩、赵、魏国人，而被你称颂丰功的秦国人赢政，正是杀人如麻的蛮夷首领，你的祖先难免死于他的征伐。… https://t.co/ZT7riFv…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2107905389706846208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUDIyKWboAAaTH5.jpg",
+        "width": 987
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2107988704639996410",
+        "created_at": "2026-10-08T00:17:26.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T01:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107988704639996410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1766722039795294208",
+              "start": 3,
+              "username": "zhoujunhong2024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/ZT7riFv",
+              "end": 139,
+              "start": 119,
+              "url": "https://t.co/ZT7riFv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107988704639996410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107905394228301843",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhoujunhong2024: 当秦始皇在甘肃天水起兵，横扫六国、一统江湖之时，你的祖国就没有了，因为你的先人大概率是齐、楚、燕、韩、赵、魏国人，而被你称颂丰功的秦国人赢政，正是杀人如麻的蛮夷首领，你的祖先难免死于他的征伐。… https://t.co/ZT7riFv…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107905389706846208"
+          ]
+        },
+        "author_id": "1766722039795294208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2107905394228301843",
+        "created_at": "2026-10-07T18:46:23.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T19:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107905394228301843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZT7riFvPAN",
+              "end": 120,
+              "expanded_url": "https://x.com/zhoujunhong2024/status/2107905394228301843/photo/1",
+              "media_key": "3_2107905389706846208",
+              "start": 97,
+              "url": "https://t.co/ZT7riFvPAN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107905394228301843",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107905389706846208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "当秦始皇在甘肃天水起兵，横扫六国、一统江湖之时，你的祖国就没有了，因为你的先人大概率是齐、楚、燕、韩、赵、魏国人，而被你称颂丰功的秦国人赢政，正是杀人如麻的蛮夷首领，你的祖先难免死于他的征伐。\n\n当来自蒙古的成吉思汗的铁蹄蹂躏大江南北时，你的祖国双没了，因为你的祖先大概率是生活在大江南北的汉人。而被你赞颂为一代天娇、开疆扩土的元太祖，正是杀虏你家祖人的元凶。\n\n当清军从赫图阿拉城攻入山海关、逼死崇祯帝时，你的祖国叒没有了，而此时你的祖先大概率是明朝人。接下来他们\n“留发不留头”，接受愚民统治，动辄就是文字狱，而奴役压迫了你家祖宗二三百年的罪魁祸首，正是“还想再活五百年”的满族人。\n\n我们的祖先也曾和今天的你一样，傻傻的分不清祖国、国家、朝廷以及政党的区别，也曾和你一样在大秦、大元、大清建立周年时高唱“我和我的祖国，一刻也不能分割”…\n\n没关系，真的没关系，因为我们都是贪生怕死的祖先的后代，时刻牢记自己现在是哪国人，从不去想自己是不是人。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1503,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "当秦始皇在甘肃天水起兵，横扫六国、一统江湖之时，你的祖国就没有了，因为你的先人大概率是齐、楚、燕、韩、赵、魏国人，而被你称颂丰功的秦国人赢政，正是杀人如麻的蛮夷首领，你的祖先难免死于他的征伐。 https://t.co/ZT7riFvPAN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨自号「银钥道人」☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 144,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2107988704639996410",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2096990959309553720",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1856,
+          "following_count": 1546,
+          "like_count": 26723,
+          "listed_count": 6,
+          "media_count": 890,
+          "tweet_count": 8083
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-10T07:05:44.000Z",
+        "description": "周君红，海外律盟创始人，民主党党员，湖南人，基督徒，三孩妈，系北大学士、法大硕士，24年发表反共言论走红，迫于因言获罪留美，致骨肉分离。书籍预购收款Zelle: z185221331@gmail.com（邮箱），PayPal: https://t.co/6mxFa8ZIhx,反共群：https://t.co/jzZo3Grouq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "paypal.me/zhoujunhong2024",
+                "end": 137,
+                "expanded_url": "http://paypal.me/zhoujunhong2024",
+                "start": 114,
+                "url": "https://t.co/6mxFa8ZIhx"
+              },
+              {
+                "display_url": "t.me/junhong2025",
+                "end": 165,
+                "expanded_url": "http://t.me/junhong2025",
+                "start": 142,
+                "url": "https://t.co/jzZo3Grouq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "renquanlvshi.org",
+                "end": 23,
+                "expanded_url": "https://renquanlvshi.org/",
+                "start": 0,
+                "url": "https://t.co/lC5qNg5WLJ"
+              }
+            ]
+          }
+        },
+        "id": "1766722039795294208",
+        "is_identity_verified": true,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2107979428114665629",
+        "name": "周君红（原深圳律师）",
+        "pinned_tweet_id": "2107756353775382800",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1766722039795294208/1749891797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095291065976934400/3vfVd0mv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34222,
+          "following_count": 753,
+          "like_count": 14127,
+          "listed_count": 151,
+          "media_count": 6457,
+          "tweet_count": 21708
+        },
+        "url": "https://t.co/lC5qNg5WLJ",
+        "username": "zhoujunhong2024",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

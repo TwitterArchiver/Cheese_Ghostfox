@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2108710878128553984"
+      ],
+      "media_source_tweet_id": [
+        "2108710968549367890"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2108796811964014811",
+    "created_at": "2026-10-10T05:48:34.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T06:48:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108796811964014811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1370299304707989512",
+          "start": 3,
+          "username": "8co28"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VejctYQyUz",
+          "end": 46,
+          "expanded_url": "https://x.com/8co28/status/2108710968549367890/photo/1",
+          "media_key": "3_2108710878128553984",
+          "start": 23,
+          "url": "https://t.co/VejctYQyUz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108796811964014811",
+    "lang": "es",
+    "media_metadata": [
+      {
+        "media_key": "3_2108710878128553984"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 126
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108710968549367890",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @8co28: teto ...... https://t.co/VejctYQyUz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2108710878128553984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUOlXwjawAAbvVJ.jpg",
+        "width": 704
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108710878128553984"
+          ],
+          "media_source_tweet_id": [
+            "2108710968549367890"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2108796811964014811",
+        "created_at": "2026-10-10T05:48:34.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T06:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108796811964014811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1370299304707989512",
+              "start": 3,
+              "username": "8co28"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VejctYQyUz",
+              "end": 46,
+              "expanded_url": "https://x.com/8co28/status/2108710968549367890/photo/1",
+              "media_key": "3_2108710878128553984",
+              "start": 23,
+              "url": "https://t.co/VejctYQyUz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108796811964014811",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2108710878128553984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 126
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108710968549367890",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @8co28: teto ...... https://t.co/VejctYQyUz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108710878128553984"
+          ]
+        },
+        "author_id": "1370299304707989512",
+        "conversation_id": "2108710968549367890",
+        "created_at": "2026-10-10T00:07:27.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T01:07:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108710968549367890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VejctYQyUz",
+              "end": 35,
+              "expanded_url": "https://x.com/8co28/status/2108710968549367890/photo/1",
+              "media_key": "3_2108710878128553984",
+              "start": 12,
+              "url": "https://t.co/VejctYQyUz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108710968549367890",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2108710878128553984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 243,
+          "impression_count": 14914,
+          "like_count": 2080,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 126
+        },
+        "reply_settings": "everyone",
+        "text": "teto ...... https://t.co/VejctYQyUz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨自号「银钥道人」☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 144,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2108796811964014811",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2096990959309553720",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1850,
+          "following_count": 1545,
+          "like_count": 26939,
+          "listed_count": 6,
+          "media_count": 891,
+          "tweet_count": 8132
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-12T09:03:18.000Z",
+        "description": "AndIdea株式会社 専務取締役 hakoniwaです。\nここは個人運用アカウントです。\n会社広報は @AndIdea_jp お仕事の依頼は会社のメール  info@andidea.jp へお願いします。\n個人依頼は基本お断りしています。\n\nAIをツールとして活用しています。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 52,
+                "username": "AndIdea_jp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "852wa.com",
+                "end": 23,
+                "expanded_url": "https://852wa.com/",
+                "start": 0,
+                "url": "https://t.co/9npClxODPT"
+              }
+            ]
+          }
+        },
+        "id": "1370299304707989512",
+        "is_identity_verified": true,
+        "location": "Tokyo, Japan / 大切な家族最優先",
+        "most_recent_tweet_id": "2108762836537405630",
+        "name": "852話(hakoniwa)",
+        "pinned_tweet_id": "2102612800468369486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1370299304707989512/1721132663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061575531905323008/3PsFRhof_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435559,
+          "following_count": 234,
+          "like_count": 7882,
+          "listed_count": 2929,
+          "media_count": 6979,
+          "tweet_count": 14018
+        },
+        "url": "https://t.co/9npClxODPT",
+        "username": "8co28",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

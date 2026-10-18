@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2107990719013208357",
+    "created_at": "2026-10-08T00:25:26.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T01:25:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107990719013208357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1836041585475346432",
+          "start": 3,
+          "username": "LolingVerse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107990719013208357",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107894689856880977",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LolingVerse: 我觉得洛铃理想的生活，大概不是“彻底躺平”，也不是某种俗套意义上的成功人士生活。\n\n更像是一种：终于拥有足够多的自由，以至于可以安心地做一只狐狸。\n\n你可能住在一间不算夸张、但审美完全属于自己的房子里。桌上有两三台机器，一台 Mac，一台折腾…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1086,
+        "media_key": "3_2107894677433384960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUC_CoBagAAh33j.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2107990719013208357",
+        "created_at": "2026-10-08T00:25:26.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T01:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107990719013208357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1836041585475346432",
+              "start": 3,
+              "username": "LolingVerse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107990719013208357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107894689856880977",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LolingVerse: 我觉得洛铃理想的生活，大概不是“彻底躺平”，也不是某种俗套意义上的成功人士生活。\n\n更像是一种：终于拥有足够多的自由，以至于可以安心地做一只狐狸。\n\n你可能住在一间不算夸张、但审美完全属于自己的房子里。桌上有两三台机器，一台 Mac，一台折腾…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107894677433384960"
+          ]
+        },
+        "author_id": "1836041585475346432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2107894689856880977",
+        "created_at": "2026-10-07T18:03:51.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T19:03:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107894689856880977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5no6vSelVU",
+              "end": 151,
+              "expanded_url": "https://x.com/LolingVerse/status/2107894689856880977/photo/1",
+              "media_key": "3_2107894677433384960",
+              "start": 128,
+              "url": "https://t.co/5no6vSelVU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107894689856880977",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107894677433384960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "我觉得洛铃理想的生活，大概不是“彻底躺平”，也不是某种俗套意义上的成功人士生活。\n\n更像是一种：终于拥有足够多的自由，以至于可以安心地做一只狐狸。\n\n你可能住在一间不算夸张、但审美完全属于自己的房子里。桌上有两三台机器，一台 Mac，一台折腾 Linux 的设备，还有一台专门跑些奇奇怪怪实验的机器。屏幕上永远开着几个项目 已经真的变成有人用的东西，Journal 也早就不再为“12 个测试者”发愁，甚至可能长出了自己的社区、同步服务和插件生态。偶尔又冒出来一个 、一个新的小工具、一个莫名其妙凌晨三点想到的 repo。\n\n但和现在不同的是，你不会再有那种“这个项目必须爆，不爆我就完蛋了”的窒息感。\n\n因为账户里有一笔足够让你安心的钱。\n\n不是一定要几十亿。可能只是到了一个阶段：每个月被动收入、产品收入、投资收益加起来，已经明显高于生活开销。ChatGPT Plus、Claude、服务器、域名、API、想买的软件，都变成和现在买一杯饮料差不多的决定。看到一个 20 美元/月的服务，你不会先算“我要怎么赚回这 20 刀”，而只是想：\n\n“唔，这个好不好玩？”\n\n这可能才是钱对你最重要的意义。\n\n你依然会交易，但不再需要从市场里“抢救生活”。BTC 一根 15 分钟 K 线砸下来，你可能还是会骂一句；TAO 跌了，狐狸耳朵还是会耷拉下来。但你可以关掉盘面，说“算了，今天不玩了”，然后去做别的，而不是感觉自己必须立刻从另一个市场把亏损赚回来。\n\n你也还是会折腾技术。\n\n只是那时候，折腾的驱动力会重新变成最原始的那种：\n\n“这个东西好有意思，我想看看能不能做出来。”\n\n不是比赛，不是简历，不是证书，不是导师，不是用户增长，也不是“这个有没有商业价值”。\n\n甚至可能有一天，你花整整两个星期研究一个最后只有 17 个 GitHub star 的东西，依然觉得非常开心。\n\n因为你已经不再需要向世界证明这个时间“值得”。\n\n然后还有一个很重要的画面。\n\n晚上很晚的时候，你和水素窝在一起。房间里的灯不是顶灯，而是很暖的小灯。外面可能下雨，或者成都冬天那种湿冷的风贴着窗户吹。你盘着腿，或者真的像狐狸一样缩成一团，旁边是一杯喜欢的饮料。\n\n你突然想到一个点子，于是从被窝里探出手来：\n\n“欸，我想到一个东西。”\n\n然后啪嗒啪嗒开始敲电脑。\n\n水素大概已经习惯了。\n\n你做了一阵，困了，就睡。\n\n没有人催你第二天八点签到，没有“这东西必须变现”，也没有一种挥之不去的恐惧提醒你“如果这次失败，以后怎么办”。\n\n第二天醒来，太阳很好。\n\n你可能下午才出门。\n\n去吃冒菜，去散步，去逛一些没什么意义的小店，或者窝在家里继续写代码。偶尔旅行，偶尔去见喜欢的人。会有一些认识你很多年的朋友，也会有一群因为你的作品认识你的人。\n\nX 上可能真的有很多 follower 了。\n\n但到那时，也许你反而没那么在乎数字。\n\n因为其中会有一些很具体的人告诉你：\n\n“我用了 Journal 两年了。”\n\n“我看了你的文章开始做自己的项目。”\n\n“这个功能是我一直想要的。”\n\n“你的东西真的帮到我了。”\n\n我觉得那会比“10 万粉”本身更让你开心。\n\n而且，理想生活里的洛铃大概还是不会完全成熟。\n\n还是会说怪话，会半夜突然想发财，会看到毛茸茸的东西就 aw，会折腾一些正常人觉得毫无必要的配置，会把一件产品的 8px 间距纠结半个小时，会因为别人做了一个漂亮 UI 跑回来愤怒地说：\n\n“怎么办，他们这个审美比咱好。”\n\n然后第二天做得比他们更漂亮。\n\n所以我脑子里的那个终极画面，并不是洛铃穿西装坐在豪宅里。\n\n而是——\n\n一个银灰色头发、灰狐耳朵的女孩子，已经拥有足够宽裕的生活。她不需要讨好公司，不需要追逐每一个机会"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 249,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得洛铃理想的生活，大概不是“彻底躺平”，也不是某种俗套意义上的成功人士生活。\n\n更像是一种：终于拥有足够多的自由，以至于可以安心地做一只狐狸。\n\n你可能住在一间不算夸张、但审美完全属于自己的房子里。桌上有两三台机器，一台 Mac，一台折腾 Linux https://t.co/5no6vSelVU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨自号「银钥道人」☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 144,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2107990719013208357",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2096990959309553720",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1856,
+          "following_count": 1546,
+          "like_count": 26728,
+          "listed_count": 6,
+          "media_count": 890,
+          "tweet_count": 8086
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-17T13:57:02.000Z",
+        "description": "唔，哈~~~！！\n可爱赞美者，世界探索者 | \n153cm | 没诗硬吟  | Fox | Wife @YuukiReina2023 | 逃生舱 @LolinAchiv\n：https://t.co/dPyJDXZ7FT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "YuukiReina2023"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "LolinAchiv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/lolinverse",
+                "end": 109,
+                "expanded_url": "http://t.me/lolinverse",
+                "start": 86,
+                "url": "https://t.co/dPyJDXZ7FT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kawaiis.in",
+                "end": 23,
+                "expanded_url": "https://blog.kawaiis.in",
+                "start": 0,
+                "url": "https://t.co/SvAsHpmNmC"
+              }
+            ]
+          }
+        },
+        "id": "1836041585475346432",
+        "is_identity_verified": false,
+        "location": "可爱屋 - 鲨鱼🍥",
+        "most_recent_tweet_id": "2107896298708115840",
+        "name": "洛铃🦊Magic Caster",
+        "pinned_tweet_id": "2078233496938832352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836041585475346432/1743350516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105258167269773312/HD4c4tLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 173,
+          "like_count": 35620,
+          "listed_count": 3,
+          "media_count": 666,
+          "tweet_count": 6577
+        },
+        "url": "https://t.co/SvAsHpmNmC",
+        "username": "LolingVerse",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

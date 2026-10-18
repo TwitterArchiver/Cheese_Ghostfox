@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2108885555085971457"
+      ],
+      "media_source_tweet_id": [
+        "2108885566460686611"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2109130114575515867",
+    "created_at": "2026-10-11T03:52:59.000Z",
+    "display_text_range": [
+      0,
+      74
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T04:52:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109130114575515867"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 50,
+          "start": 45,
+          "tag": "重音テト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1921301548321456128",
+          "start": 3,
+          "username": "ooo_oxe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aYvQ0PeJ2h",
+          "end": 74,
+          "expanded_url": "https://x.com/ooo_oxe/status/2108885566460686611/photo/1",
+          "media_key": "3_2108885555085971457",
+          "start": 51,
+          "url": "https://t.co/aYvQ0PeJ2h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109130114575515867",
+    "lang": "ko",
+    "media_metadata": [
+      {
+        "media_key": "3_2108885555085971457"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 457
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108885566460686611",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @ooo_oxe: 오늘도 크로키 겸 테토 연습.. \n*포즈 의상 핀터 참고\n#重音テト https://t.co/aYvQ0PeJ2h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3144,
+        "media_key": "3_2108885555085971457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUREPS7aEAEdA-2.jpg",
+        "width": 3582
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108885555085971457"
+          ],
+          "media_source_tweet_id": [
+            "2108885566460686611"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2109130114575515867",
+        "created_at": "2026-10-11T03:52:59.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T04:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109130114575515867"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 45,
+              "tag": "重音テト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1921301548321456128",
+              "start": 3,
+              "username": "ooo_oxe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aYvQ0PeJ2h",
+              "end": 74,
+              "expanded_url": "https://x.com/ooo_oxe/status/2108885566460686611/photo/1",
+              "media_key": "3_2108885555085971457",
+              "start": 51,
+              "url": "https://t.co/aYvQ0PeJ2h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109130114575515867",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2108885555085971457"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 457
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108885566460686611",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @ooo_oxe: 오늘도 크로키 겸 테토 연습.. \n*포즈 의상 핀터 참고\n#重音テト https://t.co/aYvQ0PeJ2h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108885555085971457"
+          ]
+        },
+        "author_id": "1921301548321456128",
+        "conversation_id": "2108885566460686611",
+        "created_at": "2026-10-10T11:41:14.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T12:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108885566460686611"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 32,
+              "tag": "重音テト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aYvQ0PeJ2h",
+              "end": 61,
+              "expanded_url": "https://x.com/ooo_oxe/status/2108885566460686611/photo/1",
+              "media_key": "3_2108885555085971457",
+              "start": 38,
+              "url": "https://t.co/aYvQ0PeJ2h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108885566460686611",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2108885555085971457"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1289,
+          "impression_count": 38878,
+          "like_count": 8025,
+          "quote_count": 10,
+          "reply_count": 0,
+          "retweet_count": 457
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "오늘도 크로키 겸 테토 연습.. \n*포즈 의상 핀터 참고\n#重音テト https://t.co/aYvQ0PeJ2h"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨自号「银钥道人」☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 144,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2109130114575515867",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2096990959309553720",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1850,
+          "following_count": 1545,
+          "like_count": 26978,
+          "listed_count": 6,
+          "media_count": 891,
+          "tweet_count": 8142
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-10T20:29:29.000Z",
+        "description": "あんスタ- #レオいず🦁🐱｜ボカロ- #レイテト🤖🥖｜...두가지 장르 섞여서 올라옴",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 6,
+                "tag": "レオいず"
+              },
+              {
+                "end": 24,
+                "start": 19,
+                "tag": "レイテト"
+              }
+            ]
+          }
+        },
+        "id": "1921301548321456128",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109128091633344648",
+        "name": "𝟮𝟮𝟮",
+        "pinned_tweet_id": "2105691255221219810",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1921301548321456128/1790326450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103375425615671296/l7EaEkFH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 10,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 47
+        },
+        "url": "",
+        "username": "ooo_oxe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

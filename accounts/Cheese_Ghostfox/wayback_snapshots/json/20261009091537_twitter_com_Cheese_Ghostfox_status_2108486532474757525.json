@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107806172741091328"
+      ],
+      "media_source_tweet_id": [
+        "2107806176809562527"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2108486532474757525",
+    "created_at": "2026-10-09T09:15:37.000Z",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T10:15:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108486532474757525"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 19,
+          "tag": "重音テト"
+        },
+        {
+          "end": 36,
+          "start": 25,
+          "tag": "KasaneTeto"
+        },
+        {
+          "end": 42,
+          "start": 37,
+          "tag": "Teto"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1886060275176267776",
+          "start": 3,
+          "username": "hayonenasaine"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/B7NMxdOxML",
+          "end": 68,
+          "expanded_url": "https://x.com/hayonenasaine/status/2107806176809562527/photo/1",
+          "media_key": "3_2107806172741091328",
+          "start": 45,
+          "url": "https://t.co/B7NMxdOxML"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108486532474757525",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2107806172741091328"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 426
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107806176809562527",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hayonenasaine: #重音テト #KasaneTeto #Teto\n👌 https://t.co/B7NMxdOxML"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2107806172741091328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUBui-WbwAAZtbI.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107806172741091328"
+          ],
+          "media_source_tweet_id": [
+            "2107806176809562527"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2108486532474757525",
+        "created_at": "2026-10-09T09:15:37.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T10:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108486532474757525"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "重音テト"
+            },
+            {
+              "end": 36,
+              "start": 25,
+              "tag": "KasaneTeto"
+            },
+            {
+              "end": 42,
+              "start": 37,
+              "tag": "Teto"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1886060275176267776",
+              "start": 3,
+              "username": "hayonenasaine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B7NMxdOxML",
+              "end": 68,
+              "expanded_url": "https://x.com/hayonenasaine/status/2107806176809562527/photo/1",
+              "media_key": "3_2107806172741091328",
+              "start": 45,
+              "url": "https://t.co/B7NMxdOxML"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108486532474757525",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2107806172741091328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 426
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107806176809562527",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hayonenasaine: #重音テト #KasaneTeto #Teto\n👌 https://t.co/B7NMxdOxML"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107806172741091328"
+          ]
+        },
+        "author_id": "1886060275176267776",
+        "conversation_id": "2107806176809562527",
+        "created_at": "2026-10-07T12:12:08.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T13:12:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107806176809562527"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "重音テト"
+            },
+            {
+              "end": 17,
+              "start": 6,
+              "tag": "KasaneTeto"
+            },
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "Teto"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B7NMxdOxML",
+              "end": 49,
+              "expanded_url": "https://x.com/hayonenasaine/status/2107806176809562527/photo/1",
+              "media_key": "3_2107806172741091328",
+              "start": 26,
+              "url": "https://t.co/B7NMxdOxML"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107806176809562527",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2107806172741091328"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1485,
+          "impression_count": 41595,
+          "like_count": 7919,
+          "quote_count": 5,
+          "reply_count": 6,
+          "retweet_count": 426
+        },
+        "reply_settings": "everyone",
+        "text": "#重音テト #KasaneTeto #Teto\n👌 https://t.co/B7NMxdOxML"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨自号「银钥道人」☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 144,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2108486532474757525",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2096990959309553720",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1853,
+          "following_count": 1545,
+          "like_count": 26894,
+          "listed_count": 6,
+          "media_count": 891,
+          "tweet_count": 8118
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-02T14:33:16.000Z",
+        "description": "雑多 たまに絵\nなんかあれば https://t.co/pwsU9hddsz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/p2iwais09l3o9l…",
+                "end": 38,
+                "expanded_url": "https://marshmallow-qa.com/p2iwais09l3o9lo?t=wvVpDm&utm_medium=url_text&utm_source=promotion",
+                "start": 15,
+                "url": "https://t.co/pwsU9hddsz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/103994573",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/103994573",
+                "start": 0,
+                "url": "https://t.co/QMWrKd3fLI"
+              }
+            ]
+          }
+        },
+        "id": "1886060275176267776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108209944881434837",
+        "name": "neromeshi",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977357525768089600/z2vTN3c0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 4,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 35
+        },
+        "url": "https://t.co/QMWrKd3fLI",
+        "username": "hayonenasaine",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

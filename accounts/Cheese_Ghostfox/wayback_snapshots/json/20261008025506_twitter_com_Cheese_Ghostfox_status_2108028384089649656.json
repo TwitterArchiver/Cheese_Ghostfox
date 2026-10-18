@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1620506107306479617",
+    "conversation_id": "2108028384089649656",
+    "created_at": "2026-10-08T02:55:06.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T03:55:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108028384089649656"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/knshtyk/status…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/knshtyk/status/2107458087552700867",
+          "start": 19,
+          "url": "https://t.co/C4kkNeeDg6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108028384089649656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107458087552700867",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "狐很渴望类似的产品\n可惜PRC没有😿 https://t.co/C4kkNeeDg6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2108028384089649656",
+        "created_at": "2026-10-08T02:55:06.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T03:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108028384089649656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/knshtyk/status…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/knshtyk/status/2107458087552700867",
+              "start": 19,
+              "url": "https://t.co/C4kkNeeDg6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108028384089649656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107458087552700867",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "狐很渴望类似的产品\n可惜PRC没有😿 https://t.co/C4kkNeeDg6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "606747892",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Personal finance",
+              "id": "847888632711061504",
+              "name": "Personal finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "1260987765946109952",
+              "name": "Holistic healing/nutrition"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Retirement planning",
+              "id": "847894794080722944",
+              "name": "Retirement planning"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Healthy Eating",
+              "id": "917859184368009216",
+              "name": "Healthy Eating"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Conversation about eating",
+              "id": "1006277774384828416",
+              "name": "Food experience"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Saving and Finance",
+              "id": "1037075567227494400",
+              "name": "Saving and finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2107458087552700867",
+        "created_at": "2026-10-06T13:08:57.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T14:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107458087552700867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CBydbbmpg/stat…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/CBydbbmpg/status/2107416883142209747",
+              "start": 142,
+              "url": "https://t.co/osNYekMrRg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107458087552700867",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1119,
+          "impression_count": 4459530,
+          "like_count": 9358,
+          "quote_count": 629,
+          "reply_count": 38,
+          "retweet_count": 1993
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107416883142209747",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "まぁこれはじめてからしばらくはいいんだけど、脳が同じものを食べるのをやめろと無意識で拒絶するようになり、最終的にnoshのパッケージ(の知覚刺激)を見るだけで食欲が減退し吐き気すら催すようになったので、同じものを食べ続けるリスクを回避する人間の本能的な防御機構ってすごいんだな、って https://t.co/osNYekMrRg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨自号「银钥道人」☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 144,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2108028384089649656",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2096990959309553720",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1856,
+          "following_count": 1547,
+          "like_count": 26776,
+          "listed_count": 6,
+          "media_count": 890,
+          "tweet_count": 8099
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-06-13T00:01:17.000Z",
+        "description": "Experience Designer｜Design Researcher｜Visual Artist｜Creative Director｜知覚表現研究｜空間体験の企画とデザイン｜メディア境界領域において知覚の構造化を通じて身体と空間にまつわる未踏の体験を設計+研究+デザインしています｜多摩美術大学非常勤講師｜連絡▷✉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "domaindesign.co",
+                "end": 23,
+                "expanded_url": "https://domaindesign.co",
+                "start": 0,
+                "url": "https://t.co/tnJqy1sYgX"
+              }
+            ]
+          }
+        },
+        "id": "606747892",
+        "is_identity_verified": false,
+        "location": "Internet of Tokyo",
+        "most_recent_tweet_id": "2107989374696919389",
+        "name": "sabakichi",
+        "pinned_tweet_id": "1963908032410091739",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/606747892/1536339502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1274088601727275008/wgCnXsFo_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18790,
+          "following_count": 4743,
+          "like_count": 460470,
+          "listed_count": 290,
+          "media_count": 10269,
+          "tweet_count": 97015
+        },
+        "url": "https://t.co/tnJqy1sYgX",
+        "username": "knshtyk",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

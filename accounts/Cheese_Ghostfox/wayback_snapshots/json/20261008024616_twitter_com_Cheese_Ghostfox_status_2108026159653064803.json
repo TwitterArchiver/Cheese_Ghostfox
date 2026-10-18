@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107132072842371072"
+      ],
+      "media_source_tweet_id": [
+        "2107132340380238007"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2108026159653064803",
+    "created_at": "2026-10-08T02:46:16.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T03:46:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108026159653064803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1937076720294883329",
+          "start": 3,
+          "username": "denhe126659"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vzgWp31afN",
+          "end": 48,
+          "expanded_url": "https://x.com/denhe126659/status/2107132340380238007/photo/1",
+          "media_key": "3_2107132072842371072",
+          "start": 25,
+          "url": "https://t.co/vzgWp31afN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108026159653064803",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2107132072842371072"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 558
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107132340380238007",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @denhe126659: ﾆｮﾆｮﾌｫｲ https://t.co/vzgWp31afN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4093,
+        "media_key": "3_2107132072842371072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT4JdMiaIAAZAqj.jpg",
+        "width": 2894
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107132072842371072"
+          ],
+          "media_source_tweet_id": [
+            "2107132340380238007"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2108026159653064803",
+        "created_at": "2026-10-08T02:46:16.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T03:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108026159653064803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1937076720294883329",
+              "start": 3,
+              "username": "denhe126659"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vzgWp31afN",
+              "end": 48,
+              "expanded_url": "https://x.com/denhe126659/status/2107132340380238007/photo/1",
+              "media_key": "3_2107132072842371072",
+              "start": 25,
+              "url": "https://t.co/vzgWp31afN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108026159653064803",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2107132072842371072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 558
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107132340380238007",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @denhe126659: ﾆｮﾆｮﾌｫｲ https://t.co/vzgWp31afN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107132072842371072"
+          ]
+        },
+        "author_id": "1937076720294883329",
+        "conversation_id": "2107132340380238007",
+        "created_at": "2026-10-05T15:34:33.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T16:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107132340380238007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vzgWp31afN",
+              "end": 31,
+              "expanded_url": "https://x.com/denhe126659/status/2107132340380238007/photo/1",
+              "media_key": "3_2107132072842371072",
+              "start": 8,
+              "url": "https://t.co/vzgWp31afN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107132340380238007",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2107132072842371072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 392,
+          "impression_count": 31063,
+          "like_count": 4246,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 558
+        },
+        "reply_settings": "everyone",
+        "text": "ﾆｮﾆｮﾌｫｲ https://t.co/vzgWp31afN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨自号「银钥道人」☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 144,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2108026159653064803",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2096990959309553720",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1856,
+          "following_count": 1547,
+          "like_count": 26770,
+          "listed_count": 6,
+          "media_count": 890,
+          "tweet_count": 8097
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-23T09:14:24.000Z",
+        "description": "前垢凍結されました。基本ゆるくやってます。たまに絵を描いてます\nhttps://t.co/SlnrXSkDWV　←マシュマロ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/zklrlmptgmpln2…",
+                "end": 55,
+                "expanded_url": "https://marshmallow-qa.com/zklrlmptgmpln26?t=Ts9arR&utm_medium=url_text&utm_source=promotion",
+                "start": 32,
+                "url": "https://t.co/SlnrXSkDWV"
+              }
+            ]
+          }
+        },
+        "id": "1937076720294883329",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108004279160283316",
+        "name": "とんでんへ　OE4-C18",
+        "pinned_tweet_id": "2106675501142265945",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1937076720294883329/1776860928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937083539263987712/B8fGnjY6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4470,
+          "following_count": 423,
+          "like_count": 5885,
+          "listed_count": 29,
+          "media_count": 108,
+          "tweet_count": 1830
+        },
+        "url": "",
+        "username": "denhe126659",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

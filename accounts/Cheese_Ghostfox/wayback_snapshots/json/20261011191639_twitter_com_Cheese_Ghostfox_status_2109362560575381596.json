@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2108979899805622272"
+      ],
+      "media_source_tweet_id": [
+        "2108979917937582485"
+      ]
+    },
+    "author_id": "1620506107306479617",
+    "conversation_id": "2109362560575381596",
+    "created_at": "2026-10-11T19:16:39.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T20:16:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109362560575381596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "397175818",
+          "start": 3,
+          "username": "Huku_Taku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lQ5voIrJUr",
+          "end": 38,
+          "expanded_url": "https://x.com/Huku_Taku/status/2108979917937582485/photo/1",
+          "media_key": "3_2108979899805622272",
+          "start": 15,
+          "url": "https://t.co/lQ5voIrJUr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109362560575381596",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2108979899805622272"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 296
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108979917937582485",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Huku_Taku: https://t.co/lQ5voIrJUr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1531,
+        "media_key": "3_2108979899805622272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUSaC4ZaYAAW8lj.jpg",
+        "width": 966
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108979899805622272"
+          ],
+          "media_source_tweet_id": [
+            "2108979917937582485"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2109362560575381596",
+        "created_at": "2026-10-11T19:16:39.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T20:16:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109362560575381596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "397175818",
+              "start": 3,
+              "username": "Huku_Taku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lQ5voIrJUr",
+              "end": 38,
+              "expanded_url": "https://x.com/Huku_Taku/status/2108979917937582485/photo/1",
+              "media_key": "3_2108979899805622272",
+              "start": 15,
+              "url": "https://t.co/lQ5voIrJUr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109362560575381596",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2108979899805622272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 296
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108979917937582485",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Huku_Taku: https://t.co/lQ5voIrJUr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108979899805622272"
+          ]
+        },
+        "author_id": "397175818",
+        "conversation_id": "2108979917937582485",
+        "created_at": "2026-10-10T17:56:10.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T18:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108979917937582485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lQ5voIrJUr",
+              "end": 23,
+              "expanded_url": "https://x.com/Huku_Taku/status/2108979917937582485/photo/1",
+              "media_key": "3_2108979899805622272",
+              "start": 0,
+              "url": "https://t.co/lQ5voIrJUr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108979917937582485",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2108979899805622272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 769,
+          "impression_count": 37320,
+          "like_count": 4658,
+          "quote_count": 13,
+          "reply_count": 5,
+          "retweet_count": 296
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lQ5voIrJUr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨自号「银钥道人」☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 144,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "is_identity_verified": true,
+        "location": "-0.15m",
+        "most_recent_tweet_id": "2109362560575381596",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2096990959309553720",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1620506107306479617/1753888709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1850,
+          "following_count": 1545,
+          "like_count": 27016,
+          "listed_count": 6,
+          "media_count": 891,
+          "tweet_count": 8151
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-10-24T10:30:24.000Z",
+        "description": "フクリタックス 生活 / 絵 / 音楽",
+        "id": "397175818",
+        "is_identity_verified": false,
+        "location": "gm_bigcity",
+        "most_recent_tweet_id": "2109322288491532517",
+        "name": "HUKRiTAX",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/397175818/1705517326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1681685137900318723/ghUoYKFz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6299,
+          "following_count": 503,
+          "like_count": 26987,
+          "listed_count": 84,
+          "media_count": 11620,
+          "tweet_count": 83997
+        },
+        "url": "",
+        "username": "Huku_Taku",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
